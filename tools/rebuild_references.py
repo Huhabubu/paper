@@ -201,8 +201,6 @@ def count_media(docx_path: Path):
 def patch_document_xml(xml_bytes: bytes) -> bytes:
     parser = etree.XMLParser(remove_blank_text=False)
     root = etree.fromstring(xml_bytes, parser)
-    if not remove_specific_broken_ref_field(root, "_Ref21614"):
-        raise RuntimeError("Expected broken REF _Ref21614 field not found")
     body = root.find(f".//{{{W}}}body")
     paras = body.findall(W_P)
 
@@ -218,6 +216,12 @@ def patch_document_xml(xml_bytes: bytes) -> bytes:
                     break
         if not found:
             raise RuntimeError(f"Required citation insertion target not found: {old}")
+
+    # The old [37] was the cached result of a broken REF field. After replacing
+    # it with static [12] text above, remove the stale field markers so office
+    # renderers do not recompute them into an error message.
+    if not remove_specific_broken_ref_field(root, "_Ref21614"):
+        raise RuntimeError("Expected broken REF _Ref21614 field not found")
 
     # Rebuild the entire reference section from scratch.
     paras = body.findall(W_P)
