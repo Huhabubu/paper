@@ -118,6 +118,42 @@ def replace_across_text_nodes(p, old: str, new: str):
         en.set(XML_SPACE, "preserve")
     return True
 
+def remove_specific_broken_ref_field(root, field_token: str):
+    # Remove one pre-existing broken Word REF field that LibreOffice renders as
+    # "Error: Reference source not found". The field has no visible cached text
+    # in the source DOCX, so removing it preserves the paper's substantive text.
+    for p in root.xpath("//w:body/w:p", namespaces=NS):
+        children = list(p)
+        i = 0
+        while i < len(children):
+            child = children[i]
+            if child.tag != W_R:
+                i += 1
+                continue
+            fld = child.find(f"{{{W}}}fldChar")
+            if fld is None or fld.get(f"{{{W}}}fldCharType") != "begin":
+                i += 1
+                continue
+            j = i + 1
+            instr_parts = []
+            end_idx = None
+            while j < len(children):
+                c = children[j]
+                if c.tag == W_R:
+                    for instr in c.findall(f"{{{W}}}instrText"):
+                        instr_parts.append(instr.text or "")
+                    fc = c.find(f"{{{W}}}fldChar")
+                    if fc is not None and fc.get(f"{{{W}}}fldCharType") == "end":
+                        end_idx = j
+                        break
+                j += 1
+            if end_idx is not None and field_token in "".join(instr_parts):
+                for k in range(end_idx, i - 1, -1):
+                    p.remove(children[k])
+                return True
+            i = (end_idx + 1) if end_idx is not None else (i + 1)
+    return False
+
 def set_paragraph_text_like_template(p, text: str):
     # Keep paragraph properties and first run properties; remove other runs/content.
     ppr = p.find(W_PPR)
@@ -165,6 +201,8 @@ def count_media(docx_path: Path):
 def patch_document_xml(xml_bytes: bytes) -> bytes:
     parser = etree.XMLParser(remove_blank_text=False)
     root = etree.fromstring(xml_bytes, parser)
+    if not remove_specific_broken_ref_field(root, "_Ref21614"):
+        raise RuntimeError("Expected broken REF _Ref21614 field not found")
     body = root.find(f".//{{{W}}}body")
     paras = body.findall(W_P)
 
