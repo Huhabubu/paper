@@ -1,10 +1,12 @@
 name: Inspect paper archive
 
 on:
+  workflow_dispatch:
   push:
     branches: [main]
     paths:
       - ".github/workflows/inspect-paper-archive.yml"
+      - "tools/inspect_archive.py"
 
 permissions:
   contents: write
