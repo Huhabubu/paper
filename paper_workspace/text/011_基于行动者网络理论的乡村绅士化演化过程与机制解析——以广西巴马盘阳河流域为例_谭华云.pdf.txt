@@ -1,0 +1,1025 @@
+
+--- PAGE 1 ---
+地 理 学 报
+ACTA GEOGRAPHICA SINICA
+第 77 卷 第 4 期
+2022 年 4 月
+V ol.77, No.4
+April, 2022
+基于行动者网络理论的乡村绅士化
+演化过程与机制解析
+——以广西巴马盘阳河流域为例
+谭华云
+1, 2, 3
+，周国华
+1, 4
+（1. 湖南师范大学地理科学学院，长沙 410081；2. 南宁师范大学地理科学与规划学院，
+南宁 530001；3. 北部湾环境演变与资源利用教育部重点实验室，南宁 530001；
+4. 地理空间大数据挖掘与应用湖南省重点实验室，长沙 410081）
+摘要：乡村绅士化是城乡要素双向流动背景下乡村转型与振兴的新型路径 。基于对广西巴马
+盘阳河流域乡村绅士化现象的历时性田野调查 ，采用行动者网络理论解析乡村绅士化演化的
+过程、类型与机制 。研究表明：在巴马盘阳河流域乡村人类行动者与非人类行动者 、 “草根”行
+动者与机构行动者共同缔结的行动者网络的转换过程中 ，伴随关键行动者从“候鸟人”先锋、屯
+社精英向地方政府 、投资开发商的更替 ，乡村绅士化路径从“草根”绅士化向机构绅士化演替 ，
+乡村产业从接待“候鸟人” 、发展旅游转向大健康产业融合发展 ，乡村绅士化类型从单一的舒适
+移民绅士化向舒适移民 、旅游和地产共构的“一地多类”绅士化演化 。关键行动者更替及其功
+能角色转换、绅士化路径变迁和主导产业更替与融合发展 、宏观乡村发展制度与地域自然人文
+环境共同作用于乡村绅士化的阶段演替与类型共生 。行动者网络理论与方法利于呈现乡村绅
+士化的阶段演替脉络与共生演化特征，并揭示乡村绅士演化的一般机制与地域机制。
+关键词：乡村绅士化；演化过程；演化类型；演化机制；行动者网络；盘阳河流域
+DOI: 10.11821/dlxb202204007
+1 ÒýÑÔ
+绅士化 （Gentrification） 概念诞生于西方城市 ，乡村是极具生命力的绅士化研究空
+间
+[1]
+，乡村绅士化是西方乡村重构与复兴的重要路径
+[2]
+。20 世纪末，Parsons
+[3]
+、Phillips
+[4]
+、
+Smith
+[5]
+将中产阶级迁居英国城郊引致的乡村物质景观和社会空间重构的现象与过程定义
+为乡村绅士化 （Rural Gentrification） ，即生发于逆城市化背景的古典乡村绅士化 ，其主
+要特征体现为中产阶层为绅士主体 、永久/半永久移居的流动节律和亲近自然的田园生活
+方式。随后，Ghose
+[6]
+和 Hines
+[7]
+捕捉到为体验本真生活的美国中产阶层迁居落基山脉生产
+出后工业文化空间的乡村绅士化现象 。在 21 世纪以来的 “时空压缩” “全球乡村”发展
+背景下，西方舒适/生活方式移民、退休移民、季节性移民、旅游/休闲消费移民、第二居
+所移民等多类人群
+[8]
+，在西班牙滨海和文遗村庄
+[9-10]
+、阿尔卑斯山村
+[11]
+、意大利托斯卡纳文艺
+乡坊
+[12]
+、苏格兰教区庄园
+[13]
+、美国东北滨海渔村
+[14]
+、南美厄瓜多尔比尔卡班巴长寿谷
+[15]
+、
+收稿日期：2021-08-18; 修订日期：2022-01-25
+基金项目：国家自然科学基金项目 (42001205, 41971224) [ Foundation: National Natural Science Foundation of China,
+No.42001205, No. 41971224]
+作者简介：谭华云(1981-), 女, 湖南东安人, 博士, 副教授, 研究方向为旅游地理与乡村地理。
+E-mail: tanhuayun 108@163.com
+通讯作者：周国华(1965-), 男, 湖南娄底人, 教授, 博士生导师, 研究方向为区域发展与国土空间规划。
+E-mail: uuy 828@163.com
+869-887 页
+--- PAGE 2 ---
+地 理 学 报 77 卷
+印尼巴厘岛乌布村
+[16]
+、俄罗斯莫斯科城郊
+[17]
+、土耳其文旅村落
+[18]
+等拥有舒适自然环境或特
+色乡土文化的地域 ，进行“流动的家”生活实践，契合了全球范围的乡村复兴和旅游开
+发，形成了不同于古典绅士化的以多元绅士群体 、季节性流动或周期性循环的 、且更具
+消费意涵为主要特征的乡村绅士化。
+西欧和北美是乡村绅士化现象发生和理论研究的发源地与中心地
+[19]
+，研究聚焦于概
+念内涵、过程特征、机理解释、影响效应与政策导向等主题 ，提出了绅士化演化的 “蝶
+变”理论，拓展了绅士化机理解释的“资本供给决定论”和“文化需求决定论” ，深化了
+绅士化影响的“失所”理论。Nelson
+[20]
+、Phillips 等
+[21-22]
+关注乡村绅士化发生条件和影响机
+理的文化语境与地域差异 ，并结合时间节律 、地理尺度及地域特征展开了理论探索与比
+较研究。① 乡村绅士化概念从狭义趋向广义 ，表现为绅士主体多元化、流动节律差异化
+与诱发情境复杂化。一些学者从诱发机制和流动节律视角 ，提出了旅游型乡村绅士化
+[12]
+、
+农业绅士化
+[13]
+、季节性乡村绅士化
+[18]
+等新概念 。② 乡村绅士化表征与其发展阶段关联 ，
+一般表征为人口、经济、社会及景观的变迁与重构
+[1, 3-15]
+。Smith 以“绅士化蝶变”隐喻英
+国希布登桥区乡村社会空间变迁过程及阶段特征 ：绅士化“先锋”进入衰落乡村 （ “虫
+蛹” ） ，开展生态 DIY （ “毛虫” ） ，称为 DIY 绿色绅士化；富裕群体迁入 ，金融资本与
+商业机构主导“绅士化”住宅供给和“乡村性”商品生产 （ “蝴蝶” ） ，即机构绅士化
+[5]
+。
+③ 乡村绅士化机理解释受特定地域时空系统影响 ，围绕资本供给决定论和文化需求决定
+论展开
+[19-21]
+。发生在北半球、后现代社会背景下的生态、旅游、休闲、生活方式导向的乡
+村绅士化现象 ，倾向于文化需求端解释 ：绅士人群逃离城市 ，在山水田园 、长寿山谷 、
+荒野之境，以其文化审美和消费需求 ，实践“乌托邦”生活，形成“绅士化”的建筑景
+观风格与文化生活方式
+[6-7, 9, 15-18]
+。农业发展和文遗开发等产业发展领域的乡村绅士化倾向
+资本供给端解释 ：绅士人群以经济文化资本掠夺乡村资源控制权和乡村发展话语权 ，乡
+村空间日愈绅士化、商品化
+[10, 13, 23]
+。Nelson 指出乡村绅士化因果机制与地理尺度关联 ，中
+小尺度的乡村绅士化更受文化需求因素影响 ，而“星球”绅士化的本质是资本流动引致
+的地理空间不平衡发展 ，跨尺度比较研究印证了绅士化资本供给说和文化需求说的互补
+（通常表现为竞争 ）
+[20]
+。④ 乡村绅士化影响具有 “双刃剑 ”效应 ，研究倾向批判性视
+角，关注主客冲突 、空间隔离、文化失真、原住民边缘化等负面影响
+[4, 6, 9-11, 13, 17-18, 22]
+， “失
+所”尤最
+[6, 10-11, 18, 22]
+。Phillips 对英格兰 9 个绅士化村庄的实证研究表明 ， “失所”是一个多
+维概念，不仅涉及住房，还关联就业条件 、服务获取机会，以及空间的实践 、意义和情
+感
+[22]
+。但 Simard 认为加拿大魁北克乡村绅士化的正负效应较为平衡， “失所”不被认为是
+一个主要问题
+[24]
+。而 Kocabyk 等认为土耳其安纳托利亚山区小镇 3 类季节性绅士群体 （第
+二居所移民、学生、游客） 在流动周期、生活节律和嵌入情境等方面各有不同 ，引致的
+绅士化结果亦有差异
+[18]
+。在全球乡村衰败的背景下 ，乡村绅士化因其为乡村提供人口发
+展要素
+[12]
+、推进乡村产业结构调整
+[5, 7]
+、增加社区发展韧性
+[14]
+和促进乡村多功能发展
+[9, 15]
+等
+积极效应，被纳入西方乡村复兴的公共政策体系
+[2, 20]
+。
+当前中国进入城乡关系变革与乡村转型发展的关键时期 ，政府主导的美丽乡村与特
+色小镇建设、脱贫攻坚与乡村振兴战略衔接 ，市场推动的资本下乡与物资流通 ，社会作
+用下的舒适移民、回归田园、返乡创业、艺术乡建，共同推动城乡“逆向流动” ，乡村绅
+士化是中国城乡要素双向流动的必然的逻辑结果
+[25]
+。中国乡村绅士化主要萌发于东部都
+市的城中村
+[26-27]
+、城郊
+[28-31]
+和西南民族地区的梯田之乡
+[32]
+、异域古镇
+[33]
+和长寿之乡
+[34-35]
+，具
+有明显的周期循环和季节性流动节律
+[35]
+。东部乡村绅士化生发于方便通勤的城中村和城
+郊村，由年轻的中产阶层主导 ，进程较快。西部乡村绅士化萌发于具有特色文化景观和
+870
+--- PAGE 3 ---
+4 期 谭华云 等：基于行动者网络理论的乡村绅士化演化过程与机制解析
+健康地理环境的边远乡村 ，由旅游、退休人群和康养人群诱发 ，进程较缓。中国乡村绅
+士化是一种现实存在 、尚未纳入政策实践的乡村转型发展路径 ，研究从初探趋向活跃 ，
+主要是引入概念理论并对城市化
+[26-27]
+、乡村振兴战略
+[29]
+、文旅产业
+[28, 30-32]
+和生活方式、舒适
+移民
+[33-35]
+驱动的乡村绅士化的过程表征、形成机制与影响效应进行实证研究
+[36-37]
+。中国乡村
+绅士化的制度背景、动力结构及影响效应具有独特性
+[36-37]
+，与西方乡村绅士化引致的“失
+所”现象形成鲜明对比的是 ，中国农村土地集体所有制下 ，拥有长期宅基地使用权的村
+民主动寻租，是乡村绅士化的推动者
+[26-35]
+。
+绅士化理论高度依赖于时空情境及其隐含的因果条件
+[38]
+，针对全球范围的乡村绅士
+化现象呈现出的人群多元 、流动复杂、类型多元的演变特征 ，Nelson 呼吁对不同流动节
+律、地理尺度的乡村绅士化展开比较研究
+[20]
+，López-Morales 提出全球南方乡村绅士化研
+究应该摆脱西方理论束缚 ，培育出更具发展性的乡村绅士化理论
+[19]
+。中西乡村发展阶
+段、土地制度、治理结构和恋地文化不同
+[2]
+，且中国地域类型多元，东西部乡村绅士化现
+象及其演变的地域环境和诱发动力不同 ，嵌入中国制度文化背景和地域环境特征的乡村
+绅士化的现象解释和理论建构 ，尤为必要。广西巴马盘阳河流域长寿乡村 ，持续吸引城
+市人群前来旅游旅居 ，不断吸引政策资源和市场资本卷入 ，演化出“一地多类”的乡村
+绅士化现象。从演化过程与演化结果而言，都不同于经历了“绅士化蝶变”的英国城郊
+[5]
+和从艺术先锋绅士化向学生化演替的广州小洲村
+[26]
+。本文以广西巴马盘阳河流域长寿乡
+村为案例地，解析中国西部民族地区乡村绅士化演化的过程与机制 ，为乡村绅士化演化
+的规律揭示提供中国案例借鉴，也为中国特别是西部地区乡村转型与振兴提供政策启示。
+2 ——¶ﬂÕß˝ł´ç˚Ó‰˙ˇ´µ˜ˇç·åÉð˚¿»ﬂÑÝ»ﬂµ˜•Ö˛ö¿ò…Ü
+行动者网络理论 （Actor-network Theory, ANT） 将能通过制造差别而改变事物状态的
+人类和非人类因素视为广义平等的行动者
+[39]
+，纳入统一的行动解释框架 。行动者通过行
+动构建网络的动态过程被定义为转译 （Translation） ，行动者的角色功能和价值定位在转
+译 中 发 生 变 化 与 重 新 定 义。 转 译 分 析 包 括 问 题 呈 现（Problematisation） 、利 益 赋 予
+（Interessment） 、征召 （Enrolment） 、动员 （Mobilization） 及排除异议 （Dissidence） 等 5
+个阶段
+[39]
+。问题呈现是指关键行动者将各类行动者关注的对象问题化 ，使之成为网络联
+盟的必经之点 （Obligatory Passage Point, OPP ）
+①
+；利益赋予需要行动者之间通过各种策
+略取得共识，并建立稳定关系 ；征召与动员是行动者被吸引或被游说而加入联盟 ，被赋
+予任务并开展行动 ，关键行动者成为联盟的代言人 ；异议指向 ANT 网络的转化或解体 。
+转译环节相互嵌套 ，并不完全依序展开
+[39]
+。行动者通过转译缔结网络 ，ANT 网络的本质
+是一种描述事物发展的工具 ，而不是事物本身 ，强调工作、交互和变化的过程 ，是一个
+“动态网络 ”
+[39]
+。转译与 ANT 网络分析遵循问题呈现—利益赋予—征召—动员—缔结行
+动者网络—异议—行动者网络稳定、转换、解体的逻辑链条 （图 1） 。
+乡村越来越被理解为一个混合的、关系性的复杂空间
+[40-42]
+，乡村与外部环境的相互作
+用决定了乡村的发展与演变 ，乡村振兴需要区域内外的行动者之间的合作
+[43]
+。ANT 关系
+思维与关系地理学空间观契合
+[44]
+，成为研究乡村空间复杂性和特殊性的一种有效的方法
+论与概念工具
+[45-47]
+。Phillips 认为乡村绅士化现象的混合性 、动态性与复杂性贴近 “转译
+社会学” ， “转译”可以同时纳入个案特殊发现和关系比较策略 ，在乡村绅士化的概念辨
+① 国内学者通常将 OPP 译为“强制通行点”或“必经之点” ，但“必经之点”更贴近行动者网络理论意涵。
+871
+--- PAGE 4 ---
+地 理 学 报 77 卷
+析、实证研究和比较研究上具有方法适宜性
+[21, 48-49]
+：借助“转译”思维，解释逆城市化和
+乡村绅士化与其所涉的学术对象以及公共话语之间的关系 ，比较逆城市化和乡村绅士化
+的概念关联与本质区别
+[48]
+；在对英格兰东米德兰兹郡一个绅士化村庄的人与自然的关系
+的实证研究中，强调了非人类行动者情感的存在及其表征的重要性 ，阐述非人类行动者
+如何以其能动性和生态位嵌入并作用于人类乡村生活和迁移决策过程 ，从而创造了巴洛
+克式的乡村性 （Baroque Rurality） 和自然
+[49]
+；以“转译”方法解析英 、美、法三国乡村
+绅士化的因果机制和政策导向如何与其地理环境关联
+[21]
+。
+乡村绅士化的本质在于经济水平和文化资本高于乡村居民的城市人群移居乡村后的
+生活消费与生产经营引致的乡村物质景观更新与社会结构跃升
+[34]
+，是人类与非人类 、本
+土与外来的行动者共同作用下的空间实践与乡村重构 。关系和过程思维的 ANT 方法，可
+直观、系统、动态地展现行动者间的互动联结 ，便于捕捉乡村绅士化演化过程中的行动
+主体活动和发展要素功能的动态性与丰富性 。本文基于对广西巴马盘阳河流域乡村绅士
+化现象的历时性田野调查 ，以行动者网络理论为方法 ，追踪乡村绅士化演化过程中的行
+动者及其行动，解析乡村绅士化演化的过程、类型与机制 （图 1） 。
+3 °‚ÀýµØ‚¯¿öÓº˚ý¾Ý»æ¨¡
+3.1 案例地概况
+巴马瑶族自治县地处广西西北，拥有特殊的健康地理环境和长寿文化资源
+②
+，是集国
+家重点生态功能区 、滇黔桂石漠化片区 、国家全域旅游示范区于一体的世界长寿之乡 。
+盘阳河流域
+③
+是国家 4A 级旅游景区，沿河聚居着长寿怡然的壮族屯落 （属甲篆镇，2018
+年被评为广西首批康养小镇 ） ，是巴马长寿养生旅游资源和商业生活资源最为集聚的区
+域
+[50-51]
+（图 2） 。巴马探索出“‘候鸟人’
+④
+旅游稳定增长带动观光旅游快速增长 ”的发展
+② 健康地理环境 ：舒适气温（平均 20.4 ℃） ，小分子团六环（70~80 Hz）弱碱性（PH 7.5~8.5）水，高空气负离子（20000~
+30000 个/cm3） ，适宜地磁强度（约 45500~50000 nT） ，远红外线阳光（波长 4~14 μm）和富硒土壤（> 0.4 mg/kg） 。长寿养生
+资源：长寿遗传基因，长寿生活方式，壮瑶医药资源，敬神祭祖仪式，敬老孝老文化。
+③ 盘阳河流域，有广域与狭域之分，本文的案例地指狭域的盘阳河流域范围 。狭域的盘阳河流域指巴马县境内从百魔
+屯百魔洞口至甘水屯盘阳河漂流起点的流经区域 ，总面积 30 km
+2
+，由北向南流，上游、中游是明河，下游有明河和暗河 ，
+沿河分布的坡月村 、平安村 、松吉村 、甲篆村 、百马村和拉高村等 6 个行政村 ，隶属于甲篆镇 。另，巴马将自然村称为
+“屯” ，由数个屯共同构成“村” ，即行政村。
+④ 当地人和媒体将每年到巴马季节性旅游和长居生活的康养人群 （中老年人群和身体欠健康的群体 ）称呼为“候鸟
+人” ，是一种暂时或永久迁移到象征更好生活质量的自然环境舒适或人文价值突出（或者二者兼具）的目的地流动现象，
+一般被定义为舒适移民。 “候鸟人”在巴马健康舒适生活环境实践健康美好生活，适宜舒适移民概念，一些研究采用生活
+方式移民、季节性移民、健康移民等概念。
+图 1 ANT 视角的乡村绅士化演化的分析框架
+Fig. 1 An analytical framework of the evolution of rural gentrification from the perspective of ANT
+872
+--- PAGE 5 ---
+4 期 谭华云 等：基于行动者网络理论的乡村绅士化演化过程与机制解析
+模式，2005 年巴马旅游接待量仅 10.6 万人次， “候鸟人”约 5 万人次；2019 年巴马旅游接
+待量达 825.85 万人次， “候鸟人”约 14 万人次，其中长居型 （6 个月以上） “候鸟人”约 3
+万人次。巴马特殊的健康地理环境 、舒适宜人的气候 、较低成本的田园乡居与不断滋长
+的“候鸟人”生活氛围，持续吸引中国北方和东部 、中部的康养人群和退休人士前来季
+节性旅游与长居生活
+[50-51]
+。受新型冠状病毒肺炎疫情防控和 “候鸟人”回归潮影响， “候
+鸟人”规模反复起伏 ，整体大幅收缩 。疫情给巴马大健康产业发展带来负面影响的同
+时，也刺激康养旅居需求 ，高端养生住宅 （坡月世纪养生花园和巴盘中脉养生秘境等 ）
+的售价由约 16000 元/m
+2
+（2019 年 11 月） 上涨到约 22000/m
+2
+（2021 年 5 月） 。长寿乡村社
+会空间从封闭、单一、均质转向开放、多元、异质，发展成本地人、 “候鸟人”和旅游者
+的混居社区，是绅士化历程较长、绅士化主体和诱发动力多元的乡村区域
+[50-51]
+，便于呈现
+乡村绅士化演化的过程与类型。
+3.2 数据收集
+数据主要源于 3 个阶段的田野调查 。第一阶段 ：以实地调研为主 ，辅以文献阅读 ，
+确定研究主题 ，于 2016 年 8 月和 9 月、2018 年 1 月和 10 月先后 4 次进入巴马盘阳河流域
+长寿乡村，在参与式观察和开放式访谈中 ，获取“候鸟人生活”和乡村社会生活空间的
+直观印象，通过对一手数据的编码分析 ，结合文献阅读，确定乡村绅士化演化的研究主
+题。第二阶段 ，通过田野调查系统收集数据 。于 2019 年 1 月和 7 月、2020 年 7 月深入案
+例地，对“候鸟人” 、基层政府、地方政府、屯社精英、屯民、投资开发商、经营户与大
+众游客进行半结构式访谈 ，内容依据调研对象类别有所侧重 （表 1） ；走访巴马县旅游发
+展委员会、甲篆镇政府与行政村村部 ，收集政府工作报告 、文件、年鉴、规划和统计数
+据；关注“旅居微生活” “蓝色纽带联合会”等微信公众号和部分“候鸟人”的微博、微
+信，补充信息。第三阶段，于 2021 年 5 月回访案例地，检验研究结果，修正研究内容。
+图 2 广西巴马盘阳河流域区位
+Fig. 2 The location of Panyang river basin, Bama county, Guangxi
+873
+--- PAGE 6 ---
+地 理 学 报 77 卷
+4 °˝´í¯ÌÑô”Ó`÷Óòˇç·åÉð˚¿»ﬂÑÝ»ﬂµ˜„ý‡Ì…°Àà—˝
+4.1 演化过程
+乡村绅士化演变是一个延续 、嬗变、复合的过程，没有明确的过渡节点 ，演化分析
+的意义用于确定是否完成“蝶变”或趋向异化
+[5]
+。参照 Smith 对英国城郊“绅士化蝶变”
+[5]
+和何深静等对广州小洲村绅士化发展历程
+[26]
+遵循的绅士群体更替与绅士化路径变迁的阶
+段划分依据，并结合旅游发展背景和大事件 ，将巴马盘阳河流域乡村绅士化发展历程分
+为形成 （1994—2012 年） 和发展 （2013 年至今） 两个阶段 。1994 年约有 3000 位中老年
+群体受百魔洞长寿环境吸引 ，延长居停时间 ，实践巴马长寿生活方式 。伴随“候鸟人”
+规模的持续扩大 ，坡月村百魔屯 、坡月街道 、足拉屯与平安村巴盘屯 4 个屯落 （街区）
+小产权房模式盛行
+⑤
+，出现散点状的、嵌入式的绅士化的社会生活空间，形成自下而上的
+“草根力量 ”主导的乡村绅士化 。2013 年巴马长寿养生国际旅游区确立 （2019 年升级为
+巴马国际长寿养生旅游胜地 ） 。2015 年中国—东盟传统医药健康旅游国际论坛永久落户
+巴马。大型商业资本陆续进驻核心地段，开发高端养生小区， “候鸟人”居住生活空间扩
+散至盘阳河流域全域，进入自上而下的商业资本与权力机构主导的绅士化发展阶段。
+4.1.1 乡村绅士化形成
+（1） 行动者构成。在巴马盘阳河流域乡村绅士化伊始时 ，人类行动者主要包括 “候
+鸟人” （舒适移民） 、屯社精英 （村民小组成员 、致富能人与宗族理事会 ） 与普通屯民 、
+基层政府 （甲篆镇政府、行政村村委） 、经营户、大众游客等；非人类行动者主要包括健
+康地理环境、长寿文化资源、土地资源、屯落住宅等。
+（2） 转译。问题呈现与利益赋予。行动者会遭遇各类问题或障碍 ：① 基层政府，巴
+马盘阳河流域是典型的老少边穷区域 ，传统农业生产资源贫弱 ，缺乏工业生产资源与商
+贸经营条件，长年深陷“喀斯特贫困”之境。② 屯社精英与屯民，受限于交通闭塞、设
+施落后、经营知识与经验匮乏等多种因素 ，屯社精英开发旅游景区 ，成效甚差；屯民家
+庭收入少，发展机会少，生活质量差。③ 资源环境，世界级的长寿地理环境和兼具民族
+特色的长寿文化资源被简单开发与低效利用 ，缺乏能匹配资源价值的资本投入与保护开
+发。④ 经营户，甲篆镇、坡月村的集贸市场和街道商铺主要服务农业生产与生活消费 ，
+获利微薄。⑤“候鸟人” ，被健康地理环境与长寿生活方式吸引而来，但简陋的人居环境
+⑤ 合作建房：屯民出宅基地， “候鸟人”与外来商人出资，农民获得几十万元的补偿 ，建成后二/三楼以下给屯民住，其余
+楼层老板经营 30 年，向养生者租售使用权，30 年后整栋楼归属屯民。
+表 1 访谈对象与访谈重点
+Tab. 1 The interviewees and key points of interview contents
+访谈对象
+“候鸟人”
+“候鸟人”组织负责人
+基层政府、县市政府
+屯社精英、屯民
+投资开发商
+经营户
+大众游客
+人数(人)
+24
+4
+13
+10
+3
+5
+10
+访谈重点
+“候鸟人”健康状况与旅游动机，日常生活与社会融入，乡村社会空间变迁，重访及
+推介意愿
+“候鸟人”概况， “候鸟人”公益组织运营，乡村社会空间变迁
+巴马旅游发展历程， “候鸟旅游” ，大健康产业发展，乡村社会空间变迁，乡村发展
+乡村生计，乡村生活质量， “候鸟旅游”对日常生活的影响，主客关系，邻里生活，人
+地情感
+项目开发、投资与运营，与当地政府、社区的关系
+经营业态，消费构成，“候鸟旅游”发展现状与趋势
+巴马印象，康养体验，重游及推介意愿
+874
+--- PAGE 7 ---
+4 期 谭华云 等：基于行动者网络理论的乡村绅士化演化过程与机制解析
+和游憩空间难以实现舒适居养需求 。⑥ 大众游客，交通可达性差，旅游设施少，康养体
+验单一。
+对解决自身问题诉求最大的行动者 ，最有可能成为引导行动者网络建立的关键行动
+者
+[47]
+，关键行动者通常由人类行动者来担当 。将绅士化置于特定时空场域 ，便于精准识
+别关键行动者。来巴马寻求健康舒适生活环境过美好生活的 “候鸟人” （不乏重症患者）
+是长寿乡村绅士化的始作俑者 。屯社精英自然成为健康地理环境和长寿文化资源的代言
+人，赋能资源环境成为行动者。 “候鸟人”先锋和屯社精英汇聚其他行动者遭遇的问题和
+障碍，形成“发展‘候鸟’旅游、共建长寿之乡”的必经之点 （OPP） ，以破解乡村发展
+落后 、生活质量低 、产业效益差 、资源低价值利用与旅游旅居体验差等问题 （图 3） 。
+“候鸟人”先锋和屯社精英起着诱发和主导作用，成为关键行动者。
+征召与动员。共建长寿之乡是一个长寿资源活化和宜居社区营造的过程 。关键行动
+者试图通过 OPP 愿景，响应和协调各类行动者的利益诉求 。各类行动者在征召与被征召
+的利益协商与行动联结中得以明确角色并委派任务的同时 ，调动资源，实施行动，响应
+任务。 “候鸟人”先锋和屯社精英上升为整个网络的代言人，协同各类行动资源，以形成
+较为稳定的利益联结和互动机制 。征召与动员 （行动响应） 的具体形式包括：① 资源环
+境征召与动员：巴马凭借健康地理环境 、长寿生活方式与山水田园聚落 ，征召旅游者和
+“候鸟人”来此旅游旅居。巴马长寿现象也征召国内外医疗科研机构和老年协会前来调研
+取证，日本国际自然医学会历经 8 次实地考察 ，于 2003 年授予巴马 “世界第五长寿乡 ”
+牌匾，赋予巴马“世界长寿之乡 、中国人瑞圣地 ”的名望。② 市场征召与动员 ： “候鸟
+人”先锋代表的中小商业资本伺机与坡月村的百魔屯 、坡月街道、足拉屯和平安村巴盘
+屯的屯社精英合建小产权房 ，经营养生公寓，示范带动其他农户参与经营 ；集贸市场和
+街铺经济日渐繁荣 ，生活消费业态兴起 ，形成了基础的“候鸟人”居养空间与生活服务
+供给。③ 社会征召与动员：央视等权威媒体对巴马长寿现象的专题纪录片报道 ，极大提
+升了巴马长寿之乡的知名度 。 “候鸟人 ”先锋开辟了简易的盘阳河游憩小道和小广场 。
+④ 行政征召与动员：坡纳屯的党员小组自发改建住房 ，开设餐厅和旅馆。新农村建设背
+景下，村镇积极向县政府申请村庄规划支持 ，协调免息贷款兴建联排乡村别墅 ，创建旅
+游扶贫示范屯。
+（3） 行动者网络。ANT 网络的联系有强有弱 、契合或冲突、连续或间歇，契合的强
+联系维系网络的稳定性 ，冲突的强联系指向行动者重组与网络演化 。关键行动者与其他
+行动者的联系通常是强联系，关键行动者之外的行动者的联结属于间歇或临时的弱联系。
+在巴马盘阳河流域乡村绅士化形成阶段的 ANT 网络中 （图 4） ，强联系在破解“喀斯
+特发展困境” “旅游旅居环境差”两大核心问题上起着关键作用，决定行动者网络的基本
+图 3 乡村绅士化形成阶段的行动者与必经之点(OPP)
+Fig. 3 The actors and OPP in the formation stage of rural gentrification
+875
+--- PAGE 8 ---
+地 理 学 报 77 卷
+特征。①“候鸟人”和长寿资源环境形成动态、复杂的强关系， “候鸟人”天人合一的康
+养活动，为健康地理和长寿资源赋能 。一定规模的 “候鸟人”生活垃圾被大自然消融 ，
+随着“候鸟人”规模化涌入， “候鸟人”日常生活垃圾也带了环境压力。②“候鸟人”与
+屯社街区经济利益契合 ，存在生活冲突。 “候鸟人”或以房租分享屯民 “家空间” ，或与
+屯民合建小产权房，经营养生公寓； “候鸟人”消费带动集贸市场、街铺摊贩经济的复兴
+和繁荣，集贸市场从“五天一圩”发展为“三天一圩” ，功能面向从满足本地人生产生活
+转向“候鸟人”生活。主客冲突来自生活间隙 、买卖习惯和观念差异 。③“候鸟人”与
+旅游者的联系是一种临时 （在游览场所的短暂相遇） 或潜在的强联系 （旅游者受“候鸟
+人”现象吸引，前往体验） 。④ 屯社精英与长寿资源环境具有持久 、契合的强联系 。屯
+社精英世居巴马健康地理环境 ，活态传承巴马长寿生活方式 ，是巴马长寿资源环境的代
+言人。⑤ 屯社精英和经营户及屯民保持契合的强联系 ，屯社精英与经营户角色交织，带
+动屯民参与旅游经营与接待服务。
+异议主要源自 “候鸟人 ”与基层政府的间歇性 、冲突性的强联系 （图 4） 。 “候鸟
+人”旅居加大了基层政府社会管理压力 。失控的小产权房建设 ，缺乏规划的村屯发展和
+滞后的公共设施供给，生产出“握手楼”住宅、 “空中蜘蛛网”电线、纵横裸露的自来水
+管等“村中城”景观
+[35, 50]
+。破坏了山水田园与屯落建筑的和谐之美 ，亦存消防隐患 。在
+“候鸟人”先锋和屯社精英乐享“候鸟人”经济利益的背后，基层政府不仅需要承担额外
+的公共管理服务与社会治理职责，还承担着因违章建筑、 “村中城”景象、局部环境污染
+而被上层政府批评和通报的行政压力 ，权益与义务失衡 。此外，巴马原生性的生活方式
+开始转变，因不愿被“凝视”和惶恐重症“候鸟人”传染，裸浴日渐退出屯民休闲生活
+场景。 “村中城”景象、官民利益冲突、生活场景“异化”指向 ANT 网络的演化。
+4.1.2 乡村绅士化发展
+（1） 行动者的变化 。乡村绅士化形成阶段的 ANT 网络中的基础设施与公共服务供
+给、 “候鸟人”经济发展、 “村中城”景象与长寿生活景观 “异化”等异议，需要强有力
+的机构来统筹协调与规范管理 ，带来“康养旅游产业升级 ，打造世界长寿之乡 ”的新议
+题。在美丽乡村、特色小镇建设和精准扶贫战略背景下 ，地方政府凭借行政资源与行动
+影响，招募投资开发商进入行动者网络 ，主导大健康经济融合发展 。伴随地方政府与投
+资开发商关键行动者角色的确立 ，行动者网络的目标意图也随之发生转变 ，引起新的行
+动者的进入与异议行动者的退出或角色转变 （图 5） 。 “候鸟人”先锋和中小资本的经济
+影响力减弱，社会文化影响力增强。 “候鸟人”在巴马旅居，建构出开放、流动且更有生
+图 4 乡村绅士形成阶段的行动者网络
+Fig. 4 The actor-network of the formation stage of rural gentrification
+876
+--- PAGE 9 ---
+4 期 谭华云 等：基于行动者网络理论的乡村绅士化演化过程与机制解析
+命力的巴马长寿生活方式与疗愈景观 ，赋予巴马长寿养生景观更多人文意涵与鲜活的生
+命力
+[51]
+，成为健康地理环境之外，巴马康养旅游和旅居生活的辅助吸引物。
+（2） 新的转译。问题呈现与利益赋予。伴随行动者及其角色的变化 ，其面临的问题/
+障碍随之发生变化 （图 5） ：① 地方政府,“如何守护青山绿水 ，做足世界寿乡文章 ”成
+为地方政府主政巴马的重要议题 。② 屯社精英与屯民，中低端康养住宅空间急剧扩张带
+来低价竞争和客房空置的问题 。③ 资源环境，随着游客和 “候鸟人”规模的急剧扩张 ，
+巴马长寿乡村被贴上“长寿天堂” “癌症村”的双重标签，面临低端无序开发、生态压力
+剧增、文化原真性流失的问题。④ 开发商与经营户，开发商面临交通区位差、基础设施
+弱、投资风险大的难题，经营户面临无序经营和低价竞争困境。⑤“候鸟人” ，现有的游
+憩空间和居养环境难以适应 “候鸟人”康养需求，重症“候鸟人”遭遇“癌症村”污名
+困扰。⑥ 大众游客，随着国内旅游环境优化和消费转型升级 ，巴马旅游依然面临可达性
+差、配套设施不足和旅游环境差等问题 。地方政府联合投资开发商提出 “发展大健康经
+济，打造世界寿乡 ”的必经之点 （OPP） ，以破解“村中城”景象、 “癌症村”污名、景
+观“异化” 、 “候鸟旅游”经济带动不足等发展困境。
+征召与动员 。作为关键行动者的地方政府和投资开发商上升为整个网络的代言人 ，
+新的征召与动员形式如下：① 行政征召与动员：地方政府以行政资源与权力关系引导县
+域大健康经济发展 ，引进大型资本投资开发文旅 、地产与康养综合体项目 ，支持屯社精
+英创建乡村旅游示范点 ，通过重点村屯规划 、污水处理、市政管理和绿道建设等举措推
+进基础设施供给与公共服务提升 。征召国家部委和广西壮族自治区政府 ，以编制规划 、
+定点帮扶、项目等形式帮扶巴马发展旅游 、康养、生态产业。2019 年全国两会期间，习
+近平总书记在听取广西工作汇报时 ，特别指示巴马以长寿文化和生态优势发展生态 、康
+养和旅游产业。② 市场征召：巴马盘阳河流域康养产业长期经营低端业态 ，亟须打造低
+中高端业态体系 ，巴马国际长寿旅游胜地 、广西大健康产业龙头基地与深圳 ——巴马大
+健康合作特别试验区 “三大定位”战略下，中脉集团、华昱三生集团、原乡旅郡集团等
+多家投资开发商进驻 ，投资旅游资源、水资源、康养地产和有机农业开发 ，发展“三产
+融合”的大健康经济 。③ 资源环境征召与动员 ：长寿资源环境征召政府 、企业与社区 ，
+建设长寿旅游胜地和全域旅游区 。被符号化和景观化的百岁老人 ，征召旅游者和“候鸟
+图 5 行动者的变化与新的必经之点(OPP)
+Fig. 5 The change of actors and the new OPP
+877
+--- PAGE 10 ---
+地 理 学 报 77 卷
+人”前来探访的同时 ，也征召科研机构与商业机构研究巴马长寿现象 ，研发、生产、运
+营长寿产品。④ 社会征召与动员：坡纳、坡莫、平安屯等更多的村屯积极参与乡村旅游
+接待。沿河各村组和宗族理事会坚守庙堂祭祀活动 ，维系庙堂祭祀、宗族聚会、议事及
+屯社事务管理功能 ，形成抱团文化和宗族势力 。 “国际候鸟人 ” “蓝色纽带 ”等“候鸟
+人”社团，定期开展志愿者活动，捐赠屯社公共设施建设，参与屯社治理。
+（3） 行动者网络的转换 。地方政府和投资开发商与其他行动者的强联系 ，决定了巴
+马盘阳河流域长寿乡村绅士化演化的行动者网络的格局特征 （图 6） 。① 地方政府与投资
+开发商是一种利益契合的强联系 。地方政府通过建设乡村排污系统 、开展环境整治工
+程、完善公共基础设施等措施优化产业发展环境 。投资开发商启动坡月国际健康小镇建
+设，发展高端康养业态。② 地方政府与屯社精英及屯民维持利益共生的强关系 ，地方政
+府通过旅游扶贫 、争创示范项目、金融创新等政策工具引领社区发展康养旅游经济 ，打
+造扶贫示范村 。③ 地方政府与 “候鸟人”社团形成了治理型的强联系 ， “蓝色纽带”和
+“国际候鸟人协会”建设工会和党支部组织，成为地方政府联系“候鸟人”的纽带，舒缓
+了“候鸟人”旅居对乡村社会的治理压力 。④ 地方政府与长寿资源环境形成共生关系 ，
+地方政府直面商业机构 “神话”巴马和媒体 “污名”巴马 （对巴马“癌症村” “环境污
+染”的失实报道和传播） ，邀请多家媒体集体实地走访，真实客观报道巴马长寿现象与旅
+游开发后的环境影响 ，为巴马正名 。⑤ 投资开发商与 “候鸟人”是一种复杂的强关系 。
+投资开发商开建的高端养生住宅在满足部分 “候鸟人”高端舒适居养需求的同时 ，也挤
+占了其它“候鸟人”的生态游憩空间。⑥ 投资开发商与经营户是一种复杂的强关系 。投
+资开发商主导乡村业态高端发展 ，客观上会排斥和冲击中小资本的商业模式和盈利空
+间。但投资开发商的进驻 ，能带动巴马大健康经济发展 ，中小商业资本需要找准商业空
+间投资经营。
+乡村绅士化发展阶段的异议主要聚焦于环境整治和大健康经济发展 （图 6） 。地方政
+府在环境友好行为系统和资源价值提升工程的实施过程中的失当举措 ，引起其他行动者
+异议。2019 年甲篆镇坡月片区开始筹建 5A 级国际康养小镇，需要整体拆除百魔屯—坡月
+街—足拉屯一带的 “两违”建筑，牵扯到的小产权房补偿赔付问题引发了 “候鸟人”对
+巴马政府的信任危机与对话冲突 。随后，囿于一户一宅的农村宅基地制度 、脱贫攻坚成
+效巩固并衔接乡村振兴战略实施背景以及新型冠状病毒肺炎疫情下大健康经济发展的不
+确定性增加的情境 ，巴马地方政府对大规模的 、复杂利益关系的小产权违建房的整体拆
+除计划，因缺乏足够的行政力量和财政资源 ，只能暂且搁置，矛盾冲突得以暂缓 。大健
+图 6 乡村绅士化发展阶段的行动者网络
+Fig. 6 The actor-network of the development stage of rural gentrification
+878
+--- PAGE 11 ---
+4 期 谭华云 等：基于行动者网络理论的乡村绅士化演化过程与机制解析
+康业态升级和土地升值也变相驱逐了中低消费能力的 “候鸟人” 。此外，长寿资源 “污
+名”和康养景观 “异化”问题难以根治 。环境整治 、业态升级 、资源“污名”和景观
+“异化”等异议指向网络变化的趋向。
+4.2 演化类型
+在多类行动者的行动联系与利益转译下 ，巴马盘阳河流域乡村绅士演化过程中的行
+动主体多元 ，绅士化主体 、路径和表征趋向分化 ，出现了乡村绅士化类型的演化和分
+化。绅士化衍生概念与类型划分并无统一依据 ，陈培阳从建成环境变化 、诱发因素 （产
+业领域） 、绅士化群体、迁居机制、生命历程转换视角对西方绅士化研究的类型进行了总
+结
+[36]
+。从主导力量 、发生路径、产业领域及主要表征等维度来看 ，巴马盘阳河流长寿乡
+村绅士化主体和主导力量从舒适移民先锋 、本地精英代表的 “草根力量”转向投资开发
+商和地方政府所代表的机构力量 ；乡村绅士化路径从 “草根”绅士化向机构绅士化演
+替；乡村主导产业从接待“候鸟人” 、发展旅游转向大健康产业融合发展。在乡村绅士化
+形成阶段，形成了舒适移民绅士化；在绅士化发展阶段，分化出旅游绅士化和地产绅士化
+（表 2） ，共构了“一地多类”的乡村绅士化现象，具有多元共生特征，而非纯粹演替。
+4.2.1 舒适移民乡村绅士化 “候鸟人”先锋在巴马盘阳河流域乡村绅士化形成阶段的
+ANT 网络中 ，扮演着诱发者与主导者角色 ，屯社精英示范带动经营户与小商贩等 “草
+根”阶层力量卷入，驱动村屯人口阶层结构 、住宅空间结构、商贸经济、屯社治理和建
+筑景观的更新与重构，生产出混杂、嵌入、散点状、小规模的绅士化的乡村社会空间
+[35, 50]
+。
+在“候鸟人”季节性旅游与长居生活以及屯民外出务工等因素影响下 ，长寿乡村常住人
+口结构与阶层日愈 “候鸟人化 ” 。 “候鸟人 ”聚居生活带动农家旅馆经营和养生公寓建
+设，直接改变了乡村住房结构与居住条件
+[35, 50]
+，乡村生活空间功能趋向旅游化和混合
+化，生产出大量的康养游憩空间 。 “候鸟人”生活消费给乡村发展带来活力 ， “候鸟人”
+密集于坡月村，坡月街道商贸规模扩大、业态升级， “甲篆为主、坡月为辅”的传统商贸
+格局逆转为“坡月为主、甲篆为辅”的新商贸格局
+[34]
+。 “候鸟人”参与乡村公益，融入屯
+社发展，成为屯社治理的新力量
+[50-51]
+。 “候鸟人”居住生活空间嵌入屯社生活空间 ，干栏
+式民居与 “绅士化 ”住宅夹杂 ，住宅空间与商贸空间混杂 ，俨然“村中城 ”景象
+[35, 50]
+。
+综上，巴马盘阳河流域上游的坡月村和平安村出现了 “候鸟人”诱发、屯社精英推动的
+“草根”阶层主导的自下而上的、以接待“候鸟人”日常生活与居养消费为产业支撑的乡
+村绅士化，即舒适移民绅士化
+⑥
+。
+4.2.2 旅游绅士化和地产绅士化 在 ANT 网络的转换中 ，巴马盘阳河流域长寿乡村经历
+了从自下而上的 “草根”绅士化向自上而下的 “机构”绅士化的路径演化 。地方政府和
+⑥ 文献[29]将城市人群迁入自然资源 /文化资源或休闲设施丰富的乡村区域进行季节性旅游（1~6 个月）和长居生活实
+践（6 个月以上） ，从而引致乡村社会空间重构的现象与过程定义为舒适移民型乡村绅士化。
+表 2 乡村绅士化演化的过程与类型
+Tab. 2 The process of rural gentrification and the corresponding type characteristics
+阶段
+形成
+发展
+类型
+舒适移民
+绅士化
+旅游绅士化
+地产绅士化
+主导力量
+舒适移民，
+屯社精英
+地方政府，
+投资开发商
+发生路径
+自下而上
+草根绅士化
+自上而下
+机构绅士化
+产业领域
+住宅开发带动的“候鸟
+人”生活消费
+旅游业带动的康养产业
+地产带动的大健康产业
+主要表征
+混杂嵌入、多散点状的绅士化物质景
+观空间；人口结构、地方文化与治理日
+趋“候鸟人化”
+新建的 飞地式 、团块状的绅士化物质
+空间；人口结构、地方文化与治理的变
+迁更为广深
+879
+--- PAGE 12 ---
+地 理 学 报 77 卷
+投资开发商等机构化力量替代舒适移民与屯社经营等“草根力量” ，主导乡村绅士化发展
+进程，乡村社会空间与物质景观发生更为广深的变迁与重构 。屯落“候鸟人化”和“老
+龄化”特征愈加明显。 “候鸟人”阶层日益分化，住宅类型多元，家庭旅馆与电梯养生公
+寓激增，大型品质养生小区发展成舒适移民飞地 ，坡纳屯、坡莫屯建成田园别墅群
+[35, 50]
+。
+巴马康养经济从分散向集聚式发展 ，初步形成了多功能农业与健康食品 、自然康养与健
+康科技、旅游服务与康养地产共同构成的大健康产业体系 ，服务经济与实体经济共生发
+展。伴随住宅空间和商贸空间的更新与扩张 ，乡村形成了 “村中城 ” “高端养生飞地 ”
+“田园综合体”与“传统壮乡”互混的聚落景观
+[50-51]
+。舒适移民赋予乡村空间城市元素和
+舞台化色彩，屯落文化走向“去地方化”的复兴。在地方政府与投资开发商驱动的自上
+而下的绅士化路径下 ，生产出飞地式 、团块状的绅士化的乡村社会空间
+[35, 50]
+，并分化出
+旅游绅士化和机构绅士化两种类型 （表 2） 。绅士化空间从盘阳河上游扩散到中下游 ，覆
+盖盘阳河流域内的 6 个行政村，形成舒适移民 、旅游和地产共构的 “一地多类”绅士化
+现象。
+5 ˇç·åÉð˚¿»ﬂÑÝ»ﬂ»œÖ˘
+在巴马盘阳河流域长寿乡村人类行动者与非人类行动者、 “草根”行动者与机构行动
+者共同缔结的行动者网络的转换过程中 ，伴随关键行动者从 “候鸟人”先锋、屯社精英
+向地方政府 、投资开发商的更替 ，必经之点 （OPP） 从“发展‘候鸟’旅游、共建长寿
+之乡”转向“发展大健康产业，打造世界寿乡” 。乡村绅士化路径从“草根”绅士化向机
+构绅士化演替；乡村产业从接待“候鸟人” 、发展旅游转向大健康产业融合发展；乡村绅
+士化类型从形成阶段的单一的舒适移民绅士化向发展阶段的舒适移民 、旅游和地产共构
+的“一地多类”绅士化演化。关键行动者更替及其功能角色转换 、绅士化路径变迁和主
+导产业更替与融合发展 、宏观乡村发展制度与地域自然人文环境共同作用于乡村绅士化
+的阶段演替与类型共生 。关键行动者更替及其角色功能转换 、绅士化路径变迁和主导产
+业更替融合发展主导乡村绅士化的阶段演替与类型演化 ，是乡村绅士化演化的一般机
+制。中国现阶段乡村宏观发展战略 、基本制度安排和地域自然人文环境 （巴马盘阳河流
+域特殊的健康地理环境 、 “候鸟人”的健康地理环境依赖与 “巴马情结” 、壮族宗社力量
+与恋家恋地文化） 综合作用下的行动者权利制衡 ，形塑出乡村绅士化的共生演化特征 ，
+是巴马盘阳河流域乡村绅士化演化的地域机制 （图 7） 。
+5.1 关键行动者更替及其角色功能转换主导乡村绅士化阶段演替
+伴随关键行动者从 “候鸟人”先锋、本土精英向地方政府 、投资开发商的更替 ，必
+经之点 （OPP） 从“发展‘候鸟’旅游、共建长寿之乡 ”转向“发展大健康产业 ，打造
+世界寿乡” ，决定 ANT 网络的目标意图转换与乡村绅士化的阶段演替 。在乡村绅士化形
+成阶段， “候鸟人”先锋起着诱发和主导的双重作用 ， “候鸟人”先锋以消费者角色入场
+巴马，给屯社精英带来商机 ，其在巴马旅居的健康增进效应被放大利用 ，吸引更多的
+“候鸟人”和旅游者前来巴马消费 ，一定程度上破解了乡村发展落后 、康养旅游环境差 、
+屯民生活质量低以及资源低价值转化等问题。在乡村绅士化发展阶段， “候鸟人”通过参
+与小产权房建设 、商铺经营和乡村建设 ，从单一的消费行动者向投资 、社会、文化等多
+个领域的复合行动者的角色转换 ，虽然不再是长寿乡村绅士化发展的主导力量 ，但始终
+是长寿乡村绅士化发展的基底力量 。反观乡村绅士化伊始之时 ，地方政府并未意识到
+“候鸟人”旅游可能成为乡村转型发展的有效路径 。伴随乡村绅士化发展 ，随之而来的
+880
+--- PAGE 13 ---
+4 期 谭华云 等：基于行动者网络理论的乡村绅士化演化过程与机制解析
+“候鸟旅游”富民不富财政、 “村中城”景象、混合乡村社区治理的三重压力 ，倒逼地方
+政府遵循市场规律和善治逻辑 ，以招商、征地、配套等方式与投资开发商形成强合作关
+系，联合主导旅游、地产、大健康经济运营 ，生产出“飞地”式的绅士化生活空间 ；以
+旅游扶贫、示范项目、金融创新等政策工具与行政资源支持乡村建设和社区发展。
+5.2 绅士化路径变迁和主导产业更替融合发展推动乡村绅士化类型演化
+关键行动者的更替及其功能角色的转换 ，同样作用于乡村绅士化的路径演化和主导
+产业发展，进而推动乡村绅士化类型的演化与分化 。在“候鸟人”的康养旅居生活需求
+下， “候鸟人”先锋为代表的中小商业资本和屯社精英等民间力量，自发孕育了小规模渐
+变的乡村社会空间变迁现象 ，形成了“草根力量”主导、自下而上的舒适移民乡村绅士
+化，是巴马盘阳河流域乡村绅士化的初始类型 。伴随中国旅游地设施环境的普遍优化 ，
+巴马盘阳河流域长寿乡村的住宅空间条件与商业游憩资源难以满足 “候鸟人”和旅游者
+对乡村性与舒适性的双重生活需求；而“村中城”景象、资源环境“污名” 、长寿养生景
+观“异化”等顽疾，都需要政府联合资本与社区力量 ，逐步形成多元供给与协同治理 。
+地方政府与投资开发商以自下而上的机构力量 ，将政策、土地、资金、项目等要素引向
+旅游、康养地产投资领域与重点村屯打造 。坡月街和巴盘屯建成高端养生社区 ，推动乡
+村居住生活空间品质化 、商业化、飞地化发展；坡纳屯、坡莫屯等“候鸟型”屯落发展
+成为农业观光、旅游休闲、康养度假、亲邻活动于一体的田园综合体 。在地方政府和投
+资开发商强势介入和主导作用下 ，形成了机构力量主导 、自上而下的绅士化路径 ，舒适
+移民绅士化朝向旅游化和地产化发展 ，分化出旅游绅士化和地产绅士化 。乡村产业从接
+待“候鸟人” 、发展旅游转向大健康产业融合发展，为舒适移民绅士化向旅游绅士化和地
+产绅士化演化与交汇提供了产业支撑。
+5.3 宏观乡村发展制度和地域自然人文环境形塑乡村绅士化共生演化特征
+乡村绅士化是一种嵌入型的空间作用过程 ，受特定人地关系地域系统影响 。巴马盘
+阳河流域长寿乡村绅士化演化受中国宏观乡村发展战略 、土地制度和民族区域自然人文
+环境等时空语境因素影响 ，利于区域内外行动者 、人类与非人类行动者共同发挥作用 ，
+形成权利制衡，呈现阶段演替与类型共生的演化特征 。在乡村绅士化形成阶段 ，乡村内
+源性发展力量不足 ，外源性的“候鸟人”先锋是乡村绅士化的始作俑者 ；中国农村土地
+图 7 乡村绅士化演化机制
+Fig. 7 The evolutionary mechanism of rural gentrification
+881
+--- PAGE 14 ---
+地 理 学 报 77 卷
+集体所有制和农户宅基地制度 ，赋予屯社与外来 “绅士”权利协商的制衡力量 。在乡村
+绅士化发展阶段，巴马盘阳河流域本土行动者与外来行动者、 “草根”行动者与机构行动
+者之间权利制衡 ，形成了“一地多类、共生发展”的乡村绅士化，可归因于地域社会人
+文环境特征和政府主导乡村发展的制度安排 ：① 巴马盘阳河流域特殊的健康地理环境 、
+舒适宜人的气候条件、安宁的壮族屯落以及古老的长寿文化，能持续吸引“候鸟人” （不
+乏重症患者） 前来旅居生活 ，部分“候鸟人 ”对巴马地理环境形成了健康依赖 ，形成
+“巴马情结” ，发展出“候鸟人”社团、党支部与工会促进康养小镇发展的坡月模式 ，赋
+予舒适移民绅士化强盛的生命力 。② 地方政府以行政资源主导乡村发展 ，统合美丽乡村
+建设、精准扶贫、乡村振兴战略和大健康经济产业融合发展 ，生产了资本主导的高端康
+养旅居飞地 ，也培育了基层党建带动旅游脱贫的坡纳模式 ，促进多类行动者共生发展 。
+③ 巴马壮族宗族观念和恋家恋地文化浓厚 ，宗族文化绵延，屯民抱团发展。百魔屯、坡
+月街、足拉屯和巴盘屯的大量小产权房的存在 ，虽然难逾违建的政策法律风险 ，但一户
+一宅的农村产权制度保护下 ，对其整体拆除所需的赔偿资金是地方政府和商业资本打造
+坡月国际康养小镇绕不过去的难题 。抱团的宗社力量与复杂的利益关系 ，掣制了商业资
+本在征地开发与产业运营中的强势推进。
+6 ‰Æ´ÛÓºÌÖ´Û
+6.1 结论
+基于对巴马盘阳河流域乡村绅士化现象的历时性田野调查 ，以行动者网络理论为方
+法，解析中国西部民族地区乡村绅士化演化的过程与机制，得到以下结论：
+巴马盘阳河流域乡村绅士化是一个由人类行动者与非人类行动者、 “草根”行动者与
+机构行动者共同缔结的行动者网络 。在乡村绅士化形成与发展的 ANT 网络的转换过程
+中，关键行动者从“候鸟人”先锋、屯社精英向地方政府 、投资开发商更替 ；必经之点
+（OPP） 从“发展‘候鸟’旅游、共建长寿之乡 ”转向“发展大健康产业 ，打造世界寿
+乡” 。乡村绅士化演化经历了形成和发展阶段 ，在绅士化形成阶段 ， “草根绅士化”下的
+舒适移民经济孕育出舒适移民绅士化 ；在绅士化发展阶段 ，机构绅士化路径下的大健康
+产业发展分化出旅游绅士化和地产绅士化 ，乡村绅士化类型从单一的舒适移民绅士化向
+舒适移民、旅游和地产共构的“一地多类”绅士化演化。
+关键行动者更替及其功能角色转换 、绅士化路径变迁和主导产业更替与融合发展 、
+宏观乡村发展制度与地域自然人文环境共同作用于乡村绅士化的阶段演替与类型共生 。
+关键行动者更替及其角色功能转换主导乡村绅士化阶段演替 ，绅士化路径变迁和主导产
+业更替融合发展推动乡村绅士化类型演化 ，印证了绅士化机理的资本供给说和文化需求
+说的互补 ，是乡村绅士化演化的一般机制 。中国现阶段乡村宏观发展战略 （美丽乡村 、
+精准扶贫、乡村振兴） 和基本制度安排 （农村土地集体所有制 、保护农户权益的宅基地
+制度与地方政府主导区域发展的制度安排 ） 以及地域自然人文环境 （巴马盘阳河流域特
+殊的健康地理环境 、 “候鸟人”的健康地理依赖与 “巴马情结” 、壮族宗社力量与恋家恋
+地文化） 的综合作用下的行动者权利制衡 ，形塑出乡村绅士化的共生演化特征 ，是巴马
+盘阳河流域乡村绅士化演化的地域机制。
+6.2 讨论
+将乡村绅士化演化现象置于 ANT 网络视域下，对中国制度文化语境和西部地域环境
+特征的乡村绅士化的演化类型的多元性与形成机制的复杂性进行解析 ，是对 López-
+882
+--- PAGE 15 ---
+4 期 谭华云 等：基于行动者网络理论的乡村绅士化演化过程与机制解析
+Morales 呼吁关注欧美之外乡村绅士化的地域特征与多元力量 ，培育出更具发展性的乡村
+绅士化理论的回应
+[19]
+。巴马盘阳河流域乡村绅士化在阶段演替中 ，形成了路径并存 、类
+型共生的绅士化格局 ，不同于 Smith“蝶变”理论隐喻的伦敦城郊绅士化演化的主导力
+量、发生路径的替代特征
+[5]
+。在中国农村土地集体所有制、农村宅基地制度和政府主导乡
+村发展的基础制度安排下 ，中国农村绅士化在形成和发展阶段 ，都不同于西方土地私有
+制度背景下绅士人群对原住民的生活空间侵入和资本对乡村资源的强势掠夺
+[6, 10-11]
+，具有
+政府统筹、共同发展的社会主义特征 。对比中国东部都市城中村和城郊 ，巴马盘阳河流
+域乡村叠加了西部民族区域欠发达发展的区位属性和华南宗族性的团结型村庄文化属
+性，乡村绅士化演化体现了行动者制衡和共生演化特征 。对比广州小洲村从艺术群体自
+发集聚到文化创意产业与旅游融合发展的空间转换过程中 ，村民的强能动作用和村民空
+间抵抗下政府甚微的管治作用
+[26, 52]
+，巴马壮族屯社精英与宗族力量是乡村绅士化的参与
+者和推动者，但不具备珠三角绅士化过程中村民的强势抵抗能力 。相较长三角南京不老
+村，地方政府以撬动者 、统筹者和参与者的多重角色自上而下地主导乡村绅士化进程而
+言
+[29]
+，巴马形成了自下而上的“草根”绅士化和自上而下的机构绅士化路径并存 、 “一地
+多类”的绅士化格局。
+Phillips 等的系列研究表明行动者网络理论 （ANT） 方法的“转译”分析在乡村绅士
+化的概念辨析、实证研究和比较研究上具有方法适宜性
+[21, 48-49]
+。ANT 在乡村绅士化演化现
+象的研究上同样具有方法 （论） 的优势，适于呈现乡村绅士化演化的阶段演替脉络与共
+生演化特征，能凸显地域自然人文因素在乡村绅士化演化的作用 （人类行动者与非人类
+行动者共同作用 、区域内外行动者权利制衡 ） ，从而揭示乡村绅士化演化的地域机制 。
+ANT 凸显了自然形成的健康地理环境与人文积淀的长寿文化景观等非人类行动者的功用
+和“能动性” 。巴马健康地理环境与长寿文化景观是乡村绅士化发生与演化的基底。乡村
+绅士化伊始之时， “候鸟人”寻求的舒适美好生活依赖于巴马健康地理环境；而机构绅士
+化的登场也正由规模化的 “候鸟人”旅居生活与中小资本涌入的失序开发带来的环境景
+观压力这一关键异议而诱发 。从乡村可持续转型来看 ，自然万物有声而无言 ，ANT 哲学
+观契合人与自然融合的大地法理哲学视野下的人地关系观和新冠肺炎疫情下的人本价值
+回归
+[53]
+。舒适移民对健康地理环境的身体依赖及其 “巴马情结”和壮族敬神祭祖 、恋家
+恋地的乡土文化，利于人类行动者和非人类行动者的沟通与协商，共同守候“长寿家园” 。
+本文呈现了中国西部民族地域乡村绅士化过程的阶段演替过程与共生演化特征 ，揭
+示了乡村绅士化演化的一般机制和地域机制 ，可为中国特色乡村绅士化的理论建构提供
+案例支撑。但乡村绅士化演化是一个动态发展的复杂过程 ，案例地“草根”行动者对大
+型资本圈地、挤占游憩生活空间的间歇抵抗 ，非人类行动者对长寿资源环境 “污名”和
+长寿养生景观“异化”的无言异议，预示乡村绅士化的演化趋势 。城乡中国和乡村振兴
+背景下，如何协同人类行动者的旅游 、旅居、从业、投资的多元利益需求
+[54]
+，并兼顾非
+人类行动者的可持续发展 ？如何吸引并汇聚内生性与外源性的多元行动者资源 ，在传承
+传统乡村美学、守护乡村底蕴价值的同时 ，利用商业资本，融汇绅士化文化资本 ，从生
+产、生活、生态、文化、社会、景观多元维度 ，系统提升乡村吸引力
+[54]
+？从而优化乡村
+绅士化发展质量 ，实现乡村可持续转型 ，需要理论与实践的共同关注 。综上，本文的研
+究结论有待对同一案例地更长时段的历时性分析，亦需更多案例地的比较研究。
+致谢：感谢访谈对象的信息分享和匿名审稿专家的指导建议。
+883
+--- PAGE 16 ---
+地 理 学 报 77 卷
+参考文献(References)
+[ 1 ] Phillips M. Other geographies of gentrification. Progress in Human Geography, 2004, 28(1): 5-30.
+[ 2 ] Woods M. Rural. New Y ork: Routledge, 2011.
+[ 3 ] Pars ons D J. Rural Gentrification: The Influence of Rural Settlement Planning Policies. Brighton: University of Sussex,1980.
+[ 4 ] Phillips M. Rural gentrification and the processes of class colonisation. Journal of Rural Studies, 1993, 9(2): 123-140.
+[ 5 ] Smith D P . The Revitalisation of the Hebden Bridge district: Greentrified pennine rurality [D]. Leeds: University of
+Leeds, 1998.
+[ 6 ] Ghose R. Big sky or big sprawl? Rural gentrification and the changing cultural landscape of Missoula, Montana. Urban
+Geography, 2004, 25(6): 528-549.
+[ 7 ] Hines J D. The post- industrial regime of production/consumption and the rural gentrification of the new west
+archipelago. Antipode, 2012, 44(1): 74-97.
+[ 8 ] Gosnell H, Abrams J. Amenity migration: Diverse conceptualizations of drivers, socioeconomic dimensions, and
+emerging challenges. GeoJournal, 2011, 76(4): 303-322.
+[ 9 ] Pablo A G. Heritage and rural gentrification in Spain: The case of Santiago Millas. International Journal of Heritage
+Studies, 2017, 23(2): 125-140.
+[10] Solana-Solana M. Rural gentrification in Catalonia, Spain: A case study of migration, social change and conflicts in the
+Empordanet area. Geoforum, 2010, 41(3): 508-517.
+[11] Boscoboinik A. Becoming cities, losing paradise? Gentrification in the Swiss Alps//Pardo I, Prato G. The Palgrave
+Handbook of Urban Ethnography. Palgrave Macmillan, Cham: Springer International Publishing, 2018: 519-536.
+[12] Carrosio G, Magnani N, Osti G. A mild rural gentrification driven by tourism and second homes. Cases from Italy.
+Sociologia Urbana E Rurale, 2019, 119: 29-45.
+[13] Su therland L A. Agriculture and inequalities: Gentrification in a Scottish parish. Journal of Rural Studies,2019, 68: 240-250.
+[14] Thompson C, Johnson T, Hanes S. Vulnerability of fishing communities undergoing gentrification. Journal of Rural
+Studies, 2016, 45: 165-174.
+[15] Hayes M. Into the universe of the Hacienda: Lifestyle migration, individualism and social dislocation in Vilcabamba,
+Ecuador. Journal of Latin American Geography, 2015, 14(1): 79-100.
+[16] Macrae G. Community and cosmopolitanism in the new Ubud. Annals of Tourism Research, 2016, 59: 16-29.
+[17] Mamonova N, Sutherland L A. Rural gentrification in Russia: Renegotiating identity, alternative food production and
+social tensions in the countryside. Journal of Rural Studies, 2015, 42: 154-165.
+[18] Kocabıyık C, Loopmans M. Seasonal gentrification and its (dis)contents: Exploring the temporalities of rural change in
+a Turkish small town. Journal of Rural Studies, 2021, 87: 482-493.
+[19] López-Morales E. A rural gentrification theory debate for the Global South? Dialogues in Human Geography, 2018, 8
+(1): 47-50.
+[20] Nelson P B. Spatial and temporal scale in comparative approaches to rural gentrification. Dialogues in Human
+Geography, 2018, 8(1): 40-46.
+[21] Phillips M, Smith D P . Comparative approaches to gentrification: Lessons from the rural. Dialogues in Human
+Geography, 2018, 8(1): 3-25.
+[22] Phillips M, Smith D, Brooking H, et al. Re- placing displacement in gentrification studies: Temporality and multi-
+dimensionality in rural gentrification displacement. Geoforum, 2021, 118: 66-82.
+[23] Nelson P B, Hines J D. Rural gentrification and networks of capital accumulation: A case study of Jackson, Wyoming.
+Environment and Planning A: Economy and Space, 2018, 50(7): 1473-1495.
+[24] Simard M, Guimond L, Vézina J. Neo-rural populations and their relations with local decision makers in rural Québec:
+collaboration or conflict? Geo Journal, 2018, 83(3): 613-629.
+[25] Fang Y angang, Liu Jisheng. Diversified agriculture and rural development in China based on multifunction theory:
+Beyond modernization paradigm. Acta Geographica Sinica, 2015, 70(2): 257-270. [房艳刚, 刘继生. 基于多功能理论的
+中国乡村发展多元化探讨: 超越“现代化”发展范式. 地理学报, 2015, 70(2): 257-270.]
+[26] He Shenjing, Qian Junxi, Xu Y uxuan, et al. Spatial-temporal evolution of rural gentrification amidst rapid urbanization:
+A case study of Xiaozhou village, Guangzhou. Acta Geographica Sinica, 2012, 67(8): 1044-1056. [ 何深静, 钱俊希, 徐
+雨璇, 等. 快速城市化背景下乡村绅士化的时空演变特征. 地理学报, 2012, 67(8): 1044-1056.]
+[27] Kan K. Building SoHo in Shenzhen: The territorial politics of gentrification and state making in China. Geoforum,
+884
+--- PAGE 17 ---
+4 期 谭华云 等：基于行动者网络理论的乡村绅士化演化过程与机制解析
+2020, 111: 1-10.
+[28] Zhang Juan, Wang Maojun. The characteristics of the life space remodeling of tourisom village during rural
+gentrification: The case of Cuandixia in Beijing. Human Geography, 2017, 32(2): 137-144. [张娟, 王茂军. 乡村绅士化
+进程中旅游型村落生活空间重塑特征研究: 以北京爨底下村为例. 人文地理, 2017, 32(2): 137-144.]
+[29] Liu Lei, Zhu Xigang, Sun Jie. State- sponsored rural gentrification and its mechanism: A case study of Bulao village,
+Nanjing. Shanghai Urban Planning Review, 2019(2): 131-136. [刘蕾, 朱喜钢, 孙洁. 组织型乡村绅士化现象及机制研
+究: 以南京不老村为例. 上海城市规划, 2019(2): 131-136.]
+[30] Wang Hua, Su Weifeng. Tourism- driven rural gentrification: Cases study of two villages in Danxia Mount. Tourism
+Tribune, 2021, 36(5): 69-80. [ 王华, 苏伟锋. 旅游驱动型乡村绅士化过程与机制研究 : 以丹霞山两村为例 . 旅游学
+刊, 2021, 36(5): 69-80.]
+[31] Cai Xiaomei, Liu Meixin, Lin Jiahui, et al. Dynamic representation and formation mechanism of rural gentrification in
+the context of tourism development: A case study of Shangliang village, Huizhou, Guangdong. Tourism Tribune, 2021,
+36(5): 55-68. [蔡晓梅, 刘美新, 林家惠, 等. 旅游发展背景下乡村绅士化的动态表征与形成机制: 以广东惠州上良村
+为例. 旅游学刊, 2021, 36(5): 55-68.]
+[32] Chan J H, Iankova K, Zhang Y , et al. The role of self-gentrification in sustainable tourism: Indigenous entrepreneurship
+at Honghe Hani Rice Terraces world heritage site, China. Journal of Sustainable Tourism, 2016, 24(8-9): 1262-1279.
+[33] Zhao Y W. When guesthouse meets home: The time-space of rural gentrification in southwest China. Geoforum, 2019,
+100: 60-67.
+[34] Tan Huayun, Xu Chunxiao. The spatial pattern and formation mechanism of amenity migration- based rural
+gentrification: A case study of Panyang river basin of Bama in Guangxi. Tourism Tribune, 2021, 36(2): 40-53. [ 谭华云,
+许春晓. 舒适移民型乡村绅士化空间格局及其形成机制 : 以广西巴马盘阳河流域为例 . 旅游学刊, 2021, 36(2): 40-
+53.]
+[35] Tan Huayun, Xu Chunxiao. Characteristics and mechanism of rural gentrification driven by amenity migration: A case
+study of longevity villages in panyang river basin of Bama county. Economic Geography, 2019, 39(1): 207-214, 232. [谭
+华云, 许春晓 . 舒适移民驱动的乡村绅士化发展特征与机理分析 : 以巴马盘阳河流域长寿乡村为例 . 经济地理 ,
+2019, 39(1): 207-214, 232.]
+[36] Chen Peiyang. A review on gentrification studies in western countries. City Planning Review, 2021, 45(1): 94-104. [ 陈
+培阳. 西方绅士化研究进展. 城市规划, 2021, 45(1): 94-104.]
+[37] Lu Song, Zhang Hai, Rao Xiaofang. Research progress of rural gentrification in western countries. Human Geography,
+2019, 34(3): 1-6. [卢松, 张海, 饶小芳. 西方乡村绅士化研究进展. 人文地理, 2019, 34(3): 1-6.]
+[38] Maloutas T. Contextual diversity in gentrification research. Critical Sociology, 2012, 38(1): 33-48.
+[39] Latour B. Reassembling the Social. An Introduction to Actor- Network- Theory. New Y ork: Oxford University Press,
+2005.
+[40] Murdoch J. Networking rurality: Emergent complexity in the countryside//Cloke P , Marsden T, Mooney P . Handbook of
+Rural Studies. London: Sage, 2006: 171-184.
+[41] Woods M. Rural geography: Blurring boundaries and making connections. Progress in Human Geography, 2009, 33 (6):
+849-858.
+[42] Heley J, Jones L. Relational rurals: Some thoughts on relating things and theory in rural studies. Journal of Rural
+Studies, 2012, 28(3): 208-217.
+[43] Li Y H, Westlund H, Liu Y S. Why some rural areas decline while some others not: An overview of rural evolution in
+the world. Journal of Rural Studies, 2019, 68: 135-143.
+[44] Y uan Chao, Chen Pinyu, Kong Xiang, et al. Research on the interaction between actor- network- theory and human
+geography: Reconstruction, debate and reflection. Geographical Research, 2021, 40(2): 583-596. [ 袁超, 陈品宇, 孔翔,
+等. 行动者网络理论与人文地理学的交互关系研究: 重构、争辩与反思. 地理研究, 2021, 40(2): 583-596.]
+[45] Wang Pengfei, Wang Ruifan. Actor- network theory and commodification in rural space: A case study of Mayufang
+village in Beijing. Acta Geographica Sinica, 2017, 72(8): 1408-1418. [王鹏飞, 王瑞璠. 行动者网络理论与农村空间商
+品化: 以北京市麻峪房村乡村旅游为例. 地理学报, 2017, 72(8): 1408-1418.]
+[46] Hu Xiaoliang, Li Hongbo, Zhang Xiaolin, et al. Process and mechanism of the commodification of rural space in
+developed areas: A case study of Xixiang Village in Suzhou City. Progress in Geography, 2021, 40(1): 171-182. [ 胡晓
+亮, 李红波, 张小林, 等. 发达地区乡村空间商品化的过程与机制解析 : 以苏州市西巷村为例 . 地理科学进展, 2021,
+885
+--- PAGE 18 ---
+地 理 学 报 77 卷
+40(1): 171-182.]
+[47] Y ang Ren, Xu Qian, Zhou Jingdong, et al. Mechanism of rural space transformation in Fengjian Ancient Village of
+Shunde District, Foshan based on the actor network. Scientia Geographica Sinica, 2018, 38(11): 1817-1827. [ 杨忍, 徐
+茜, 周敬东, 等. 基于行动者网络理论的逢简村传统村落空间转型机制解析. 地理科学, 2018, 38(11): 1817-1827.]
+[48] Phillips M. Counterurbanisation and rural gentrification: An exploration of the terms. Population, Space and Place,
+2010, 16(6): 539-558.
+[49] Phillips M. Baroque rurality in an English village. Journal of Rural Studies, 2014, 33: 56-70.
+[50] Tan Huayun. Research on the amenity migration based rural gentrificationin Panyang river basin, Bama county, Guangxi
+[D]. Changsha: Hunan Normal University, 2019. [ 谭华云. 广西巴马盘阳河流域舒适移民型乡村绅士化研究 [D]. 长
+沙: 湖南师范大学, 2019.]
+[51] Tan Huayun, Xu Chunxiao. A study on the types and mechanism of seasonal immigrant community in Bama Panyang
+river basin. Human Geography, 2018, 33(5): 46-54. [谭华云, 许春晓. 巴马盘阳河流域季节性移民社区类型与形成机
+理. 人文地理, 2018, 33(5): 46-54.]
+[52] Fang Y uanping, Yi Ying, Bi Doudou. Inheritance and transmutation: Space transformation of Xiaozhou village,
+Guangzhou. Geographical Research, 2018, 37(11): 2318-2330. [ 方远平, 易颖, 毕斗斗. 传承与嬗变 : 广州市小洲村的
+空间转换. 地理研究, 2018, 37(11): 2318-2330.]
+[53] Liang Zhiping. A relationship between man and land from the perspective of legal philosophy. Reading, 2020(12): 44-
+53. [梁治平. 我与你: 一种法哲学视野中的人地关系. 读书, 2020(12): 44-53.]
+[54] Dai Liuyan, Zhou Guohua, He Lan. Rural attraction: Concept and formation mechanism. Economic Geography, 2019,
+39(8): 177-184. [戴柳燕, 周国华, 何兰. 乡村吸引力的概念及其形成机制. 经济地理, 2019, 39(8): 177-184.]
+Evolution process and mechanism of rural gentrification
+based on actor-network theory:
+A case study of Panyang River Basin of Bama County, Guangxi
+TAN Huayun
+1, 2, 3
+, ZHOU Guohua
+1, 4
+(1. School of Geographic Science, Hunan Normal University, Changsha 410081, China; 2. School of
+Geography and Planning, Nanning Normal University, Nanning 530001, China; 3. Key Laboratory of
+Environment Change and Resources Use in Beibu Gulf, Nanning 530001, China; 4. Hunan Key Laboratory of
+Geospatial Big Data Mining and Application, Changsha 410081, China)
+Abstract: Rural gentrification is a new path for rural transformation and revitalization under
+the background of two-way flow of urban and rural elements. This paper analyzes the evolution
+process, type and mechanism of rural gentrification based on actor- network theory (ANT)
+based on a diachronic field survey of rural gentrification in the Panyang River Basin of Bama
+County, Guangxi Zhuang Autonomous Region. The following results were obtained. ( 1) The
+evolution of rural gentrification is a dynamic actor- network jointly established by human and
+non- human actors, "grass- roots" actors and institutional actors. The evolution of rural
+gentrification has experienced a transition from initial to development stage, which has brought
+a series of changes. The key actors are replaced from the "amenity immigrants" pioneer and
+local elites to local governments and investment developers, while the OPP (obligatory passage
+point) has changed from "developing 'migratory bird' tourism and building a longevity village"
+to "developing comprehensive health industry and building a global longevity town". The path
+succession of rural gentrification changes from "grass- roots" gentrification to institutional
+886
+--- PAGE 19 ---
+4 期 谭华云 等：基于行动者网络理论的乡村绅士化演化过程与机制解析
+gentrification with the replacement of key actors from "amenity immigrants" pioneers, and the
+rural gentrified industry has changed from receiving amenity migrants and developing tourism
+to the integrated development of comprehensive health industry. The gentrification type has
+evolved from "amenity immigration oriented" to "tourism oriented" and "real estate oriented",
+and finally formed a mixed rural gentrification pattern of "multiple types in one place". ( 2)
+Factors such as the replacement of key actors along with their roles and functions, the path
+succession of rural gentrification, the replacement and integrated development of leading
+industry, China's macro rural development system, as well as the regional natural and cultural
+environment, which jointly affect the stage succession and type symbiosis of rural
+gentrification. The replacement of key actors along with their roles and functions
+transformation dominates the stage succession of rural gentrification, while the path succession
+of rural gentrification as well as the replacement and integrated development of leading
+industry, which jointly promotes the evolution type of rural gentrification, is the general
+mechanism of rural gentrification evolution. At present, China's rural macro development
+strategy (Beautiful Countryside Construction, Targeted Poverty Alleviation and Rural
+Revitalization) and basic institutional arrangements (rural land collective ownership,
+homestead system, and regional development dominated by the local government) as well as
+the regional natural and cultural environment (unique healthy geographical environment, and
+"migratory immigrants" healthy geographical dependence, combined with the actors' power
+balance under the comprehensive action comprised by "Bama complex", the Zhuang clan
+power and the rural nostalgia) shapes the symbiotic characteristics of evolution type, which is
+the regional mechanism of rural gentrification evolution. ( 3) Actor-network theory (ANT) is a
+conducive method to show the stage succession context and symbiotic characteristics of
+evolution type, and reveal the general mechanism and regional mechanism of rural
+gentrification evolution.
+Keywords: rural gentrification; evolution process; evolution type; evolution mechanism; actor-
+network theory; Panyang River Basin
+887

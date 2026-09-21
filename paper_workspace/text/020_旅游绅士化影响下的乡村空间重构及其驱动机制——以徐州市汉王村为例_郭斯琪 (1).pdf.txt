@@ -1,0 +1,1472 @@
+
+--- PAGE 1 ---
+旅游绅士化影响下的乡村空间重构及其驱动机制
+¡“¡“以徐州市汉王村为例
+郭斯琪
+1
+，史春云
+1*
+，钱月祥
+2
+，李 帆
+1
+(1. 江苏师范大学地理测绘与城乡规划学院，江苏 徐州 221116；2. 苏州科技大学地理科学与测绘工程学院，江苏 苏州 215009)
+摘 要：旅游驱动下的乡村绅士化作为乡村空间价值重塑的重要表现形式之一 ，在乡村振兴背景下受到极大关注 。
+论文从乡村旅游绅士化影响效应这一视角切入 ，依据实地调研数据及空间解译结果 ，剖析徐州市汉王村在旅游绅
+士化发展不同时期空间所呈现出的重构特征，并结合半结构式访谈数据，基于行动者网络理论，对空间重构机制进
+行分析。研究表明：① 依据旅游建设和发展历程 ，可将汉王村旅游绅士化进程划分为传统农业转型 、观光农业开
+发、乡村旅游发展和文旅融合转向 4 个阶段，不同阶段空间重构呈现出不同特征；② 旅游驱动下的乡村绅士化过程
+改变了汉王村的用地分布 、产业结构、人口构成和文化氛围 ，缓解了乡村空心化的部分问题 ，并对空间产生深远影
+响；③ 各级政府、村民、游客、投资商、艺术从业者、旅游资源等异质行动者利益目标的转变以及彼此间的联结与合
+作对汉王村空间重构产生作用。研究可为理解旅游驱动乡村振兴发展、引发乡村绅士化效应与破解空心村难题提
+供理论与实证参考。
+关 键 词：乡村空间重构；乡村旅游绅士化；驱动机制；行动者网络；徐州市汉王村
+乡村振兴作为实现中国式现代化的现实路径 ，
+近年来得到党和政府的高度重视 。产业是发展的
+根基，也是乡村振兴的核心 ，乡村旅游作为三产融
+合的新型产业形态 ，具有综合性强、关联度大、产业
+链长等特点 ，能够有效缓解乡村空心化 ，助力乡村
+的全面振兴
+[1]
+。在国家战略以及相关扶持政策的持
+续推动下 ，乡村旅游迎来新的发展机遇 ，吸引更多
+城市游客 、外来资本 、艺术从业者等社会群体大量
+涌入乡村地区
+[2]
+，重新激活乡村资源，并引发房屋修
+缮或新建、产业结构调整、人口结构更新、生态环境
+改善、文化氛围变化等乡村空间重构现象
+[3]
+，我们把
+这一现象称为发生在乡村地区的旅游绅士化 。在
+全面实施乡村振兴战略的时代背景下 ，乡村旅游绅
+士化现象将愈发普遍 ，外来绅士群体将会对乡村外
+部表征与内部功能带来哪些影响 ，各级政府和村民
+将如何在利益博弈之间找到应对之道 ，其中的机制
+是什么，与乡村空心化之间又有着怎样的联系 ？这
+些都是值得关注的问题 。为了更好地理解乡村旅
+游绅士化、乡村空间重构与乡村空心化之间的逻辑
+关系，本文以徐州市汉王村为案例地 ，主要关注旅
+游驱动下的乡村绅士化发展对乡村空间重构带来
+的影响、各利益相关者在空间重构过程中的行为逻
+辑以及与治理乡村空心化的关系 ，以期为理解旅游
+驱动乡村振兴发展 、引发乡村绅士化效应与破解空
+心村难题提供理论与实证参考。
+1 文献综述
+1.1 乡村旅游绅士化
+英国社会学家 Glass
+[4]
+根据伦敦城市中心出现
+收稿日期：2023-07-12；修订日期：2024-03-16。
+»ø‰ðˇî˜¿£”国家自然科学基金项目(42071168)；江苏师范大学研究生科研与实践创新计划项目 (2022XKT0089)。[Foundation:
+National Natural Science Foundation of China, No. 42071168; Postgraduate Research and Practice Innovation Program
+of Jiangsu Normal University, No. 2022XKT0089. ]
+µÚÒ»×÷Õß…ò‰Ø£”郭斯琪(1999— )，女，江苏南京人，硕士生，主要从事旅游地理研究。E-mail: 1587570667@qq.com
+*˝¤—¯×÷Õß…ò‰Ø£”史春云(1971— )，女，江苏常州人，博士，教授，硕士生导师，主要从事旅游地理与地理教育研究。
+E-mail: shichunyun@163.com
+引用格式：郭斯琪, 史春云, 钱月祥, 等. 旅游绅士化影响下的乡村空间重构及其驱动机制: 以徐州市汉王村为例 [J]. 地理科学进展, 2024, 43(5):
+966-980. [Guo Siqi, Shi Chunyun, Qian Y uexiang, et al. Rural spatial restructuring and its driving mechanism under the influence of tourismgen-
+trification: A case study of Hanwang V illage in Xuzhou City . Progress in Geography ,2024, 43(5): 966-980. ] DOI: 10.18306/dlkxjz.2024.05.009
+966-980 页
+第 43 卷 第 5 期
+2024 年 5 月
+地 理 科 学 进 展
+Progress in Geography
+V ol.43, No .5
+May 2024
+--- PAGE 2 ---
+第 5 期 郭斯琪 等：旅游绅士化影响下的乡村空间重构及其驱动机制
+的由中产阶层迁入引发的一系列社会阶层结构变
+化和地价上涨的现象 ，于 1964 年在 London: Aspect
+of Change 一 书 中 首 次 提 出“ 绅 士 化”(gentrifica-
+tion)，强调阶层的分化及空间的重构
+[5]
+。随着西方
+国家居民消费观念转变 ， “逆城市化 ”现象出现 ，大
+大激发了学者对于乡村领域的关注 。1980 年，英国
+社会学家 Parsons
+[6]
+在对国内乡村居民阶级组成的
+研究中发现，乡村地区在不断的流变与形塑中正经
+历着与城市地区相类似的绅士化进程 ，由此提出
+“乡村绅士化”(rural gentrification)，意指为寻求居住
+与休闲空间 ，城市中的中产阶层迁移到乡村地区 ，
+进而引发人口置换 、阶级重组、房屋改建、地价上涨
+等一系列社会空间与物质空间重构的过程
+[7]
+。经过
+数十年的发展，绅士化现象不再局限于西方发达城
+市，正逐渐发展成为一个全球化问题
+[8]
+。20 世纪 90
+年代末，薛德升
+[9]
+将西方绅士化概论引入国内 ，作为
+一个新兴概念，早期的研究主要围绕城市社会空间
+的发展
+[10]
+、旧城更新
+[11-12]
+等主题进行展开 。随着社
+会经济的快速发展 ，城市间的竞争进一步加剧 ，旅
+游业作为全球规模最大的产业之一 ，是提升市场竞
+争力的主要手段 ，也是促进城市在空间 、功能等方
+面产生重组和更新的重要推动力
+[13]
+。美国社会学
+家 Gotham
+[14]
+于 2005 年首次提出“旅游绅士化”(tour-
+ism gentrification) ，系指通过旅游业的发展使中产
+阶级居住的邻里地区转化为一个相对富裕和专有
+区域的过程 。赵玉宗等
+[15]
+在 2006 年首次基于全球
+化背景下的旅游绅士化概念 ，探讨旅游开发与城市
+更新过程。随后，国内大量学者对旅游绅士化现象
+展开了广泛且细致的研究 ，早期研究主要集中在城
+市地区 ，内容涉及自驾车旅游
+[16]
+、文化遗产地
+[17-18]
+、
+历史文化街区
+[19-20]
+的旅游绅士化现象等 。随着中国
+城市中产阶级的休闲需求愈发多元以及乡村振兴
+战略的全面推进 ，旅游业的发展逐渐延伸至乡村地
+区并持续向好
+[21]
+， “乡村旅游绅士化 ”(rural tourism
+gentrification)现象应运而生 ，强调旅游发展在乡村
+绅士化过程中的作用和影响 ，是改善乡村环境 、吸
+纳专业人才 、刺激经济增长 、加强城乡交流的有效
+载体之一 ，主要表现在物质景观改变 、人口结构变
+化、产业结构调整和社会文化变迁 4 个方面
+[22]
+，并深
+刻反映在各类空间的重构上 ，对于缓解乡村土地空
+心化、人口空心化 、产业空心化以及社会活力空心
+化具有重要的促进作用。
+1.2 乡村空间重构
+西方国家大规模的城市化进程起源于近代的
+工业革命 。20 世纪 70 年代起 ，伴随后工业化和逆
+城市化进程， “生产主义”下的乡村发展模式遭到抨
+击，乡村空间开始不断重组和更新以适应新的时代
+变化，出现消费转向、社会—文化转向以及多功能转
+向的趋势 ， “后生产主义 ”理念由此蓬勃兴起
+[23- 25]
+。
+此后，关于乡村空间的研究在内容上实现了多维拓
+展， “重构”(restructuring)一词出现并广泛应用
+[26]
+，地
+理学
+[27-28]
+、社会学
+[29]
+、规划学
+[30]
+等领域的学者基于学
+科性质从不同的视角对乡村空间重构进行阐述 ，研
+究体系逐渐完善 。20 世纪 90 年代末是中国即将进
+入城市化快速发展的关键时期 ，城乡作为一个相互
+依存、互利共生的有机体 ，产生的人口流动和经济
+社会发展要素间的交互作用 ，使得乡村空间必须作
+出响应
+[31]
+。在早期阶段 ，学界对于乡村空间重构的
+研究多集中在物质空间层面 ，主要关注农村居民点
+布局
+[32]
+、景观结构特征
+[33]
+等方面。随着城镇化进程
+的加速推进 ，城乡要素双向流动趋势明显增强 ，乡
+村空间重构的研究视线逐渐拓宽 ，研究内容日益丰
+富，呈现出物质空间、经济空间、社会空间和文化空
+间相互交织 、多重叠加的态势
+[34]
+，具体表现为乡村
+聚落物质空间向城镇型转化 、产业空间向非农化转
+型、社会阶层结构日益多元 、文化空间充斥着现代
+性要素并实现再生产等
+[35-36]
+。在乡村振兴战略视角
+下，乡村旅游作为“后生产主义 ”转向的产物
+[37]
+，已
+经成为诸多乡村地区发展的动力 、复兴的途径 ，也
+是实现城乡融合发展的关键路径之一 ，其通过重塑
+乡村的聚落 、经济和社会结构 ，对空间重构过程产
+生深远影响，以旅游服务业为主的复合型空间不断
+增加，促使乡村在消费空间 、休闲娱乐空间等层面
+提出新的更高要求，亟需学界作出积极回应
+[38]
+。
+综上，本文基于乡村振兴战略背景 ，从旅游绅
+士化产生的影响效应出发 ，以徐州市汉王村为例 ，
+重点分析乡村旅游绅士化对各类空间产生的深远
+影响以及乡村空间的不断重构与优化对旅游绅士
+化的促进作用，并从行动者网络视角分析乡村旅游
+绅士化、乡村空间重构与乡村空心化之间的逻辑机
+制，为相关地域空心村治理提供可资借鉴的经验 ，
+从而促进乡村的全方位振兴。
+2 研究区概况与数据来源
+2.1 研究区概况
+“两汉文化看徐州，徐州汉文化看汉王” ，徐州市
+铜山区汉王镇汉王村下辖汉王 、丁塘、东紫山、西紫
+967
+--- PAGE 3 ---
+地 理 科 学 进 展 第 43 卷
+山、朱庄、纪庄、小山口 7 个自然村 ，总面积 11.5893
+km
+2
+，东紫山村和西紫山村是汉王村旅游重点开发
+和打造的区域，统称紫山村(图 1)。之所以选择汉王
+村进行案例研究主要是出于以下 4 个方面的考虑 ：
+① 近城连湖的地理区位优势 。汉王村距离徐州市
+主城区仅 15 km，交通便利 ，并且毗邻云龙湖国家
+5A 级景区。② 自然与人文旅游资源丰富 。汉王村
+不仅拥有拔剑泉 、凤岭山 、汉王水库等山水秀美的
+生态资源 ，而且还孕育了大批历史文化名人 ，如著
+名画家齐白石的老师张伯英 、以评点《金瓶梅》而闻
+名于世的文学评论家张竹坡等 ，历史文化气息浓
+厚。③ 旅游开发已具备一定基础 。汉王村于 2006
+年以来大力发展休闲观光农业 ，为旅游业的发展奠
+定了扎实基础 ，2014 年正式进行旅游开发 ，2019 年
+入选首批江苏省乡村旅游重点村 ，同年 12 月入选
+“2019 年中国美丽休闲乡村 ” ，2020 年 8 月又成功入
+选第二批全国乡村旅游重点村 。④ 乡村旅游绅士
+化影响下的空间重构阶段特征明显 。汉王村旅游
+绅士化发展初期更多受政府决策影响 ，而伴随旅游
+环境的不断改善 ，绅士群体起到更大作用 ，通过盘
+活土地资源、改善人居环境、拓宽就业渠道、丰富文
+化生活等方式对乡村物质景观 、产业结构 、人口组
+成和文化氛围带来不同程度的影响 ，并反映在其空
+间重构上。
+2.2 数据来源与处理
+2.2.1 土地调查相关数据
+为了直观表现出汉王村在旅游开发前后的土
+地利用变化情况，以 2014 年汉王村正式进行旅游开
+发的时间为节点 ，运用第二次全国土地调查 (以下
+简称“二调”)和第三次全国国土调查 (以下简称“三
+调” ，原名为“第三次全国土地调查” ，自 2018 年自然
+资源部组建后改名为“第三次全国国土调查 ”)中的
+相关数据制作土地利用转移矩阵 。其中 ：二调于
+2007 年 7 月 1 日开始 ，并以 2009 年 12 月 31 日为标
+准时点发布调查数据 ；三调于 2017 年第四季度开
+始，并以 2019 年 12 月 31 日为标准时点发布调查数
+据。由于两次全国土地调查的用地类型划分标准
+不一，因此参考刘纪远等
+[39]
+在“中国 20 世纪 LUCC
+时空平台”建立的 LUCC 分类系统，将二、三调的用
+地类型进行重分类 ，统一归类出相同的大类 (表 1)。
+结合研究需要，考虑用地的旅游功能。
+2.2.2 实地调研数据
+笔者于 2021 年 6 月 19—20 日对汉王村各自然
+村进行走访调研 ，主要观察主客共享公共空间的规
+模、分布 、利用情况等 ；此后多次前往进行跟踪调
+研，主要考察“紫山艺术村 ”的建设与运营情况 ，并
+对其外部景观设计 、内部结构特征、商铺经营状况、
+游客体验活动等内容进行详细记录。
+2.2.3 访谈数据
+主要采取半结构式访谈的形式 ，获取游客的出
+行动机和空间偏好以及村民对发展旅游和公共空
+间建设的真实感受等 ；与徐州市铜山区旅游服务中
+心科长进行座谈 ，了解汉王村旅游发展历程以及各
+级政府和相关部门对旅游产业发展的态度和措施
+等；调研“紫山艺术村”开发商的投资初衷与项目实
+施情况 、村民和游客对于艺术村建设的看法与态
+度、艺术从业者和其他创业者的选址动机以及与当
+地村民和其他搬迁者的关系等 。除了座谈交流会 ，
+其余走访均以游客身份进入现场 ，得到访谈材料如
+表 2 所示。
+图 1 研究区区位
+Fig.1 Location of the study area
+968
+--- PAGE 4 ---
+第 5 期 郭斯琪 等：旅游绅士化影响下的乡村空间重构及其驱动机制
+2.3 研究方法
+2.3.1 土地利用转移矩阵
+土地利用转移矩阵是马尔柯夫模型在土地利用
+变化方面的应用
+[40-41]
+，通常以矩阵的形式将两个不同
+时期的土地覆盖类型间互相转换的数量关系展现
+出来，可以全面地体现出一个区域中不同土地利用
+类型之间的转化趋势和转移速率 ，是反映空间重构
+的常用定量测度方法之一
+[42-43]
+。公式如下所示：
+表 1 汉王村二、三调用地类型划分与本文分类
+Tab.1 Land use types of Hanwang Village in two land use surveys and the classification in this study
+第二次全国土地调查(2009 年底)
+一级类型
+耕地
+林地
+园地
+—
+水域
+—
+城乡建设用地
+交通水利用地
+其他建设用地
+其他农用地
+自然保留地
+本文分类
+耕地
+林地
+园地
+草地
+水域
+旅游用地
+城 乡 、工 矿 、居
+民用地
+未利用地
+第三次全国国土调查(2019 年底)
+一级类型
+耕地
+林地
+园地
+草地
+水域
+商业服务业用地
+工矿用地
+住宅用地
+特殊用地
+交通水利用地
+公共管理与公共服
+务用地
+其他土地
+二级类型
+旱田、水浇地、水田、设施农用地
+乔木林地、其他林地
+果园、可调整果园、其他园地
+其他草地
+水库水面、坑塘水面、河流水面、沟渠、
+可调整养殖坑塘
+商业服务设施用地
+工业用地、采矿用地
+城镇住宅用地、农村宅基地
+—
+公路用地、城镇村道路用地、交通服务
+场站用地、农村道路、水工建筑用地
+机关团体新闻出版用地 、科教文卫用
+地、公用设施用地 、公园与绿地 、广场
+用地
+裸岩石砾地
+本文分类
+耕地
+林地
+园地
+草地
+水域
+旅游用地
+城乡、工矿、
+居民用地
+旅游用地(公园与绿地、广场
+用地)
+城乡 、工矿 、居民用地 (机关
+团体新闻出版用地 、科教文
+卫用地、公用设施用地)
+未利用地
+注：汉王村二调数据中不涉及二级分类 ，三调数据的一级和二级类型划分依据来源于《江苏省村庄规划编制指南 (试行) (2020 年版)》和
+《国土空间调查、规划、用途管制用地用海分类指南 (试行)》 。旅游用地具体包括商业服务业用地 、公共管理与公共服务用地中对游客直接开
+放的公园绿地和广场用地 ，其中部分可能带有旅游景观功能的园地 、林地和草地，因其在功能上已发生改变 ，故按照旅游用地进行统计 。由
+于计算土地利用变化需要两期的分类前后一致，而二调数据中没有草地这一用地类型，并且汉王村正式进行旅游开发的时间是 2014 年，处于
+二调时间之后，所以将汉王村二调数据中草地和旅游用地的面积均设为 0。
+表 2 访谈材料总结
+Tab.2 Summary of interview materials
+访谈对象
+本地村民
+外来游客
+基层政府工作人员
+创业精英
+投资商
+人数
+48
+41
+3
+7
+2
+居住地点
+汉王村
+徐州市区
+汉王村
+汉王村和市区往返
+徐州市区
+内容
+对当地发展旅游业基本上持支持态度；参与旅游活动的意愿强烈；对艺术从业者的
+到来总体表示欢迎，认为提升了人居环境质量，但少部分村民仍表示不理解
+因缓解工作和生活的压力、享受自然风光和感受传统文化，加上汉王村邻近市区而
+选择到此进行乡村旅游；对“紫山艺术村”的打造表示肯定，无论是外部环境还是内
+部体验都符合自身的审美与消费需求
+汉王村旅游发展速度很快，远景可期；与外来资本合作打造的“紫山艺术村”在一定
+程度上缓解了空心化问题，下一步将与旅行社进行合作，接待成团游客，吸引更多
+青壮年返乡创业，提升内生动力
+乡村房租低廉、紧邻市区以及环境优良是选址的关键因素；经营方式以参观、体验和
+研学为主，采用自媒体推广的形式进行引流；收益多来自于回头客，同行之间几乎不
+存在竞争；村民受教育程度普遍较低，在民房流转问题上常出现沟通不畅的情况
+受利益驱动，选择开拓乡村市场；自持股份，经营业态多元化；与村民和创业者之间
+的关系良好，利益分配机制合理
+注：作者根据实际调研情况整理所得。
+969
+--- PAGE 5 ---
+地 理 科 学 进 展 第 43 卷
+S =(Sij)n × n =
+■
+■
+|
+|
+■
+■
+|
+|
+S11 ⋯ S1n
+⋮ ⋱ ⋮
+Sn1 ⋯ Snn
+(1)
+式中：Sij 为 k 时期土地类型 i 转变为(k+1)时期土地类
+型 j 的面积，n 为研究区域土地利用类型的数目。
+为了更好地体现整体与部分的关系 ，避免因某
+一土地类型总面积较小而得到转移量也较小 ，从而
+不能很好地表现出此土地类型变化程度的情况 ，再
+计算出各土地类型面积转移量的占比 ，以此更加直
+观地反映各类土地面积的转出与转入情况 。公式
+如下所示：
+P =(Pij)n × n =
+■
+■
+|
+|
+■
+■
+|
+|
+P11 ⋯ P1n
+⋮ ⋱ ⋮
+Pn1 ⋯ Pnn
+(2)
+式中：Pij 为 k 时期土地类型 i 转变为(k+1)时期土地类
+型j的面积占比。
+2.3.2 空间注记分析法
+空间注记 (space notation) 指使用图画 、照片、文
+字等形式对空间要素 、使用和感受等进行的标注和
+记录，包括相片注记 、动态影像注记和空间速写注
+记的直接表达方式以及空间图示注记 、语义符号注
+记和文字描述注记的抽象表达方式
+[44]
+。本文利用
+空间注记分析法，在 2022 年“紫山艺术村”初具规模
+后进行深度的补充调研 ，主要对艺术村的外部景观
+和内部构成进行拍摄与记录 ，感受各空间要素的关
+系，形成对主体研究区的基本意向感知。
+2.3.3 行动者网络理论
+行动者网络理论 (actor-network theory, ANT)是
+由法国社会学家 Callon
+[45]
+、Latour
+[46]
+、和 Law
+[47]
+在 20
+世纪 80 年代中期提出的一种社会学分析方法 。从
+本质上看，行动者网络是一个“动态网络” ，强调事物
+间的交互、变化和发展的过程
+[48]
+，并通过行动者们参
+与转译来予以实现 ，具体包括问题呈现 、利益赋予、
+征召、动员和异议 5 个基本环节
+[49]
+。基于行动者网
+络理论，剖析异质行动者在汉王村旅游绅士化发展
+过程中的行为动机与作用 ，阐释各类空间发生重构
+的驱动机制。
+3 汉王村旅游绅士化与空间重构的阶
+段特征
+结合汉王村发展历程及其过程中发生的大事
+件
+①
+，将汉王村旅游绅士化进程划分为以下4个阶段。
+3.1 1981—2005 年：乡村工业化驱动下的传统农业
+转型阶段
+汉王村种植玫瑰花已有 2000 多年的历史，经中
+国科学院植物研究所考察 ，定名为“中国红玫瑰 ” ，
+其年产量占全国产量的 1/4 左右，因此被称为“中国
+红玫瑰之乡”
+[50]
+。1949 年之前，整体种植面积不大 ，
+多呈野生状。之后的 20 多年里虽有发展，但受“左”
+的思想影响，整体发展较为缓慢。1978 年改革开放
+后，汉王村把生产玫瑰花作为多种经营的重点项
+目，开始大面积种植 。1981 年，在乡村工业化的驱
+动下，汉王村办起炼油厂 ，就地加工提炼本地所产
+玫瑰花 ，并采用加工过的玫瑰花酿造成玫瑰露酒
+进行售卖 ，汉王村产业结构从单一的传统 农业经
+济结构转变为“以工为主、农业为辅”的复合型经济
+结构
+[51-52]
+。但总体上工业不强 ，农业落后，工农业无
+法支撑村民基本生活 ，旅游开发更是处于构想阶
+段，并未付诸行动，村民开始大量外出务工。
+3.2 2006—2013 年：美丽乡村建设下的观光农业开
+发阶段
+伴随着社会主义新农村建设的扎实推进以及
+美丽乡村建设行动的持续深入 ，汉王村在设施配
+套、环境治理 、精神文明建设等方面取得阶段性成
+效，2008 年被评定为市级新农村示范村 ，并尝试转
+变曾经以工农业为主的产业发展模式 ，把发展经济
+的着力点放在休闲观光农业上 ，先后洽谈签约月亮
+湾生态农林项目 、纳帕溪谷农业休闲项目 、中欧有
+机农业科技园等一批重大高效的农业观光项目 ，使
+得传统农业逐步向生态农业 、设施农业 、科技农业
+和旅游观光农业发展
+[53]
+。如果说乡村工业化在一
+定程度上解构了汉王村传统农业生产功能 ，那么不
+断发展壮大的休闲观光农业则加速解构了汉王村
+生产主义功能，并为乡村旅游绅士化的发展奠定了
+良好基础
+[54]
+。就整体而言 ，虽然汉王村的外部环境
+有所改善 ，但由于资金保障不到位 ，多数项目未能
+真正落地，经济困境迫使长期进城务工群体逐渐增
+多，乡村陷入空心化。
+3.3 2014—2019 年：政企合力推动下的乡村旅游发
+展阶段
+地方政府为打破前期发展中的困局，于 2014 年
+率先引入徐州市铜山区汉王旅游开发有限公司 ，通
+过政企合作的方式 ，共同打造旅游吸引核形成游客
+“聚集” ，先后开发建设“生态颐养小镇 ”项目、汉王
+① 大事件的选定标准为该事件较大影响了汉王村的空间变迁，参考来源为《铜山县志(1978—2010)》和 2008—2022 年的《铜山年鉴》 。
+970
+--- PAGE 6 ---
+第 5 期 郭斯琪 等：旅游绅士化影响下的乡村空间重构及其驱动机制
+农业科技示范园 、徐州圣得户外运动基地 、田源溪
+语自然乐园 、拔剑泉景区等一批旅游项目
+[53]
+。为了
+让游客获得更好的游览体验 ，并吸引更多外来资本
+下乡投资，地方政府格外注重提升村容村貌和改善
+人居环境，持续加大对旅游基础设施的投入和支持
+力度，使得村庄传统面貌迅速发生改变 ，物质空间
+被塑造成为城市人群的消费场所 ，乡村居民的生活
+观念和生活方式也在兴旺的旅游发展势头中发生
+转变，对村庄环境和空间使用功能提出更高要求 ，
+出现更多样化的土地利用类型 ，其中商业服务业用
+地以及公共管理与公共服务用地中对游客直接开
+放的公园绿地和广场用地开始增多 ，并促使传统农
+用地的景观生成 、生态涵养 、农事体验 、康养福祉 、
+科普研学等衍生功能得到加强 ，游憩功能凸显 ，为
+乡村旅游发展创造良好条件 。如图 2 所示，2009 年
+汉王村尚未正式进行旅游开发时 ，土地利用以耕地
+与未利用地为主 ，功能单一 ，仅用于满足村民的基
+本生产生活需求 。随着乡村旅游的发展 ，汉王村土
+地利用类型发生显著变化 ，耕地与未利用地逐步向
+园地、林地、草地和水域等生态用地以及旅游用地
+转换，打破了以往均质的乡土空间构成 ，向以景观
+更加丰富多样的旅游空间转型 。在 2009—2019 年
+的 10 年间，汉王村未利用地的利用效率明显提高，转
+出量占比最大，为 88.25%，其中位列前 4 位的分别为
+园 地 30.05% 、城 乡 工 矿 居 民 用 地16.59% 、草 地
+14.33%以及林地 13.53%；从旅游用地的转入量来
+看，耕地占比最大 ，为 4.93%(表 3)。随着慕名而来
+的城市游客日益增多 ，农村劳动力向非农产业迅速
+转移，越来越多的村民选择参与旅游服务 ，例如成
+为民宿管家、农家乐服务员、安保人员等，产业链条
+进一步延伸的同时使得村民实现“身份”的转变，人
+口社会阶层结构愈加丰富多样 ，空间逐渐向集生
+产、居住 、休闲 、娱乐等功能为一体的复合空间转
+变，旅游环境日趋成熟，旅游绅士化现象初现。
+3.4 2020 年至今：艺术乡建赋能下的文旅融合转向
+阶段
+无论是从外部环境状况还是村民的生活条件
+来看，旅游介入后的汉王村都发生了翻天覆地的变
+化，具体表现在各类空间的优化与重构上 ，这为深
+化旅游绅士化发展打下了坚实基础 。但从当地人
+口角度来看，虽然旅游的发展为村民提供了部分在
+地就业的机会 ，但大城市的“虹吸效应 ”依旧强烈 ，
+加上汉王村紧靠市中心 ，村中的青年人仍然趋向于
+在经济发达的地区谋生 ，乡村发展的活力与动力难
+以激发
+[55]
+。为吸引和留住更多年轻人 ，地方政府紧
+随文旅深度融合的市场需求新导向 ，立足当地特色
+图 2 2009、2019 年汉王村土地利用空间分布
+Fig.2 Spatial change of land use of Hanwang Village in 2009 and 2019
+971
+--- PAGE 7 ---
+地 理 科 学 进 展 第 43 卷
+资源，联合乡贤 、投资商 、教育家 、艺术从业者等绅
+士群体推出更加契合城市游客精神文化需求的优
+质产品 ，着力在文化旅游产业建设上取得新突破 ，
+为乡村振兴注入更强动力 。2020 年，由徐州市土生
+土长的民营企业家王昌庆在汉王紫金山麓个人投
+资兴建的集收藏 、陈列、交流、鉴赏、教学为一体的
+综合性文化艺术场所 ——张伯英书院的主体工程
+全部竣工 ，同时配套建设的紫金山环山游步道 、山
+顶巍峨壮观的 5 层宝塔汉风塔 、山下 2 万 m
+2
+的文化
+广场及其南侧的仿古大戏台也已完成并交付使用 ，
+显著提升了村庄的文化发展环境 ，成为外界认识汉
+王村的又一个窗口。2021 年，汉王村村委会与徐州
+蝶韵文化发展有限公司进行合作 ，共同成立文旅融
+合项目工作推进组 ，依托紫山村大量的闲置土地资
+源、良好的田园风光、丰厚的文化资源、完善的旅游
+基础设施，采用招才引智政策 ，吸引民间手工艺人 、
+非遗传承人和其他艺术从业者入驻 ，致力打造非遗
+传统村落项目“紫山艺术村 ”(图 3)。伴随艺术元素
+和非遗基因的注入 ，村内年久失修的闲置老屋在艺
+术从业者的修葺下“蝶变重生”为非遗工作室、农家
+书屋、民俗博物馆等一系列公共文化空间 ，周围的
+景观空间也相应地进行美化改造以与整村的艺术
+氛围相契合 。乡村振兴除了要“塑形 ” ，关键还要
+“铸魂” ，为坚持特色化的发展方向 ，艺术从业者们
+积极策划并连续举办七夕游园会 、中秋诗歌音乐
+会、元宵非遗游园会等特色节庆和游学教育活动 ，
+表 3 2009—2019 年汉王村土地利用转移矩阵
+Tab.3 Land use transfer matrix between 2009 and 2019 in Hanwang Village (km2)
+2009 年
+耕地
+林地
+草地
+园地
+水域
+城乡、工矿、
+居民用地
+旅游用地
+未利用地
+转入总计
+2019 年
+耕地
+—
+—
+—
+0.0368
+(2.79%)
+[0.32%]
+0
+(0)
+[0]
+0.3335
+(19.17%)
+[2.88%]
+0.0310
+(27.75%)
+[0.27%]
+0.2279
+(10.56%)
+[1.97%]
+0
+(0)
+[0]
+0.2642
+(11.87%)
+[2.28%]
+0.8934
+(72.15%)
+[7.71%]
+林地
+0.0513
+(1.52%)
+[0.44%]
+—
+—
+—
+0
+(0)
+[0]
+0.1089
+(6.26%)
+[0.94%]
+0
+(0)
+[0]
+0.0689
+(3.19%)
+[0.59%]
+0
+(0)
+[0]
+0.3012
+(13.53%)
+[2.60%]
+0.5303
+(24.50%)
+[4.58%]
+草地
+0.0165
+(0.49%)
+[0.14%]
+0.1129
+(8.57%)
+[0.97%]
+—
+—
+—
+0.0202
+(1.16%)
+[0.17%]
+0
+(0)
+[0]
+0.0776
+(3.60%)
+[0.67%]
+0
+(0)
+[0]
+0.3191
+(14.33%)
+[2.75%]
+0.5463
+(28.15%)
+[4.71%]
+园地
+0.9224
+(27.35%)
+[7.96%]
+0.2526
+(19.18%)
+[2.18%]
+0
+(0)
+[0]
+—
+—
+—
+0.0319
+(28.56%)
+[0.28%]
+0.4349
+(20.15%)
+[3.75%]
+0
+(0)
+[0]
+0.6690
+(30.05%)
+[5.77%]
+2.3108
+(125.28%)
+[19.94%]
+水域
+0.2123
+(6.29%)
+[1.83%]
+0.0006
+(0.05%)
+[0.01%]
+0
+(0)
+[0]
+0.0610
+(3.51%)
+[0.53%]
+—
+—
+—
+0.2007
+(9.30%)
+[1.73%]
+0
+(0)
+[0]
+0.0274
+(1.23%)
+[0.24%]
+0.5020
+(20.38%)
+[4.33%]
+城乡、工矿、
+居民用地
+0.3816
+(11.31%)
+[3.29%]
+0.1156
+(8.78%)
+[1.00%]
+0
+(0)
+[0]
+0.3870
+(22.25%)
+[3.34%]
+0.0173
+(15.49%)
+[0.15%]
+—
+—
+—
+0
+(0)
+[0]
+0.3694
+(16.59%)
+[3.19%]
+1.2709
+(74.42%)
+[10.97%]
+旅游用地
+0.1663
+(4.93%)
+[1.43%]
+0.0001
+(0.01%)
+[0]
+0
+(0)
+[0]
+0.0514
+(2.95%)
+[0.44%]
+0.0018
+(1.61%)
+[0.02%]
+0.0526
+(2.44%)
+[0.45%]
+—
+—
+—
+0.0143
+(0.64%)
+[0.12%]
+0.2865
+(12.58%)
+[2.47%]
+未利用地
+0.0010
+(0.03%)
+[0.01%]
+0.0667
+(5.06%)
+[0.58%]
+0
+(0)
+[0]
+0.0052
+(0.30%)
+[0.04%]
+0
+(0)
+[0]
+0.0358
+(1.66%)
+[0.31%]
+0
+(0)
+[0]
+—
+—
+—
+0.1087
+(7.05%)
+[0.94%]
+转出总计
+1.7514
+(51.92%)
+[15.11%]
+0.5853
+(44.43%)
+[5.05%]
+0
+(0)
+[0]
+0.9672
+(55.60%)
+[8.35%]
+0.0820
+(73.41%)
+[0.71%]
+1.0984
+(50.89%)
+[9.48%]
+0
+(0)
+[0]
+1.9646
+(88.25%)
+[16.95%]
+—
+—
+—
+注：小括号里的数据代表各土地类型面积转移量的占比，中括号里的数据代表转换的用地占全村用地的比例。
+972
+--- PAGE 8 ---
+第 5 期 郭斯琪 等：旅游绅士化影响下的乡村空间重构及其驱动机制
+吸引大量游客到访 ，乡村游憩公共空间的内在活力
+被进一步激发，所营造出的文化氛围还能够在潜移
+默化之中陶冶村民的思想情操并改善其精神面貌 ，
+同时就近就业渠道的持续拓宽也促使大量外出村
+民返乡自主创业 ，社会空间环境在不同主体的日常
+实践活动过程中愈加交错复杂 。愈发向好的旅游
+发展态势，加上日臻完善的交通条件和旅游消费的
+生活化转向，游客对目的地的凝视和体验不再局限
+于传统的热门景点 ，而是全方位 、全领域和全过程
+的，乡村康养旅居由此成为新潮流 ，二套住房市场
+兴起。2021 年 5 月，由金科地产精心打造的汉王听
+泉小镇项目正式开盘出售 ，同年 9 月，汉王镇首家
+“医养结合 ”的大型养老院 ——金秋晨曦康养产业
+园正式开业 ，文旅产业链条持续延长 ，空间价值进
+一步显现，旅游绅士化现象显著。
+4 基于行动者网络理论的汉王村空间
+重构机制
+4.1 汉王村行动者网络构建
+4.1.1 行动者组成
+在汉王村旅游绅士化的发展过程中 ，参与行动
+者网络构建的主要包括铜山区政府 、汉王镇政府 、
+汉王村村委 、投资商 、艺术从业者 、新老村民 、游客
+等人类行动者 ，以及汉王村良好的农业资源 、自然
+资源、人文资源、土地和房屋等非人类行动者。
+4.1.2 转译过程
+(1) 问题呈现。① 各级政府。在新农村建设时
+期，汉王镇是禁止工业发展镇 ，如何在确保稳定粮
+食生产的基础上充分发挥其近城连湖的区位优势
+和山水秀美的资源优势 ，破局产业规划难题成为核
+心关键议题 ，最终确立汉王镇的旅游产业发展定
+位。汉王村因汉高祖刘邦拔剑得泉而闻名 ，村集体
+试图将旅游业打造成为全村经济发展的支柱产业 ，
+而资金不足和人才短缺使得旅游业面临难以发展
+的困境。② 投资商。凭借自身能够快速利用本地
+资源和市场的先天优势 ，亟待通过开拓乡村市场摆
+脱市区部分市场饱和 、竞争压力大等困境 。③ 村
+民。由于村域内规定禁止置办工厂 ，加上邻近市中
+心的区位优势，大部分青壮年纷纷外出务工 ， “空心
+化”现象愈演愈烈，乡村活力逐渐丧失 ，迫切希望通
+过发展旅游来提高收入水平、改善生活质量。④ 艺
+术从业者 。相对市区来说 ，乡村地租更为低廉 、环
+境也更宜人，并且天然去雕饰的乡村蕴含着无限的
+可能性，能激发创作灵感 ，避免同质化竞争 。⑤ 游
+客。在快节奏的生活环境下 ，城市游客极其渴望能
+够前往周边的乡村休闲度假地 ，以满足其“暂别喧
+嚣、浸润心灵 ”的消费需求 。⑥ 非人类行动者 。通
+过乡村旅游的发展进一步推动自身价值的提升
+[56]
+。
+在这一过程中异质行动者为了实现各自的预期目
+标 ，都 会 经 过 一 个“ 必 经 之 点”(obligatory passage
+point, OPP)，即实现旅游业的可持续发展，并通过问
+图 3 “紫山艺术村”空间分布
+Fig.3 Spatial layout of "Zishan Art Village"
+973
+--- PAGE 9 ---
+地 理 科 学 进 展 第 43 卷
+题解决的方式获得利益共享的结果(图 4)。
+(2) 利益赋予 。在汉王村旅游发展前期 ，地方
+政府为了纾解资金 、技术 、人才 、管理等方面的难
+题，率先出台招商引资意见 ，实行专项扶持措施 ，建
+设良好的投资服务体系。2014 年，地方政府率先引
+入徐州市铜山区汉王旅游开发有限公司 ，为投资方
+提供旅游资源开发与项目落地的全套服务 ，进一步
+促进商贸旅游业的发展 ，最大限度地满足被转译者
+的需求，从而谋求同盟的拓展。2020 年外来资本大
+量进入 ，并以“艺术乡建 ”的方式挖掘地域特色文
+化，文旅深度融合 ，提高村民参与旅游活动的积极
+性，村庄内生动力被激活。
+(3) 征召。① 行政征召。铜山区政府在汉王村
+旅游发展初期起着主导作用 ，依托汉王村独特的山
+水和人文资源，明确将汉王村的发展定位为融生态、
+科技和旅游为一体的旅游型村庄 ，大力开发休闲观
+光农业，并通过政策保障和资金支撑的方式，自上而
+下地吸引汉王镇政府、汉王村村委、旅游公司等异质
+行动者加入汉王村旅游绅士化发展的行动者网络
+中，构建起和谐的网络关系。② 市场征召。徐州市
+铜山区汉王旅游开发有限公司在地方政府的委托下
+成为汉王村旅游绅士化发展行动者网络的 “代言
+人” ，重点通过招募专业的设计团队 、招商队伍等组
+建合作平台，打造优质旅游产品。③ 文化征召。凭
+借着古朴的乡村风貌与浓郁的人文气息 ，加上村内
+大量闲置民房便于进行资产流转和改造升级 ，2021
+年开发建设的“紫山艺术村 ”项目使得紫山村文化
+旅游与研学旅行的潜力得到充分发挥 ，非遗传承
+人、艺术从业者 、新老村民等异质行动者加入汉王
+村旅游绅士化发展行动者网络 ，通过重新征召与被
+征召增强网络的稳定性 ，同时也极大提升了汉王村
+的知名度和旅游品牌影响力。
+(4) 动员。① 政府政策与资金扶持。在旅游发
+展初期 ，地方政府投资兴建基础与服务设施 ，鼓励
+乡村利用农业生产条件和闲置资源发展休闲观光
+农业，为旅游开发打下良好基础 。同时，为引导人
+才下乡，对符合要求的全日制普通高校大专及以上
+学历毕业生和高技能人才到农村创业就业 ，给予公
+共租赁住房、购房、租房、交通及专项补贴等。② 乡
+贤精英与外来资本 。近两年大量艺术从业者从市
+区转向汉王紫山村 ，带来了文化艺术 、传统手工技
+术和大量资本 ，重塑了乡村空间 ，非遗传统村落项
+目“紫山艺术村 ”脱颖而出 。③ 旅游公司宣传与推
+介。为加大汉王村旅游宣传力度 ，旅游公司于 2019
+年申请“乐游汉王 ”公众号 ，定期对汉王村的“吃、
+住、行、游、购、娱”进行信息发布。同时与徐州报业
+传媒集团达成战略合作 ，在徐州交通广播、微博、抖
+音、小红书等平台进行旅游宣传推介。
+(5) 异议。汉王村旅游绅士化发展过程中仍然
+存在着游客停留时间短 、内生动力较弱 、产业发展
+与用地管理之间的矛盾等异议 。实地调查中还发
+现，随着大量游客和外来资本的到来 ，村集体和村
+民与旅游公司、外来商户等不同利益相关者之间的
+分歧和冲突日益加大。
+4.1.3 网络构建
+在汉王村旅游绅士化发展过程中 ，地方政府在
+前期一直承担着关键行动者的角色 ，主导着汉王村
+的旅游建设与发展 ，主要采用行政征召和资金征召
+的方式，促使资本、游客、旅游资源等行动者融入网
+络。随着汉王村旅游业的快速发展 ，乡贤精英和外
+来资本带来更大影响 ，行动者网络在各异质行动者
+的相互合作与联结下构建成为一个相对稳定的复
+图 4 汉王村旅游绅士化发展的行动者与必经之点
+Fig.4 Actors and obligatory passage point of tourism gentrification development in Hanwang Village
+974
+--- PAGE 10 ---
+第 5 期 郭斯琪 等：旅游绅士化影响下的乡村空间重构及其驱动机制
+杂网络关系。同时，汉王村的物质空间 、经济空间、
+社会空间、文化空间等非人类行动者也在这一过程
+中实现自身内涵与主要使用功能的转变。
+4.2 汉王村空间重构机制
+从行动者网络视角来看 ，汉王村空间重构进程
+是在外部驱动力和内部驱动力的共同作用下推进
+的，是以丰富的旅游资源为基础 、城市居民的休闲
+消费需求为契机 、国家和地方层面出台的旅游产业
+扶持政策为助推 ，再加上外来资本由城市转移下乡
+后所提供的资金支撑 ，激发新老村民对于乡村生产
+空间、生活空间和生态空间的需求发生变迁的多功
+能转型过程。
+内部驱动力是指乡村自身的地理区位条件 、社
+会经济基础 、自然环境特征 、文化资源禀赋等基本
+情况
+[57]
+。汉王村得天独厚的地理区位 、旖旎的自然
+风光、浓厚的人文历史底蕴 ，为旅游业的开发与建
+设创造了良好条件 。外部驱动力是指行为主体的
+干预实践
+[58]
+。伴随人民生活水平的提高 ，人们对文
+化、娱乐、休闲等方面有了更高的需求 ，加上快节奏
+的生活与压力的堆叠 ，使得城市居民对自由又安逸
+的乡村田园生活的向往日益强烈 ，促使各级政府采
+取基础设施配套建设 、村容村貌整治提升 、休闲旅
+游发展引导等具体行动来持续干预 。优渥的营商
+环境、广阔的旅游发展前景吸引众多外来资本下乡
+投资，而优质的旅游产品和服务供给的丰富又使得
+慕名而来的游客日益增多 ，往复形成良性循环 。同
+时，新生产方式的出现也促使村民对生活品质有了
+更高追求，并且在一定程度上增强村民参与旅游的
+内生动力 。各行为主体为不断满足自身需求而有
+意识地对乡村生产空间 、生活空间和生态空间进行
+优化调整，使得汉王村的物质景观 、生活方式、社会
+行为、文化内涵等原有特征发生变化 ，以旅游服务
+业为主的“生产—生活—生态 ”复合空间大量出现 ，
+缓解了乡村空心化的部分问题 ，推动了乡村空间的
+重构。
+综上，汉王村以旅游为媒介 ，在各级政府“自上
+而下”的干预行为下 ，外来资本 、乡贤精英 、新老村
+民、城市游客“自下而上 ”地对乡村生产空间 、生活
+空间和生态空间进行重塑 。受到内外耦合驱动力
+的作用 ，汉王村旅游绅士化进程持续加快 ，促使乡
+村的用地分布、人口构成、产业结构、文化生活相继
+发生改变 ，各类空间也得到深刻重构 ，同时在一定
+程度上“疗愈”了汉王村在旅游介入前所具有的宅
+基地闲置 、人口结构单一化 、产业配套建设停滞不
+前、公共文化生活退化等顽固性问题 ，共同推动汉
+王村在 旅游发展背景下实现外在风貌和内在底蕴
+的持续优化(图 5)。
+5 结论与讨论
+5.1 结论
+随着城镇化进程的不断推进 ，城乡间的交流变
+得愈加频繁，旅游驱动下的乡村绅士化现象日益显
+现。本文试图厘清乡村旅游绅士化 、乡村空心化与
+乡村空间重构之间的逻辑关系 ，采用定量与定性相
+结合的方法，分析汉王村在旅游绅士化发展不同时
+图 5 行动者网络视角下汉王村旅游绅士化、空间重构与空心化逻辑关系
+Fig.5 Logical relationship diagram of tourism gentrification, spatial restructuring, and hollowing of
+Hanwang Village from the perspective of actor-network theory
+975
+--- PAGE 11 ---
+地 理 科 学 进 展 第 43 卷
+期空间所呈现出的重构特征 ，并基于行动者网络理
+论对空间重构机制进行剖析。研究发现：
+(1) 依据汉王村发展历程及其过程中发生的大
+事件，可将汉王村旅游绅士化进程划分为传统农业
+转型、观光农业开发 、乡村旅游发展以及文旅融合
+转向 4 个阶段 ，不同阶段空间重构呈现出不同特
+征。传统农业转型与观光农业开发阶段主要为汉
+王村旅游绅士化发展奠定基础 ，空间生产性功能逐
+步消解。在地方政府的推动下 ，外来资本进驻汉王
+村，大力发展乡村旅游业 ，用地分布与土地功能发
+生转变 ，新生产方式的出现使得“农业+旅游业 ”的
+兼业农户数量增加 ，生活品质也随着基础设施和人
+居环境建设投入的不断加大而显著提高 。随着乡
+村空间的不断优化与重构 ，促进了旅游绅士化进程
+在文旅融合转向阶段的进一步深化 ，通过文化产业
+配套使得汉王村绝大部分的生产和生活空间转型
+升级为更具品质性和综合性的乡村旅居空间 ，为实
+现空间多功能化提供条件。
+(2) 各级政府 、村民 、游客 、投资商 、艺术从业
+者、旅游资源等异质行动者在汉王村旅游绅士化发
+展过程中为满足自身利益 ，通过问题解决的方式达
+成实现旅游业的可持续发展这一共同目标 ，由此组
+成网络联盟。在行动者网络中 ，地方政府通过政策
+资金支持 ，积极开展招商引资工作 ，并放权给徐州
+市铜山区汉王旅游开发有限公司 ，通过合作开发模
+式实现对外来资本的征召动员 ，在之后的“紫山艺
+术村”项目中 ，徐州蝶韵文化发展有限公司充分发
+挥自身资源优势 ，迅速租赁闲置民房并将其转变为
+市场开发资源，吸引艺术从业者以及追求乡村文化
+的游客等绅士群体进入乡村 ，激活乡村发展活力 ，
+使得汉王村空间向更加注重品质服务 、文化体验 、
+旅游消费等多功能的商业性空间转变 。通过行动
+者网络的运作，汉王村有效缓解了乡村空心化的部
+分问题，实现了由表及里、形神兼备的全面提升。
+5.2 讨论
+随着中国经济社会的快速发展 ，乡村空间功能
+的当代价值日益凸显 ，但是不少乡村仍面临着空心
+化的尴尬局面 。乡村旅游绅士化与乡村空间重构
+二者之间的互动关系 ，特别是与治理乡村空心化难
+题间的逻辑机制 ，都是值得关注的问题 。在乡村旅
+游的发展过程中 ，外界力量的介入不可避免 ，没有
+旅游绅士化 ，城市消费力 、投资力就无法转化为推
+动乡村振兴的力量 ，但是过度了便会摧毁乡村的原
+真性和发展的可持续性 。如何把握好乡村旅游绅
+士化的度 ，平衡好原乡人 、新乡人和归乡人等利益
+相关者之间的关系 ，真正实现红利共享 ，是乡村全
+面振兴和乡村旅游实现可持续发展的关键 。紫山
+村通过“艺术乡建”的确在短期内吸引了返乡青年 ，
+一定程度上缓解了空心化问题 ，但是游客量目前还
+不够大 ，一些青年人周末回乡参与旅游经营活动 、
+工作日又返回城市谋生的 “两栖 ”现象仍然存在 。
+乡村旅游绅士化过程中利益主体间的负和与正和
+博弈、乡村青年长期的“流”与短暂的“留”等问题仍
+需在未来持续关注和深入研究。
+致谢：由衷感谢徐州市文化广电和旅游局资源开发
+处赵会勇处长和徐州市铜山区旅游服务中心高宏
+达科长在数据资料搜集及调研指导上的帮助。
+参考文献(References)
+[1] 宋凡金, 王爱忠, 王东强. 统筹城乡发展中乡村旅游开发
+与农村空心化治理 [J]. 农业现代化研究 , 2015, 36(5):
+755-759. [Song Fanjin, Wang Aizhong, Wang Dongqiang.
+Rural tourism development and rural- hollowing gover -
+nance under the background of balancing urban and rural
+development. Research of Agricultural Modernization,
+2015, 36(5): 755-759. ]
+[2] 吕慧妮, 杨忍. 基于行动者网络的乡村转型及其空间生
+产研究 : 以凤和空港小镇为例 [J]. 人文地理 , 2023, 38
+(1): 130-139. [Lv Huini, Y ang Ren. Rural transformation
+and spatial production from the perspective of actors net -
+work: A case study of Fenghe Airport Town. Human Ge -
+ography, 2023, 38(1): 130-139. ]
+[3] 卢松, 刘君玫, 饶小芳, 等. 旅游影响下的乡村重构研究
+进 展 [J]. 中 国 生 态 旅 游, 2021, 11(3): 315- 331. [Lu
+Song, Liu Junmei, Rao Xiaofang, et al. Research review
+on the rural reconstruction influenced by tourism. Journal
+of Chinese Ecotourism, 2021, 11(3): 315-331. ]
+[4] Glass R. London: Aspects of change [M]. London, UK:
+MacGibbon & Kee, 1964.
+[5] 黄幸, 刘玉亭. 中国绅士化研究的本土实践 : 特征、议题
+与 展 望 [J]. 人 文 地 理, 2021, 36(3): 5- 14, 36. [Huang
+Xing, Liu Y uting. A review of empirical research on gen -
+trification in contemporary China: Characteristics, topics
+and prospects. Human Geography, 2021, 36(3): 5-14, 36. ]
+[6] Parsons D. Rural gentrification: The influence of rural set -
+tlement planning policies [R]. Geography Research Paper
+No. 3. Brighton, UK: Department of Geography, Univer -
+sity of Sussex, 1980.
+[7] Phillips M. Rural gentrification and the processes of class
+976
+--- PAGE 12 ---
+第 5 期 郭斯琪 等：旅游绅士化影响下的乡村空间重构及其驱动机制
+colonisation [J]. Journal of Rural Studies, 1993, 9(2): 123-
+140.
+[8] Davidson M, Lees L. New- build gentrification: Its histo -
+ries, trajectories and critical geographies [J]. Population,
+Space and Place, 2010, 16(5): 395-411.
+[9] 薛德升. 西方绅士化研究对我国城市社会空间研究的启
+示 [J]. 规划师, 1999, 15(3): 109-112. [Xue Desheng. En -
+lightenment of Western gentrification research to the
+study of urban social space in China. Planners, 1999, 15
+(3): 109-112. ]
+[10] 魏华, 朱喜钢, 周强. 沟通空间变革与人本的邻里场所
+体系架构 : 西方绅士化对中国大城市社会空间的启示
+[J]. 人文地理 , 2005, 20(3): 117-121. [Wei Hua, Zhu Xi -
+gang, Zhou Qiang. Transformation of communication
+space and building- up of humanity neighborhoods sys -
+tem: The inspiring about social space of Chinese megap -
+olises from western gentrification. Human Geography,
+2005, 20(3): 117-121. ]
+[11] 邱建华.“绅士化运动”对我国旧城更新的启示 [J]. 热带
+地理, 2002, 22(2): 125-129. [Qiu Jianhua. Consideration
+of "gentrification" in contemporary Chinese urban renew -
+al. Tropical Geography, 2002, 22(2): 125-129. ]
+[12] 朱喜钢, 周强, 金俭. 城市绅士化与城市更新 : 以南京为
+例 [J]. 城 市 发 展 研 究, 2004(4): 33- 37. [Zhu Xigang,
+Zhou Qiang, Jin Jian. Urban gentrification and urban re -
+newal: A case study of Nanjing. Urban Development
+Studies, 2004(4): 33-37. ]
+[13] 保继刚. 城市旅游 : 原理·案例 [M]. 天津: 南开大学出
+版 社, 2005. [Bao Jigang. Urban tourism: Principles and
+cases. Tianjin, China: Nankai University Press, 2005. ]
+[14] Gotham K F. Tourism gentrification: The case of new Or -
+leans' vieux carre (French quarter) [J]. Urban Studies,
+2005, 42(7): 1099-1121.
+[15] 赵玉宗, 顾朝林, 李东和, 等. 旅游绅士化: 概念、类型与
+机制 [J]. 旅游学刊 , 2006, 21(11): 70-74. [Zhao Y uzong,
+Gu Chaolin, Li Donghe, et al. Tourism gentrification:
+Concept, type and mechanism. Tourism Tribune, 2006, 21
+(11): 70-74. ]
+[16] 冯淑华, 沙润. 我国自驾车旅游与旅游绅士化研究 [J].
+人文地理 , 2009, 24(3): 61-65. [Feng Shuhua, Sha Run.
+Study on self-driving tours in China and tourism gentrifi -
+cation. Human Geography, 2009, 24(3): 61-65. ]
+[17] 徐秀美, 韩富贵. 文化遗产地旅游绅士化的形成机制与
+影响分析 : 以丽江古城为例 [J]. 旅游论坛 , 2013, 6(3):
+16- 19. [Xu Xiumei, Han Fugui. Formation mechanism
+and impact analysis of tourism gentrification in cultural
+heritage destination: A case study of Lijiang ancient city.
+Tourism Forum, 2013, 6(3): 16-19. ]
+[18] 张瑛, 汲忠娟, 曾仁辉, 等.“旅游绅士化”与农耕文化遗
+产地可持续发展: 以联合国教科文组织(UNESCO)世界
+遗产地元阳梯田为例 [J]. 中央民族大学学报(哲学社会
+科学版), 2016, 43(6): 75-81. [Zhang Ying, Ji Zhongjuan,
+Zeng Renhui, et al. Tourism gentrification and the sus -
+tainable development of the heritage sites of farming cul -
+ture: A case study of UNESCO world heritage site: The
+rice terraces in Y uanyang county of Y unnan. Journal of
+Minzu University of China (Philosophy and Social Sci -
+ences Edition), 2016, 43(6): 75-81. ]
+[19] 常江, 谢涤湘, 陈宏胜, 等. 历史街区更新驱动下的旅游
+绅 士 化 研 究: 以 佛 山 岭 南 天 地 为 例[J]. 热 带 地 理,
+2018, 38(4): 586- 597. [Chang Jiang, Xie Dixiang, Chen
+Hongsheng, et al. Tourism gentrification in historic dis -
+trict renovation: A case study of Lingnantiandi, Foshan.
+Tropical Geography, 2018, 38(4): 586-597. ]
+[20] 沈苏彦, 艾丽君. 城市历史文化街区旅游绅士化现象的
+探讨: 以南京老城南地区为例 [J]. 中国名城 , 2018(7):
+50-56. [Shen Suyan, Ai Lijun. Discussion on the phenom -
+enon of tourism gentrification in urban historical and cul -
+tural districts: A case study of the southern area of the
+old city of Nanjing. China Ancient City, 2018(7): 50-56. ]
+[21] 徐玉梅, 王朝辉, 张婷婷, 等. 国内外旅游绅士化研究综
+述与展望 [J]. 人文地理, 2019, 34(2): 8-16, 104. [Xu Y u-
+mei, Wang Chaohui, Zhang Tingting, et al. Advances and
+prospects in tourism gentrification research home and
+abroad. Human Geography, 2019, 34(2): 8-16, 104. ]
+[22] 郭吉. 乡村旅游绅士化及其空间响应机制研究 : 以苏州
+市旺山村为例 [J]. 湖北农业科学 , 2018, 57(12): 120-
+125. [Guo Ji. Study on rural tourism gentleman and its
+spatial response mechanism: Taking Wangshan Village in
+Suzhou city as an example. Hubei Agricultural Sciences,
+2018, 57(12): 120-125. ]
+[23] Woods M. Engaging the global countryside: Globaliza -
+tion, hybridity and the reconstitution of rural place [J].
+Progress in Human Geography, 2007, 31(4): 485-507.
+[24] 王丹, 刘祖云. 国外乡村空间研究的进展与启示 [J]. 地
+理科学进展 , 2019, 38(12): 1991-2002. [Wang Dan, Liu
+Zuyun. Progress and implications of international rural
+space research. Progress in Geography, 2019, 38(12):
+1991-2002. ]
+[25] Holmes J. Impulses towards a multifunctional transition
+in rural Australia: Gaps in the research agenda [J]. Jour -
+nal of Rural Studies, 2006, 22(2): 142-160.
+[26] 陈晓华, 曹梦莹. 国外乡村空间重构研究述评 [J]. 安徽
+农 业 大 学 学 报, 2019, 46(2): 275- 281. [Chen Xiaohua,
+Cao Mengying. Review of study on rural spatial restruc -
+turing abroad. Journal of Anhui Agricultural University,
+977
+--- PAGE 13 ---
+地 理 科 学 进 展 第 43 卷
+2019, 46(2): 275-281. ]
+[27] Vladan H. Strategic planning of the Czech rural space:
+The analysis of its failure, improving its image on the ex -
+ample of the Moravskoslezský region [J]. Europa Region -
+al, 2010, 18(4): 163-175.
+[28] Marsden T. New rural territories: Regulating the differen -
+tiated rural spaces [J]. Journal of Rural Studies, 1998, 14
+(1): 107-117.
+[29] Pretty J N. The living land: Agriculture, food and com -
+munity regeneration in rural Europe [M]. London, UK:
+Earthscan Publications Ltd., 1998.
+[30] Hamdouch A. Développement durable. Dynamiques des
+territoires ruraux et logiques d'acteurs [J]. Économie Ru -
+rale, 2010, 320(6): 4-8.
+[31] 龙花楼. 中国乡村转型发展与土地利用 [M]. 北京: 科
+学 出 版 社, 2012: 2. [Long Hualou. Land use and rural
+transformation development in China. Beijing, China:
+Science Press, 2012: 2. ]
+[32] 张如林. 发达地区农村居民点空间重构研究 [J]. 小城
+镇 建 设, 2007(6): 54- 57. [Zhang Rulin. Spatial recon -
+struction of rural settlements in developed areas. Devel -
+opment of Small Cities & Towns, 2007(6): 54-57. ]
+[33] 冯健, 刘玉. 江苏中小型集镇空间规划与乡村景观重构
+[J]. 资源科学 , 2008, 30(5): 737-743. [Feng Jian, Liu Y u.
+Restructuring the rural landscape and spatial planning of
+towns in Jiangsu Province. Resources Science, 2008, 30
+(5): 737-743. ]
+[34] 李红波, 胡晓亮, 张小林, 等. 乡村空间辨析 [J]. 地理科
+学 进 展, 2018, 37(5): 591- 600. [Li Hongbo, Hu Xiao -
+liang, Zhang Xiaolin, et al. On the analysis of rural
+space. Progress in Geography, 2018, 37(5): 591-600. ]
+[35] 金利霞, 文志敏, 范建红, 等. 乡村空间重构的理论研究
+进展与理论框架构建 [J]. 热带地理 , 2020, 40(5): 765-
+774. [Jin Lixia, Wen Zhimin, Fan Jianhong, et al. Rural
+spatial restructuring: Theoretical research progress and
+framework construction. Tropical Geography, 2020, 40
+(5): 765-774. ]
+[36] 张若星. 乡村振兴视角下乡村文化空间重构研究进展
+与展望 [J]. 人文地理 , 2023, 38(2): 35-43. [Zhang Ruo-
+xing. Progress and prospects of research on the reconstruc-
+tion of rural cultural space from the perspective of rural re -
+vitalization. Human Geography,2023, 38(2): 35-43. ]
+[37] 张萌婷, 王勇, 李广斌. 后生产主义背景下旅游型乡村
+公共空间转换机制研究 [J]. 农业经济 , 2020(5): 48-50.
+[Zhang Mengting, Wang Y ong, Li Guangbin. Research
+on the transformation mechanism of tourism-oriented ru -
+ral public space under the background of post-productiv -
+ism. Agricultural Economy, 2020(5): 48-50. ]
+[38] 张园林, 刘玉亭, 马丁·菲利普斯. 乡村空间转型研究的
+中 西 比 较 [J]. 城 市 发 展 研 究, 2021, 28(11): 53- 61.
+[Zhang Y uanlin, Liu Y uting, Martin Phillips. A compari -
+son between China and the West in the study of rural spa -
+tial transformation. Urban Development Studies, 2021, 28
+(11): 53-61. ]
+[39] 刘纪远. 国家资源环境遥感宏观调查与动态监测研究
+[J]. 遥 感 学 报, 1997, 1(3): 225- 230. [Liu Jiyuan. Study
+on national resources & environment survey and dynam -
+ic monitoring using remote sensing. Journal of Remote
+Sensin, 1997, 1(3): 225-230. ]
+[40] 徐岚, 赵羿. 利用马尔柯夫过程预测东陵区土地利用格
+局的变化 [J]. 应用生态学报 , 1993, 4(3): 272-277. [Xu
+Lan, Zhao Yi. Forecast of land use pattern change in
+Dongling District of Shenyang: An application of Mar -
+kov process. Chinese Journal of Applied Ecology, 1993, 4
+(3): 272-277. ]
+[41] Luijten J C. A systematic method for generating land use
+patterns using stochastic rules and basic landscape char -
+acteristics: Results for a Colombian hillside watershed
+[J]. Agriculture, Ecosystems & Environment, 2003, 95(2/
+3): 427-441.
+[42] 李小雁, 许何也, 马育军, 等. 青海湖流域土地利用/覆被
+变化研究 [J]. 自然资源学报 , 2008, 23(2): 285-296. [Li
+Xiaoyan, Xu Heye, Ma Y ujun, et al. Land use/cover
+change in the Qinghai Lake watershed. Journal of Natu -
+ral Resources, 2008, 23(2): 285-296. ]
+[43] 席建超, 王首琨, 张瑞英. 旅游乡村聚落“生产—生活—
+生态”空间重构与优化: 河北野三坡旅游区苟各庄村的
+案例实证 [J]. 自然资源学报 , 2016, 31(3): 425-435. [Xi
+Jianchao, Wang Shoukun, Zhang Ruiying. Restructuring
+and optimizing production- living- ecology space in rural
+settlements: A case study of Gougezhuang Village at Y e -
+sanpo tourism attraction in Hebei Province. Journal of
+Natural Resources, 2016, 31(3): 425-435. ]
+[44] 城乡规划学名词审定委员会 . 城乡规划学名词 [M]. 北
+京: 科学出版社 , 2021. [Urban and Rural Planning Ter -
+minology V alidation Committee. Chinese terms in urban
+and rural planning. Beijing, China: Science Press, 2021. ]
+[45] Callon M, Law J, Rip A. Mapping the dynamics of sci -
+ence and technology [M]. London, UK: The Macmillan
+Press, 1986.
+[46] Latour B. Science in action: How to follow scientists and
+engineers through society [M]. Cambridge, USA: Har -
+vard University Press, 1987.
+[47] Law J, Bijker W. Shaping technology/building society:
+Studies in sociotechnical change [M]. New Y ork, USA:
+MIT Press, 1992.
+978
+--- PAGE 14 ---
+第 5 期 郭斯琪 等：旅游绅士化影响下的乡村空间重构及其驱动机制
+[48] Latour B. Reassembling the social: An introduction to ac -
+tor-network theory [M]. London, UK: Oxford University
+Press, 2005.
+[49] Callon M. Some Elements of a sociology of translation:
+Domestication of the scallops and the fishermen of St
+Brieuc Bay [J]. The Sociological Review, 1984, 32: 196-
+233.
+[50] 中 国 铜 山 网. 中 国 红 玫 瑰 之 乡[EB/OL]. 2010- 08- 06
+[2023- 05- 12]. http://www.zgts.gov.cn. [China Tongshan
+Net. China red rose township. 2010-08-06 [2023-05-12].
+http://www.zgts.gov.cn. ]
+[51] 徐州市铜山区地方志编纂委员会 . 铜山县志 (1978—
+2010) [M]. 南 京: 江 苏 人 民 出 版 社, 2014. [Xuzhou
+Tongshan District Local Annals Compilation Committee.
+Annals of Tongshan County ( 1978-2010). Nanjing, Chi -
+na: Jiangsu People's Publishing House, 2014. ]
+[52] 周维宏. 农村工业化论: 从日本看中国 [Ｍ]. 北京: 中国
+社会科学出版社 , 2008. [Zhou Weihong. Theory of rural
+industrialization: Looking at China from Japan. Beijing,
+China: China Social Sciences Press, 2008. ]
+[53] 徐州市铜山年鉴编纂委员会 . 铜山年鉴 (2008—2022)
+[M]. 南 京: 江 苏 人 民 出 版 社, 2008—2022. [Xuzhou
+Tongshan Y earbook Compilation Committee. Tongshan
+yearbook ( 2008-2022). Nanjing, China: Jiangsu People's
+Publishing House, 2008-2022. ]
+[54] 姚娟, 马晓冬 . 后生产主义乡村多元价值空间重构研
+究: 基于无锡马山镇的实证分析 [J]. 人文地理 , 2019,
+34(2): 135- 142. [Y ao Juan, Ma Xiaodong. Study on the
+reconstruction of multi- value space in post- productivist
+countryside: A case study of Mashan town in Wuxi. Hu -
+man Geography, 2019, 34(2): 135-142. ]
+[55] 何杰, 潘悦. 乡村振兴视域下乡村文化空间重构逻辑路
+径研究 [J]. 湖北农业科学 , 2021, 60(16): 203-208. [He
+Jie, Pan Y ue. Research on the logic and path of rural cul -
+tural space reconstruction from the perspective of rural
+revitalization. Hubei Agricultural Sciences, 2021, 60(16):
+203-208. ]
+[56] 陈培培, 张敏. 从美丽乡村到都市居民消费空间 : 行动
+者网络理论与大世凹村的社会空间重构 [J]. 地理研
+究, 2015, 34(8): 1435- 1446. [Chen Peipei, Zhang Min.
+From beautiful village to urban residents' consumption
+space: Actor- network theory and the social space recon -
+struction of Dashiao Village. Geographical Research,
+2015, 34(8): 1435-1446. ]
+[57] 黄诗雨, 李险峰. 艺术参与下的乡村空间重构 [J]. 地理
+研究, 2020, 39(3): 709-720. [Huang Shiyu, Li Xianfeng.
+Reconstruction of rural space with art participation. Geo -
+graphical Research, 2020, 39(3): 709-720. ]
+[58] 龙花楼, 屠爽爽. 乡村重构的理论认知 [J]. 地理科学进
+展, 2018, 37(5): 581- 590. [Long Hualou, Tu Shuang-
+shuang. Theoretical thinking of rural restructuring. Prog -
+ress in Geography, 2018, 37(5): 581-590. ]
+979
+--- PAGE 15 ---
+地 理 科 学 进 展 第 43 卷
+Rural spatial restructuring and its driving mechanism
+under the influence of tourism gentrification:
+A case study of Hanwang Village in Xuzhou City
+GUO Siqi
+1
+, SHI Chunyun
+1*
+, QIAN Y uexiang
+2
+, LI Fan
+1
+(1. School of Geography, Geomatics & Planning, Jiangsu Normal University, Xuzhou 221116, Jiangsu, China;
+2. School of Geography Science and Geomatics Engineering, Suzhou University of Science and Technology,
+Suzhou 215009, Jiangsu, China)
+Abstract: Understanding the degree of rural tourism gentrification, balancing the relationship between stakeholders
+such as native rural residents, new rural residents, and returned rural residents, and truly realizing the sharing of
+development dividends are the key to achieving the comprehensive rural revitalization and rural tourism
+sustainable development. As one of the important representations of rural space value reshaping, tourism-driven
+rural gentrification has attracted great attention in the context of rural revitalization. From the perspective of the
+influencing effect of rural tourism gentrification, this study analyzed the spatial restructuring characteristics of
+Hanwang Village in different periods of tourism gentrification development based on field research data and
+spatial interpretation results. Combined with the semi- structured interview data, this study also analyzed the
+mechanism of spatial restructuring by using the actor-network theory. The results show that: 1) According to the
+tourism construction and development process, the tourism gentrification process in Hanwang Village can be
+divided into four stages, including traditional agriculture transformation, sightseeing agriculture exploitation,
+rural tourism development, and cultural and tourism integration transition. Different stages of spatial
+restructuring present different characteristics. 2) The process of tourism- driven rural gentrification has
+successively changed the land use distribution, industrial structure, population composition, and cultural
+atmosphere of Hanwang Village, and alleviated some of the problems of rural hollowing, which had a profound
+impact on the village space. 3) The transformation of the interests and goals of heterogeneous actors, such as
+governments at all levels, village residents, tourists, investors, art practitioners, and tourism resources, as well as
+the connection and cooperation between them, have an effect on the spatial restructuring of Hanwang Village.
+This study took Hanwang Village in Xuzhou City as a case study, and mainly focused on the impact of tourism-
+driven rural gentrification development on rural spatial restructuring, the behavioral logic of various stakeholders
+in the process of spatial restructuring, and the relationship with rural hollowing, so as to provide theoretical and
+empirical references for the study of tourism- driven rural revitalization development and rural gentrification
+effect, and solving the problems of hollow villages.
+Keywords: rural spatial restructuring; rural tourism gentrification; driving mechanism; actor- network theory;
+Hanwang Village in Xuzhou City
+980

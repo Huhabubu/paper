@@ -1,0 +1,876 @@
+
+--- PAGE 1 ---
+地理科学 
+Geographical Science 
+ISSN 1000-0690,CN 22-1124/P 
+ 
+ 
+ 
+ 
+《地理科学》网络首发论文 
+ 
+题目： 行动者网络视角下无居民海岛开发的多元互动机制与网络稳定性研究—— 以
+广东放鸡岛、三角岛和牛头岛为例 
+作者： 周少君，冯谦，程斌武，侯欣宜 
+DOI： 10.13249/j.cnki.sgs.20251470 
+收稿日期： 2025-10-30 
+网络首发日期： 2026-03-23 
+引用格式： 周少君，冯谦，程斌武，侯欣宜．行动者网络视角下无居民海岛开发的多元
+互动机制与网络稳定性研究——以广东放鸡岛、三角岛和牛头岛为例
+[J/OL]．地理科学. https://doi.org/10.13249/j.cnki.sgs.20251470 
+ 
+ 
+ 
+ 
+ 
+ 
+网络首发：在编辑部工作流程中，稿件从录用到出版要经历录用定稿、排版定稿、整期汇编定稿等阶
+段。录用定稿指内容已经确定，且通过同行评议、主编终审同意刊用的稿件。排版定稿指录用定稿按照期
+刊特定版式（包括网络呈现版式）排版后的稿件，可暂不确定出版年、卷、期和页码。整期汇编定稿指出
+版年、 卷、 期、 页码均已确定的印刷或数字出版的整期汇编稿件。 录用定稿网络首发稿件内容必须符合 《出
+版管理条例》和《期刊出版管理规定》的有关规定；学术研究成果具有创新性、科学性和先进性，符合编
+辑部对刊文的录用要求，不存在学术不端行为及其他侵权行为；稿件内容应基本符合国家有关书刊编辑、
+出版的技术标准，正确使用和统一规范语言文字、符号、数字、外文字母、法定计量单位及地图标注等。
+为确保录用定稿网络首发的严肃性， 录用定稿一经发布， 不得修改论文题目、 作者、 机构名称和学术内容，
+只可基于编辑规范进行少量文字的修改。 
+出版确认：纸质期刊编辑部通过与《中国学术期刊（光盘版） 》电子杂志社有限公司签约，在《中国
+学术期刊 （网络版） 》 出版传播平台上创办与纸质期刊内容一致的网络版，以单篇或整期出版形式， 在印刷
+出版之前刊发论文的录用定稿、排版定稿、整期汇编定稿。因为《中国学术期刊（网络版） 》是国家新闻出
+版广电总局批准的网络连续型出版物（ISSN 2096-4188，CN 11-6037/Z），所以签约期刊的网络版上网络首
+发论文视为正式出版。 
+ 
+
+--- PAGE 2 ---
+周少君
+, 
+冯谦
+, 
+程斌武
+, 
+等
+. 
+行动者网络视角下无居民海岛开发的多元互动机制与网络稳定性研究
+—
+以广东放鸡岛
+、
+三角岛和牛头
+岛为例
+[
+J
+]
+. 
+地理科学
+,2027,47(X):1
+-
+13
+.
+[
+Zhou Shaojun, Feng Qian, Cheng Binwu et al. Multi
+-
+actor interaction mechanisms and 
+net-
+work stability in uninhabited island development from Actor
+-
+Network Theory perspective: A case study of Fangji Island, Sanjiao 
+Is-
+land,  and  Niutou  Island  in  Guangdong.  Geographical  Science,2027,47(X):1
+-
+13
+.
+]
+ 
+doi:  10.13249/j.cnki.sgs.20251470;
+ 
+cstr:
+32176.14.geoscien.20251470
+行动者网络视角下无居民海岛开发的多元
+互动机制与网络稳定性研究
+—
+以广东放鸡岛、三角岛和牛头岛为例
+周少君
+1,2
+，
+冯谦
+1
+，
+程斌武
+1
+，
+侯欣宜
+2,3
+（
+1. 
+武汉理工大学安全科学与应急管理学院
+，
+湖北
+ 
+武汉
+ 
+430070
+；
+2. 
+广州南方文化创意研究院
+，
+广东
+ 
+广州
+ 
+510663
+；
+3. 
+云南师范大学地理学部
+，
+云南
+ 
+昆明
+ 
+650504
+）
+摘要
+：
+基于行动者网络理论
+，
+构建了一个揭示多元互动机制与网络稳定性的理论框架
+。
+选取广东
+放鸡岛
+、
+三角岛和牛头
+岛
+3
+个典型案例
+，
+比较分析不同主导逻辑下无居民海岛开发行动者网络的
+构建方式及其稳定性差异
+。
+研究发现
+，
+无居民海岛开发并非单一主体主导的线性过程
+，
+而是由人
+类与非人类行动者共同参与的动态网络
+。
+市场驱动型开发中
+，
+制度环境
+、
+基础设施与自然条件等
+非人类行动者频繁表现出制约性
+，
+导致行动者网络脆弱易解
+；
+政府主导的开发中
+，
+产权制度与物质
+条件对转译路径形成约束
+，
+使网络长期处于结构不稳定状态
+；
+国家战略需求驱动的功能性开发则
+通过工程逻辑与制度工具对行动路径进行高度规训
+，
+形成稳定但阶段性的项目制网络
+。
+此外
+，
+行
+动者网络的稳定性高度依赖情境
+，
+其形成取决于非人类行动者在转译过程中的介入方式
+。
+研究深
+化了行动者网络理论在无居民海岛开发与空间治理研究中的解释力
+，
+并为无居民海岛分类分级开
+发与协同治理提供了实践启示
+。
+关键词
+：
+行动者网络理论
+；
+无居民海岛
+；
+海岛开发
+；
+网络稳定性
+中图分类号
+：
+K901
+　
+doi
+：
+10.13249/j.cnki.sgs.20251470
+　
+cstr
+：
+32176.14.geoscien.20251470
+无居民海岛作为国家重要的海洋空间资源
+，
+兼具生态
+、
+经济与战略多重功能
+，
+是建设海
+洋强国的重要支撑载体
+。
+根据第二次全国无居民海岛资源综合调查形成的
+《
+中国海域海岛
+标准名录
+》
+显示
+，
+中国无居民海岛
+约
+1.
+2
+万余个
+，
+分布广泛
+、
+类型多样
+，
+具有开发潜力大
+、
+功
+能属性多元等特征
+。
+党的二十大报告也明确提出了
+“
+加快建设海洋强国
+”
+（
+http://theory.
+people.com.cn/n1/2025/0714/c40531
+-
+40520888.html
+，
+数据下载日期
+：
+2025
+-
+09
+-
+26
+），
+强调统筹
+海洋生态保护与资源开发
+，
+推动海洋经济高质量发展
+，
+为无居民海岛的制度化
+、
+规范化开
+发提供了实践指引
+。
+尽管政策层面对无居民海岛开发的重视程度不断提升
+，
+其实践过程仍面临高成本
+、
+低
+收益
+、
+生态脆弱与制度复杂等多重困境
+[
+1
+-
+2
+]
+。
+现有研究主要聚焦于政策制度
+、
+功能分区与生
+ 
+收稿日期
+：
+2025
+-
+10
+-
+30
+；
+修订日期
+：
+2026
+-
+01
+-
+27
+基金项目
+：
+国家自然科学基金项目
+（
+42430515
+）
+资助
+。
+[
+Foundation: 
+National Natural Science Foundaton of China
+(
+42430515
+).
+]
+作者简介
+：
+周少君
+（
+1974—
+），
+女
+，
+广东饶平人
+，
+工程师
+，
+博士研究生
+，
+主要研究方向为旅游开发
+、
+管理科学与工程
+、
+应急管理等
+。
+E
+-
+mail:
+ 
+776944889@qq.com
+通信作者
+：
+侯欣宜
+。
+E
+-
+mail:
+ 
+hxinyi05@163.com
+ 
+第
+4
+7
+卷
+第
+X
+期
+地　理　科　学
+Vol.
+ 
+47
+ 
+No.
+ 
+X
+202
+7
+年
+0
+3
+月
+Geographical Science
+Mar.
+,
+ 
+2027
+网络首发时间：2026-03-23 18:03:40       网络首发地址：https://link.cnki.net/urlid/22.1124.P.20260322.1352.001
+--- PAGE 3 ---
+态保护等宏观层面[3-5]，为理解无居民海岛开发奠定了重要基础。然而，研究往往将海岛视
+为相对稳定的空间单元，对开发过程中多元主体如何围绕有限的岛屿空间展开互动、协商
+与博弈的动态机制关注不足[6]。当代地理研究正日益从空间格局分析转向对治理过程的关
+注，强调通过揭示多元主体、制度安排与空间实践之间的互动关系来理解复杂空间问题[7]。
+基于这一认识，无居民海岛开发亟需超越传统政策分析或功能分区研究框架，从动态治理
+与互动机制的视角加以审视。
+行动者网络理论（Actor-Network Theory, ANT）强调“人”与“物”的对等地位，主张通
+过转译（Translation）过程揭示行动者如何围绕“必经点”（Obligatory Passage Point, OPP）形
+成联盟、分配权力与建构网络[8-9]。与以结构和制度为核心的分析路径不同，行动者网络理
+论并不预设稳定的治理结构，而是关注多元行动者如何在具体情境中被暂时性地“连接”
+起来，以及这种连接如何在实践中不断面临偏离、阻滞与重组的可能[10-11]。在无居民海岛
+这一复杂系统中，政策指引、地理条件、产权制度、生态环境等非人类要素并非被动的背
+景条件，而是通过其物质属性与制度效力，直接改变人类行动者的策略选择与合作方式，
+从而深刻影响开发网络的演化方向。
+已有研究将行动者网络理论广泛运用于乡村旅游[12]、空间治理[13]、非遗实践[14]等领域，
+证实其在揭示多元主体互动机制与协同过程中的分析优势。但行动者网络理论在无居民
+海岛这一特殊海洋地理场域中的应用仍相对不足。一方面，现有研究多集中于乡村或城市
+空间[15]，较少关注岛屿空间中自然条件、工程设施与制度文本高度耦合的情境；另一方面，
+相关研究往往停留在行动者“连接关系”的描绘层面，较少从比较视角探讨不同主导逻辑
+下行动者网络的转译强度、稳定形态及其地理含义。
+基于此，研究引入行动者网络理论，聚焦无居民海岛开发过程中多元行动者的互动关
+系与转译机制，旨在揭示不同主导逻辑下行动者网络的构建方式及其稳定性差异。核心问
+题包括：不同开发逻辑下，行动者网络中的必经点如何在多元利益诉求的互动中被构建并
+发挥作用？各类网络的转译过程与联盟形成路径有何差异？非人类行动者通过何种方式影
+响网络的稳定形态？这些差异对无居民海岛的可持续开发与协同治理提供了怎样的启示？
+研究力图在理论层面深化行动者网络理论在海岛治理与空间开发研究中的解释力，在实
+践层面为无居民海岛的分类分级开发与治理模式优化提供经验借鉴与分析依据。
+ 1    行动者网络视角下无居民海岛开发的分析框架
+行动者网络理论由Callon[8]、Latour[10]和Law[16]等学者提出，强调在社会系统的运行中，
+人类与非人类行动者共同构建了动态的网络结构。行动者网络理论被广泛用于解释空间
+生产与重构机制，如城镇化背景下渐进式城市更新的协作机制[17]、乡村旅游空间发展的过
+程和空间重构效应[18-19]、边境口岸城市转型中的跨境网络治理[20]以及乡村旅游扶贫模式与
+机制[21]，这些研究展现了行动者网络理论在揭示空间演化动力与多元协同关系中的解释力，
+为理解无居民海岛开发这一高度依赖制度、工程与自然条件协同运作的复杂过程提供了
+重要的方法论基础[22-23]。
+从地理学视角看，无居民海岛并非一般意义上的待开发空间，而是一类高度特殊的地
+理场域[24]。一方面，无居民海岛缺乏常态化的在地社会结构，其开发治理并不依托稳定的
+社区行动者，更多依赖外来主体与制度性安排，使其在开发过程中高度依赖政策指引、产
+权证书、工程设施等非人类要素的协同运作[25]。另一方面，相较于陆域空间，无居民海岛具
+有显著的地理隔离性、生态脆弱性与海洋连通性[26-27]，这使得自然要素，如台风、潮汐、淡
+水匮乏等在开发过程中往往比在陆地上拥有更强大的干预能力。行动者网络理论关于“广
+2 地　　理　　科　　学 47 卷
+--- PAGE 4 ---
+义对称性”的主张，恰好能让人们跳出“人类中心主义”的预设，将海岛特有的地理环境视
+为能动的参与者而非被动的背景板[28]。
+在行动者网络理论框架中，OPP并非核心行动者单方面设定的目标，而是多元行动者
+为实现各自利益而“不得不经过”的关键节点[8]。在无居民海岛开发情境中表现为合法用
+岛身份的获得、工程工期约束下的空间组织方式，或在生态红线内实现持续利用的可能性。
+围绕这些OPP，行动者通过转译过程尝试将彼此异质的诉求重新表述为可兼容的行动路
+径，并在问题化、利益相关化、招募与动员等阶段中逐步形成联盟。
+然而，无居民海岛开发中的转译过程往往不是顺畅展开。在具体实践中，非人类行动
+者频繁介入使转译过程充满不确定性。例如，产权证书的不可分割性可能阻断既定的融资
+方案，岛屿地貌条件可能迫使规划方案被推翻，工程工期的刚性约束则可能压缩原本设想
+的多功能开发空间。这些非人类行动者并非被动服从人类意志，而是通过其物质属性与制
+度效力，在关键节点上进行干预，迫使行动者网络不断重组。正是在反复的失败、妥协与
+调整中，开发网络才得以被暂时维系。
+此外，本研究还需指出：行动者网络理论语境下的“稳定性”并非指静态不变的结构僵
+化，而是一种“动态的有序性”。正如Law所言，网络是不断生成的效应[9]，相关研究已开
+始从网络与系统韧性的角度理解多元行动者协作机制[29]。本研究中的“网络稳定性”，是指
+核心行动者通过成功的转译，使多元行动者在特定时空下保持对核心目标的依附状态，从
+而提高维持稳定的能力。在无居民海岛这一高风险环境中，这种“在流动中维持秩序”的
+能力，恰恰是评估开发成败的关键维度。
+综上，研究构建了图1所示的无居民海岛开发分析框架，重点考察核心行动者如何利
+用海岛的特殊地理属性设定必经点，以及非人类行动者如何在转译链条中进行“赋能”或
+“阻断”。通过对不同主导逻辑下无居民海岛开发案例的比较分析，揭示行动者网络如何
+在特定地理条件与制度环境中被暂时“稳定”，并探讨其对无居民海岛分类分级开发与协
+同治理的启示。
+  
+ 
+OPP为必经点
+图1    行动者网络视角下无居民海岛开发的分析框架
+Fig.1    Analytical framework for uninhabited island development from an Actor-Network perspective
+ 
+ 2    案例概况与数据来源
+ 2.1    案例概况
+放鸡岛位于茂名市电白区近海，面积约1.9 km2，2005年由民营企业通过租赁方式开
+发为旅游景区（https://article.xuexi.cn/html/6401959947190001948.html，2025-09-26]，体现
+X 期 周少君等：行动者网络视角下无居民海岛开发的多元互动机制与网络稳定性研究 3
+--- PAGE 5 ---
+典型的市场化租赁经营模式，曾是华南地区知名潜水与度假胜地。受限于政策制度不完善、
+设施老化及管理问题，2021年后停止对外开放。三角岛位于珠海市东部，面积约1.2 km2，
+原为采石矿岛，生态破坏严重。2018年起，广东省政府以“生态修复+公益示范”为目标启
+动综合开发（http://gdsgtkjstxfxh.com/h-nd-1766.html，2026-09-26），由地方国有企业负责实
+施，珠海经济特区率先制定《无居民海岛保护与利用管理规定》（https://www.gov.cn/gongbao/
+content/2003/content_62328.htm）。目前岛上已建成生态修复示范区与高端旅游设施，成为
+全国首个公益性用岛试点。牛头岛位于珠海市桂山岛东侧，为岛连岛，地理位置优越。原
+为香港围填海等重大项目采矿后形成的历史遗留问题海岛，2011年起成为港珠澳大桥与
+深中通道等项目预制件生产基地，2022年通过点状用岛出让，由央企主导独家使用（https://
+web.shobserver.com/wx/detail.do?id=153840，2025-09-26）。牛头岛以功能性工程用岛为特
+征，开发目标明确、参与主体单一、运营模式稳定，是典型的国家战略驱动的开发模式。
+图2展示了3个海岛的地理区位差异。放鸡岛远离大陆，受台风直击影响显著；三角
+岛位于珠江口关键节点，区位敏感且制度约束密集；牛头岛则凭借位于粤港澳大湾区核心
+需求市场的优势地理位置及岛连岛地貌显著降低了建造、运营及管理成本。这些差异化的
+地理属性作为关键的非人类行动者，在开发初期即对行动者网络的构建逻辑与稳定形态
+形成了基础性限定。
+ 
+ 
+图2    广东放鸡岛、三角岛和牛头岛区位
+Fig.2    Location of Fangji, Sanjiao, and Niutou Islands in Guangdong Province
+4 地　　理　　科　　学 47 卷
+--- PAGE 6 ---
+ 2.2    数据来源
+研究团队于2023年3月—2025年8月多次赴珠海、茂名等地开展实地调研。初期为
+全面理解无居民海岛开发的制度背景、历史脉络与主要行动者结构，团队共进行了25人
+次的探索性访谈与非正式交流，受访对象涵盖行政主管部门、企业经营主体及相关技术人
+员，为研究问题的凝练与案例选择奠定了充分的经验基础。在此基础上，本研究围绕既定
+研究问题，进一步开展了14次半结构式深度访谈（表1），受访对象涵盖了拥有核心决策权
+的行政机关、直接负责运营的企业高管以及关键技术专家，符合“精英访谈”的特征。且在
+访谈进行到第11~12次时，关于“政策约束”“生态响应”及“目标冲突”等核心主题的叙述
+已出现明显的重复与重叠，未再涌现新的相悖逻辑，表明数据已达到质性研究的理论饱和。
+  
+表1    访谈对象基本信息
+Table 1    Attributes of the interviewees 
+身份 编码 身份 编码
+行政机关−海洋开发运营单位工作人员 Z-01 企业−无居民海岛营运者 Q-01
+行政机关−海洋开发投资单位工作人员 Z-02 企业−无居民海岛开发商 Q-02
+行政机关−海洋管理主管部门工作人员 Z-03 企业−无居民海岛管理者 Q-03
+行政机关−海洋开发投资单位工作人员 Z-04 企业−无居民海岛开发商 Q-04
+行政机关−海洋规划研究部门工作人员 Z-05 科研专家 K-01
+规划单位−设计者 G-01 科研专家 K-02
+规划单位−设计者 G-02 规划单位−设计者 G-03
+ 
+此外，研究系统收集了多类文本与档案资料。其中，政策法规包括《中华人民共和国海
+岛保护法》（https://www.mee.gov.cn/ywgz/fgbz/fl/202303/t20230314_1019567.shtml）、《无居
+民 海 岛 使 用 权 登 记 办 法 》 （ https://www.gov.cn/gongbao/content/2011/content_1845081.htm）
+及《珠海经济特区无居民海岛开发利用管理规定》（https://zrzyj.zhuhai.gov.cn/zrzyjwwz/wxc/
+zcfg/content/post_2410674.html） 等 ； 规 划 设 计 文 本 涵 盖 三 角 岛 生 态 修 复 总 体 规 划
+（https://www.toutiao.com/article/7515074112117604874/?wid=1773628919513，2025-09-26）、
+放鸡岛旅游开发规划及牛头岛功能区划图等；媒体与企业资料来源于政府官网、地方新闻
+媒体及企业年报；此外，还收集了地方海洋规划研究机构及高校科研团队关于海岛生态修
+复等研究的调研报告。这些资料不仅为分析不同开发逻辑提供了制度背景与政策依据，也
+为识别政策指引、产权证书、地形地貌等非人类行动者的能动性提供了文本依据。
+ 3    无居民海岛开发的行动者网络比较分析
+无居民海岛的开发治理是一个多元行动者共同参与的复杂过程。为系统剖析其内在
+机制，本研究引入行动者网络理论，构建起“核心行动者−必经点−转译过程−关键行动者−网
+络稳定性”的分析框架，并选取市场驱动型的放鸡岛、政府主导型的三角岛及国家战略需
+求驱动型的牛头岛进行对比研究。
+ 3.1    市场驱动型：放鸡岛的“租赁−经营”网络
+放鸡岛是中国最早由民营资本主导的无居民海岛开发案例，其网络构建发生在《中华
+人民共和国海岛保护法》（https://www.mee.gov.cn/ywgz/fgbz/fl/202303/t20230314_1019567.
+shtml）出台前的制度探索阶段，充分体现了市场逻辑在制度尚不完善时的自发性和局限性。
+X 期 周少君等：行动者网络视角下无居民海岛开发的多元互动机制与网络稳定性研究 5
+--- PAGE 7 ---
+该网络的核心行动者是追求投资回报的民营企业，其必经点是通过租赁方式将海岛转化
+为可持续经营的旅游资产（图3）。对于民营企业而言，这意味着资本投入能够转化为稳定
+收益；对地方政府而言，它是盘活海岛资源、实现区域旅游发展的现实路径；对游客而言，
+则是获得可达、安全且具备服务能力的旅游空间。
+  
+ 
+图3    放鸡岛开发的行动者网络
+Fig.3    Actor network for the development of Fangji Island
+ 
+该网络的转译过程始于核心行动者对商业机遇的识别。在问题化阶段，民营企业将海
+岛旅游的独特价值与政策真空视为可利用的契机。随后的利益赋予与招募过程则围绕与
+地方政府签订租赁协议展开，通过契约化确立合法用岛身份，并吸引游客与旅行社等行动
+者加入，形成以契约与市场逻辑为核心的松散联盟。这一转译过程属于典型的“弱转译”，
+其合作关系仅建立在短期经济利益之上，缺乏制度支撑与信任基础。
+在行动者构成上，人类行动者包括民营投资方、地方政府与游客，但真正对该网络演
+化路径产生决定性影响的，是一系列非人类行动者。在放鸡岛的开发过程中，非人类行动
+者并未被顺利纳入开发网络，而是在关键节点上对转译过程进行干预，成为网络稳定性变
+化的重要触发因素。在初期阶段，企业将租赁合同这一制度性文本问题转化为实现商业开
+发的核心工具，并试图通过其稳定政府关系、吸引资本与游客。然而，随着《中华人民共和
+国海岛保护法》（https://www.mee.gov.cn/ywgz/fgbz/fl/202303/t20230314_1019567.shtml）的
+实施，该制度文本的法律属性发生了变化，原本用于合法化经营行为的合同逐渐被界定为
+“历史遗留问题”，难以支撑后续改扩建、融资与业态升级。租赁合同并非简单失效，而是
+通过其制度效力的变化，直接阻断了既定开发路径，使企业在转译过程中不断回撤，如“后
+面政策一收紧，这个租赁的性质就变得很尴尬，很多事情就没法继续往前推了（Z-03）”。
+与此同时，岛上基础设施作为非人类行动者在开发后期表现出明显的反抗性。早期规
+划中，既有码头、住宿与供能设施被视为可持续利用的物质基础，其维护成本并未被
+充分纳入转译计算。然而，随着设施老化与使用强度上升，维护成本快速攀升，安全隐患与
+服务质量问题频繁出现，这些设施不再是支撑旅游体验的中性工具，而是通过故障与风险
+不断侵蚀经营收益并影响游客体验，如“放鸡岛主要是它的装备全部已经废旧了（Z-02）”，
+设施状态直接影响定价与客流，“后面定价方面也有一些争议，所以 2021 年之后它就停业
+了（Z-02）”。基础设施以其物质属性持续背离企业的经营预期，使原本以规模化接待为导
+向的转译逻辑逐渐失去现实基础。
+此外，自然环境作为非人类行动者也在开发过程中持续介入并放大不确定性。放鸡岛
+所处海域台风频发、海况变化剧烈，这些自然要素并非偶发风险，而是通过反复调整运营
+6 地　　理　　科　　学 47 卷
+--- PAGE 8 ---
+节奏，解决设施老化与管理成本问题。在转译逻辑仍以“快速回收投资”为核心的前提下，
+自然环境的干预不断提高继续投入的不确定性，使企业在是否升级改造或退出经营之间
+陷入两难。一位规划人员指出，“要么就得大规模升级改造，要么就得考虑退出，但这两条
+路风险都很高（G-02）”。自然条件由此不再是可被技术中和的背景变量，而是直接介入并
+重塑了企业的决策路径。
+在制度指引、基础设施与自然环境等非人类行动者的持续干预下，放鸡岛开发网络中
+的转译被重塑。原本围绕“租赁−经营−盈利”构建的商业逻辑，未能将关键非人类行动者稳
+定纳入网络中，当制度环境与物质条件发生变化时，网络缺乏重新设定必经点的能力，只
+能 通 过 缩 减 投 入 与 暂 停 运 营 等 方 式 被 动 应 对 ， 导 致 行 动 者 联 盟 松 散 化 走 向 解 体 。
+ 3.2    政府主导型：三角岛的“公益−旅游”网络
+三角岛的开发呈现出一个目标多元、结构复杂的政府主导型行动者网络，其核心在于
+以“公益+旅游”的创新路径统筹生态修复、制度试验与经济发展。省、市级部门作为核心
+行动者，试图在生态修复与政策创新的双重压力下，探索一种可复制的制度化开发模式。
+正如一位管理者所言：“从省里的角度，觉得单独去一个一个处理每一个部门的这些需求，
+这个可能就会增加太多行政成本（Z-01）”。由此确立了省政府统筹、公益主体实施的制度
+安排。该网络的必经点可概括为：在现有法律框架下实现矿岛生态修复与有限度利用的合
+法化路径（图4）。
+  
+ 
+图4    三角岛开发的行动者网络
+Fig.4    Actor network for the development of Sanjiao Island
+ 
+在转译过程中，政府首先通过问题化将“生态破坏的矿岛修复”与“无居民海岛开发的
+法律空白”界定为需共同应对的关键议题，如“珠海本身历史上就存在六七个采石海岛，它
+们已经经历破坏，需要综合性的保护性开发（Z-01）”，不仅为后续行动提供了正当性，也为
+政策创新铺垫了空间。随后，在利益相关化阶段，政府通过制度创新与政策工具的灵活运
+用，招募并加盟多元盟友。一方面，引入事业单位作为公益用岛主体，以避免当时的一些
+不确定性，实现合法化路径；另一方面，通过降低地价、给予政策性贷款吸引地方国有企业
+等开发主体加入，将商业诉求转译为政策研究和示范价值。在招募与动员阶段，政府形成
+了以其为核心的多层行动者联盟，涵盖公益事业单位、地方国企、科研机构、金融部门与
+X 期 周少君等：行动者网络视角下无居民海岛开发的多元互动机制与网络稳定性研究 7
+--- PAGE 9 ---
+规划设计单位。珠海特区立法权作为关键的非人类行动者，促成了《珠海经济特区无居民
+海岛开发利用管理规定》（https://zrzyj.zhuhai.gov.cn/zrzyjwwz/wxc/zcfg/content/post_2410
+674.html）的出台，为网络提供了合法性与可持续性制度保障。然而，这一制度创新并未消
+除网络内部的张力。
+尽管三角岛的开发在宏观层面获得了制度创新与政策授权，但非人类行动者并未完全
+顺从于“公益−旅游”并行的转译设想，反而通过制度与物质条件的双重约束持续改进开发
+路径。其中，“单一海岛证”这一制度性非人类行动者在产权层面显现出强烈的反抗性。该
+证书在形式上完成了用岛合法化，却因不可拆分、不可局部抵押的制度设计，限制了资本
+工具的灵活运用，使原本设想的多主体协作模式在融资与风险分担层面难以落实，如“他
+只能拿到一个整本的海岛证，要是抵押就得整本抵押，这个风险太大了（Q-01）”，产权制度
+并未如预期那样黏合行动者，反而在关键节点上收紧了合作空间。
+与此同时，矿岛遗留地貌这一物质性非人类行动者也持续对转译施加压力。受破坏的
+矿区地貌成为修复的原始驱动力，但巨大的投资成本，如“开发都到了十几个亿了（G-03）”
+使项目只能向高端化倾斜；与此同时，持续低迷的客流量，如“五一黄金周后，入岛总共不
+到1 000人（Z-03）”，使项目定位多次调整。管理者提到：“一期建完之后，就暂时保持现在
+的这个体量了（Z-05）”。此外，人类行动者的更迭也频繁触发网络重构。国企重组与人事
+更迭使项目被“注入了地产的概念（K-01）”，原本的生态修复与公益示范目标被市场逻辑
+部分取代，导致联盟内部的信任结构再次松动。
+ 3.3    国家战略需求驱动型：牛头岛的“功能−实用”网络
+牛头岛的开发逻辑与三角岛、放鸡岛形成了鲜明对比。其核心目标并非经济收益或制
+度创新，而是服务于国家重大基础设施工程的功能性需求，构建了一个目标单一、运作高
+效的“功能−实用”型行动者网络（图5）。在这一网络中，核心行动者并非特定机构，而是香
+港机场、香港围填海、港珠澳大桥、深中通道等国家工程项目本身的建设任务。其必经点
+可概括为：高效推进国家重大工程预制件生产与交付。对工程建设单位而言，这关系到工
+期与成本控制；对地方政府而言，它是服务国家工程、履行行政协同职责的现实抓手；对监
+管部门而言，则是确保安全、合规与质量的操作框架。岛屿的空间价值完全取决于国家战
+略性工程功能，而非传统意义上的经济或旅游开发。
+  
+ 
+图5    牛头岛开发的行动者网络
+Fig.5    Actor network for the development of Niutou Island
+ 
+在转译过程中，核心行动者首先将“远距离运输成本高、风险大、工期紧”问题转化为
+工程瓶颈。为解决这一问题，政府部门通过“点状供岛”的政策工具实现利益相关化，并精
+8 地　　理　　科　　学 47 卷
+--- PAGE 10 ---
+准招募企业作为执行主体。这种供地方式实现了行动者与目标之间的高度匹配，访谈指出
+此为“部分点状用岛出让形式……只有央企作为开发主导单位一家主体单位（K-02）”，并
+肯定其创新性在于“用点状供岛形式去推动一些土地的开发，还有实现土地问题较为现实
+一些（K-02）”。
+牛头岛的非人类行动者几乎未对转译过程形成反抗，其高度可控性成为网络稳定的
+关键。首先，岛连岛的地理属性在空间上消除了海岛开发中常见的运输与可达性不确定性，
+使岛屿不再是需要被“克服”的自然对象，而是可被直接嵌入工程体系的功能节点。其次，
+“点状供岛”政策与“工业用地”属性在制度层面提前释放了用途想象空间，明确排除了旅
+游、地产等可能引发张力的开发路径，使所有行动者只能围绕工程目标展开协作。更为关
+键的是，工程图纸与工期表作为规范性非人类行动者，在网络中发挥了高度纪律化的约束
+作用。它们不仅规定了施工方式，更通过不可协商的时间节点与技术标准，将人类行动者
+的决策空间压缩至最小。在这一条件下，转译并非通过协商不断调整，而是在工程逻辑的
+强制统一下被一次性完成。正因如此，牛头岛网络几乎不存在结构性博弈，其稳定性并非
+来自联盟黏合，而是源于非人类行动者对行动路径的全面规训。项目完成后，网络随即解
+散，呈现出典型的“任务完成即中止”的项目制特征。
+ 3.4    3个海岛行动者网络的比较分析
+从行动者网络理论的视角审视，3种开发模式并非仅在开发目标与主导主体上存在差
+异，其根本区别在于非人类行动者介入转译过程的方式不同，由此塑造了3种稳定性水平
+显著差异的行动者网络形态。非人类行动者并非统一地促进或阻碍开发，而是通过制约、
+收紧或规训等不同机制，深刻影响了转译路径及网络演化结果。
+在市场主导的放鸡岛案例中，制度指引、基础设施与自然环境等非人类行动者在开发
+过程中表现出明显的干预能力。租赁合同在制度环境变化后削弱延展效力，基础设施老化
+与海况风险不断侵蚀经营收益，这些因素偏离了以商业盈利为核心的转译设想。由于核心
+行动者未能将关键非人类要素稳定纳入网络，转译过程频繁受阻，行动者联盟逐步松散，
+最终导致网络解体。放鸡岛体现的是一种“非人类制约型”网络，其不稳定性源于制度与
+物质条件对市场逻辑的持续挑战。
+三角岛则呈现出不同的机制特征。作为政府主导的“公益 −旅游”型开发，其制度创新
+为转译提供了初始合法性，但产权制度设计与矿岛地貌条件等非人类行动者并未完全顺
+从既定叙事，而是通过提高融资门槛与修复成本，对转译路径形成约束。非人类行动者并
+未直接瓦解网络，却不断压缩行动空间，使开发逻辑在公益目标与市场回报之间反复调整。
+由此形成的并非稳定整合的联盟，而是一种长期处于结构性摇摆状态的行动者网络，体现
+出“非人类约束型”作用机制。
+相比之下，牛头岛的行动者网络呈现高度稳定的运行状态，其关键在于非人类行动者
+的高度适配于规范性特征。岛连岛的地理属性、点状供岛政策以及工程图纸与工期约束，
+共同构成一个目标明确、路径封闭的转译环境。非人类行动者在此并未制造不确定性，反
+而通过明确边界与强制节奏，将人类行动者的决策空间压缩至最小。转译过程几乎在初始
+阶段即被完成，网络稳定性来源于工程逻辑的全面规训，呈现典型的“项目制网络”形态。
+综合来看，3类无居民海岛开发网络的稳定性差异，并非简单由行政力量或资本规模
+决定，而是取决于非人类行动者如何介入转译过程。反抗型机制易导致网络瓦解，收紧型
+机制形成动态平衡，而规训型机制则支撑高度稳定但时间受限的网络结构。这一比较表明，
+理解无居民海岛开发的关键，不在于选择谁来主导，而在于识别并设计能够与特定开发逻
+辑相适配的非人类行动者配置方式。
+X 期 周少君等：行动者网络视角下无居民海岛开发的多元互动机制与网络稳定性研究 9
+--- PAGE 11 ---
+ 4    结论与讨论
+ 4.1    结论
+研究基于行动者网络理论，对无居民海岛开发中的多元行动者网络构建及其稳定性
+进行了比较研究。通过对放鸡岛、三角岛与牛头岛3个具有代表性案例的分析，研究揭示
+了不同主导逻辑下行动者网络在转译路径与稳定形态上的显著差异。
+研究发现，无居民海岛的开发并非单一主体的线性决策过程，而是由人类与非人类行
+动者共同构成的复杂网络。政府、企业、科研机构、政策指引、地理条件和产权制度等要素
+在问题化、利益赋予、招募和动员等环节中相互嵌合，其协作与冲突共同塑造了开发的路
+径与结果。这表明无居民海岛开发是一个社会、技术与自然相互交织的系统建构过程，而
+非单纯的政策执行或经济行为。
+其中主导逻辑决定了必经点的性质，并直接影响网络的稳定性。具体而言，市场驱动
+型开发以追求短期利润为核心，转译关系松散，难以将制度与生态等关键行动者稳定纳入，
+因而呈现出脆弱易变的特征。租赁合同、基础设施与自然环境等非人类行动者在制度环境
+变化与物质条件约束下表现出较强的干预能力，原有以商业盈利为核心的转译路径不断
+被重塑，最终导致行动者联盟松散并走向解体。政府主导的三角岛开发则呈现出长期结构
+性摇摆的特征，产权制度设计与矿岛遗留地貌等非人类行动者并未直接否定公益与旅游
+并行的开发目标，而是通过提高融资门槛与修复成本，对转译路径形成约束，使网络维持
+在动态平衡状态。相比之下，国家战略需求驱动的牛头岛开发网络中，岛连岛的地理属性、
+点状供岛政策以及工程图纸与工期约束等非人类行动者高度适配并规范化地嵌入转译过
+程，使转译在初始阶段即被完成，形成了高度稳定但时间受限的项目制网络。
+基于上述比较，研究进一步提出，行动者网络的“稳定性”应被理解为一种高度情境化、
+阶段性的分析概念，而非规范意义上的理想状态。稳定性既可能表现为短期内的高效协同，
+也可能体现为长期的结构性调整，其本质是体现在特定地理条件、制度框架与功能目标约
+束下的阶段性结果。
+ 4.2    讨论
+在理论层面，研究为理解无居民海岛开发的复杂性提供了新的解释框架。通过区分非
+人类行动者在转译过程中的不同作用机制，研究揭示了非人类行动者并非统一地促进或
+阻碍开发[8]，而是通过干预、约束与规训等方式，系统性地重塑行动者网络的演化路径。这
+一机制化区分有助于将行动者网络理论从经验叙述中提升为具有比较意义的解释框架，
+增强其在复杂空间实践研究中的分析深度。
+从人地关系研究的角度看，本文进一步表明无居民海岛是一类物质属性、制度安排与
+时间约束高度叠加的特殊地理场域。岛屿的孤立性、地貌条件与生态脆弱性通过非人类行
+动者的形式持续介入社会过程，使开发活动始终处于被自然与制度共同塑形的状态。这一
+发现丰富了旅游地理与海岛地理中关于空间能动性的讨论，为理解复杂人地关系提供了
+新的视角。
+研究也促使业界重新审视“网络稳定性”在海岛治理中的价值内涵。在牛头岛案例中，
+过度稳固的指令性网络虽然在单一任务上效率极高，但可能导致路径依赖，在面对工程结
+束后的功能转型时显得缺乏弹性。相反，三角岛网络中表现出的“摇摆”与“张力”，或许正
+是海岛在承担生态与发展多重职能时的必然博弈过程。空间系统的稳定性并不必然伴随
+发展强度的提升[30]，这种处于动态平衡中的网络，虽然在短期内表现出震荡，但可能具备
+更强的长期适应性。这回应了岛屿地理学关于岛屿韧性的讨论[31-32]，即岛屿的韧性并非源
+于其结构的稳固，而源于其与周边环境不断调整的纠缠关系。无居民海岛的可持续开发，
+10 地　　理　　科　　学 47 卷
+--- PAGE 12 ---
+不应追求刚性的结构锁定，而应致力于构建一种具有社会和生态韧性的行动者网络。这种
+网络能够容纳非人类行动者的影响，并通过灵活的转译机制不断调整OPP，从而在变动不
+居的海洋环境中实现长期的生存与发展。
+实践层面，研究对无居民海岛分类分级开发与治理具有启示意义。不同开发目标对应
+着不同类型的非人类行动者配置方式（https://research.vu.nl/en/publications/private-and-pub-
+lic-development-strategies-for-sustainable-tourism/，2025-09-26）。市场导向型开发若缺乏稳
+定的制度嵌入与长期维护机制，易因非人类行动者的制约而出现波动；制度创新型开发需
+要关注产权制度与物质条件对协作空间的约束；而功能导向型开发虽然能够实现高度稳
+定，但其适用范围受限于明确且不可替代的工程目标。因此，未来无居民海岛治理不应简
+单复制某一成功模式，而应在识别主导逻辑的基础上，有意识地设计与之相适配的非人类
+行动者组合。
+参考文献（References）： 
+ 彭勃, 董艺翀. 无居民海岛开发生态损害评估——以象山县大羊屿岛为例[J]. 生态学报, 2022, 42(18): 7587-7596.
+[Peng Bo, Dong Yichong. Ecological damage compensation for uninhabited island development: A case study of Day-
+angyu Island. Acta Ecologica Sinica, 2022, 42(18): 7587-7596.]
+[1]
+ 刘健, 吴清峰, 胡彪. 我国无居民海岛休闲体育旅游资源开发利用困境与对策[J]. 体育文化导刊, 2022(12): 13-20. [Liu
+Jian, Wu Qingfeng, Hu Biao. Dilemma and countermeasures of development and utilization of leisure sports tourism re-
+sources in uninhabited islands in China. Sports Culture Guide, 2022(12): 13-20.]
+[2]
+ 傅世锋, 吴海燕, 蔡晓琼, 等. 中国无居民海岛开发利用管理现状、问题和对策[J]. 应用海洋学学报, 2021, 40(4): 728-
+734. [Fu Shifeng, Wu Haiyan, Cai Xiaoqiong et al. Problems and countermeasures of recent development and utiliza-
+tion of uninhabited islands in China. Journal of Applied Oceanography, 2021, 40(4): 728-734.]
+[3]
+ 马金星. 生态系统完整性理念视域下无居民海岛治理法治路径探析[J]. 中国海商法研究, 2021(3): 76-89. [Ma Jinxing.
+Legal paths of uninhabited islands’ecological governance in China from the perspective of the concept of ecosystem in-
+tegrity. Chinese Journal of Maritime Law, 2021(3): 76-89.]
+[4]
+ Connell J. Islands: Balancing development and sustainability?[J]. Environmental Conservation, 2018, 45(2): 111-124.[5]
+ Bodin Ö, Crona B I. The role of social networks in natural resource governance: What relational patterns make a differ-
+ence?[J]. Global Environmental Change, 2009, 19(3): 366-374.
+[6]
+ 罗燊, 叶超. 当地理遇到治理: 思想渊源与理论演变[J]. 地理科学, 2023, 43(7): 1167-1173. [Luo Shen, Ye Chao. When
+geography  meets  governance:  Ideological  origin  and  theoretical  evolution. Scientia  Geographica  Sinica, 2023, 43(7):
+1167-1173.]
+[7]
+ Callon M. Some elements of a sociology of translation: Domestication of the scallops and the fishermen of St Brieuc
+Bay[J]. The Sociological Review, 1984, 32(1): 196-233.
+[8]
+ Law J. Actor network theory and material semiotics[M]//Turner B S. The new Blackwell companion to social theory.
+Chichester, West Sussex, United Kingdom: Wiley-Blackwell, 2009: 141-158.
+[9]
+ Latour  B.  Reassembling  the  social:  An  introduction  to  Actor-Network-Theory[M].  Oxford:  Oxford  University  Press,
+2005.
+[10]
+ Murdoch J. The spaces of Actor-Network Theory[J]. Geoforum, 1998, 29(4): 357-374.[11]
+ 储德平, 黄成昆. 旅游发展背景下乡村自我绅士化的过程与机制——以陕西袁家村为例[J]. 地理研究, 2023, 42(7):
+1856-1873. [Chu Deping, Huang Chengkun. The process and mechanism of rural self-gentrification amidst tourism de-
+velopment:  A  case  study  of  Yuanjia  Village,  Shaanxi  Province,  China. Geographical  Research, 2023, 42(7): 1856-
+1873.]
+[12]
+ 王建英, 孙琦, 邹利林. 基于行动者网络理论的海岛乡村空间演化路径——以福建平潭国际旅游岛北港村为例[J]. 地
+理科学, 2025, 45(5): 1039-1049. [Wang Jianying, Sun Qi, Zou Lilin. Spatial evolution path of island villages based on
+Actor-Network  Theory:  A  case  study  of  Beigang  Village  in  Pingtan  International  Tourism  Island,  Fujian  Province,
+China. Geographical Science, 2025, 45(5): 1039-1049.]
+[13]
+ 魏红妮, 朱竑, 陈晶. 行动者网络理论视角下文化旅游地的非遗展演与实践——以陕西黄帝陵祭典为例[J]. 旅游科学,
+2025, 39(5): 136-153. [Wei Hongni, Zhu Hong, Chen Jing. Intangible cultural heritage performance and practice in cul-
+tural tourism destination from the perspective of actor-network theory-a case study of the sacrificial ritual at the mauso-
+leum of Huangdi in Shaanxi. Tourism Science, 2025, 39(5): 136-153.]
+[14]
+ 肖学宏, 徐红罡. 行动者网络理论在旅游知识生产中的运用、贡献与未来展望[J]. 旅游科学, 2025, 39(3): 1-16. [Xiao[15]
+X 期 周少君等：行动者网络视角下无居民海岛开发的多元互动机制与网络稳定性研究 11
+--- PAGE 13 ---
+Xuehong, Xu Honggang. The application, contribution, and future prospects of Actor-Network Theory in tourism know-
+ledge production. Tourism Science, 2025, 39(3): 1-16.]
+ Law J. Notes on the theory of the actor-network: Ordering, strategy, and heterogeneity[J]. Systems Practice, 1992, 5(4):
+379-393.
+[16]
+ 王玉洁, 张京祥, 王雨. 行动者网络视角下渐进式更新协作机制研究——以江苏省南京小西湖地段更新为例[J]. 上海
+城市规划, 2022(1): 110-119. [Wang Yujie, Zhang Jingxiang, Wang Yu. Research on the cooperation mechanism of in-
+cremental regeneration from the perspective of Actor-Network Theory: A case study of Xiaoxihu renewal in Nanjing,
+Jiangsu Province. Shanghai Urban Planning Review, 2022(1): 110-119.]
+[17]
+ 陈燕纯, 杨忍, 王敏. 基于行动者网络和共享经济视角的乡村民宿发展及空间重构——以深圳官湖村为例[J]. 地理科
+学进展, 2018, 37(5): 718-730. [Chen Yanchun, Yang Ren, Wang Min. Development process of rural homestay tourism
+and spatial restructuring with the actor-network method from the perspective of shared economy: A case study of Guan-
+hu Village in Shenzhen. Progress in Geography, 2018, 37(5): 718-730.]
+[18]
+ 李叶洋, 邵琳. 基于行动者网络理论的生态特色型乡村空间重构过程与转型机制——以上海市青浦区莲湖村为例[J].
+地理科学, 2024, 44(1): 30-39. [Li Yeyang, Shao Lin. Reconstruction process and transformation mechanism of ecolo-
+gical characteristic rural space based on Actor-Network Theory: A case study of Lianhu Village in the Qingpu District,
+Shanghai. Scientia Geographica Sinica, 2024, 44(1): 30-39.]
+[19]
+ 王彬, 孙骜, 刘云刚, 等. 行动者网络视角下霍尔果斯边境口岸空间转型过程及其机制[J]. 地理科学, 2024, 44(2): 258-
+267. [Wang Bin, Sun Ao, Liu Yungang et al. The spatial transformation process and mechanism of Khorgos border port
+from the perspective of Actor-Network Theory. Scientia Geographica Sinica, 2024, 44(2): 258-267.]
+[20]
+ 王公为, 赵忠伟. 行动者网络视域下乡村旅游扶贫模式与机制研究——以赤峰市雷营子村为例[J]. 农业现代化研究,
+2021, 42(1): 57-66. [Wang Gongwei, Zhao Zhongwei. The mode and mechanism of poverty alleviation through rural
+tourism based on the Actor-Network Theory: A case study of Leiyingzi Village in Chifeng City. Research of Agricultur-
+al Modernization, 2021, 42(1): 57-66.]
+[21]
+ 袁超, 陈品宇, 孔翔, 等. 行动者网络理论与人文地理学的交互关系研究——重构、争辩与反思[J]. 地理研究, 2021,
+40(2): 583-596. [Yuan Chao, Chen Pinyu, Kong Xiang et al. Research on the interaction between Actor-Network The-
+ory and Human Geography: Reconstruction, debate and reflection. Geographical Research, 2021, 40(2): 583-596.]
+[22]
+ 刘海朦, 胡静, 吕丽. 基于行动者网络的生态旅游地多元主体冲突的演变及形成机制——以湖北省神农架为例[J]. 经
+济 地 理 , 2024, 44(7): 214-222. [Liu Haimeng, Hu Jing, lyu Li. Evolution and formation mechanism of multi-subject
+conflicts  in  ecotourism  destinations  based  on  the  Actor-Network  Theory:  A  case  study  of  Shengnongjia,  Hubei
+Province. Economic Geography, 2024, 44(7): 214-222.]
+[23]
+ Mountz A. Political geography II: Islands and archipelagos[J]. Progress in Human Geography, 2015, 39(5): 636-646.[24]
+ Alexopoulos A B, Karris G, Kokkali A. Sustainable research and development of the small uninhabited islands: The
+case of Ionian Oinousses[J]. Global Nest Journal, 2013, 15: 111-120.
+[25]
+ Ronström O. Remoteness, islands and islandness[J]. Island Studies Journal, 2021, 16(2): 270-297.[26]
+ Stratford E. Islandness and struggles over development: A Tasmanian case study[J]. Political Geography, 2008, 27(2):
+160-175.
+[27]
+ Sayes E. Actor-Network Theory and methodology: Just what does it mean to say that nonhumans have agency?[J]. So-
+cial Studies of Science, 2014, 44(1): 134-149.
+[28]
+ 蔡晓梅, 吴泳琪, 邹小丹. 社会生态系统视角下替代性农业生产的韧性网络形成机制——广州案例[J]. 地理科学, 2024,
+44(9): 1524-1533. [Cai Xiaomei, Wu Yongqi, Zou Xiaodan. Resilience network formation mechanism of alternative ag-
+ricultural production from the perspective of socio-ecological system: A case of Guangzhou. Scientia Geographica Sin-
+ica, 2024, 44(9): 1524-1533.]
+[29]
+ 孙平军, 彭雅丽, 曹乃刚, 等. 延边朝鲜族自治州城镇收缩: 特征、机理与响应[J]. 地理科学, 2023, 43(5): 796-806. [Sun
+Pingjun, Peng Yali, Cao Naigang et al. The characteristics, mechanism and response of shrinking cities and towns in
+Yanbian Korean Autonomous Prefecture. Scientia Geographica Sinica, 2023, 43(5): 796-806.]
+[30]
+ Yao S, Liu K. Actor-network theory: Insights into the study of social-ecological resilience[J]. International Journal of
+Environmental Research and Public Health, 2022, 19(24): 16704.
+[31]
+ Pugh J, Chandler D. Anthropocene islands: Entangled worlds[M]. London: University of Westminster Press, 2021.[32]
+12 地　　理　　科　　学 47 卷
+--- PAGE 14 ---
+Multi-actor interaction mechanisms and network stability in unin
+habited island development from Actor-Network Theory
+perspective: A case study of Fangji Island, Sanjiao Island,
+and Niutou Island in Guangdong
+Zhou Shaojun1,2，Feng Qian1，Cheng Binwu1，Hou Xinyi2,3
+（1. School of Safety Science and Emergency Management, Wuhan University of Technology, Wuhan 430070,
+Hubei, China; 2. Guangzhou Southern Cultural and Creative Institute, Guangzhou 510663, Guangdong, China;
+3. Faculty of Geography, Yunnan Normal University, Kunming 650504, Yunnan, China）
+Abstract:  Uninhabited islands represent a strategic category of marine spatial resources char-
+acterized by high ecological sensitivity, institutional complexity, and development uncertainty.
+Existing studies on uninhabited island development have largely focused on policy frameworks
+and functional zoning, while paying limited attention to the dynamic interactions among mul-
+tiple actors involved in the development process. Drawing on Actor-Network Theory (ANT),
+this study proposes an analytical framework centered on core actors, obligatory passage points
+(OPP), translation processes, non-human actors, and network stability. The framework emphasizes
+generalized  symmetry,  treating  geographical  conditions,  institutional  texts,  and  engineering  facilities
+as active participants rather than passive backgrounds. Through a comparative analysis of three unin-
+habited islands in Guangdong Province—Fangji Island, Sanjiao Island, and Niutou Island—the paper
+examines  how  different  development  logics  shape  the  configuration  and  stability  of  actor-networks
+across stages of problematization, interessement, enrollment, and mobilization. The findings in-
+dicate that uninhabited island development is not a linear process, but a relational outcome co-
+produced by human and non-human actors. Market-driven development is prone to instability
+due to non-human resistance, where aging infrastructure and shifting legal statuses of lease con-
+tracts betray the commercial logic. Government-led public welfare–tourism development exhib-
+its non-human tightening, as the single island certificate system and high ecological restoration
+costs constrain translation processes, leading to long-term structural tension. In contrast, state-
+strategic, function-oriented development achieves high short-term stability through non-human
+disciplining, where rigid engineering blueprints and schedules compress human decision-mak-
+ing spaces. The study argues that network stability should be understood as dynamic order, a
+contextual  and  temporary  effect  of  translation,  rather  than  a  normative  ideal.  By  highlighting
+the differentiated roles of non-human actors such as typhoons, property rights, and topographic-
+al legacies, this research contributes to a deeper understanding of island governance. It offers
+analytical insights for the classification-based development of uninhabited islands, advocating
+for the construction of resilience-oriented networks capable of accommodating environmental
+and institutional perturbations.
+Key words:  Actor-Network Theory; uninhabited island; island development; network stability
+X 期 周少君等：行动者网络视角下无居民海岛开发的多元互动机制与网络稳定性研究 13

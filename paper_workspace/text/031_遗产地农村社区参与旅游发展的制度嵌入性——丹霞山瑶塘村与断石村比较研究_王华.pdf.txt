@@ -1,0 +1,771 @@
+
+--- PAGE 1 ---
+µØÀíÑ—¾¿
+GEOGRAPHICAL RESEARCH
+µÚ35¾íµÚ6˘Ú
+2016˜Œ6Ô´
+V ol.35, No.6
+June, 2016
+遗产地农村社区参与旅游发展的制度嵌入性
+——丹霞山瑶塘村与断石村比较研究
+王 华，郑艳芬
+（暨南大学管理学院旅游管理系，广州 510632）
+摘要：基于制度嵌入性理论 ，采用质性研究方法 ，采取主位的研究立场 ，揭示正式制度与非正
+式制度对农村社区参与旅游发展的约束与影响 。研究发现：遗产地农村社区参与旅游发展是
+一个制度约束下的理性行动过程 ，同时嵌入在多层正式制度和非正式制度中 ；不同农村社区在
+参与旅游发展过程中 ，由于制度嵌入的差异 ，导致相异的行动决策和发展结果 ，社区内部非正
+式制度嵌入的差异是主要影响因素 ；当社区内部非正式制度脱嵌时 ，外部正式制度的有效嵌入
+是协调遗产地与社区发展的关键因素 。研究认为，制度嵌入性范式可以深入地解释不同农村
+社区参与旅游发展的差异性 ，为中国农村社区参与旅游发展的增权行动 、制度设计和监督管理
+提供有益参考。
+关键词：旅游；社区参与；制度嵌入性；丹霞山
+DOI: 10.11821/dlyj201606013
+1 ÒýÑÔ
+社区参与旅游发展是旅游地理学研究的热点主题
+[1,2]
+。近些年国内对于社区参与旅游
+发展的研究逐步聚焦到 “制度”问题上，包括从国家法律法规等正式制度层面自上而下
+地探讨如何改革与完善土地产权 、吸引物权、旅游资源集体产权等来实现社区参与旅游
+发展的制度增权问题
+[3-7]
+，也包括自下而上地探索社区如何通过构建非正式制度来实现自
+我增权
+[8-10]
+。然而，总的来看，现有研究往往基于二元分立的 、 “外部”即客位 （etic） 的
+立场，这可能产生 “制度归因”的片面性和 “外部强加”的解释危险
+[11]
+。事实上，农村
+社区参与旅游发展同时受到正式制度和非正式制度的影响 。因此 ，有必要采取主位
+（emic） 的研究立场，即从农村社区参与主体的角度来揭示正式与非正式制度对农村社区
+参与旅游发展所构成的约束与影响。
+伴随着世界遗产地丹霞山 30 多年的旅游发展历程，丹霞山景区内的瑶塘村和断石村
+通过两轮旅游服务型新村建设和旧村改造 ，基本实现了以经营旅游住宿 、餐饮和商铺等
+方式全村参与到旅游发展中来 。然而，隔河相望 、紧密相邻的两村却在参与旅游的时
+序、方式和结果上呈现显著的差异。20 世纪 90 年代以前，两村的经济与社会文化发展背
+景相似，所受到的外部环境约束也是相似的。然而，20 世纪 90 年代中后期以来，当同时
+面对外部发展政策制度影响时 ，两村在参与旅游发展特别是前后两轮旅游服务新村建设
+收稿日期：2016-01-17; 修订日期：2016-04-21
+基金项目：国家自然科学基金项目 （41101139） ；国家旅游局旅游业青年专家培养计划项目 （TYEPT201444） ；广东
+省哲学社会科学规划项目 （GD15CGL14） ；暨南大学管理学院重点学科建设育题基金项目（GY14013）
+作者简介：王华 （1978- ） ，男，湖南郴州人，博士，副教授，博士生导师，研究方向为旅游地理和旅游规划。
+E-mail:wanghua@jnu.edu.cn
+1164-1176页
+--- PAGE 2 ---
+6 期 王 华 等：遗产地农村社区参与旅游发展的制度嵌入性
+和旧村改造过程中 ，分别作出了各自相异的行动决策 ：在第一轮新村建设中 ，瑶塘村抓
+住机遇率先建设 新村，断石村错失机遇滞后 7 年建设新村 ；在第二轮旧村改造中 ，瑶塘
+村有序统一拆建旧村 ，断石村无序拆建旧村 。其呈现的结果是 ：在第一轮新村建设中 ，
+瑶塘村只有部分农户参与 ，断石村全部农户参与 ；在第二轮旧村改造中 ，两村全部农户
+参与拆建，瑶塘村建成“美丽乡村” ，断石村出现“公地悲剧” 。为什么紧密相邻的两村
+在参与旅游过程中会有如此迥异结果 ？是什么因素约束和影响着两 村参与旅游发展的行
+动选择？基于此，通过田野调查、深度访谈的方法对两村展开调研 ，从农村社区主位视
+角，通过扎根理论和制度嵌入性理论来寻找问题根源。
+2 Ö˘¶¨ÓºÖ˘¶¨˙¶¨º—Ô
+2.1 制度
+制度是一个含义广泛的概念 ，不同人对制度有不同的理解
+[12]
+。本研究采用新制度经
+济学的代表诺斯关于制度的定义 ，即：制度是一个社会的游戏规则 ，或更正式地说，是
+人类设计的构建人们相互行为的约束条件，由正式规则 （成文法、普通法、规章） 、非正
+式规则 （习俗、行为、规则和自我约束的行为规范 ） 以及两者执行的特征组成
+[13]
+。从制
+度的形式和实施机制来看 ，根据是否有成文规则及是否有权威性的执行和惩罚机构 ，可
+将制度分为正式制度与非正式制度 ，即诺斯所指的正式规则与非正式规则 。在诺斯看
+来，正式制度是指人们有意识地创造的一系列政策法则 ，包括法律、政治规则、经济制
+度、公司章程、商业合约等；非正式制度主要由习俗 、惯例、个人行为准则和社会道德
+规范构成，社会上自发存在的传统 、习俗、观念、思想意识形态等都属于非正式制度范
+畴。正式制度具有一定的确定性 ，而非正式制度有较大的灵活性 。诺斯认为，正式制度
+只是“冰山的一角” ，非正式制度却是大量的，并且其作用不可忽视
+[13]
+。
+2.2 制度嵌入性
+所谓嵌入性，指的是经济行动 、行动结果和制度都受到行动者的个人关系和关系的
+总体网络结构影响
+[14]
+。自 Granovetter 提出 “嵌入性 ”作为新经济社会学的研究纲领以
+来，嵌入性问题引起相关学科学者的浓厚兴趣，形成了一系列研究成果
+[15]
+。不过，Nee 等
+指出，Granovetter 所说的“嵌入性”只是“网络嵌入性” ，忽视了制度因素的作用，因此
+提出“制度嵌入性 ”作为“网络嵌入性 ”之外的一个主要类型
+[16]
+，并迅速引起重视 。简
+言之， “嵌入”即选择行为中的约束 ，相应地， “制度嵌入性”指的就是选择行为的制度
+约束
+[17]
+。制度是如何约束选择行为的呢 ？根据王宁的观点 ，第一，制度限定了选择的范
+围与边界；第二，制度影响了选择的方向 ；第三，制度限制了选择行为的理性程度 ；第
+四，制度约束会在社会化或再社会化过程中内化到人的心理结构中 ，并构成人们的习惯
+性的“行动纲领” ，从内部支配人们的行为
+[17]
+。近年来王宁又将“制度嵌入性”概念引入
+旅游研究领域 ，认为要分析中国的旅游经济 ，不能离开制度嵌入性这个大背景
+[18]
+。其
+后，已有少数学者尝试运用 “制度嵌入性”范式研究旅游现象 ，如姚云浩等构建了旅游
+企业的制度嵌入性对其创新绩效影响的概念模型
+[19]
+；郭凌等对泸沽湖两个典型民族旅游
+社区的参与制度如何嵌入具体社会情境中从而发挥预期作用问题进行了探讨
+[20]
+。但总的
+来看，应用“制度嵌入性”范式对中国旅游发展中相关问题的研究方兴未艾 。本研究旨
+在援引该范式，分析哪些制度影响和约束着农村社区参与旅游发展的决策行动 ，制度是
+如何嵌入在社区行动主体的决策行动中，并导致截然不同的行动结果。
+1165
+--- PAGE 3 ---
+地 理 研 究 35 卷
+3 Ñ—¾¿˙ł‚¯¿öÓºÑ—¾¿•‰•¤
+3.1 研究区概况
+丹霞山位于广东省韶关市 ，总面积 292 km
+2
+。1980 年丹霞山对外旅游开放 ，以长老
+峰为主要景点，但游客接待量长期停滞，维持在 25 万人次左右。直至 1995 年起，发生了
+三次跳跃式发展 。第一次飞跃发生在 1995 年阳元石和翔龙湖两个新景区开放以后 ，至
+2003 年游客量达到 73.4 万人次；第二次飞跃在 2004 年申报世界地质公园成功后，至 2009
+年游客量达到 203.7 万人次；第三次飞跃在 2010 年列入世界自然遗产名录后 ，至 2013 年
+游客量达到 350 万人次。
+瑶塘村与断石村是丹霞山遗产地内 283 个村落中的两个自然村 ，两村仅一河之隔 ，
+同属韶关市仁化县丹霞街道黄屋村委 。因先天地缘优势 ，两村在参与丹霞山旅游发展过
+程中获得了长足发展，并引起了学界的关注
+[21-23]
+。瑶塘村位于景区大门进山主干道前往阳
+元石和长老峰景区公路的三岔路口上 ，是两个景区结合部上的重要节点 ；断石村位于锦
+江西岸的冲击平原上 ，背靠阳元山 ，与瑶塘村隔江相望 ，扼守着阳元石景区入口 （图
+1） 。至 2014 年底，瑶塘村共有农户 44 户，总人口 168 人；断石村共有农户 69 户，总人口
+213 人。总体上，自改革开放以来这两村都依托丹霞山 ，经历了以农业生产为主到全面
+参与旅游发展的历程 ，是全国众多景区依附型农村社区参与旅游发展的典型代表之一 ；
+同时，两村规模相当、外部环境几乎相同 ，但经历了不同的参与旅游发展的路径 ，具有
+很好的比较研究价值。
+3.2 研究方法
+鉴于质性研究方法是一种从主位立
+场来对行动进行研究的方法
+[11]
+，本研究
+主要采用田野调查的方法 ，通过广泛的
+深度访谈分析两个农村社区参与旅游发
+展的情况 。扎根理论研究主要用于产生
+或发现一个理论来解释某一个概念 、过
+程或人际间的互动
+[24]
+。扎根理论中的系
+统设计取向
+[25]
+被广泛运用于社会科学研
+究，其重视采用开放的 、轴式的以及选
+择 性 的 编 码， 在 此 基 础 上 进 行 数 据 分
+析，然后发展出一个逻辑范式或描绘出
+一个理论的图像 。本研究根据扎根理论
+的系统设计取向方法 ，对访谈数据按照
+开放式编码 、轴式编码和核心式编码逐
+级展开 。通过访谈法 、非参与式观察法
+和二手资料等多渠道 、多手段收集各类
+数据资料 ，并采用三角鉴定方法进行信
+息间的相互验证 。另外，资料的编码和
+范畴化也使用三角检验法加以完成 ，即
+两位作者同时各自完成 ，在两人商讨达
+成一致后 ，最后交由一位从事旅游地理
+学研究的学者加以补充修正。
+图 1 案例地区位图
+Fig. 1 Location of Y aotang village and Duanshi village
+1166
+
+--- PAGE 4 ---
+6 期 王 华 等：遗产地农村社区参与旅游发展的制度嵌入性
+3.3 资料收集
+主要运用半结构访谈法收集质性资料 ，包括丹霞山旅游发展变迁与两村参与旅游发
+展的关系，两村在新村建设与旧村改造过程中的关键事件与前因后果 ，两村在关键节点
+参与旅游发展的行动差异以及两村房族特征等 。结合非参与式观察的方法 ，直观记录 10
+多年来两村村容村貌 、建筑风格与体量 、村民生活方式等方面的变化 ，从而推断两村的
+发展变化差异与趋势 ；另从韶关市仁化县 、丹霞山管委会、黄屋村委会及两村小组收集
+了其他辅助验证性二手资料 。最早的调研在 2002 年 1 月 6 日，主要通过观察法收集了两
+村村容村貌照片，建立起案例地的初步认识。正式的调研主要集中于 2013-2015 年间，进
+行了三次共 21 天的田野调查 ，共访谈 64 人次，其中，景区管理者 4 人次，村干部 10 人
+次，瑶塘村民 16 人次 ，断石村民 14 人次 ，外来租户 20 人次 ，访谈时长多在半小时以
+上，整理访谈录音文本约 27 万字 （表 1） 。鉴于对外来租户的访谈主要目的在于佐证相关
+信息，仅对景区管理者、村干部和普通村民共 44 份访谈文字稿进行扎根编码分析。
+4 Ôœ‚ø–à´º•Ö˛ö
+4.1 编码分析过程
+4.1.1 开放式编码 开放式编码是指将原始资料初步概念化和范畴化 ，将原始资料打碎 、
+揉碎并用概念或范畴重新组合的过程
+[26]
+。通过对 44 份访谈文字稿进行逐句逐段的分析 、
+初步概念化 、编码到自由点 ，第一轮分析编码后共建立 121 项自由节点 。开放式编码示
+例如表 2 所示。
+4.1.2 轴式编码 在轴式编码时，选择一个开放的编码范畴，把它置于被研究之过程 （或
+互动） 的核心，然后把它与其他范畴相联系 。这些关系类型包括因果条件 、策略、背景
+及影响因素 （情境因素） 和结果
+[24]
+。在轴式编码中 ，分三步进行 ：第一步，分析自由节
+点，对符合要求的自由节点进行初步合并、归类，得到 38 个子节点；第二步，探究 38 个
+子节点之间的关系，再次提升编码的抽象化程度 ，分析得出 14 个亚范畴，即树节点；第
+三步，根据亚范畴的关系建立具有最高抽象程度的范畴 ，即主范畴，分析得到 3 个：正
+式制度、非正式制度与社区行动。对概念进行抽象化的轴式编码过程如表3 所示。
+表 1 案例地访谈情况
+Tab. 1 Basic information of interviews
+时间
+2013/8/8-2013/8/12
+2014/8/25-2014/9/2
+2015/10/7-2015/10/13
+地点
+断石村
+瑶塘村
+断石村、瑶塘村
+访谈对象 （人次）
+景区管理者和村干部
+6
+6
+4
+普通村民
+8
+12
+8
+外来租户
+2
+13
+5
+录音文本
+（精简后）
+约 4 万字
+约 10 万字
+约 13 万字
+表 2 开放式编码示例
+Tab. 2 Example of open coding
+参考点举例
+“我们村的村长也换过很多的”
+“各家各户还是比较听这个所谓的村干部的，因为村干
+部带领他们致富”
+“他们是把老村全部拆掉，再重新分的宅基地，像他们
+这样，村里面自发组织的，自己拆自己分配的”
+定义现象 （自由节点）
+断石频换村长
+瑶塘村民对村长的认可
+有组织统一拆建旧村
+概念化
+集体商讨与“民主”意识
+信奉权威与“顺从”思想
+按景区规划有序拆建房屋
+1167
+--- PAGE 5 ---
+地 理 研 究 35 卷
+4.1.3 核心式编码 核心式编码是指在已发现的概念范畴中经过系统的分析后，选择一个
+“核心编码” 。在进一步的分析中 ，主要集中于核心范畴有关的编码上
+[26,27]
+。对 44 份访谈
+文字资料分析后确定核心范畴为“社区参与旅游发展的制度嵌入性” ，能串联各主范畴之
+间的联系，解释绝大部分编码内容。
+4.2 编码分析结果
+基于“社区参与旅游发展的制度嵌入性 ”这一核心范畴 ，研究从“制度嵌入性”理
+论出发分析制度对社区参与旅游发展行动的约束与影响 ，紧紧围绕“社区行动” 、 “正式
+制度”和“非正式制度 ”之间的关系展开 。通过扎根分析法得到两村主要的社区行动 、
+正式制度、非正式制度的编码结果 （表 4~表 6） 。
+5 Ö˘¶¨˙¶¨º—Ô–¨‰ˇ•Ö˛ö
+自 20 世纪 90 年代以来，瑶塘村和断石村都经历了通过两轮旅游服务新村建设和旧村
+改造以自有住宅经营家庭旅馆 、农家餐馆和商铺的方式参与旅游发展的过程 。在这一过
+程中，两轮旅游服务新村建设和旧村改造是两村实现全民参与旅游的关键事件 ，但两村
+在新村建设和旧村改造的时序 、方式和结果上却呈现出显著的差异 。在此，假借制度嵌
+入性理论，通过比较分析两村的决策行动，以透视农村社区参与旅游发展的制度嵌入性。
+表 3 轴式编码示例
+Tab. 3 Example of axial coding
+自由节点
+村务公开
+环境卫生管理
+频换村长
+有组织统一拆建旧村
+概念化 （子节点）
+基层群众自治制度
+丹霞山保护管理制度
+集体商讨与“民主”意识
+按景区规划有序拆建房屋
+亚范畴 （树节点）
+政府层面正式制度
+景区层面正式制度
+断石民主议事惯例
+瑶塘第二轮旧村新建
+主范畴 （树节点）
+正式制度
+正式制度
+非正式制度
+社区行动
+表 4 社区行动的扎根编码结果
+Tab. 4 Coding result of community actions
+瑶塘村社区行动
+树节点
+第一轮新村
+建设：部分
+参与，自行
+规划有序建
+设
+第二轮旧村
+改造：全村
+参与，景区
+规划有序建
+设
+子节点
+村长主导决策建设
+抓阄分配宅基地块
+部分农户参与有序建设房屋
+村内自征地规划建设新村与公共设施
+村长主导拆建决策
+按户抓阄分配宅基地块
+全村按景区规划有序拆建房屋
+公共设施统一建设“美丽乡村”
+节点数
+32
+2
+11
+16
+24
+27
+9
+18
+断石村社区行动
+树节点
+第一轮新村
+建设：全村
+参与，景区
+规划有序建
+设
+第二轮旧村
+改造：全村
+参与，无规
+划无序建设
+子节点
+集体协商决策建设
+竞标分配宅基地块
+全村按景区规划有序建设房屋
+以地块换取公共设施统一建设
+集体协商决策失灵
+各户争夺宅基地块
+各户无规划无序建设房屋
+公共设施建设“公地悲剧”
+节点数
+14
+8
+1
+15
+21
+3
+14
+13
+表 5 正式制度的扎根编码结果
+Tab. 5 Coding result of formal institutions
+树节点
+政府层面
+正式制度
+子节点
+奔小康和新农村建设制度
+农村土地管理制度
+基层群众自治制度
+节点数
+5
+39
+31
+树节点
+景区层面
+正式制度
+子节点
+丹霞山管理体制
+丹霞山保护管理制度
+丹霞山规划建设制度
+节点数
+65
+121
+163
+1168
+--- PAGE 6 ---
+6 期 王 华 等：遗产地农村社区参与旅游发展的制度嵌入性
+5.1 第一轮新村建设的制度嵌入性
+5.1.1 瑶塘村 自 1980 年丹霞山旅游发展伊始 ，丹霞山景区内及周边村落便开始出现部
+分村民向游客贩卖矿泉水和瓜果 、番薯、甘蔗等初级农副产品的方式参与旅游 。在瑶塘
+村，以原任村长 （Y -1） 和副村长 （Y -2） 为首的体制精英通过早期的实践经历最先感受
+到参与旅游的致富效应远高于“打工种田” ，加之外部环境的影响，这些体制精英萌发了
+通过建设新村来带动村民整体参与旅游的理性想法。1995-1998 年，韶关市政府为了响应
+国家基本实现小康社会的政策目标，发起了让农民脱贫致富的“奔康工程” ，从政策和资
+金上给予农民资助。Y -1借此机会开始努力动员村民建设奔康新村参与旅游。
+在建设奔康新村决策时 ，主要受到了两方面的阻力 ，一是丹霞山景区规划 ，二是村
+民。按照规划，现瑶塘奔康新村所在位置并未规划建设新村 ，而是村内另一个位置 ，且
+新村建设应体现粤北特色的农村风貌 。然而，由于丹霞山内农村事务与旅游发展事务分
+属不同的政府部门管辖 ，农村发展的政策制度与丹霞山景区规划制度不完全兼容 。从地
+方政府的角度来看 ， “奔康新村要有 10 户以上的规模 ，要整齐划一 ，小楼房就是奔康的
+标志” （Y -1-2014） 。因此，在政府关于建设奔康新村的标准要求下 ，在景区规划执行缺
+乏刚性 （弱嵌入） 的情况下，瑶塘村并没有遵循当时景区规划的要求 ，而是在丹霞山锦
+江边上自己规划了三期三排共 30 多户二层洋楼式新村建设方案 。相对而言，来自村民方
+面的阻力远大于景区规划的约束 。锦江边上的旱地属于村内已经承包给农户种植柚子等
+经济作物的集体土地，原任村长 （Y -1） 在拿下新村建设指标后，依靠个人权威和体制精
+英身份，利用国家土地管理制度关于 “土地归农村集体所有 ，农户只有经营权 ，没有所
+有权”的规定，提出了对各户村民均有利的征地方案 ，最终做通了村民思想动员工作 ，
+完成村内自征地，并通过抓阄的方式分配了奔康新村宅基地块。
+1995 年，丹霞山阳元石和翔龙湖景区相继建成开放 ，游客量增长迅速 。Y -1 为了抓
+住政策和旅游发展机遇 ，迅速建成新村，制定了“不能占着土地不建房子 ”的规定。因
+此，村内除了持观望怀疑态度的农户 ，一部分经济能力较弱的农户也望而止步 ，最终有
+近一半的村民被迫放弃了新村宅基地。为了达到政府关于建设奔康新村的规模要求，Y -1
+利用“奔康工程”与“土地制度”间的“制度缝隙”
+[11]
+向政府提出了 “允许其他人进入
+到我 （瑶塘村） 这里 （Y -1-2014） ”的诉求并得到默许 ，通过“招商引资”的方式引进
+了近 20 户外人进村建房 。奔康新村于 2000 年全部建成 ，并因此获得韶关市政府授予的
+“市级奔康标准村”的称号。
+在奔康新村建设之时 ，瑶塘村制定了相应的村规民约 ，其第二条规定 “新村的建设
+表 6 非正式制度的扎根编码结果
+Tab. 6 Coding result of informal institutions
+瑶塘村非正式制度
+树节点
+垄断型宗族
+文化
+集权决策惯例
+村规民约强化
+集体效率公
+平观
+子节点
+三姓族人构成
+刘氏族人独大
+村长具有权威
+信奉权威与“顺从”思想
+历年村规民约执行有力度
+旧村新建重修家训与村规民约
+集体收入大头存留集体
+抓阄分配宅基地块制度
+节点数
+7
+13
+55
+45
+3
+15
+5
+12
+断石村非正式制度
+树节点
+均衡型房族文化
+民主议事惯例
+村规民约弱化
+市场竞争公平观
+子节点
+吴氏家族垄断
+吴氏五房族势力均衡
+村长缺乏权威
+集体商讨与“民主”意识
+新村建设起草了村规民约
+旧村新建村规民约名存实亡
+集体收入大头按户分红
+竞标分配宅基地块制度
+节点数
+3
+7
+3
+54
+3
+5
+7
+8
+1169
+--- PAGE 7 ---
+地 理 研 究 35 卷
+以宜居、有特色和品味的农家庭院的模式进行建设 ，使新村成为景区的一个旅游景点和
+一流的休闲点” ，第三条规定“新村内的一切建设必须严格按规划依法进行建设，统一建
+筑风格，体现新村特色。不得违法违规进行建设 ，一旦出现违规建筑或影响村容村貌的
+建筑，责令自行拆除，否则，由村小组申请依法进行强制拆除 ” 。在村规民约的制约下 ，
+村民及外来投资者有序地按照规划要求建设与经营 。由于历年来瑶塘村的村规民约能得
+以有力执行，相比于断石村，瑶塘奔康新村至今未出现规模的违拆违建行为 ，基本仍保
+留原来的统一风貌。
+5.1.2 断石村 在同期，一河之隔的断石村为什么没有利用“奔康工程”的契机建设新村
+呢？是不是断石村缺乏像 Y -1 一样的体制精英呢 ？事实上 ，该村历史上就有经商传统 ，
+部分村民比瑶塘村民更早通过流动售卖方式参与旅游 。该村也不缺乏体制精英 ，在近 30
+年频繁的村长换届中，曾产生过 10 多位村长和副村长，而瑶塘村自 1987 年以来，只产生
+过 4 位，其中原任村长 Y -1 和副村长 Y -2 担任了 20 年之久，而现任村长也已担任 8 年。在
+一个自然村中，竟然产生过如此之多的体制精英 ，为何没有抓住建设新村的机遇呢 ？这
+得从两村的宗族文化和集体决策惯例中寻求答案。
+瑶塘村和断石村经历数代的繁衍 ，虽区位相近人口规模相当 ，但形成了迥然相异的
+宗族文化和决策惯例 。瑶塘村存在一支以 Y -1 为首的家族势力相当强的刘氏家族 ，在这
+种垄断型的宗族结构下 ，培养了一位像 Y -1 这样的民间权威统领村内的大小事务 ，村民
+多选择顺从村长 Y -1 的家长式的村治决策 ，包括建设奔康新村参与旅游的决策行动也不
+例外。相比瑶塘传统的集权决策惯例 ，断石村的集体决策行为就显得民主多了 ，这与该
+村均衡型的宗族文化密切相关 。断石村基本为吴姓一大家族 ，但形成了五大房族 ，各房
+人口数量 、经济实力相当 ，力量均衡 ，各房各户的权利意识相当强 ，导致村长频繁换
+届，虽因此诞生了不少体制精英 ，但也一直难形成可以服众的权威人物 。在面临重大决
+策时，断石村内往往很难达成共识，这直接导致了在 1995-1998 年间断石村与地方政府的
+“奔康工程”失之交臂。
+在瑶塘奔康新村的示范效应下 ，基于逐利的理性驱使 ，断石村民也一直伺机建设
+“奔康”新村。但直到 2003 年，因丹霞山申报世界地质公园需要 ，地方政府和景区向断
+石村征地建设停车场和锦江游船码头项目 ，断石村的 “奔康”机会才得以来临 。然而，
+断石村内部的宗族文化和民主议事惯例决定了集体决策将是一个艰难的过程 。在 2003-
+2005 年间，甚至出现了“五人治村”的特殊时期，各个房族都有一名利益代言人 ，与政
+府、景区进行轮番博弈 ，以朴素的农民交换思想 ，用土地为筹码，与政府、景区达成交
+易协议，获得政府和景区的新村规划和基础设施建设扶持 。正是在外部正式制度的支持
+下，断石村的 “奔康新村 ”终于尘埃落定 ，并通过竞标的市场方式完成宅基地块分配 ，
+建成三排两层共 42 间楼房和商铺，户均一栋楼房和一间商铺。
+断石村在建设新村时也制定了与瑶塘村相似的村规民约 ，村民按照规划的要求有序
+进行建设新居，外观整齐划一，具有粤北民居建筑风格 ，既符合景区规划的要求 ，也符
+合地方政府对 “社会主义新农村 ”的政策规定 。断石新村因此获得韶关市 “市级文明
+村”称号。然而，近几年在市场经济思维逻辑和个人家庭利益最大化观念的影响下 ，村
+规民约开始脱嵌
+①
+，新村出现了较大规模的民居违拆违建改造行为，原来统一的民居建筑
+风貌受到较大破坏。
+5.1.3 两村比较 在第一轮新村建设中，两村虽都是基于通过建设新村参与旅游发展以带
+动全村致富的理性诉求出发在各自村内集体用地上进行新村建设 ，但却表现出截然不同
+①“脱嵌”是与“嵌入”相对应的概念，即主动或被动地从“嵌入”的状态中脱离
+[28]
+。
+1170
+--- PAGE 8 ---
+6 期 王 华 等：遗产地农村社区参与旅游发展的制度嵌入性
+的主体行动及其结果 。瑶塘村在村庄精英主导下 ，率先通过自行选址规划的方式有序建
+设旅游服务型新村 ，但只有约一半农户参与 ；断石村则在瑶塘新村建成 7 年之后才在政
+府和景区支持下由景区规划设计新村的方式有序建设旅游服务型新村 ，且所有农户参
+与。究其原因 （图 2） ：在地方政府“奔康工程”和土地制度等上位正式制度强嵌入及景
+区规划等下位正式制度执行缺乏刚性 （弱嵌入） 的情况下，瑶塘村内部垄断型宗族文化
+和“家长式”集权决策惯例等非正式制度促进了新村建设行动的高效率 ，但导致了新村
+选址的违规和部分农户利益的损害 ；而断石村在外部正式制度的强嵌入下新村规划建设
+符合政府和景区规定 ，内部的均衡型房族文化和民主议事惯例等非正式制度也能较大程
+度地保证社区整体利益和公平 ，但却导致了集体决策的低效而错失机会 。此外，由于两
+村都通过建立村规民约约束村民的建设与经营行为 ，两个新村建设均能按照相应规划要
+求有序完成。
+5.2 第二轮旧村改造的制度嵌入性
+5.2.1 瑶塘村 在断石新村全村参与的示范效应下，瑶塘村体制精英也酝酿着第二次新村
+建设，主要原因在于，村内还有一半多的农户并未能受益于奔康新村 。为了使村内每一
+户村民都至少有一栋新楼房参与旅游经营 ，瑶塘村体制精英又开始借丹霞山申报世界自
+然遗产的征地需求向景区和政府提出旧村改造规划的要求 。由于受到 《土地管理法》 的
+约束
+②
+，村民的房屋拆建行为均需向上级政府报批，因而农户拆建房子是受到外部正式制
+度制约的。2007 年起，瑶塘村的体制精英在获得政府和景区的旧村改造批准和规划的制
+②“国家编制土地利用总体规划 ，规定土地用途……使用土地的单位和个人必须严格按照土地利用总体规划确
+定的用途使用土地 （第四条） ” ， “农民集体所有的土地依法用于非农业建设的 ，由县级人民政府登记造册 ，核发证
+书，确认建设用地使用权 （第十一条） ” ， “农村村民一户只能拥有一处宅基地 ，其宅基地的面积不得超过省 、自治
+区、直辖市规定的标准 。农村村民建住宅，应当符合乡 （镇） 土地利用总体规划 ，并尽量使用原有的宅基地和村内
+空闲地。农村村民住宅用地 ，经乡 （镇） 人民政府审核，由县级人民政府批准 ；其中，涉及占用农用地的 ，依照本
+法第四十四条的规定办理审批手续 （第六十二条） ” 。
+图 2 两村第一轮新村建设的制度嵌入性
+Fig. 2 Institutional embeddedness of the first construction of the two new villages
+1171
+--- PAGE 9 ---
+地 理 研 究 35 卷
+度支持下，又进行了新一轮的动员努力 。依托精英的强势推动和村民集体利益最大化观
+念，借助长久以来村集体收入的积累由村集体出资统一对旧村进行了拆除和 “三通一
+平”工作，并在 2014 年初通过按户抓阄方式统一分配了旧村宅基地 ，开始了新一轮的新
+村建设。地方政府“美丽乡村”的政绩需求
+③
+与丹霞山环境保护管理的要求相互契合，促
+使瑶塘旧村改造形成了民居风格统一 、道路宽阔、基础设施配套良好的村落格局 ，因此
+获得“广东省级新农村示范片建设主体村 ”称号。2015 年，瑶塘村体制精英又积极重修
+家规家训和村规民约，并统一制作匾牌分发各户悬挂，进一步强化旧村改造管理。
+5.2.2 断石村 正当瑶塘村轰轰烈烈地进行旧村拆建运动之时，与瑶塘村同时拿到政府批
+文的断石村却在个人利益的驱动下各自无序地进行着旧村的拆建 。断石村的民主议事惯
+例决定了该村无法在旧村拆建 、宅基地分配等问题上取得统一意见 ，村长等体制精英为
+了避免得罪村民 ，选择“不作为”的行动。在村规民约已脱嵌的情况下 ，虽然部分拆建
+得到了地方政府的审批同意 ，但仍需要遵守景区规划的建设要求 ，由于景区管委会的监
+管缺位 ，违拆违建者并未受到相应的惩罚 ，出现了正式制度的执行弹性与漏洞 （弱嵌
+入） 。因此，断石旧村的拆建行动从一开始便是村民逐利的脱嵌行动。脱嵌的结果是，断
+石旧村在缺乏统一规划建设和外部监管的情况下 ，村容村貌与周边环境呈现极大的不协
+调，基础设施未统一建设的弊端日渐凸显，并直接影响到丹霞山的景区环境和旅游形象。
+5.2.3 两村比较 在第二轮旧村改造中，两村同样是基于利益最大化的理性诉求出发对各
+自旧村进行拆建的 ，但瑶塘村是从集体利益出发通过由政府审批 、景区规划、统一拆建
+的方式有序改造建设新村 ，所有农户参与有序建设 ；断石村则是从农户个体利益出发 ，
+在政府审批后无景区规划许可的情况下由各户在各自宅基地上陆续完成拆旧与建新 ，由
+此出现了 “公地悲剧 ” 。原因在于 （图 3） ：瑶塘村在外部地方政府与景区间协调耦合的
+正式制度嵌入 ，以及内部非正式制度嵌入锁定的情况下 ，旧村改造新建得以有序进行 ；
+③ 2014 年，在国家和地方政府致力于建设“美丽乡村”的政策背景下，瑶塘村被纳入了韶关市“丹霞彩虹”省
+级连片示范新村的 7 个特色主体村之一，其基础设施建设和绿化工程将进一步得到政府的政策 （资金项目） 支持。
+图 3 两村第二轮旧村新建的制度嵌入
+Fig. 3 Institutional embeddedness of the second construction of of the two new villages
+1172
+--- PAGE 10 ---
+6 期 王 华 等：遗产地农村社区参与旅游发展的制度嵌入性
+而断石村一方面是由于缺乏民间权威的民主议事惯例失灵 ，另一方面景区规划监管的执
+行弹性、景区管理体制的漏洞与摩擦 、村规民约的执行弹性等共同导致了旧村改造新建
+行动的脱嵌与失序。
+6 ‰Æ´ÛÓºÌÖ´Û
+6.1 结论
+（1） 农村社区参与旅游发展实际上是一个在各种正式和非正式制度约束下的理性行
+动过程。正式制度主要包括政府和景区两个层面的制度 ，前者主要是奔小康和新农村建
+设制度、农村土地管理制度和基层群众自治制度 ，后者主要是景区管理体制 、保护管理
+制度和规划建设制度 ；非正式制度包括宗族文化 、集体决策惯例、村规民约、公平价值
+观念以及其他传统思想价值观念 。这些正式与非正式制度因素相互交织 、相互作用，共
+同影响和约束农村社区行动主体参与旅游发展的决策行动。
+（2） 不同农村社区在参与旅游发展过程中 ，由于内外部制度嵌入的差异 ，导致不同
+的行动决策及发展结果 ，而内部非正式制度的嵌入差异是主要影响因素 。瑶塘村的垄断
+型宗族文化、集权决策惯例、集体效率公平观和强化的村规民约 ，使瑶塘村不仅能够抓
+住新村建设的机遇 ，还在两轮村庄建设过程中能按规划有序完成统一建设 ；断石村的均
+衡型房族文化、民主议事惯例、市场竞争公平观和弱化的村规民约 ，使得村内各户均能
+公平地享受到参与旅游发展的利益 ，但集体决策低效容易导致错失时机以及内部非正式
+制度约束失灵，结果出现个体理性但集体不理性的行动决策。
+（3） 当农村社区内部非正式制度嵌入不足或出现弊端时 ，外部正式制度的有效嵌入
+是协调景区与社区共同可持续发展的关键因素 。在逐利的理性主导下 ，上述两类村庄都
+可能存在脱嵌的行动 ，都需要外部正式制度的有效嵌入 。无论是瑶塘村第一轮选址违规
+的奔康新村建设 ，还是断石旧村的无序拆建行动 ，在一定程度上都是社区行动脱嵌于景
+区发展规划的结果 ，无疑也破坏了村落与景区环境的协调性 ，不利于世界遗产地旅游的
+可持续发展。当前丹霞山景区控制性详细规划缺失和总体规划刚性不足及景区管理体制
+不顺导致监管制度出现弹性，是未来亟需解决的问题。
+6.2 讨论
+瑶塘村和断石村虽然只是中国 300 多万个自然村落中的两个特殊个案 ，但其 30 多年
+来在外部正式制度和内部非正式制度影响和约束下如何探求发展致富之路却是全国广大
+农村普遍面对的共性问题 。过往研究往往将农村社区视为同质的 、弱势的群体，因而致
+力于从国家宏观层面自上而下的或从外部客位的立场探索各种为实现农村社区 “增权”
+或“自增权”的制度设计和路径安排
+[3-10]
+，这固然是必要的。近来有学者指出，随着中国
+社会经济的发展 ，原先被视为同质的农村社区正在经历着社会分化和转型 ，现有研究中
+基于全国视角的增权制度和途径在用于具体农村社区时可能需要修改或细化
+[29]
+；还有学
+者强调地理学研究“需要注重知识贡献的普适性，更应注重中国自身的社会文化特质”
+[30]
+。
+鉴于此，本研究援引制度嵌入性范式揭示了中国情境下不同制度如何交互影响两个不同
+社会文化结构的农村社区参与旅游发展的行动差异 ，从中观层面提出了一些适合本土农
+村社区参与旅游发展的理论 。这可能是本研究的意义所在 ，也是对地理学研究 “制度、
+文化、关系与尺度转向”
+[31]
+的一种呼应。
+研究认为，农村社区的增权行动也是一个多种正式制度与非正式制度相互交织 、相
+互作用的嵌入过程 ，并非简单地从外部对农村社区施于某种正式制度就能实现他增权 ，
+1173
+--- PAGE 11 ---
+地 理 研 究 35 卷
+或在农村社区内部建立某种非正式制度就能实现自增权 。虽然非正式制度在农村社区自
+我增权中发挥着关键的作用 ，甚至决定了社区增权成功的可能性大小与增权程度 ，但仍
+需要借助一系列的正式制度来保障增权行动的顺利进行 。需要引起注意的是 ，在外部正
+式制度之间出现摩擦 、漏洞以致嵌入弱化的情况下 ，农村社区内部容易出现过度自我增
+权的行为，即出现自利导向的失范或机会主义行为 ，这从农村社区层面印证了王宁所指
+出的旅游市场经济脱嵌
+[18]
+。
+本研究虽试图全面梳理影响和约束农村社区参与旅游发展的制度因素的方方面面 ，
+但由于只选取了两村两轮新村建设这一比较显著的行动差异和主要的制度约束因素进行
+分析，所以研究仅聚焦于农村社区群体的决策行动 ，未对农户的个体决策行动进行分
+析，这还有待后续的深入研究 。此外，由于农村社区参与旅游发展的决策行动是一个动
+态变化的过程，影响和约束其行动的各种制度因素也是在不断变迁中 ，所以有必要对案
+例地进行长期的跟踪调研 ，为农村社区参与旅游发展的增权行动 、制度设计和监督管理
+提供参考。
+参考文献(References)
+[ 1 ] 唐顺铁. 旅游目的地的社区化及社区旅游研究. 地理研究, 1998, 17(2): 34-38. [Tang Shuntie. Community based tour-
+ism destination and community tourism study. Geographical Research, 1998, 17(2): 34-38.]
+[ 2 ] 郭迪, 鲁小波, 丁玉娟. 近十年国内外社区参与旅游研究综述. 世界地理研究, 2015, 24(2): 148-157. [Guo Di, Lu
+Xiaobo, Ding Y ujuan. Review of studies on community participation in tourism development over the past decade.
+World Regional Studies, 2015, 24(2): 148-157.]
+[ 3 ] 保继刚, 左冰. 为旅游吸引物权立法. 旅游学刊, 2012, 27(7): 11-17. [Bao Jigang, Zuo Bing. Legislating for tourist at-
+tractions rights. Tourism Tribune, 2012, 27(7): 11-17.]
+[ 4 ] 唐兵, 惠红. 民族地区原住民参与旅游开发的法律赋权研究: 兼与左冰、保继刚商榷. 旅游学刊, 2014, 29(7): 39-46.
+[Tang Bing, Hui Hong. A study on legal empowerment of indigenous people participation in tourism development in eth-
+nic areas: A discussion with Zuo Bing, Bao Jigang. Tourism Tribune, 2014, 29(7): 39-46.]
+[ 5 ] 张琼, 张德淼. 旅游吸引物权不可统一立法之辨析. 旅游学刊, 2013, 28(12): 90-96. [Zhang Qiong, Zhang Demiao.
+Analysis on tourist attactions rights cannot being legislated. Tourism Tribune, 2013, 28(12): 90-96.]
+[ 6 ] 袁泽清. 论少数民族文化旅游资源集体产权的法律保护. 贵州民族研究, 2014, 35(1): 18-22. [Y uan Zeqing. On the le-
+gal protection of the collective property right to cultural tourism resources of a national minority. Guizhou Ethnic Stud-
+ies, 2014, 35(1): 18-22.]
+[ 7 ] 王华, 郑艳芬. 社区参与旅游的权利去哪了? 基于我国旅游法律法规条文的内容分析. 旅游学刊, 2015, 30(5): 74-84.
+[Wang Hua, Zheng Y anfen. Where are the rights of community on participation in tourism? A content analysis on Chi-
+nese tourism laws and regulations. Tourism Tribune, 2015, 30(5): 74-84.]
+[ 8 ] 保继刚, 孙九霞. 雨崩村社区旅游: 社区参与方式及其增权意义. 旅游论坛, 2008, 1(1): 58-65. [Bao Jigang, Sun Jiux-
+ia. Community participation in tourism of Y ubeng village: Means of participation and its significance for empowerment.
+Tourism Forum, 2008, 1(1): 58-65.]
+[ 9 ] 陈志永, 李乐京, 李天翼. 郎德苗寨社区旅游: 组织演进 、制度建构及其增权意义. 旅游学刊, 2013, 28(6): 75-86.
+[Chen Zhiyong, Li Lejing, Li Tianyi. The organizational evolution, systematic construction and empowerment signifi-
+cance of Langde Miao's community tourism. Tourism Tribune, 2013, 28(6): 75-86.]
+[10] 王亚娟. 社区参与旅游的制度性增权研究. 旅游科学, 2012, 26(3): 18-26, 94. [Wang Y ajuan. A study of international
+provision-type empowerment of community participation in tourism. Tourism Science, 2012, 26(3): 18-26, 94.]
+[11] 王宁. 家庭消费行为的制度嵌入性. 北京: 社会科学文献出版社, 2014. [Wang Ning. The Institutional Embeddedness
+of Consumer Behaviors in Urban China. Beijing: Social Sciences Academic Press, 2014.]
+[12] 罗必良. 新制度经济学. 太原: 山西经济出版社, 2005. [Luo Biliang. New Institutional Economics. Taiyuan: Shanxi
+Economics Press, 2005.]
+[13] 道格拉斯 ∙C∙诺斯. 制度、制度变迁与经济绩效. 刘守英 译. 上海: 上海三联书店, 1994. [North C D. Institutions, In-
+stitutional Change and Economic Performance. Translated by Liu Shouying. Shanghai: Shanghai Joint Publishing Press,
+1994.]
+1174
+--- PAGE 12 ---
+6 期 王 华 等：遗产地农村社区参与旅游发展的制度嵌入性
+[14] Granovetter M. The old and the new economic sociology: A history and an agenda. In: Friedland R, Robertson A. Be-
+yond the Marketplace: Rethinking Economy and Society. New Y ork: Aldine de Gruyter, 1990: 89-112.
+[15] Grinton M, Nee V . The New Institutionalism in Sociology. Stanford: California Stanford University Press, 1998.
+[16] Nee V , Ingram P . Embeddedness and beyond: Institutions, exchange, and social structure. In: Grinton M, Nee V . The
+New Institutionalism in Sociology. Stanford: California Stanford University Press, 1998: 19-45.
+[17] 王宁. 消费行为的制度嵌入性: 消费社会学的一个研究纲领. 中山大学学报: 社会科学版, 2008, 48(4): 140-145, 206.
+[Wang Ning. Institutional embeddedness in consumer behaviors: A research program for sociology of consumption. Jour-
+nal of SunY at-sen University: Social Science Edition, 2008, 48(4): 140-145, 206.]
+[18] 王宁. 嵌入性视野下的旅游经济. 旅游学刊, 2012, 27(11): 14-15. [Wang Ning. Tourism economics in the perspective
+of embeddedness. Tourism Tribune, 2012, 27(11): 14-15.]
+[19] 姚云浩, 高启杰. 制度嵌入性与旅游企业创新绩效间关系的实证研究: 考虑知识流入的中介作用. 技术经济, 2014,
+33(6): 19-25. [Y ao Y unhao, Gao Qijie. Empirical study on relationship between institutional embeddedness and innova-
+tion performance of tourism enterprise: Considering intermediary effect of knowledge flow. Technology Economics,
+2014, 33(6): 19-25.]
+[20] 郭凌, 王志章. 制度嵌入性与民族旅游社区参与: 基于对泸沽湖民族旅游社区的案例研究. 旅游科学, 2014, 28(2):
+12-22, 48. [Guo Ling, Wang Zhizhang. Institutional embeddability and ethnic tourism community participation: A case
+study of the ethnic tourism community of Lugu Lake. Tourism Science, 2014, 28(2): 12-22, 48.]
+[21] 李濮阳. 微区位视角下旅游发展对乡村社区社会经济影响研究: 以丹霞山风景名胜区内若干服务村为例. 广州: 中
+山大学硕士论文, 2010. [Li Puyang. The study on socio-economic empact from tourism development on rural communi-
+ties in the perpective of micro-scale location. Guangzhou: Master Dissertation of Sun Y at-sen University, 2010.]
+[22] 刘益. 旅游开发对社区居民经济影响的时空分异特征研究: 以丹霞山 、世外桃源景区为例. 经济地理, 2006, 26(4):
+706-709. [Liu Yi. Spatial and temporal variation characteristics of economic impact of tourist development on communi-
+ty residents: A case study of Danxia Mountain and Xanadu Scenic Areas. Economic Geography, 2006, 26(4): 706-709.]
+[23] 王华, 龙慧, 郑艳芬. 断石村社区旅游: 契约主导型社区参与及其增权意义. 人文地理, 2015, 30(5): 106-110. [Wang
+Hua, Long Hui, Zheng Y anfen. Community based tourism of Duanshi village: The contract dominant community partici -
+pation and its empowerment practice. Human Geography, 2015, 30(5): 106-110.]
+[24] 德尔伯特 ∙ C ∙ 米勒, 内尔 ∙ J ∙ 萨尔金德. 研究设计与社会测量导引. 6 版. 风笑天, 等译. 重庆: 重庆大学出版社,
+2004. [Miller C D, Salkind J N. Study Design and Social Measurement Guidance. 6th ed. Translated by Feng Xiaotian,
+et al. Chongqing: Chongqing University Press, 2004.]
+[25] Strauss A, Corbin J. Basics of Qualitative Research: Techniques and Procedures for Developing Grounded Theory.
+2nd ed. Thousand Oaks, California: Sage, 1998.
+[26] 陈向明. 扎根理论的思路和方法. 教育研究与实验, 1999, (4): 58-63. [Chen Xiangming. Grouned theory: Its train of
+thought and methos. Educational Research and Experiment, 1999, (4): 58-63.]
+[27] 凯西 ∙卡麦兹. 建构扎根理论: 质性研究实践指南. 边国英 译. 重庆: 重庆大学出版社, 2009. [Charmaz K. Construct-
+ing Grounded Theory: A Practical Guide through Qualitative Analysis. Translated by Bian Guoying. Chongqing:
+Chongqing University Press, 2009.]
+[28] 陈建勋, 刘黎. 嵌入、脱嵌与再嵌入: 社会资本视角下中国企业“学习型 FDI”的演化路径分析. 世界经济研究, 2012,
+(11): 81-86. [Chen Jianxun, Liu Li. Imbedding, out-from-embedding and re-imbedding: An analysis on learning FDI of
+China's multinational corporations based on social capital perspective. World Economy Study, 2012, (11): 81-86.]
+[29] 翁时秀, 彭华. 旅游发展初级阶段弱权利意识型古村落社区增权研究: 以浙江省楠溪江芙蓉村为例. 旅游学刊,
+2011, 26(7): 54-59. [Weng Shixiu, Peng Hua. On the study of empowerment in weak-right awareness-type ancient vil-
+lage community under the initial stage of tourism development: A case of Furong village at Nanxi River Basin, Zhejiang
+province. Tourism Tribune, 2011, 26(7): 54-59.]
+[30] 白凯, 周尚意, 吕洋洋. 社会文化地理学在中国近 10 年的进展. 地理学报, 2014, 69(8): 1190-1206. [Bai Kai, Zhou
+Shangyi, Lv Y angyang. The progress of social cultural geography in China in recent 10 years. Acta Geographica Sinica,
+2014, 69(8): 1190-1206.]
+[31] 苗长虹. 变革中的西方经济地理学: 制度、文化、关系与尺度转向. 人文地理, 2004, 19(4): 68-76. [Miao Changhong.
+Western economic geography in transformation: Institutional, cultural, relational and scalar turns. Human Geography,
+2004, 19(4): 68-76.]
+1175
+--- PAGE 13 ---
+地 理 研 究 35 卷
+Tourism participation of rural communities at the heritage sites in
+the perspective of institutional embeddedness: A comparative study
+of Y aotang village and Duanshi village in the Danxia Mountain
+W ANG Hua, ZHENG Y anfen
+(Department of Tourism Management, Management School, Jinan University, Guangzhou 510632, China)
+Abstract: Community participation and resident empowerment in tourism development has
+long been a central tenet of sustainable tourism development, which attracts substantive
+attention in the tourism geography arena. In recent years, a rising number of studies on tourism
+geography have discussed how to raise community participation and increase the benefits for
+local residents through institutional empowerment, either from the "top down" policy and
+legislation, or from the "bottom up" informal institution within communities. However, few
+studies have moved beyond discussing how institutions are embedded into community
+residents' decision making and actions in an emic perspective. This paper draws on insights
+from the new institutionalism and the new economic sociology, as a corrective to the dominant
+focus in the academic literature on the decision-making of community subjects. Thus, the paper
+applies the theory of institutional embeddedness to indicate what and how institutions constrain
+or motivate community residents' decision-making and corresponding actions in the process of
+tourist destination development. Qualitative methodology and grounded theory are applied in
+the case studies of two typical tourism communities in the Danxia Mountain, the only World
+Natural Heritage Site in Guangdong province. The two communities, which are located within
+the scenic spot and are adjacent to each other, have manifested different modes of decision-
+making in tourism participation while sharing a similar development background in the past
+three decades. The result shows that the decision-making behaviors of community subjects are
+rational choices embedded into multilayer institutions, which, generally speaking, include
+formal institutions like policies and legislation made by the government departments and the
+concrete destination management institutions, and informal institutions such as the clan culture,
+community group decision rules, folk rules, perception of fair value and many other traditional
+views and concepts. Particularly, the paper reveals that the difference of informal institutions
+existing in the two communities is the main reason for the different modes of decision making
+in tourism participation process, which significantly affects the benefits the local residents
+could receive from tourism. It is notable that the effective embeddedness of external formal
+institutions plays a key role in coordinating the relationship between heritage site development
+and community development when the internal informal institutions of the local community
+turn out disembedding. Finally, the paper indicates that the theory of institutional
+embeddedness facilitates an in-depth analysis of the different modes of tourism participation of
+rural communities, which provides a significant insight for both the government departments
+and the industrial sectors to institution design for engaging community participation in tourism
+development.
+Keywords: tourism; community participation; institutional embeddedness; Danxia Mountain
+1176

@@ -1,0 +1,1085 @@
+
+--- PAGE 1 ---
+µØÀíÑ—¾¿
+GEOGRAPHICAL RESEARCH
+µÚ39¾íµÚ10˘Ú
+2020˜Œ10Ô´
+V ol.39, No.10
+October, 2020
+世界遗产地乡村聚落功能转型与空间重构
+——以汤口、寨西和山岔为例
+杨兴柱
+1
+，杨 周
+1,2
+，朱 跃
+1
+（1. 安徽师范大学地理与旅游学院，芜湖 241002；2. 江苏省常熟市浒浦高级中学，常熟 215500）
+摘要：作为新兴的重要发展力量 ，旅游业发展深刻地改变着社会经济形态和空间格局 。一方
+面，世界遗产地乡村聚落承载传统功能（如居住功能、生产功能等） ，另一方面，旅游消费给予乡
+村聚落新的发展活力，文化传承、休闲旅游等潜在功能逐步被挖掘 。旅游发展进程中世界遗产
+地乡村聚落功能转型与人类适应性的科学研究 ，是亟待深入研究的重要前沿课题 ，对于指明世
+界遗产地乡村聚落转型发展方向和促进世界遗产地可持续发展具有重要指导价值 。采取参与
+式农村评估方法、GIS 空间分析和高清遥感影像相结合的方法，以黄山世界遗产地汤口、寨西和
+山岔 3 个聚落为案例研究对象 ，解析了 3 个聚落功能转型与空间重构的特征与模式 ，分析了聚
+落转型发展的影响因素与机制 。3 个聚落在功能转型与空间重构上 ，存在不同的特征与模式 ：
+汤口呈功能耗散式转型与空间破碎化分异 、寨西呈功能模块化融合与空间协同性演替 、山岔呈
+功能自组织适应与空间核域式集聚 ，并相应形成“原地生长型 ” “就地重建型 ” “景村共生型 ”三
+种转型发展模式。内外因素的相互作用、多元主体的能动性与旅游市场需求为世界遗产地 3 个
+聚落转型发展的支撑力、行动力与驱动力，推动着聚落的转型发展。
+关键词：乡村聚落；功能转型；空间重构；世界遗产地
+DOI: 10.11821/dlyj020190902
+1 ÒýÑÔ
+发达国家乡村经历了从生产主义到后生产主义 、从工业化到后工业化 、从生产空间
+到消费空间的转变
+[1]
+，乡村成为了一个多主体、多功能与多维度的空间，乡村不再是城市
+的附庸，而是可以通过持续不断的建构得以复兴的空间
+[2,3]
+。随着工业化、信息化、城镇
+化和农业现代化推进 ，乡村地域系统内外发展要素发生解构与重组 ，乡村转型发展已成
+为必然趋势
+[4-6]
+。乡村转型发展是在多元主体参与下 ，乡村地域系统内外的人口 、产业与
+土地等多维度的和谐演进 ，是实现乡村可持续发展的必然选择
+[7-9]
+。乡村功能多元化和空
+间异质化是乡村转型发展的重要体现
+[10,11]
+。中国关于乡村转型研究主要集中在以工业化 、
+城镇化为驱动力的东部沿海发达地区
+[12,13]
+，以农业专业化为导向的典型中部农区
+[14,15]
+，以
+市场、消费为驱动力的大都市边缘乡村
+[16,17]
+，这些区域或经济发达、或具有农业发展优势
+或临近大城市，在工业反哺农业 、城市反哺乡村的过程中率先转型发展 ，成为学者们研
+究的热门区域。
+收稿日期：2019-10-17; 修订日期：2020-03-07
+基金项目：„œ…Ò×Ô¨»¿˘Ñ§»ø‰ðˇî˜¿£¤41971175£‹41671136£'
+作者简介：Ñî—¸Öø£¤1976-£' £‹˜—£‹°†»Õ`ø°†¨¸£‹‰Ì˚Ú£‹†'˚¿Éœµ…˚ƒ£‹Ñ—¾¿•‰ˇò˛“´ˆÓ˛µØÀíÓº´ˆÓ˛„æ»ﬁ¡£
+E-mail: yxzlv@ 163.com
+通讯作者：ÑîÖÜ£¤1993-£' £‹˜—£‹°†»Õ˛ß”þ¨¸£‹¸¶˚¿Ñ—¾¿Éœ£‹Ñ—¾¿•‰ˇò˛“´ˆÓ˛µØÀíÓºˇç·åµØÀí¡£
+E-mail: whyz 1122@163.com
+2214-2232 页
+--- PAGE 2 ---
+10 期 杨兴柱 等：世界遗产地乡村聚落功能转型与空间重构
+世界遗产地作为人地关系相互作用的特殊区域 ，旅游经济注入乡村地区并成为主导
+产业，打破了乡村地域所维持的单一功能和均质空间的状态
+[18]
+，旅游成为驱动乡村转型
+发展的策源力量和持续动力 。世界遗产地乡村转型发展体现在旅游经济通过供求等市场
+作用带动乡村地域各要素解构与重组 ，并结合政府、企业、居民和旅游者等多元主体的
+适应行为 ，形成旅游产业的融合与集聚 ，推动乡村地域功能多元化和空间异质化转变 ，
+重塑世界遗产地乡村地域系统
+[19-21]
+。世界遗产地乡村聚落是旅游地域系统作用于乡村地域
+系统的重要体现 ，是新型城镇化过程中重要的乡村转型发展类型 。学者主要从旅游城镇
+化
+[22,23]
+、旅游绅士化
+[24]
+、旅游系统
+[25]
+等理论出发，围绕旅游型村落演变过程与格局
+[26,27]
+、模
+式与机制
+[28,29]
+等展开研究。旅游地乡村转型发展是乡村地理学与旅游地理学的交叉研究内
+容，它需要融合两者的相关理论进行综合分析。
+乡村聚落是中国乡村社会经济活动最基本的空间单元
+[30]
+，承载着乡村居民的生活 、
+生产和生态功能
+[31]
+。功能多元化是聚落产业和居住混合发展的重要途径
+[32]
+。一宅一户或
+一栋宅屋是村域内基本的生活单元 ，家庭旅馆、农家乐和特色民宿等空间的出现 ，改变
+了原有主要作为生活功能的宅屋演变成生活 、生产和消费共存的多元化混合簇群 。宅屋
+旅居混合功能发展是世界遗产地乡村聚落转型发展在微观尺度上的重要体现 ，是从微观
+尺度研究世界遗产地乡村聚落转型的新视角 。选取黄山世界遗产地汤口 、寨西和山岔 3
+个乡村聚落为个案研究对象 ，通过参与式农村评估与问卷访谈相结合的方法 、地理信息
+系统空间分析方法 ，解析其转型发展特征与模式 、影响因素与驱动机制 ，以期为世界遗
+产地乡村聚落转型发展提供借鉴。
+2 Ñ—¾¿¿ò…Ü
+世界遗产地乡村聚落转型发展是旅游地域系统和乡村地域系统相互作用的过程 。世
+界遗产地乡村聚落在演化成旅游专业村或旅游地过程中 ，产生了旅游地域系统和乡村地
+域系统之间的物质循环和能量转化 ，形成世界遗产地乡村聚落地域系统 。这种新的人地
+关系地域系统融合了旅游地域系统和乡村地域系统的相关理论 ，为探索世界遗产地乡村
+聚落转型发展提供重要的理论支撑 。需要围绕 “过程-特征-模式-影响因素 -机制-效
+应”等研究内容 ，分析世界遗产地乡村聚落要素流动 、结构演变 、功能转型 、空间重
+构、产业演进 、地域演化等过程与特征 ，凝练世界遗产地乡村聚落转型发展地域模式 ，
+剖析其内源性与外源性 、基础性与主导性等影响因素 ，综合多要素 、多主体、多政策、
+多系统，探究世界遗产地乡村聚落转型发展机制 ，并对其产生的经济 、社会、文化、生
+态效应进行研判。可按照“家域-村域-镇域”等多尺度地域，对不同尺度下的世界遗产
+地乡村聚落转型发展进行实践探索 ，总结世界遗产地乡村聚落转型发展一般规律 ，为世
+界遗产地可持续发展和乡村振兴提供实践参考 （图 1） 。
+3 °‚ÀýÑ¡ÔæÓºÑ—¾¿•‰•¤
+3.1 案例选择
+世界遗产地是人类罕见的 、目前无法替代的财富 ，是全人类公认的具有突出意义和
+普遍价值的文物古迹及自然景观的区域 。也是中国生态文明建设和国土空间优化的关键
+地带，最具有研究价值的独特区域之一 。黄山风景区是世界文化与自然双重遗产 ，具有
+生态脆弱区 、旅游发展活跃区等多重叠合特征的典型区域 ，是国家生态红线的主控区 。
+2215
+--- PAGE 3 ---
+地 理 研 究 39 卷
+汤口镇拥有优质的自然生态资源和适
+宜的居住环境，成为服务黄山风景区
+的 主 要 旅 游 接 待 和 生 活 基 地
+[33]
+。 汤
+口、寨西和山岔聚落是汤口镇的 3 个
+典型世界遗产地乡村聚落 （图 2） ，在
+旅游发展和聚落建设方面更为充分与
+完善。其中，汤口作为黄山风景区南
+大门最邻近的聚落 ，最早接受了黄山
+风景区旅游发展的溢出效益 ；寨西作
+为京台高速汤口出入口所在地 ，是旅
+游城镇化和旅游绅士化较为明显的聚
+落；山岔作为汤口镇黄山脚下最早开
+展旅游开发的聚落 ，旅游发展较为成
+熟。这 3 个聚落旅游和乡村都经历了
+较长时间和较大程度的转型 ，作为世
+界遗产地聚落转 型个案研究对象，具
+有很强的典型性。
+3.2 数据来源
+数据来源主要包括 ：① 通过参
+与式农村评估方法与问卷调查访谈相
+结合的方法
+[26]
+，分别在 2017 年 10 月 12—16 日、2018 年 5 月 3 日和 2018 年 9 月 18—21 日对
+汤口、寨西和山岔聚落进行调研 ，获取了世界遗产地 3 个典型聚落旅游业空间分布 、宅
+屋使用情况 、聚落建设、旅游发展等数据 。共发放问卷 240 份，其中，旅游经营 （简称
+涉旅） 问卷总共 180 份，有效率 88%，非旅游经营 （简称非旅） 问卷总共 60 份，有效率
+78%。并对汤口镇旅游分局和规划建设分局局长 、各村书记、旅游从业人员 、普通村民
+等开展访谈式调研 。② 借助 Google Earth 及专业地图软件 ，获取高清影像图 （分辨率
+0.6 m，拍摄日期为 2018 年 10 月） 。③ 收集 《汤口镇总体规划 （2006—2020 年）》 《汤口
+图 2 3 个典型世界遗产地乡村聚落区位
+Fig. 2 Location of three typical rural settlements in world heritage site
+注：影像拍摄日期：2018 年 10 月 6 日；地图级别：18；分辨率：
+0.6 m/像素。
+图 1 世界遗产地乡村聚落转型研究框架
+Fig. 1 The research framework for rural transformation in world heritage site
+2216
+--- PAGE 4 ---
+10 期 杨兴柱 等：世界遗产地乡村聚落功能转型与空间重构
+镇总体规划 （2011—2030 年）》 《汤口镇土地利用总体规划 （2006—2020 年）》 《汤口镇
+旅游总体规划 （2011—2030 年）》 等相关规划资料。
+调研发现 ，汤口、寨西和山岔聚落旅游发展程度较高 ，受访者中涉旅占比达 77%。
+在涉旅部分，汤口和寨西有一半左右为外地人 ，山岔村则外地人相对较少 ；男女比例相
+对均衡，25~64 岁的人群占被访人数超过 50%，旅游较发达的聚落年龄层次多集中在 25~
+44 岁，呈现年轻化特点。但文化水平普遍较低 ，经营旅游的受访者学历普遍不高 。在非
+旅部分，受访者绝大多数为本地人 ，且大多为务农，男女比例较为均衡 ，年龄主要集中
+在 25~64 岁，汤口和寨西以青年人为主 ，山岔以中老年人为主 ，文化水平主要集中在义
+务教育阶段，高学历者较少 （表 1） 。因此，本次调查样本具有较强的代表性。
+3.3 研究方法
+旅游与居住功能混合是世界遗产地聚落功能混合发展的典型特征 。结合聚落混质度
+与聚落小微产业混合度测度方法
+[34,35]
+，采用宅屋旅居混质度，测度某个宅屋单元的旅游与
+居住混合状况。公式如下：
+Mt = 1
+R × 2tl tj
+tl
+2
++ tj
+2 （1）
+Ms = 1
+R × 2sl sj
+sl
+2
++ sj
+2 （2）
+表 1 样本基本情况
+Tab. 1 Description of samples
+基本特征
+样本量(个)
+户籍占比(%)
+性别占比(%)
+年龄占比(%)
+文化程度占比(%)
+职业占比(%)
+汤口镇人
+非汤口镇人
+男性
+女性
+≤ 24 岁
+25~44 岁
+45~64 岁
+≥ 65 岁
+小学及以下
+初中/中专
+高中/高职
+大专/本科及以上
+务农
+旅游从业者
+非旅经营户
+打工(非旅工种)
+教师或医生
+政企人员
+待业
+汤口
+涉旅
+52.0
+55.8
+44.2
+48.1
+51.9
+9.6
+48.1
+38.5
+3.8
+25.0
+44.2
+21.2
+9.6
+0.0
+100.0
+0.0
+0.0
+0.0
+0.0
+0.0
+非旅
+22.0
+77.3
+22.7
+50.0
+50.0
+0.0
+50.0
+36.4
+13.6
+18.4
+36.4
+31.6
+13.6
+4.5
+0.0
+77.4
+4.5
+0.0
+4.5
+9.1
+寨西
+涉旅
+74.0
+48.6
+51.4
+62.2
+37.8
+5.4
+64.9
+28.4
+1.3
+17.5
+44.6
+14.9
+23.0
+0.0
+98.6
+0.0
+0.0
+0.0
+0.0
+1.4
+非旅
+12.0
+83.3
+16.7
+48.3
+41.7
+0.0
+66.7
+25.0
+8.3
+16.7
+66.7
+8.3
+8.3
+8.3
+1.0
+57.3
+16.7
+0.0
+16.7
+0.0
+山岔
+涉旅
+32.0
+87.5
+12.5
+56.3
+43.8
+0.0
+40.6
+59.4
+0.0
+34.3
+43.8
+9.4
+12.5
+0.0
+93.8
+0.0
+0.0
+3.1
+3.1
+0.0
+非旅
+13.0
+100.0
+0.0
+76.9
+23.1
+0.0
+0.0
+69.2
+30.8
+69.2
+23.1
+7.7
+0.0
+76.9
+0.0
+0.0
+23.1
+0.0
+0.0
+0.0
+合计
+涉旅
+158.0
+58.9
+41.1
+56.3
+43.7
+5.7
+54.4
+38.0
+1.9
+23.4
+44.3
+15.8
+16.5
+0.0
+98.2
+0.0
+0.0
+0.6
+0.6
+0.6
+非旅
+47.0
+85.1
+14.9
+59.6
+40.4
+0.0
+40.4
+42.6
+17.0
+31.9
+40.4
+19.2
+8.5
+25.5
+0.3
+50.8
+12.7
+0.0
+6.4
+4.3
+2217
+--- PAGE 5 ---
+地 理 研 究 39 卷
+Mp = 1
+R × 2pl pj
+pl
+2
++ pj
+2 （3）
+M = αMt × βMs × γMp
+3
+× 100% （4）
+R = maxi ∈ I
+min Gi
+max Gi
+（5）
+式中：M 表示宅屋旅居综合混质度 （取值范围为 0~100%） ，M 值越高，表示旅居混质度
+越高，反之则越低；Mt 为时间维度，表示同一宅屋单元内旅游与居住的时长比率 ，反映
+旅居功能的时态特征 ；Ms 为空间维度，表示同一宅屋单元旅游使用面积与居住使用面积
+比率，反映旅居功能构成；MP 为社群维度，表示同一宅屋单元内职住人群比率 ，反映社
+会构成；R 指在调研总样 本 I 中，各维度中某个样 本 i 的旅游与居住比值 G （当旅游、居
+住相等时 ，则 R 取最大值 1） ；tl、tj 刻画旅游、居住行为时长 ；sl、sj 反映旅游、居住面
+积；pl、pj 为旅游、居住人员；α、β、γ分别为时间、空间和社群三者权重值 ，为均衡三
+者对混合状态的影响，故取α=β=γ=1。
+4 ˚À‰çÒ¯†œµØ¾Û´ä„ƒ˜Ü×“—˝Óº¿Õ…äÖØ„„‰â˛ö
+4.1 功能转型与空间重构特征
+4.1.1 汤口-新旧共存街区 汤口地区由于空间的稀缺性和 “马路经济”的依赖性，传统
+居住区无法向外扩展和大面积更新 ，新兴旅游区只能沿道路线性扩展或挤占原有零散居
+住空间，这种此消彼长的扩张，形成了功能混杂和空间散碎的新旧共存街区。
+（1） 功能混杂：耗散式转型。汤口经过 40 年的旅游发展和聚落建设 ，普通住宅集中
+分布在中部 “菱形”包围圈内和新建的南部逍遥水街 ，旅居混质区和旅游空间分散在
+“X”型道路两侧，形成旅游和居住功能混杂的局面 。旅游服务设施建设用地 ，部分来源
+于原有居民宅屋改造再利用或拆旧建新 ，部分来自开辟新地进行建设 。汤口典型的山区
+河谷地貌，使得旅游用地扩张只能沿着河谷或道路延伸 ，不能呈规模化片状扩展 ，造成
+旅游功能呈小规模的线状延伸 。当遇到居民点时 ，主要采取兼并或拆除新建的方式 ，形
+成功能不连续场域，导致旅游和居住功能存在相互拮抗或相互兼容的局面 （图 3） 。
+（2） 空间散碎：破碎化分异。汤口是最早接受黄山风景区旅游发展影响的聚落 ，早
+期的旅游商铺主要由自家宅屋改造而成 ，沿聚居区南侧道路一字排开 ，道路一侧是山
+体，一侧是居民集聚区 ，旅居聚居空间在聚居地外围产生 ，聚居地内部由于可进入性和
+人居环境较差 ，旅居混质空间沿道路线性蔓延 。205 国道向北改道后 ，旅居混质空间在
+聚居区北侧道路延伸开来 ，形成与旅游空间相一致的 “菱形”旅居空间，对原有传统聚
+居区形成“合围之势” ，这种“合围”一定程度上阻断了旅游要素进入“包围圈”内。外
+围旅居空间主要由居民自发改造而成 ，缺乏统一规划和管理 ，主要呈现独立式 、分散型
+的破碎化空间形态 （图 3） 。
+4.1.2 寨西-新建服务社区 寨西大部分建筑为 21 世纪初建造，建筑分布规整，功能分区
+清晰，街道景观、居住特点、生活方式具有典型现代社区特征 。餐饮、购物等旅游空间
+不仅是游客消费的场所，也为居民提供日常消费服务。
+（1） 功能交互：模块化融合。寨西经过几轮新建 ，已基本不存在传统老旧建筑 ，代
+替为统一规划建成的现代社区 。自东北向西南，形成行政、交通、旅游和居住等主导服
+务功能。每个功能由场域内主导功能确定 ，模块间存在明晰界限 ，模块内存在部分旅居
+混质空间。模块内各要素交互程度高 ，旅居单元既具有相对独立性 ，又有联系各要素互
+2218
+--- PAGE 6 ---
+10 期 杨兴柱 等：世界遗产地乡村聚落功能转型与空间重构
+动性。各功能模块之间和内部功能相互依存 ，行政服务、交通服务和居住均配有一定旅
+游服务功能，其中，居住功能叠加大量旅游功能 ，旅居混合最为典型 。例如寨西黄梅新
+村原本为拆迁安置住宅 ，每户为 3~4 层，约有 20 间房间 ，大多留有 1~2 间房作为居住 ，
+其余皆用作旅游 （图 4） 。
+（2） 空间延展 ：协同性演替 。在寨西地区城镇有机更新和 “有序发展寨西 ”要求
+下，形成自上而下的空间重构特征 ，空间分区较明显 ，旅游发展与住房建设具有高度的
+一致性和协同性 。各产业间的产生与发展协同性高 ，产业运行效率快 ，以组团式混合推
+图 3 汤口功能转型与旅居混质分布
+Fig. 3 The houses function and tourism-live mixed use of Tangkou
+2219
+--- PAGE 7 ---
+地 理 研 究 39 卷
+动空间扩展。往南为京台高速出入口 ，形成交通服务场域 ，相关交通服务和旅游接待设
+施在此集中，如黄山旅游集散中心 、汤川徽韵商贸城和黄山南大门立体停车场等 。优越
+的区位和狭长的用地条件 ，使得旅游空间沿道路向南延伸 ，形成以旅游餐饮 、住宿和购
+物为主的旅游空间 。浮溪河与 205 国道相交而构成的 “十”字空间是寨西主要的居住
+区，也是旅居混质宅屋分布最广的区域 。各混质单元产业关联性强 ，促使生活服务、旅
+游服务等多种旅居要素集中在经营性社区 ，各旅居混质单元通过相互的群化协同 ，形成
+了功能模块化、空间有机化的旅居综合体 （图 4） 。
+4.1.3 山岔-乡村旅游新村 随着山岔旅游景点的开发 ，村民主动的适应调整和政府的积
+极参与，调整宅屋使用功能和建设新村 。既适应村民集中居住的要求 ，也成为农家乐旅
+游接待场所，山岔从一个传统山区聚落演变成一个旅游专业村。
+图 4 寨西功能转型与旅居混质分布
+Fig. 4 The houses function and tourism-live mixed use of Zhaixi
+2220
+--- PAGE 8 ---
+10 期 杨兴柱 等：世界遗产地乡村聚落功能转型与空间重构
+（1） 功能融合：自组织适应。山岔是以村民宅基地为基础的功能单元 ，为村民生产
+生活的基本空间载体 。它包括土地、建筑、商品等物质要素和居住 、交易、生产等社会
+要素，是旅居二元混合增长的基础 。旅游发展之前，山岔是一个典型山区聚落 ，宅屋部
+分用来居住，部分用来储存或圈养家禽 、牲畜等。山岔旅游发轫于村民自发组织开发的
+翡翠谷景区，景区开发带来用地调整和人流 、物流、资金流、信息流等变化，翡翠新村
+建设解决了村民因景区开发而失地的矛盾 ，也解决了游客接待问题 。同样，天湖和香溪
+景区开发和高速公路建设 ，推动了天湖新村的建成 。这两个旅居混质空间的新村具有典
+型的被动式适应和主动式迎合的特征 ，既解决村民居住需求 ，也解决游客农家乐接待 。
+山岔地区西部九龙瀑景区周边农户则将自家宅屋改造或拆旧新建 ，以“左邻带右舍”形
+式，形成相对分散的旅居混质空间 （图 5） 。
+（2） 空间分化：核域式集聚。景区开发打破了聚落传统均质空间 ，对景区周边区域
+的发展要素产生明显的极化作用，发展成以景区为依托的“增长极” ，逐渐形成以翡翠新
+村、天湖新村和九龙瀑景区入口处为中心的三大集聚核心 。核域内的旅居混质宅屋主要
+来源祖宅延续或规划新建 ，在建筑架构、使用类型和空间形态具有相似性 。翡翠新村和
+天湖新村因政府统一规划建设 ，均有自我管理的农家乐管理公司或组织 ，经营方式和发
+展模式有统一路径 ，旅居混质在时间 、空间和社群维度上具有相似性 。九龙瀑景区入口
+处旅居空间的产生 ，主要受市场需求的刺激 ，体现村民“逐利”行为。旅居混质宅屋因
+村民自发产生 ，缺乏统一规划 ，混质单元发展基础存在差异 。但业态具有趋同构建现
+象，与周边传统聚居区差异明显，表现出微尺度上集聚，小尺度上分散格局 （图 5） 。
+4.2 功能转型与空间重构模式
+根据汤口、寨西和山岔功能转型与空间重构特征及宅屋旅居混质演进时序 ，以宅屋
+旅居混质度和宅屋功能分布为基础 ，将每个聚落划分为若干个组团 ，既可厘清每个聚落
+重构时序，也可反映每个聚落组团特征，便于总结和归纳这 3 个聚落的重构模式。
+4.2.1 汤口-原地生长型 由于地形、交通和历史等因素 ，聚落无法摆脱原生环境 ，后期
+因旅游发展和生活需求 ，原生聚落凭借道路 、河流等生长通道 ，形成新的聚落，这种在
+原生环境生长起来的聚落空间重构模式称之为原地生长型 。汤口作为典型的山区聚落 ，
+生产生活往往分布在河流与道路交叉区域 ，形成传统聚落生长的原生发展域 。黄山风景
+区旅游发展将旅游经济引入汤口 ，旅游空间渗透至原生发展域 （组团 I） ，成为形成时间
+最早、数量最多和旅居混质度最高的区域 。由于建设用地稀缺和传统原生聚落更新难等
+原因，加之旅游需求和生活需求急剧增长 ，新生聚落沿着原生聚落的外围 、道路和河流
+等生长通道，不断向外扩展 ，形成功能各异的新生域 。组团 II 和组团 III 沿着 205 国道延
+伸集聚而成，涉旅宅屋在时间 、数量和混质度具有较高的相似性 ，通过旧居改造或拆旧
+建新的方式，以旅游个体商铺为主，成为汤口旅游接待服务的补充 。组团 IV 向北直通黄
+山风景区南大门 ，是汤口离黄山风景区最近的组团 ，为提高汤口旅游接待质量和能力 ，
+组团内原有传统宅屋拆除殆尽 ，随之替代的为中高端酒店和黄山风景区的管理机构 。组
+团 V 是原生发展域 （组团 I） 沿逍遥溪向南生长的产物，逍遥东街以农家乐为主，是居民
+生活和旅游接待的重要区域 ，逍遥西街以居住和养老服务为主 。原生域受到旅游刺激 ，
+沿生长通道向外扩展，形成功能各异的新生域 （图 6） 。
+4.2.2 寨西-就地重建型 新建聚落覆盖原有聚落 ，在原有聚落基础上有组织地扩展 ，形
+成新的聚落空间 ，这种聚落空间重构模式称之为就地重建型 。原来布局散乱、功能混乱
+的传统乡村聚落被统一规划新建的城镇聚落所取代 。在规划调控下，寨西地区从传统山
+区乡村聚落逐渐转变成集旅游接待 、居民生活和交通集散的复合型城镇新区 。合铜黄高
+2221
+--- PAGE 9 ---
+地 理 研 究 39 卷
+速通车加快寨西地区重构速度，位于高速出入口的组团 I 成为首批新建的区域，交通集散
+服务设施和中高端酒店等兴建 ，带动一批拆迁安置社区建设 ，这些统一规划建设社区 ，
+功能齐全、空间规整，既是居民生活场域 ，也是提供旅游接待服务的场域 ，两者相互融
+合。道路两侧分布大量旅游购物 、餐饮、住宿等接待设施 ，在区位和可进入性较好的社
+区新村，大量的房子被用作客栈 、酒店和旅游商店等 ，例如组团 II 中的黄梅新村全部用
+做旅游；组团 III 主要以住宅用地为主，只有在靠近主干道的部分房子用做旅游。组团 IV
+随着汤口镇政府迁建至此，成为以公共管理服务功能为主的区域 。组团 V 和组团 VI 在城
+图 5 山岔功能转型与旅居混质分布
+Fig. 5 The houses function and tourism-live mixed use of Shancha
+2222
+--- PAGE 10 ---
+10 期 杨兴柱 等：世界遗产地乡村聚落功能转型与空间重构
+镇空间持续扩张下，沿道路向南和向西扩展 （图 7） 。
+4.2.3 山岔-景村共生型 景点开发带动周边聚落向旅游专业村转型 ，旅游专业村为景点
+发展提供旅游接待服务 ，这种景区和聚落相互依存 、相互促进的聚落重构模式称之为景
+村共生型。山岔组团 I-II-III 分别依托翡翠谷景区 、九龙瀑景区和天湖景区 ，这些景区初
+始开发管理主体均为村民集体 ，这种自下而上的形式有利于提升村民主体意识和参与
+度，更好地促进景区与聚落联系 ，依附于这 3 个景点的聚落构成山岔三大旅游接待服务
+中心 。1985 年上张村民组村民自发组织开发翡翠谷 ，为配合景区开发和新农村建设 ，
+2003 年翡翠新村建成并投入使用 ，成为翡翠谷景区甚至是汤口镇重要旅游接待基地 ，形
+成景区+新村的一体化发展场域 ，并持续向外拓展 （组团 I） 。九龙瀑景区于 1991 年由田
+段、苦竹溪村民组村民开发 ，田段、苦竹溪和舒家分别于 20 世纪 90 年代初期 、后期和
+2000 年以后向旅游专业村转型 ，3 个村民组分别距九龙瀑景区入口约 50 m、500 m、
+1000 m，表明距景区越近 ，转型时间越早 ，发展越成熟 。景区旅游溢出效益随距离递
+减，乡村转型程度也随之递减 （组团 II） 。1997 年天湖景区开发，政府和村民不同适应行
+为形成两种不同组团 。为响应合铜黄高速建设 ，规划新建天湖新村 ，因地理障碍 （河
+流、高速公路等阻隔） ，天湖景区与天湖新村在空间形态上相分离 ，但景区作为吸引物 、
+新村作为接待服务基地作用依然存在 ，两者相互依存，在统一规划下形成新的旅游-居住
+图 6 汤口功能转型与空间重构模式
+Fig. 6 The model of functional transformation and spatial restructuring in Tangkou
+2223
+--- PAGE 11 ---
+地 理 研 究 39 卷
+组团 （组团 III） 。距离稍远的原有聚落因受景区旅游经济溢出 ，部分宅屋转型成农家乐
+等旅游接待设施，在自下而上的村民自适应下形成新的旅游-居住组团 （图 8） 。
+5 ˚À‰çÒ¯†œµØ¾Û´ä„ƒ˜Ü×“—˝Óº¿Õ…äÖØ„„˙ý¶ﬂ»œÖ˘•Ö˛ö
+世界遗产地聚落功能转型发展的影响因素可分为内源性 和外源性因素 ，内源性因素
+直接决定着聚落转型发展的路径选择和发展水平 ，外源性因素在聚落转型发展过程中起
+到引导、催化、推动或阻碍作用。
+5.1 功能转型影响因素
+在参考大量相关研究成果的基础上
+[36-42]
+，一方面从个人能力 、社会关系、基础设施、
+市场需求、旅游发展环境 5 个方面，选取 19 个指标 （表 2） ，采用 5 级李克特量表设计问
+卷项，运用 SPSS 22 （α系数为 0.785，样本数据通过信度检验） ，对汤口、寨西和山岔转
+型发展影响因素进行定量分析 ；另一方面，采用参与式访谈 ，通过质性分析，综合分析
+其影响因素。
+5.1.1 内源性因素
+（1） 个人能力。个人能力是推动聚落功能转型发展的人力基础 。一宅一户是组成村
+庄基本单元，居民是该单元主要使用者和村域内最活跃的要素之一 ，作为聚落功能转型
+发展核心行为主体之一 ，主体能力和行为对村域发展至关重要 。劳动力数量、质量和财
+图 7 寨西功能转型与空间重构模式
+Fig. 7 The model of functional transformation and spatial restructuring in Zhaixi
+2224
+--- PAGE 12 ---
+10 期 杨兴柱 等：世界遗产地乡村聚落功能转型与空间重构
+表 2 汤口、寨西和山岔功能转型影响因素得分
+Tab. 2 The score of influencing factors in the transformation of Tangkou, Zhaixi and Shancha
+变量
+（一） 个人能力
+劳动力数量
+文化程度
+从事旅游经验
+资金
+（二） 社会关系
+金融能力
+旅游协会帮助
+亲朋在政企担任职务
+亲朋中有人经营旅游
+（三） 基础设施
+污水设施
+通信、水电、环卫等基础设施
+公交站点
+汤口
+3.04
+2.57
+2.97
+3.42
+3.22
+2.88
+3.01
+2.65
+2.55
+3.31
+3.21
+3.05
+3.28
+3.28
+寨西
+3.10
+3.09
+2.85
+3.20
+3.27
+2.56
+2.72
+2.13
+2.04
+3.37
+3.47
+3.30
+3.51
+3.60
+山岔
+2.87
+2.58
+2.60
+3.24
+3.04
+2.79
+2.73
+2.51
+2.40
+3.51
+3.23
+2.91
+3.29
+3.49
+均值
+3.00
+2.75
+2.81
+3.29
+3.18
+2.74
+2.82
+2.43
+2.33
+3.40
+3.30
+3.09
+3.36
+3.46
+变量
+（四） 市场需求
+游客量
+游客需求
+（五） 旅游发展环境
+旅游经营环境
+旅游经营者认可度
+旅游业发展状况
+旅游政策
+地域文化
+旅游行业偏好
+总体平均
+汤口
+3.18
+3.03
+3.34
+3.08
+3.01
+3.14
+3.22
+2.76
+3.16
+3.22
+3.06
+寨西
+3.51
+3.38
+3.63
+3.20
+3.41
+3.49
+3.22
+2.65
+3.08
+3.34
+3.12
+山岔
+3.56
+3.47
+3.64
+3.30
+3.56
+3.60
+3.42
+2.93
+3.09
+3.22
+3.12
+均值
+3.41
+3.29
+3.54
+3.19
+3.33
+3.41
+3.29
+2.78
+3.11
+3.26
+3.10
+注：1 代表非常不同意，5 代表非常同意。
+图 8 山岔功能转型与空间重构模式
+Fig. 8 The model of functional transformation and spatial restructuring in Shancha
+2225
+--- PAGE 13 ---
+地 理 研 究 39 卷
+力是个人能力重要体现 ，能力较强的个人 ，容易成为推动乡村转型发展的 “乡村能人 ”
+“体制精英”和“先锋农户” ，他们往往具有较强的经济实力和市场经验 ，从事旅游愿望
+较强。据山岔村村支书介绍 ，山岔村 70%劳动力从事旅游或旅游相关行业 。由于这部分
+能人率先在村内从事旅游经营或参与旅游活动 ，较早地从传统农户转变成现代市场参与
+者，成为“先富之人 ” ，起到示范带动作用 。他们个人在转型之后 ，成为他人效仿的对
+象，逐渐形成了由乡村能人建构的转型网络，推动聚落功能转型发展。
+（2） 社会关系。社会关系是提升个人能力的重要辅助力量 ，不同利益主体组成的社
+会关系网络助推聚落功能转型 。汤口由一个山区传统农业社区向旅游服务社区转变 ，生
+产方式变革引起社会关系变化，以宗亲血缘维系的社会关系被以“血缘+业缘”为主的社
+会关系所取代。社会关系反映了居民 、旅游经营者、企业家、协会组织和政府等行为主
+体的相互联系和相互作用 ，社会关系作为支撑个人发展的无形力量 ，往往成为个人的社
+会资本，助推乡村转型发展。61.7%的被访者认为“亲戚朋友带动”是其经营旅游的原因
+之一。这些社会关系不仅给转型主体带来技术指导，也为他们提供资金等物质支持。
+（3） 自然环境。自然环境奠定聚落转型发展的基本空间格局 ，是聚落功能转型的地
+理基础。地形地貌 、河流水系和植被景观等影响聚落空间布局形态和拓展方向 。同时，
+良好的生态环境为旅游发展提供资源要素和生态本底 ，起到制约和支撑聚落功能转型的
+双重作用。汤口是典型山区聚落 ，聚落形态受到地形地貌制约 ，城镇建设用地、农村居
+民点和旅游接待服务设施集中在河谷沿线 。翡翠谷、九龙瀑和香溪漂流等依托汤口镇河
+流开发，这些景区诱发乡村聚落空间快速重构 ，如翡翠新村和天湖新村建设 ，成为山岔
+村农家乐接待服务集聚地。
+（4） 区位条件。区位条件通过服务设施便利性 、交通通达性和旅游资源临近性等影
+响乡村转型次序和速度 。汤口是距离黄山风景区南大门最近的区域 ，因此最早成为旅游
+接待服务基地，率先发生乡村转型 。2007 年合铜黄高速开通 ，高速出入口设在寨西 ，寨
+西的交通优势急剧提升 ，生活住宅小区、商业街区、医疗设施和管理设施等在寨西逐渐
+建立完善，寨西在短时间内迅速由一个落后农业聚落转变成现代服务城镇 。山岔村拥有
+翡翠谷、凤凰源、九龙瀑和香溪漂流等景区 ，临近景区的乡村聚落在旅游绅士化和旅游
+城镇化的推动下，率先产生转型，成为景区周边的旅游服务接待基地。
+（5） 基础设施。交通、通信和水电等基础设施作为乡村发展的硬件设施 ，成为乡村
+转型发展的先导和支撑 。旅游经营者往往会选择基础设施完善的区域 ，使得基础设施延
+伸的方向与旅游扩展的方向具有一致性 。汤口旅游经营受到环保条件的约束 ，特别是污
+水处理的要求，还需要满足游客对通信和环卫等方面的要求 。完善的基础设施成为传统
+农业乡村向现代旅游服务社区转变的必要条件 。基础设施较差的乡村 ，区域内部设施与
+外部的连通性较差 ，乡村转型较慢 。例如汤口地区的老城区居住用地紧张 ，建设混乱 ，
+当地人称“厕所包围着房子，房子里有厕所” ，整个老城区基础设施差，成为汤口地区乡
+村转型发展的“洼地” 。
+（6） 旅游发展环境 。旅游发展环境是聚落功能转型发展重要的软环境支撑 。旅游发
+展环境是吸引当地居民和外来人员经营旅游的重要诱因。旅游是汤口乡村转型发展核心动
+力，从事旅游是当地居民主要生计来源。汤口和寨西作为汤口镇旅游服务集散地，旅游服
+务设施完善。在调研过程中，仅有 19.3%的被访者认为汤口镇旅游经营环境不好，主要原
+因是住宿、餐饮企业数量多、竞争压力大，大部分对汤口镇旅游发展环境比较认可。
+5.1.2 外源性因素
+（1） 制度政策。制度政策影响乡村发展要素配置 ，进而影响聚落功能转型进程 。政
+2226
+--- PAGE 14 ---
+10 期 杨兴柱 等：世界遗产地乡村聚落功能转型与空间重构
+府作为制度政策制定者和执行者 ，在转型发展过程中扮演着重要角色 ，通过用地供给 、
+收入分配和村镇管理等调控乡村发展 。作为旅游聚落 ，汤口镇政府角色经历了 “放任
+型”政府、 “参与型”政府到管理服务型政府转变。在旅游发展初期，除外事接待在政府
+管控之下，乡村农户旅游接待处于自我管理阶段 ，政府放任其发展 ；随着旅游业进一步
+发展，政府鼓励和规范旅游市场发展 ；到发展后期，城乡建设不足和旅游发展转型等问
+题出现，政府通过相关规范方案弥补不足和适应新发展。
+（2） 规划调控。规划是政府适应旅游发展和应对聚落转型发展的重要调控手段 。规
+划编制和实施为聚落发展提供了发展目标和实施路径 。依据汤口镇“镇区-中心村-自然
+村”三级镇村等级体系 ，确定相应区域的性质和发展方向 （表 3） 。规划调控具有一定的
+强制性，被纳入到城镇规划范围的乡村 ，经历由农村社区向城镇社区转变 ，居民由村民
+向市民化转变。 《寨西新村规划》 《天湖新村规划》 《香溪新村规划》 等一系列新村规划实
+施，因项目工程或危旧房改造拆迁 ，选址新建农民新村 ，这些新村不仅是新建居民的住
+所，也发展成旅游接待服务基地 。而部分因规划搁置或调整的村庄 ，被迫保持原状，例
+如山岔村舒家村民组。
+（3） 市场需求。旅游市场持续扩张是汤口 镇聚落转型发展的根本动力 。在黄山风景
+区对外开放初期 ，汤口镇少部分居民可以上山卖旅游小商品和零食 ，随着景区游客持续
+增长，山上接待设施无法满足日益增长的旅游需求 ，汤口镇的家庭旅馆、连锁酒店和个
+体餐饮纷纷建立 ，成为黄山风景区旅游服务接待基地 。2000—2017 年，汤口镇旅游接待
+人次从 30 多万增长到520 万，增长了近17 倍，并每年仍维持较高的增长率。随着翡翠谷等
+山下景区景点的开发，汤口镇乡村旅游快速发展，旅游新村、国省干道两侧的农家乐兴起，
+乡村转型由镇区逐渐向农村地区扩展。市场需求的变化为汤口镇转型发展提供新的动力。
+2016年，汤口镇拥有民宿14家，2017年出台相关民宿规范，迎合新兴的民宿市场。
+（4） 外部环境。国内大政方针和国际环境的变化 ，影响村域内外要素流动 ，进而对
+乡村转型产生影响 。受国家主体功能区划影响 ，汤口镇作为国家重点生态功能区的一部
+分，在生产环节中更加注重生态环境保护 。信息化和 “互联网+”模式影响 、OTA平台
+运用，推动旅游产业转型升级 ，使得区位条件较差区域也获得一定客源 。黄山作为世界
+生物圈保护区和世界旅游组织可持续旅游发展观测区 ，汤口镇旅游业和村镇发展也受到
+国际环境的影响。
+汤口、寨西和山岔分别代表着世界遗产地聚落转型发展不同模式中的典型村域 ，影
+响因素的作用方式和作用强度在地域间存在着差异 （表 4） 。汤口凭借临近黄山风景区入
+口的优势 ，拥有更具实力的发展基础 ，受到旅游市场牵引 ，转型是自然环境 、制度政
+策、文化特质等综合影响下的结果 ；寨西是在规划调控中 ，赋予该地区更多的资源 、交
+通、基础设施等优势 ，在外源性因素主导下有组织的转型 ；山岔通过自下而上的形式 ，
+表 3 汤口镇镇村体系职能结构
+Tab. 3 The functional structure of Tangkou town-village system
+区域
+汤口
+寨西
+山岔
+主要职能
+黄山风景区行政管理中心，黄山风景区南大门，以旅游接待服务、交通组织和生活居住为主
+汤口组团职能延伸，规划为黄山风景区主要的行政办公和生活服务基地 、风景区出入换乘和对外长途
+交通枢纽
+旅游综合服务区、黄山风景区东海景区组成部分 ，与谭家桥共同组成黄山东部交通枢纽 ，兼备黄山风
+景区东大门管理、风景游览、旅游服务和居民生产、生活服务等职能
+2227
+--- PAGE 15 ---
+地 理 研 究 39 卷
+开发景区来实现乡村转型发展 ，个人能力和社会关系方面尤为重要 ，内源性因素占据主
+导位置。
+5.2 功能转型驱动机制
+通过对 3 个聚落功能转型特征 、模式和影响因素 分析，归纳总结聚落转型发展的微
+观驱动机制 （图 9） 。内外因素相互作用是聚落功能转型支撑力 。内外因素的促进、协同
+图 9 乡村聚落转型发展驱动机制
+Fig. 9 The driving mechanism of rural settlement transformation
+表 4 汤口、寨西和山岔聚落功能转型发展影响因素差异比较
+Tab. 4 The differences in influencing factors of rural transformation in Tangkou, Zhaixi and Shancha
+影响因素
+个人能力
+社会关系
+自然环境
+区位条件
+基础设施
+旅游发展环境
+制度政策
+规划调控
+市场需求
+汤口
+在旅游经营的经验方面更具优势
+社 会 关 系 较 强， 金 融 关 系 较 为
+突出
+空 间 狭 窄， 可 利 用 土 地 资 源 较
+少，建设用地约为 45 hm
+2
+离黄山风景区南大门最近
+居住与旅游混杂 ，旅游接待设施
+更新较慢
+本地的传统文化更具吸引力
+政策知晓度 19%
+管理、旅游接待服务和生活居住
+为主
+上山便捷，历史基础好
+寨西
+在劳动力数量和资金方面更具
+优势
+外来旅游从业者较多 ，本地社
+会关系较弱
+可利用土地资源较多 ，建设用
+地约为 74 hm
+2
+离高速出入口最近
+旅游接待设施充足
+旅游经营者更喜爱旅游行业 ，
+淡旺季差异明显，竞争压力大
+政策知晓度 24%
+行 政 办 公、 生 活 服 务 和 交 通
+枢纽
+换乘方便，商业化程度高
+山岔
+个人能力较弱 ，但可从亲朋和组
+织中获得弥补
+血缘关系为主，辅以业缘关系
+可利用的水域资源丰富 ，水域面
+积约为 13 hm
+2
+临近景区景点
+污水处理设施欠缺
+乡村旅游火爆 ，旅游经营环境良
+好，自我管理能力较强
+政策知晓度 43%
+居 民 生 产 和 生 活 服 务 基 层 服 务
+点，兼具旅游服务功能
+农家乐数量多，乡村性保持较好
+2228
+--- PAGE 16 ---
+10 期 杨兴柱 等：世界遗产地乡村聚落功能转型与空间重构
+和拮抗作用，引起聚落内外的劳动力 、资金、信息和技术等要素流动 ，激发了聚落功能
+转型发展活力 。个人能力和社会关系提升改善了居民的生计能力 ，促进了乡村主体转
+型；自然环境为聚落功能转型提供了资源本底 ；区位条件、基础设施和旅游发展环境是
+推动聚落功能转型有力保障 ；市场需求、制度政策和规划调控是配置乡村资源的双重力
+量；外部环境作为偶然性因素，通过影响其他因素而产生作用。
+多元主体能动性是聚落功能转型的行动力 。通过激发主体参 与旅游发展的能动性 ，
+构建多元主体行动网络。居民“趋利”行为促使他们选择更多有利可图的旅游行业， “自
+下而上 ”的推动乡村转型发展 。率先开办家庭旅馆 、农家乐和开发景区的居民 ，成为
+“乡村能人” “先锋农户”和“体制精英” ，成为其他居民效仿对象，开创农民办旅游新模
+式。村民力量的崛起 ，需要村民集体的组织与适应 ，成立相关旅游行业协会和现代企
+业。政府作为村镇建设与管理的主体 ，通过“自上而下”的方式，引导和调控旅游发展
+和乡村建设。游客、外来人员和 NGO 等，通过与居民和政府的交流与互动，直接或间接
+影响聚落功能转型 。旅游市场需求是聚落功能转型驱动力 。核心景区旅游效益溢出 ，使
+景区门户区域成为首要的受益地区 ，促使地域各要素解构和重组 ，引起地域生产方式的
+变化，改变了原有传统地域面貌 ，成为驱动聚落功能转型策源力量和持续动力 。村民集
+体和政府的参与 ，形成以市场需求为主导 ，民间和政府参与为辅助的驱动力量 。随着旅
+游市场需求的不断变化，聚落功能不断发生新的转型。
+6 ‰Æ´ÛÓºÌÖ´Û
+（1） 世界遗产地旅游经济的出现 ，传统乡村聚落的相对单一功能和均质空间被打
+破，逐渐转变成城镇社区 。村域内功能和空间发生转型与重构 ，产生不同的地域重构特
+征与模式。汤口形成耗散式的功能转型和破碎化的空间重构 ，在此消彼长的扩张中 ，原
+地生长成功能混杂和空间散碎的新旧共存街区 。寨西聚落建设与旅游发展在规划导控
+下，呈模块化的协同演进 ，就地重建成功能模块化 、空间有机化的旅居综合体 。山岔逐
+渐形成以翡翠谷景区 、九龙瀑景区和天湖景区为中心的三大集聚核心 ，并以此为核心形
+成景村共生型的旅游新村。
+（2） 世界遗产地聚落功能转型影响因素可分为内源性和外源性因素 ，内源性因素包
+括居民的个人能力和社会关系 、村庄的自然环境 、区位条件、基础设施和旅游发展环境
+等，这些直接决定着聚落转型路径选择和发展水平 ，外源性因素包括制度政策 、规划调
+控、市场需求、外部环境等，在聚落转型过程中起到引导 、催化、推动或阻碍作用 。内
+外因素相互作用是世界遗产地聚落功能转型支撑力 ，多元主体能动性是世界遗产地聚落
+功能转型行动力，旅游市场需求是世界遗产地聚落功能转型驱动力。
+（3） 新时期世界遗产地聚落功能转型是乡村可持续发展的研究热点 。目前关于世界
+遗产地聚落功能转型研究 ，应用导向型研究和偏重技术导向型研究普遍存在 ，需要进一
+步探讨旅游地域系统与乡村地域系统的耦合机制和协调发展 ，在典型个案中总结世界遗
+产地聚落功能转型一般性规律，助推世界遗产地可持续发展和乡村振兴。
+致谢：真诚感谢匿名评审专家在论文评审中所付出的时间和精力 ，评审专家对本文
+的文字表述、结果分析等方面的修改意见，使本文获益匪浅，特此感谢！
+参考文献(References)
+[ 1 ] Ma W, Jiang G, Zhang R, et al. Achieving rural spatial restructuring in China: A suitable framework to understand how
+2229
+--- PAGE 17 ---
+地 理 研 究 39 卷
+structural transitions in rural residential land differ across peri-urban interface?. Land Use Policy, 2018, 75(6): 583-593.
+[ 2 ] Bryden J. Prospects of rural areas in an enlarged Europe. Journal of Rural Studies, 1994, 10(4): 387-394.
+[ 3 ] 吕祖宜, 林耿. 混杂性: 关于乡村性的再认识 . 地理研究, 2017, 36(10): 1873-1885. [Lv Zuyi, Lin Geng. Hybridity: Re -
+thinking rurality. Geographical Research, 2017, 36(10): 1873-1885.]
+[ 4 ] Tu S, Long H, Zhang Y , et al. Rural restructuring at village level under rapid urbanization in metropolitan suburbs of Chi -
+na and its implications for innovations in land use policy. Habitat International, 2018, 77(7): 143-152.
+[ 5 ] Tu S, Long H. Rural restructuring in China: Theory, approaches and research prospect. Journal of Geographical Scienc -
+es, 2017, 27(10): 1169-1184.
+[ 6 ] Liu Y , Li Y . Revitalize the world's countryside. Nature,2017, 548(7667): 275-277.
+[ 7 ] Y ang Y , Liu Y , Li Y , et al. Measure of urban-rural transformation in Beijing-Tianjin-Hebei region in the new millennium:
+Population-land-industry perspective. Land Use Policy, 2018, 79(10): 595-60.
+[ 8 ] 刘彦随. 中国东部沿海地区乡村转型发展与新农村建设 . 地理学报, 2007, 62(6): 563-570. [Liu Y ansui. Rural transfor-
+mation development and new countryside construction in eastern coastal area of China. Acta Geographica Sinica, 2007,
+62(6): 563-570.]
+[ 9 ] Li J, Jia L, Liu Y , et al. Measuring model of rural transformation development path in Fuping county of Beijing-Tianjin-
+Hebei region. Habitat International, 2018, 74(4): 48-56.
+[10] Holmes J. Cape Y ork Peninsula, Australia: A frontier region undergoing a multifunctional transition with indigenous en -
+gagement. Journal of Rural Studies, 2012, 28(3): 252-265.
+[11] Pinto-Correia T, Guiomar N, Guerra C A, et al. Assessing the ability of rural areas to fulfill multiple societal demands.
+Land Use Policy, 2016, 53(4): 86-96.
+[12] 李玉恒, 陈聪, 刘彦随. 中国城乡发展转型衡量及其类型 : 以环渤海地区为例. 地理研究, 2014, 33(9): 1595-1602. [Li
+Y uheng, Chen Cong, Liu Y ansui. Assessment and classification of urban-rural development transformation in China: The
+study of Bohai Rim. Geographical Research, 2014, 33(9): 1595-1602.]
+[13] 李红波, 张小林, 吴启焰, 等. 发达地区乡村聚落空间重构的特征与机理研究 : 以苏南为例. 自然资源学报, 2015, 30
+(4): 591-603. [Li Hongbo, Zhang Xiaolin, Wu Qiyan, et al. Characteristics and mechanism of rural settlements spatial re -
+construction in developed areas: A case study of southern Jiangsu. Journal of Natural Resources, 2015, 30(4): 591-603.]
+[14] 吴娜琳, 李小建. 村域视角下农业区域专业化的空间特征及其影响因素 : 以河南省西峡县香菇产业为例 . 经济地理,
+2017, 37(9): 143-150. [Wu Nalin, Li Xiaojian. The spatial characteristics of agricultural regional specialization: A case
+study of mushroom industry in Xixia county, Henan province. Economic Geography, 2017, 37(9): 143-150.]
+[15] 李二玲, 胥亚男, 雍雅君, 等. 农业结构调整与中国乡村转型发展 : 以河南省巩义市和鄢陵县为例 . 地理科学进展 ,
+2018, 37(5): 698-709. [Li Erling, Xu Y anan, Y ong Y ajun, et al. Agricultural structure adjustment and rural transformation de-
+velopment in China: Taking Gongyi city and Y anling county as examples. Progress in Geography,2018, 37(5): 698-709.]
+[16] 高慧智, 张京祥, 罗震东. 复兴还是异化? 消费文化驱动下的大都市边缘乡村空间转型: 对高淳国际慢城大山村的实
+证观察. 国际城市规划 , 2014, 29(1): 68-73. [Gao Huizhi, Zhang Jingxiang, Luo Zhendong. Renaissance or alienation?
+Spatial transformation of rural space of metropolis fringe area driven by consumer culture: Empirical observation on
+Dashan village of Gaochun International Slow city. Urban Planning International, 2014, 29(1): 68-73.]
+[17] 王鹏飞 , 王瑞璠 . 行动者网络理论与农村空间商品化 : 以北京市麻峪房村乡村旅游为例 . 地理学报 , 2017, 27(8):
+1408-1418. [Wang Pengfei, Wang Ruifan. Actor network theory and commodification in rural space: A case study of Ma -
+yufang village in Beijing. Acta Geographica Sinica, 2017, 27(8): 1408-1418.]
+[18] 杨兴柱, 查艳艳, 陆林. 旅游地聚居空间演化过程 、驱动机制和社会效应研究进展 . 旅游学刊 , 2016, 31(8): 40-51.
+[Y ang Xingzhu, Zha Y anyan, Lu Lin. Progress on the study of spatial settlement processes, driving mechanisms, and so -
+cial effects in touristic destinations. Tourism Tribune, 2016, 31(8): 40-51.]
+[19] 李志龙. 乡村振兴 -乡村旅游系统耦合机制与协调发展研究 : 以湖南凤凰县为例 . 地理研究 , 2019, 38(3): 643-654.
+[Li Zhilong. Research on the coupling mechanism and coordinated development of rural revitalization-rural tourism sys -
+tem: A case study on Fenghuang county in Hunan. Geographical Research, 2019, 38(3): 643-654.]
+[20] 陆林, 任以胜, 朱道才, 等. 乡村旅游引导乡村振兴的研究框架与展望 . 地理研究, 2019, 38(1): 102-118. [Lu Lin, Ren
+Yisheng, Zhu Daocai, et al. The research framework and prospect of rural revitalization led by rural tourism. Geographi -
+cal Research, 2019, 38(1): 102-118.]
+[21] 席建超, 王首琨, 张瑞英. 旅游乡村聚落“生产-生活-生态”空间重构与优化: 河北野三坡旅游区苟各庄村的案例实
+证. 自然资源学报 , 2016, 31(3): 425-435. [Xi Jianchao, Wang Shoukun, Zhang Ruiying. Restructuring and optimizing
+production-living-ecology space in rural settlements: A case study of Gougezhuang village at Y esanpo tourism attraction
+in Hebei province. Journal of Natural Resources, 2016, 31(3): 425-435.]
+[22] 陶慧, 刘家明, 虞虎, 等. 旅游城镇化地区的空间重构模式 : 以马洋溪生态旅游区为例 . 地理研究, 2017, 36(6): 1123-
+1137. [Tao Hui, Liu Jiaming, Y u Hu, et al. The conceptual model of the spatial restructuring in the region of tourism ur -
+banization: A case study of Mayangxi Ecotourism Area. Geographical Research, 2017, 36(6): 1123-1137.]
+2230
+--- PAGE 18 ---
+10 期 杨兴柱 等：世界遗产地乡村聚落功能转型与空间重构
+[23] Qian J, Feng D, Zhu H. Tourism-driven urbanization in China's small town development: A case study of Zhapo town,
+1986-2003. Habitat International, 2012, 36(1): 152-160.
+[24] 张娟, 王茂军. 乡村绅士化进程中旅游型村落生活空间重塑特征研究 : 以北京爨底下村为例. 人文地理, 2017, 32(2):
+137-144. [Zhang Juan, Wang Maojun. The characteristics of the life space remodeling of tourisom village during rural
+gentrification: The case of Cuandixia in Beijing. Human Geography, 2017, 32(2): 137-144.]
+[25] 杨仲元, 徐建刚, 林蔚. 基于复杂适应系统理论的旅游地空间演化模式 : 以皖南旅游区为例 . 地理学报, 2016, 71(6):
+1059-1074. [Y ang Zhongyuan, Xu Jiangang, Lin Wei. Spatial evolution progress of tourism destination based on theory
+of complex adaptive system: A case of southern Anhui. Acta Geographica Sinica, 2016, 71(6): 1059-1074.]
+[26] 席建超, 赵美风, 葛全胜. 旅游地乡村聚落用地格局演变的微尺度分析: 河北野三坡旅游区苟各庄村的案例实证. 地
+理学报, 2011, 66(12): 1707-1717. [Xi Jianchao, Zhao Meifeng, Ge Quansheng. The micro-scale analysis of rural settle -
+ment land use pattern: A case study of Gouge village of Y esanpo Scenic Area in Hebei province. Acta Geographica Sini -
+ca, 2011, 66(12): 1707-1717.]
+[27] 朱鹤, 刘家明 . 山岳型景区建设下乡村聚落的多维重构 : 基于云丘山旅游景区微观案例的实证研究 . 地理研究 ,
+2018, 37(12): 2490- 2502. [Zhu He, Liu Jiaming. Rural settlement reconstructing driven by mountain scenic spot con -
+struction: An empirical study of Y unqiu Mountain Scenic Spot. Geographical Research, 2018, 37(12): 2490-2502.]
+[28] 魏超, 戈大专, 龙花楼, 等. 大城市边缘区旅游开发引导的乡村转型发展模式 : 以武汉市为例 . 经济地理 , 2018, 38
+(10): 211-217. [Wei Chao, Ge Dazhuan, Long Hualou, et al. The tourism-led rural transformation development mode in
+the metropolitan fringe region: The case of Wuhan city. Economic Geography, 2018, 38(10): 211-217.]
+[29] Gao J, Wu B. Revitalizing traditional villages through rural tourism: A case study of Y uanjia village, Shaanxi province,
+China. Tourism Management, 2017, 63(4): 223-233.
+[30] 乔家君. 中国乡村地域经济论 . 北京: 科学出版社, 2008: 3-18. [Qiao Jiajun. China's Rural Regional Economic Theory.
+Beijing: Science Press, 2008: 3-18.]
+[31] 李裕瑞, 刘彦随, 龙花楼. 黄淮海典型地区村域转型发展的特征与机理 . 地理学报 , 2012, 67(6): 771-782. [Li Y urui,
+Liu Y ansui, Long Hualou. Characteristics and mechanism of village transformation development in typical regions of
+Huang-Huai-Hai Plain. Acta Geographica Sinica, 2012, 67(6): 771-782.]
+[32] Grant J. Mixed use in theory and practice: Canadian experience with implementing a planning principle. Journal of the
+American Planning Association, 2002, 68(1): 36-42.
+[33] 刘法建. 不同运营模式的旅游地网络特征、感知及演化: 黄山、宏村、西递的旅游地社会地理体系构建. 南京: 南京大
+学博士学位论文 , 2012. [Liu Fajian. Measurement, perception and evolution of tourism destinations networks in differ -
+ent operation and management model-social geography system construction of Huangshan, Hongcun and Xidi. Nanjing:
+Doctoral Dissertation of Nanjing University, 2012.]
+[34] 朱晓青, 邬轶群, 翁建涛, 等. 混合功能驱动下的海岛聚落范式与空间形态解析 : 浙江舟山地区的产住共同体实证 .
+地理研究 , 2017, 36(8): 1543-1556. [Zhu Xiaoqing, Wu Yiqun, Weng Jiantao, et al. Paradigm and spatial pattern analy -
+sis of island settlements based on mixed-use development: A case study of Zhoushan work-live community. Geographi -
+cal Research, 2017, 36(8): 1543-1556.]
+[35] 许凯, 杨寒. 小微制造业村镇“产、村融合”空间模式研究: 基于 STING 法的实证分析. 城市规划, 2016, 40(7): 57-64.
+[Xu Kai, Y ang Han. Spatial mode of "industrial-rural integration" of small manufacturing villages in china: A case study
+based on sting analysis. City Planning Review, 2016, 40(7): 57-64.]
+[36] 屠爽爽 , 龙花楼 , 张英男 , 等. 典型村域乡村重构的过程及其驱动因素 . 地理学报 , 2019, 74(2): 323-339. [Tu Sh -
+uangshuang, Long Hualou, Zhang Yingnan, et al. Process and driving factors of rural restructuring in typical villages.
+Acta Geographica Sinica, 2019, 74(2): 323-339.]
+[37] 陆林, 任以胜 , 徐雨晨 . 旅游建构城市群“乡土 -生态 ”空间的理论框架及研究展望 . 地理学报 , 2019, 74(6): 1267-
+1278. [Lu Lin, Ren Yisheng, Xu Y uchen. Theoretical framework and research prospect of "ruralism-ecology" space of ur -
+ban agglomeration constructed by tourism. Acta Geographica Sinica, 2019, 74(6): 1267-1278.]
+[38] 陆林, 於冉, 朱付彪, 等. 基于社会学视野的黄山市汤口镇旅游城市化特征和机制研究 . 人文地理, 2010, 25(6): 19-
+24. [Lu Lin, Y u Ran, Zhu Fubiao, et al. A research on the characteristics of tourism urbanization and mechanism of
+Huangshan Tangkou town from the perspective of sociology. Human Geography, 2010, 25(6): 19-24.]
+[39] 王华. 旅游引导的新型农村城镇化研究 : 以丹霞山瑶塘村与断石村为例 . 地理科学 , 2016, 36(6): 863-870. [Wang
+Hua. Tourism-driven new rural urbanization: A case study of Y aotang village and Duanshi village in the Danxia moun -
+tain in 1980-2014. Scientia Geographica Sinica, 2016, 36(6): 863-870.]
+[40] 屠爽爽, 龙花楼, 李婷婷, 等. 中国村镇建设和农村发展的机理与模式研究 . 经济地理 , 2015, 35(12): 141-147, 160.
+[Tu Shuangshuang, Long Hualou, Li Tingting, et al. The mechanism and models of villages and towns construction and
+rural development in China. Economic Geography, 2015, 35(12): 141-147, 160.]
+[41] 朱琳, 黎磊, 刘素, 等. 大城市郊区村域土地利用功能演变及其对乡村振兴的启示 : 以成都市江家堰村为例 . 地理研
+究, 2019, 38(3): 535-549. [Zhu Lin, Li Lei, Liu Su, et al. The evolution of village land-use function in the metropolitan
+2231
+--- PAGE 19 ---
+地 理 研 究 39 卷
+suburbs and its inspiration to rural revitalization: A case study of Jiangjiayan village in Chengdu city. Geographical Re -
+search, 2019, 38(3): 535-549.]
+[42] 龙花楼, 屠爽爽. 乡村重构的理论认知 . 地理科学进展 , 2018, 37(5): 581-590. [Long Hualou, Tu Shuangshuang. The
+theoretical cognition of rural restructuring. Progress in Geography, 2018, 37(5): 581-590.]
+Rural settlements functional transformation and spatial
+restructuring in world heritage sites: Take Tangkou,
+Zhaixi and Shancha as examples
+Y ANG Xingzhu
+1
+, Y ANG Zhou
+1,2
+, ZHU Y ue
+1
+(1. School of Geography and Tourism, Anhui Normal University, Wuhu 241002, Anhui, China;
+2. Changshu Xupu High School of Jiangsu Province, Changshu 215500, Jiangsu, China)
+Abstract: As an important development force, tourism development profoundly changes the
+socio-economic form and spatial pattern. On the one hand, rural settlements of world heritage
+sites contain traditional functions (such as residential function, production function, etc.), on
+the other hand, tourism consumption gives new development vitality to rural settlements. The
+potential functions such as cultural heritage innovation and leisure tourism are gradually
+explored. In the process of tourism development, the rural settlements functional
+transformation and human adaptability to world heritage sites is an important research content,
+which has important reference value for understanding the directions of rural settlements
+transformation and promoting the sustainable development of world heritage. Taking Tangkou,
+Zhaixi and Shancha villages as the research objects, we integrate the method of participatory
+rural assessment, GIS technology and remote sensing images, in a microscopic research
+perspective, apply the house function and tourism-live mixed use to analyze the characteristics
+and patterns of functional transformation and spatial restructuring, and adopt quantitative and
+qualitative methods (such as factor analysis, questionnaire interview, etc.) to explore the
+influencing factors and mechanisms in the three villages. The results suggest that the three
+villages have different characteristics and patterns in functional transformation and spatial
+restructuring. Tangkou is characterized by functional dissipative transformation and spatial
+fragmentation, Zhaixi is characterized by functional modular integration and spatial synergistic
+succession, and Shancha is characterized by functional self- organizational adaptation and
+spatial nuclear agglomeration. Accordingly, there are three transformational development
+models: Tangkou belongs to "in- situ growth" model, Zhaixi belongs to "original-
+place reconstruction" model and Shancha belongs to "Jingcun symbiosis" model. The
+interaction of internal and external factors is the supporting force, the initiative of multi-
+stakeholders is the action force and the demand of tourism market is the driving force for the
+rural settlement functional transformation and spatial restructuring in world heritage sites. This
+study could promote the coordinated development of tourism and village construction in
+Tangkou Town, provide a reference for the sustainable development of rural settlements of
+world heritage, and further enrich the content of rural transformation in tourism destinations.
+Keywords: rural settlement; functional transformation; spatial restructuring; world heritage site
+2232

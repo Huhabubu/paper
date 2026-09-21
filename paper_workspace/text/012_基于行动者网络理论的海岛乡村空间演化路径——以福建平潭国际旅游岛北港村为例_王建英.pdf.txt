@@ -1,0 +1,742 @@
+
+--- PAGE 1 ---
+王建英, 孙琦, 邹利林. 基于行动者网络理论的海岛乡村空间演化路径 —以福建平潭国际旅游岛北港村为例[J]. 地理科
+学,2025,45(5):1039-1049.[Wang Jianying, Sun Qi, Zou Lilin. Spatial evolution path of island village based on actor-network theory:
+A case study of Beigang in Pingtan International Tourism Island of Fujian, China. Geographical Science,2025,45(5):1039-1049.] doi:
+10.13249/j.cnki.sgs.20231247; cstr: 32176.14.geoscien.20231247
+基于行动者网络理论的海岛乡村空间演化路径
+—以福建平潭国际旅游岛北港村为例
+王建英1，孙琦1,2，邹利林3
+（1. 华侨大学旅游学院，福建 泉州 362021；2. 南京农业大学
+公共管理学院，江苏 南京 210095；3. 华侨大学政治与公共管理学院，福建 泉州 362021）
+摘要：以福建平潭国际旅游岛北港村为例，运用行动者网络理论解析海岛乡村空间重构过程与演
+化路径，为探索海岛乡村空间可持续演化提供新视角。研究发现：①北港村空间演化是一个多阶
+段、多主体参与及其相互竞争与协商推进的过程，并逐渐形成了一个由异质行动者共同缔结的行
+动者网络；②北港村行动者网络转换过程中异质行动者的加入使得问题呈现、利益赋予、征召、动
+员和异议出现再转译和角色转变，关键行动者与强制通行点(OPP)也发生了转换和更替；③由于
+内源力与外源力的交错，北港村空间演化路径实现了从“自上而下的行政主导推动”向“上下互动
+的多元主体参与”的转变，反映了异质行动者在乡村社会变迁过程中的被动应对与主动调适。
+关键词：海岛乡村；乡村空间重构；乡村旅游地；行动者网络；平潭
+中图分类号：F59　文献标识码：A　文章编号：1000-0690(2025)05-1039-11
+乡村是一个具有多重意义的、混合的或网络化的空间地域系统[1-2]。自2013年以来，
+中国政府相继提出建设“美丽乡村”和“乡村振兴”发展战略，由此推动经济、文化、景观、
+组织等要素在乡村地域空间中迭代反复地多尺度、多维度与多层次演化与变迁[2-3]。与此同
+时，乡村空间绅士化与商品化、旅游在地化与内卷化等现象愈演愈烈，这一过程中精英群
+体与社会经济要素的城乡流动引致乡村空间剧烈变动[3-5]。海岛乡村是乡村地域系统中人
+地关系最为复杂的空间单元[6]，尤其是海洋强国战略的推进为海岛乡村发展注入了源源不
+断的动力，大量区位条件优越、资源环境优渥、文化底蕴深厚的海岛乡村空间在权力、资
+本与阶层的共同作用下剧烈演变[7-8]。国家战略方针在促进海岛乡村发展的同时，也吸引了
+各类异质行动者涌入海岛乡村[9]，并引导海岛乡村地域空间不断地建构、解构与重构[10-11]。
+此背景下，运用行动者网络理论探索海岛乡村空间重构过程与演化路径，对推进海岛乡村
+可持续发展与拓展乡村地理学研究范式具有重要意义。
+海岛乡村空间演化既表现为物质性空间的变迁，还表现为非物质性空间的异化[4]。研
+究主要集中在以下4个方面：①通过围填海、滩涂围垦、养殖水面转化等方式为海岛乡村
+经济发展提供外部扩张空间[12-13]；②旅游服务供给、自然资本利用、公共服务配置等因素引
+导海岛乡村内部空间分异[14-15]；③公共空间拥挤、文化空间丧失、生活空间过度商品化等因 
+收稿日期：2024-01-08；修订日期：2024-04-16
+基金项目：国家自然科学基金项目（42471237）、福建省社会科学基金项目（FJ2024B100）资助。[Foundation: Na-
+tional Natural Science Foundation of China (42471237), Fujian Provincial Social Science Foundation (FJ2024B100).]
+作者简介： 王 建 英 （ 1984—） ， 女 ， 山 西 应 县 人 ， 教 授 ， 博 士 ， 主 要 从 事 乡 村 产 业 与 乡 村 振 兴 研 究 。 E-mail:
+wjy_cug@163.com
+通信作者：邹利林。E-mail: zoull@igsnrr.ac.cn 
+第 45卷第 5期 地　理　科　学 Vol. 45 No. 5
+2025 年 05 月 Geographical Science May, 2025
+　　　　
+--- PAGE 2 ---
+素导致海岛乡村居民空间感知与认同下降[16-17]；④通过土地利用类型或景观分类，实现海
+岛乡村空间功能分区和用途管制[18]。上述研究为理解海岛乡村空间演化奠定了重要的理
+论与方法基础，但仍存在一定的知识缺口：①对海岛乡村空间演化的探索侧重于揭示其重
+构过程及原因，未能深入解析海岛乡村空间演化是如何生成、发展与演化的，也未能深入
+挖掘利益相关主体之间的演化关系与作用路径；②海岛乡村空间演化是多阶段的，涉及多
+方利益相关主体的加入与退出，故而必然形成多元多联的关系网络[19]，而现有研究对其演
+化过程中所衍射出的要素联结关系、利益相关主体的参与和权益协商的挖掘不足；③参与
+海岛乡村空间演化的行动者具有多元化，包括人类行动者与非人类行动者，但鲜有学者将
+海岛乡村空间的物质性与社会性纳入一个统一的分析框架。
+行动者网络理论（Actor-Network Theory, ANT）作为一种科学实践研究方法已获得广
+泛认可，尤其是众多乡村地理学者将其应用于深入剖析乡村旅游地空间演变、乡村绅士化、
+乡村生计路径演化、乡村转型与重构过程等现象[20-23]。在传统乡村空间转型与重构过程中，
+乡村被看作是行动者网络空间的关系型聚合体[24]，行动者网络结构处于时刻调整的状态，
+关键行动者意图的转变、征召方式的改变以及网络中行动者角色的转换促成了行动者网
+络的转变，进而推动乡村空间转型与重构[25]。此外，行动者网络理论还试图将定量与定性
+相结合，“人”与“物”平等看待以及“关系思维”与“过程思维”相统一，强调自下而上的内
+在因素和自上而下的外在动力的综合作用，以及多元异质行动者之间的协调互动与时空
+演变[26]，这些理论铺陈为基于行动者网络理论探究海岛乡村空间演化过程与路径提供了理
+论与方法可行性。基于此，本文运用行动者网络理论深入探讨福建平潭国际旅游岛北港村
+空间重构过程与演化路径，以期为新时期海岛乡村空间演化与变迁提供细致入微的解析。 
+1    研究区概况与研究数据 
+1.1    研究区概况
+北港村位于福建省①平潭国际旅游岛东北部君山风景名胜区内，村庄沿海岸线而建，
+背靠君山，面朝东海，总面积约为2 km2。2016年8月，国务院批复《平潭国际旅游岛建设
+方案》（https://www.gov.cn/xinwen/2016-09/08/content_5106394.htm），平潭成为中国继海南
+之后获批的第2个国际旅游岛。北港村以此为契机，凭借其特有的自然人文景观、资源环
+境禀赋、特色产品等优势大力发展旅游业。2021年，北港村共接待游客42万人次，旅游收
+入达3 300多万元②，先后获得“福建省最美休闲乡村”“福建省金牌旅游村”“首批全国乡
+村旅游重点村”和“中国美丽休闲乡村”等荣誉称号。在此过程中，北港村以发展民宿业、
+旅游业为主导产业加快推动乡村空间演化，这一过程中既有游客、村民、当地政府等多方
+异质行动主体的参与，又有资本、权力、组织等要素的交揉作用，这为呈现异质行动者参与
+下的海岛乡村空间重构过程与演化路径提供了较好的案例样本。 
+1.2    数据来源
+研究资料和数据主要来源于2类：①访谈资料。研究小组在2020—2023年3次到北
+港村进行实地调研。在实地调研过程中，采用半结构化深度访谈法对各行动主体进行访谈，
+访谈对象共28人，包括地方政府官员、北港村党支部委员会和村民委员会成员（以下简称
+村支两委）、村民、党员代表、旅游从业者、外来经营者、文创团队、游客等。访谈话题以北
+港村乡村空间演化路径为主线，围绕村庄发展历程、美丽乡村建设、旅游建设运营情况、
+乡村景观变迁、基础设施与人居环境改善情况、日常生产生活、政府扶持、利益相关主体
+间的博弈与合作、相关意见建议等方面展开。②政策文本与网络资料。其中，区旅游业发
+1040 地　　理　　科　　学 45卷
+ ① 来源：https://nynct.fujian.gov.cn/ztzl/xxny/202003/t20200309_5212387.htm[2023-10-11]
+ ② 来源：http://fjptq.wenming.cn/wmsj/202211/t20221102_7853218.shtml[2023-10-11]
+--- PAGE 3 ---
+展相关政策文件、北港村旅游发展规划、社会经济统计数据等来源于区旅游局和村委会；
+相关的网络文章、宣传片、视频讲座等来源于政府网站①、主流媒体②以及小红书③、抖音④
+等网络平台。 
+2    理论与方法
+行动者网络理论是由Latour（布鲁诺 · 拉图尔）在20世纪80年代中后期提出的一种
+科学实践研究方法[27]。行动者、转译和异质性网络是ANT的3个核心概念。凡是参与到
+科学实践过程中的所有存在和力量都是行动者，既包括人类行动者，也包括非人类行动者。
+任何行动者都是转译者而不是中介者，且不同的行动者在利益诉求、行为方式等方面表现
+出异质性[28]。转译过程是ANT的核心内容，包括问题呈现、利益赋予、征召、动员和异议
+5个环节[27]。其中，问题呈现指关键行动者通过指出其他行动者利益的实现途径，使不同
+行动者关注的对象问题化，从而结成网络联盟，同时使关键行动者的问题成为实现其他行
+动者目标的“强制通行点（Obligatory Passage Point, OPP）”；利益赋予指通过各种装置和策
+略强化“问题呈现”环节中对行动者角色的界定，其结果是行动者被征召而成为联盟成员；
+动员指建议者即关键行动者发展为整个网络联盟的代言人，并对网络联盟内的其他行动
+者行使权力；异议指行动者之间就一些关键问题产生的争议与分歧，为维持网络的稳定运
+行，需要对异议进行排除[24]。异质性网络依托行为主体间的利益协调和整合变动，网络的
+稳定性取决于各个行动者利益诉求的不断转译[25]，其本质是一种描述事物发展的工具，也
+是一个强调工作、交互和变化的“动态网络”过程。
+将ANT引入海岛乡村空间演化问题研究中，一方面海岛乡村空间演化是人类行动者
+和非人类行动者共同作用的结果。海岛乡村空间演化不仅涉及村民、政府、旅游者、外来
+经营者等人类行动者的驱动，还涉及资本、土地、房屋、景观、文化、自然环境等非人类行
+动者的响应与变化，其中非人类行动者通常在这一过程中扮演重要角色，甚至影响海岛乡
+村空间演化的方向与程度。另一方面，海岛乡村空间演化是多阶段的，涉及新行动者的加
+入与旧行动者的退出，故而必然形成多元多联的关系网络，这也使得海岛乡村空间演化过
+程中行动者间构建的关系网络充斥着不确定性与不稳定性，而ANT通常应用于相对不稳
+定且充满争议与分歧的网络情境中[22]，这恰好为海岛乡村空间演化过程与路径分析提供一
+个有效的分析框架。再者，海岛乡村空间演化实质是乡村发展与转型的缩影，这一过程不
+仅仅是简单的空间格局演变现象，还涉及海岛乡村内部经济、社会、文化、物质、空间等要
+素的重构与变迁。ANT中的“转译过程”通过对异质行动者的角色定位、相互作用的可能
+性和可操作的范围进行协商和界定[2-3]，有助于刻画海岛乡村空间演化过程中人、物质、空
+间、权力等异质性元素及其相互关系所形成的利益联盟和复杂网络。 
+3    结果与分析
+鉴于2016年《平潭国际旅游岛建设方案》的批复是引导案例区乡村空间演化的重要事
+件，本文以此为节点将北港村的行动者网络建构划分为2个阶段：①物质性空间主导重构
+阶段（2006—2015年），北港村从一个贫困落后的传统小渔村和青壮年外出打工的“空壳村”
+转变为基础建设日益完善、人居环境持续改善、乡村发展水平不断提升的旅游型美丽乡村；
+5期 王建英等：基于行动者网络理论的海岛乡村空间演化路径—以福建平潭国际旅游…… 1041
+ ① 政府网站（https://nynct.fujian.gov.cn/ztzl/xxny/202003/t20200309_5212387.htm） [2023-10-11]
+ ② 主流媒体（https://www.sohu.com/a/280575883_120047106） [2023-10-11]
+ ③ 小红书（http://xhslink.com/a/6GpU5iv8H3Qbb） [2023-12-15]
+ ④ 抖音（https://v.douyin.com/RCqkvSLmF_E/） [2023-10-11]
+--- PAGE 4 ---
+②非物质性空间主导重构阶段（2016年至今），北港村基于“旅游+文创”和“现代化+原生
+态”的发展基调，打造集文化创作、民宿体验、休闲旅游于一体的特色主题村。 
+3.1    物质性空间主导重构阶段的行动者网络构建 
+3.1.1    行动者构成
+ANT强调从对等性视角将通过制造差别而改变事物状态的人类和非人类要素纳入统
+一的行动解释框架。依据行动者网络要素识别准则和访谈资料，直接和间接参与北港村发
+展的人类和非人类要素均为其行动者网络的行动主体，共同构成了北港村物质性空间主
+导重构阶段的行动者网络。其中，人类行动者主要包括地方政府、村支两委、村民等，非人
+类行动者主要包括房屋、土地、自然资源、人文资源等。 
+3.1.2    行动者网络转译
+为实现各行动者的利益和目标，需对行动者网络进行转译来排除各类问题或障碍。
+1）问题呈现与利益赋予。行动者网络中，各异质行动者在实现各自利益和目标过程中
+会面临不同的问题或障碍。地方政府面临乡村空心化、产业单一化、环境污损化等现实难
+题，希望通过美丽乡村建设对乡村环境品质、土地利用、产业发展等进行扶持、引导和规
+划，实现统筹城乡发展；村支两委面对村庄青壮年劳动力外流、基础设施不完善等问题，希
+望加大基础设施建设，缓解年轻人外流趋势，为村庄发展注入活力；村民主要面临收入水
+平低、人居环境差等问题，希望改善生活环境，提升生活品质；房屋、自然资源与人文资源
+等非人类行动者则需改变利用效率不高、价值实现低的现状，如保护与盘活石头厝、挖掘
+和传承海岛文化与民俗风情等。在转译发生前，每个行动者的问题都将被集聚到OPP，并
+试图通过解决问题获得可预期的、可触及的利益和目标。解决上述问题并实现各行动者的
+权益和目标，最终导向可归结为美丽乡村建设。此阶段，地方政府为关键行动者，其与其
+他行动者聚焦于“改善人居环境、优化产业结构、提高经济收入”这一共同的OPP（图1）。
+  
+OPP
+改善人居环境
+优化产业结构
+提高经济收入
+地方政府
+乡村空心化
+产业单一化
+环境污损化
+扶持引导规划
+统筹城乡发展
+村支两委
+青壮年劳动力外流
+基础设施不完善
+优化村庄环境
+完善基础设施
+村民
+收入水平低
+人居环境差
+改善生活环境
+提升生活品质
+房屋、土地
+房屋空置/年久失修
+土地利用效率低
+保护与盘活利用
+挖掘自身开发潜力
+自然资源
+原生态海岛风光
+未被充分利用
+利用价值提升
+人文资源
+民俗风情/海岛
+文化挖掘不足
+挖掘和传承民俗
+风情/海岛文化
+主体
+问题/
+障碍
+目标
+ 
+图1    北港村物质性空间主导重构阶段的行动者与OPP（强制通行点）
+Fig.1    Actors and OPP in reconstruction stage dominated by physical space in Beigang
+ 
+2）征召与动员。在行动者网络中，有关行动主体通过征召的方式赋予各异质行动者相
+互都能接受的任务，动员则意味着关键行动者将成为整个行动者网络的代言人，以确保行
+动者网络的正常运转。在地方政府的积极作用下，各异质行动者在网络构建过程中采取了
+多样的征召与动员方式。具体形式主要包括：①行政征召与动员。各级政府对美丽乡村建
+设注入大量倾斜性发展政策和资金，征召北港村实施人居环境改造、道路建设、空间提质升
+级等项目，为旅游发展奠定物质基础。②部门帮扶征召与动员。区台工部、文体局、旅发委、
+旅游发展集团以及流水镇政府等成立美丽乡村建设管委会，扶持、引导和规划北港村的发
+展。③市场征召与动员。地方电视台、央视等权威媒体对北港村的取景拍摄，极大地提升了
+北港村的知名度。④资源环境征召与动员。北港村原生态的海岛风光和颇具特色的海岛人
+1042 地　　理　　科　　学 45卷
+--- PAGE 5 ---
+文资源，特别是独具地方风情的石头厝，吸引旅游者、文创团队等前来探访。通过以上征召
+与动员，异质行动者之间建立了稳定的网络关系，使北港村实现向美丽乡村的转变。
+3）异议。由于各异质行动者的利益与目标取向存在差异，行动者网络内部存在异议在
+所难免。一方面，村中绝大多数青壮年外出务工，老人妇孺留守村中，留守人员参与议事
+的能力和积极性不足，导致村民在乡村发展决策中的话语权相对较弱；另一方面，北港村
+产业以传统种植业、捕捞业与海上运输业为主，区域经济功能因产业单一而韧性较差，并
+且面临社会文化功能退化、生态资源功能未被开发等问题，加之同质性较高的乡村数量不
+断增加，北港村面临同质竞争的问题日渐突出。 
+3.1.3    行动者网络构建
+行动者网络构建过程中，北港村各行
+动者围绕“改善人居环境、优化产业结构、
+提高经济收入”这一OPP，参与村内基础
+设施建设、人居环境提质升级等项目，不
+断重新定位各自角色和调整各自利益诉求。
+地方政府成为行动者网络的代言人，为实
+现各异质行动者的利益诉求对其进行利益
+赋予与角色定位，以及通过行政、部门帮
+扶、市场、资源环境等多种形式的征召与
+动员吸引其他行动者加入行动者网络，并
+排除异议。在此过程中，各行动者相互作
+用，形成一个相对稳定和互相嵌入的异质
+行动者利益联盟和复杂网络（图2）。该网
+络并非一成不变，而是随着政策、资本、社
+会、组织的变化发生动态调整，表现为异
+质行动者进入、退出、意图转变，以及网络
+关系结构的变化。 
+3.2    非物质性空间主导重构阶段的行动
+者网络转换 
+3.2.1    行动者的变化
+2016年，北港村借力平潭“实验区+自贸试验区+国际旅游岛”的政策叠加优势，灵活
+采用“政府引领+市场主导+示范带动+两岸融合+全员参与”的多元发展运营模式，打造集
+文化创作、民宿体验、休闲旅游于一体的特色主题村。与此同时，随着美丽乡村建设和乡
+村振兴战略的持续推进，行动者网络的目标意图也随之发生转变，进而引起新行动者的进
+入与旧行动者的退出或角色转变。通过梳理访谈资料发现，参与本阶段行动者网络构建的
+人类行动者主要包括区政府、区管委会、区旅游与文化体育局、村支两委、村民、乡村能人、
+外来经营者、游客、公司、北港游客接待中心、民宿、渔家乐、文创工坊等；非人类行动者主
+要包括土地、资金、政策、石头厝、停车场、官方媒体、熟人网络、旅行社、海岸潮涌、蓝眼
+泪、花海梯田、海洋文化等。 
+3.2.2    行动者网络再转译
+1）新的问题呈现与利益赋予。随着行动者及其角色的转变，北港村发展面临的问题或
+障碍也随之发生改变。人类行动者方面，地方政府面临乡村产业韧性差、发展动力不足等
+问题，期望通过文旅融合助力乡村振兴；村支两委期望通过北港村建设与乡村旅游发展，
+将其打造为特色主题村与乡村振兴的先行模板；区旅游公司与北港旅游管理服务有限公
+ 
+地方政府
+自然
+资源
+政策支持
+资金扶持
+项目推动
+规划引导
+目标 目标
+改善人居环境 优化产业结构 提高经济收入
+目标
+人文
+资源
+村支两委
+村民
+土地房屋游客 媒体
+道路等基础设施
+人类行动者 非人类行动者 关键行动者
+征召与动员 异议
+ 
+图2    北港村物质性空间主导重构
+阶段的行动者网络
+Fig.2    Actors network in reconstruction stage dominated by
+physical space in Beigang
+5期 王建英等：基于行动者网络理论的海岛乡村空间演化路径—以福建平潭国际旅游…… 1043
+--- PAGE 6 ---
+司期望培养与储备专业人才，以便提供本土特色服务；村民虽主动参与乡村旅游建设，但
+存在话语权不足、空间被剥夺等问题，希望加大信息公开力度与共享旅游红利；乡村能人、
+文创团队等精英群体在最初为北港村引入新业态、开发新项目的过程中，面临压力大、难
+度高等难题；外来经营者期望在提升竞争力的同时，协调好与房屋所有者以及其他经营者
+的关系，营造良好经营环境；游客期望获得独特的海岛乡村休闲旅游体验；民宿、渔家乐等
+同质竞争严重、空窗期长、综合管理机制不健全，需优化管理和培育精品，打造特色海岛乡
+村休闲旅游品牌。非人类行动者方面，石头厝的原真性在旅游发展过程中遭到破坏；传统
+文化受外来文化冲击逐渐式微，需强化耕海文化、民俗文化、海坛文化等文化的传承、保
+护与开发；自然资源面临模式化开发、粗放式经营、配套设施相对欠缺等问题，需合理规划
+与完善配套服务设施。按照乡村振兴与建设美丽乡村战略实施总体要求、平潭国际旅游岛
+建设方案以及北港村发展定位，“打造北港特色主题村和乡村振兴先行模板”成为非物质
+性空间主导重构阶段行动者网络的OPP（图3）。
+  
+文旅融
+合, 实现
+乡村振
+兴
+打造美
+丽北港
+与乡村
+振兴先
+行模板
+地方
+政府
+OPP
+打造北港特色主
+题村和乡村振兴
+先行模板
+产业韧
+性差
+发展动
+力不足
+乡村
+发展
+需要
+转型
+专业人才欠缺
+专业服务较低
+产品单一
+空间被
+剥夺
+话语权
+不足
+压力大
+困难多
+商业竞争
+激烈
+房租纠纷
+缺乏可
+替代的
+旅游地
+同质化严重
+管理机制
+不健全
+原真受
+威胁性
+开发不
+合理
+外来干
+扰导致
+逐渐式
+微
+模式化
+开发
+缺少配
+套设施
+问题/
+障碍
+村支
+两委 公司 村民 乡村能人
+文创团队
+外来经
+营者 游客 民宿
+渔家乐 石头厝 传统
+文化
+自然
+资源
+主 体
+培养和储
+备专业人
+才, 提供
+本土特色
+服务
+加大信息
+公开力
+度, 共享
+旅游红利
+提升竞争
+力, 寻找盈
+利机会, 积
+极协调与村
+民的关系
+获得独
+特的海
+岛乡村
+休闲旅
+游体验
+优化管
+理, 打
+造品
+牌, 培
+育精品
+在保护
+中开
+发, 在
+开发中
+保护
+加强传
+统文化
+保护与
+开发
+重现特
+色景
+观, 完
+善配套
+设施
+引入新
+业态、
+开发新
+项目
+目 标
+ 
+图3    北港村非物质性空间主导重构阶段的行动者与OPP（强制通行点）
+Fig.3    Actors and OPP in reconstruction stage dominated by non-physical space in Beigang
+ 
+2）新的征召与动员。作为关键行动者的乡村能人、外来经营者、游客、区旅游公司上
+升为整个新行动者网络的代言人，新的征召与动员形式如下：①行政再征召与动员。
+2016年，北港村抓住平潭国际旅游岛建设契机，相继制定各类管理办法和空间规划，为旅
+游业、民宿业发展提供严格的法律保障，以及为越来越多的台湾团队和返乡青年加入民宿
+经营提供政策支持。②市场和景观再征召与动员。2017年，国内亲子互动真人秀《爸爸去
+哪儿5》的播出进一步提升了北港村的知名度，此后北港村不断优化乡村旅游环境，丰富旅
+游文化体验，提升旅游品质，吸引众多游客进村观光与休闲体验，特别通过推出“蓝眼泪”
+“彩色城堡”“石头会唱歌”“风中旅游”等旅游产品，以及借力自媒体平台推动北港村旅游
+快速发展。③村支两委成员与乡村能人带头再征召与动员。自2016年台湾青年林智远在
+北港村创办第1家民宿以来，村书记陈松柏为转变村民观念，主动成为村民与台湾创业团
+队之间的沟通者和协调者，村内党员干部自发成立党员志愿先锋队，积极发挥党建引领示
+范作用，并通过各类措施吸引年轻人回乡创业。④石头厝与资源再征召与动员。村内闲置
+石头厝按一定的市场价格“打包”出租给区旅游公司，这不仅解决了开发财力不足的问题，
+还有效地规范了市场秩序。⑤部门帮扶再征召与动员。当地政府依托行政手段，协调派出
+所、综合执法局、市场监督管理局和旅游执法大队，配合区旅游公司与村支两委共同推动
+民宿立面、消防安全、卫生安全等治理。
+3）新的异议。在非物质性空间主导重构阶段，异质行动者及其利益与目标发生变化，
+1044 地　　理　　科　　学 45卷
+--- PAGE 7 ---
+在角色定位和预期利益与目标变动中产生新的异议。具体表现为：游客旅游活动对村庄环
+境和村民日常生活产生干扰（“商家和游客增多，使一些用水、用电都非常紧张，时常限水、
+限电”，村民）；经营者之间存在经济活动冲突（“我们旁边那个音乐广场或者附近很多酒吧、
+餐吧，他们唱歌唱到深夜，给我们生活造成很大影响……”，咖啡馆经营者）；经营者之间、
+经营者与村民之间存在经济利益纠纷（“村民现在看我们这边做起来之后，那些房东他们
+肯定就会涨房租，肯定会有一点心理不平衡的，另一个就是我想把这个房子收回来自己做，
+有时候就是不跟你讲道理、讲法律的”，民宿经营者）；村民与村支两委、当地政府之间缺乏
+沟通协调机制（“现在商家之间有好多问题基本上都是自己协商……，吵起来、打起来都有
+可能”，外来经营者）；部分民宿、渔家乐等业主进行违建扩建，占据公共空间，破坏村庄整
+体面容面貌（“你看他家那里就是一个小小的门口，往外搭个棚连着那个路口一起都占起
+来，在那个路口摆摊做生意”，餐饮经营者）。为此，区政府与村支两委通过党建引领整治
+村庄整体环境、规范游客旅游行为、成立志工服务队和商家协会、制定村规民约与商家章
+程、强化管理宣传、构建沟通协调渠道等方式排除上述异议。 
+3.2.3    行动者网络再构建
+行动者网络再转译过程中，各异质行动者围绕“打造北港特色主题村和乡村振兴先行
+模板”这一OPP参与北港村运营。伴随着行动者主体问题的转变，新的异质行动者也随之
+被征召与动员，异议得以排除，形成以乡村能人、外来经营者、游客、区旅游公司为关键行
+动者的利益联盟和复杂网络（图4）。在新的行动者网络中，地方政府、村支两委、村民、石
+头厝、基础设施等异质行动者围绕“打造北港特色主题村和乡村振兴先行模板”的共同目
+标实现了角色转变。人类行动者层面，政府的主导与决策作用逐渐减弱，转而提供更多的
+规划、支持与监督服务；村支两委由上级政府的辅助者与命令的执行者，转变为乡村发展
+的决策者以及村民、外来经营者、公司等关系的协调者；村民在行动者网络中的作用得到
+有效提升，特别是在乡村能人与村支两委的引领下营造优质旅游环境与积极参与旅游经
+营；游客由前期的参与者转变为旅游发展和乡村建设的参与者与推动者；乡村能人是民宿
+业发展的引入者与带领村民发展致富的带头人；外来经营者在旅游发展过程中扮演参与
+者与推动者的角色；旅游专业公司充当了旅游发展的决策者、建设者、引领者以及为村民
+和游客提供服务的支持者。非人类行动者也被赋予新的含义，石头厝由日常生活空间转变
+为经营消费空间；基础设施由海岛乡村发展的拦路虎转变为加速器；政策、规划、工程、计
+划由最初规范村民行为与保护海岛乡村资源的控制器转变为引导旅游业发展与海岛乡村
+建设的调节器；自然资源由最初的原生空间转变为服务乡村旅游的消费空间；人文资源由
+充满海岛乡村特色的传统符号活化为现在的旅游吸引物；耕地则由传统农业种植空间转
+变为观光娱乐与休闲体验的空间。 
+3.3    行动者网络转换下北港村空间演化路径
+在北港村行动者网络转换过程中，不同阶段的关键行动者、利益目标、产业结构与运
+营模式发生了转变，由此导致相应的演化路径也发生了转变（图5）。物质性空间主导重构
+阶段，北港村产业以传统种植业、捕捞业、运输业等单一业态为主，属农户自主经营模式，
+存在产业结构单一、经济发展落后、基础建设不足、社会文化功能退化等问题。2009年7
+月福州（平潭）综合实验区的建立引导乡村空间开始逐步演化。与此同时，北港村依托美丽
+乡村建设吸引了大量建设资金，用于乡村道路、污水处理等基础设施建设以及开展房屋立
+面改造、绿地景观营造等人居环境的整治，一定程度上破解了基础设施建设薄弱、村民生
+活质量不高以及资源价值转换效率低等问题。该阶段，北港村内源性发展动力不足，外源
+性地方政府凭借行政权威与资源优势进入行动者网络，成为北港村建设的主导者，乡村空
+间演化路径主要表现为“自上而下的行政主导推动”。非物质性空间主导重构阶段，在平
+5期 王建英等：基于行动者网络理论的海岛乡村空间演化路径—以福建平潭国际旅游…… 1045
+--- PAGE 8 ---
+潭“实验区+自贸试验区+国际旅游岛”的政策叠加、美丽乡村建设与乡村振兴的多重机遇
+下，乡村能人、外来经营者、游客、区旅游公司成为关键行动者，其通过行政干预、市场激
+励、宣传教育等途径实现各类行动者的征召与动员，优化乡村旅游环境，强化乡村空间治
+理，形成旅游业、民宿业、文创业、观光业等融合业态。在此背景下，北港村不仅成为消费
+者集聚的空间，还成为消费者和村民及其他异质行动者共同构建的复杂网络空间。异质行
+动者的不同意图及行为方式在重塑网络的同时，也实现了北港村生产、生活、生态与文化
+空间的全面演化，满足了北港村运营过程中在经济、社会、环境、文化等方面的需求。该阶
+段，北港村本土行动者与外来行动者、人类行动者与非人类行动者之间竞争博弈，乡村空
+ 
+派出所
+综合执法局
+市场监督局
+旅游执法
+大队 北港旅游
+管理服务
+有限公司
+空间治理
+物业
+管理
+社区
+服务
+丰富北港旅游文化体验 打造北港特色主题村 打造北港振兴先行模板 优化北港旅游环境 提升北港旅游品质
+目标 目标 目标 目标 目标
+地方政府
+政策支持
+资金扶持
+项目推动
+规划引导
+党群服务中心
+党建工作
+土地房屋
+务工人员
+基础设施
+宣传媒体
+游客服务中心
+志愿先锋队
+村支两委 村民 乡村能人 返乡人员
+文创团队
+民宿团队
+游客
+区旅游股份
+有限公司
+文艺青年、
+名人名家、
+摄影协会等
+石头厝
+民宿、渔家乐、
+文创工坊、
+手工作坊等
+科研人员
+外来经营者
+自然
+资源
+人文
+资源
+文创
+产品
+手工
+艺品
+人类行动者 非人类行动者 关键行动者 征召与动员 异议
+ 
+图4    北港村非物质性空间主导重构阶段的行动者网络
+Fig.4    Actors network in reconstruction stage dominated by non-physical space in Beigang
+ 
+物质性空间
+主导重构阶段
+非物质性空间
+主导重构阶段
+关键行动者
+地方政府
+转变
+乡村能人、外来经营
+者、游客和区旅游股
+份有限公司
+利益目标
+改善人居环境、优化产
+业结构、提高经济收入
+转变
+打造北港特色主题村
+和乡村振兴先行模板
+产业结构
+传统种植业、捕捞业、
+运输业等单一业态
+转变
+旅游业、民宿业、文
+创业、观光业等融合
+业态
+运营模式
+农户自主经营
+转变
+政府引领+市场主导+
+示范带动+两岸融合+
+全员参与
+形 成
+形 成
+演化路径
+自上而下的行政主导
+推动
+转变
+上下互动的多元主体
+参与
+ 
+图5    行动者网络转换下的北港村空间演化路径
+Fig.5    Spatial evolution path of Beigang under transformation of actors network
+1046 地　　理　　科　　学 45卷
+--- PAGE 9 ---
+间演化路径主要表现为“上下互动的多元主体参与”。 
+4    结论与讨论 
+4.1    结论
+1）随着政策、资本、精英群体等要素的持续涌入，北港村大致历经物质性空间主导重
+构和非物质性空间主导重构2个阶段，并逐渐形成一个由人类行动者与非人类行动者、本
+地行动者与外来行动者共同缔结的行动者网络。在此过程中，关键行动者、强制通行点
+（OPP）、乡村产业结构、资源开发方式等不断演绎与更新，最终形成一条以“海岛休闲、文
+旅融合”为主线的海岛乡村振兴之路。
+2）在北港村物质性空间主导重构和非物质性空间主导重构过程中，各级政府、旅游开
+发与服务载体等人类行动者以及花海梯田、网络媒体等非人类行动者的加入使得乡村网
+络的问题呈现、利益赋予、征召、动员和异议出现再转译，并且异质行动者的角色也发生
+转变。北港村行动者网络核心要素的转变既是异质行动者对乡村内外环境变迁的被动应
+对，也是自组织适应的主动调适。
+3）在物质性空间主导重构阶段，北港村内源性发展动力不足，外源性地方政府凭借行
+政权力主导着行动者网络的构建与转换，而在非物质性空间主导重构阶段，北港村不仅成
+为消费者集聚的空间，还成为消费者和村民及其他异质行动者共同构建的复杂网络空间，
+这使得北港村空间演化路径实现了从“自上而下的行政主导推动”向“上下互动的多元主
+体参与”的转变。 
+4.2    讨论
+在美丽乡村建设和乡村振兴战略背景下，探讨海岛乡村空间演化可延展现有乡村地
+理学的思路范式。本文以行动者网络理论为分析工具，将自然–人文要素、人类–非人类行
+动者纳入海岛乡村空间演化路径分析框架，通过行动者构成识别、行动者网络构建与转换
+以及异议排除，分析各异质行动者的竞争博弈、利益联盟与复杂网络关系，以此探究典型
+海岛乡村的空间重构过程与演化路径，可为探索海岛乡村空间可持续演化提供新视角。然
+而，海岛乡村空间演化是一个涉及多主体参与、多发展阶段与多重网络关系的复杂动态过
+程，极易受到地理区位、资源禀赋、社会经济、历史文化以及人类主体与非人类主体等多
+重要素的影响。虽然本文为探索海岛乡村空间变迁提供了样本，但不同地域、不同类型与
+不同发展阶段乡村的组织结构迥异，多元主体形塑的稳定利益共同体和构建的空间组织
+结构各具千秋，这使得参与乡村空间演化的行动者构成、行动者网络转译过程、行动者利
+益联盟与复杂网络关系有所不同，各异质行动者呈现出的问题或障碍以及网络运作结果
+也不尽相同，因而仅以北港村为例无法避免单一案例“散点论述”所造成的研究局限。为
+此，后续还需基于多元化案例的理论与实证研究，才能更全面且深刻地揭示中国海岛乡村
+的空间演化机理。
+参考文献（References）： 
+ 张小林. 乡村概念辨析[J]. 地理学报, 1998, 53(4): 365-371. [Zhang Xiaolin. On discrimination of rural definitions.
+Acta Geographica Sinica, 1998, 53(4): 365-371.]
+[1]
+ 程叶青, 王婷, 黄政, 等. 基于行动者网络视角的乡村转型发展机制与优化路径——以海南中部山区大边村为例[J]. 经
+济地理, 2022, 42(4): 34-43. [Cheng Yeqing, Wang Ting, Huang Zheng et al. Rural transformation development mech-
+anism and rural revitalization path from the perspective of actor-network: A case study of Dabian Village in the central
+mountainous area of Hainan Province. Economic Geography, 2022, 42(4): 34-43.]
+[2]
+ 谭华云, 周国华. 基于行动者网络理论的乡村绅士化演化过程与机制解析——以广西巴马盘阳河流域为例[J]. 地理学
+报, 2022, 77(4): 869-887. [Tan Huayun, Zhou Guohua. Evolution process and mechanism of rural gentrification based
+[3]
+5期 王建英等：基于行动者网络理论的海岛乡村空间演化路径—以福建平潭国际旅游…… 1047
+--- PAGE 10 ---
+on actor-network theory: A case study of Panyang River Basin of Bama County, Guangxi. Acta Geographica Sinica,
+2022, 77(4): 869-887.]
+ Wang J Y, Sun Q, Zou L L. Spatial-temporal evolution and driving mechanism of rural production-living-ecological
+space in Pingtan islands, China[J]. Habitat International, 2023, 137: 102833.
+[4]
+ 杨蓉, 朱竑. 全球−地方动态下的旅游在地化: 模式与启示[J]. 旅游学刊, 2023, 38(4): 1-4. [Yang Rong, Zhu Hong. Loc-
+alization of tourism under global-local dynamics: Mode and enlightenment. Tourism Tribune, 2023, 38(4): 1-4.]
+[5]
+ 亨利·列斐伏尔. 空间的生产[M]. 刘怀玉, 等译. 北京: 商务印书馆, 2021. [Lefebvre H. The production of space. Trans-
+lated by Liu Huaiyu et al. Beijing: Commercial Press, 2021.]
+[6]
+ Cao W T, Li R, Chi X L et al. Island urbanization and its ecological consequences: A case study in the Zhoushan Island,
+east China[J]. Ecological Indicators, 2017, 76: 1-14.
+[7]
+ 袁超, 陈品宇, 孔翔, 等. 行动者网络理论与人文地理学的交互关系研究——重构、争辩与反思[J]. 地理研究, 2021,
+40(2): 583-596. [Yuan Chao, Chen Pinyu, Kong Xiang et al. Research on the interaction between actor-network theory
+and Human Geography: Reconstruction, debate and reflection. Geographical Research, 2021, 40(2): 583-596.]
+[8]
+ 刘彦随. 中国新时代城乡融合与乡村振兴[J]. 地理学报, 2018, 73(4): 637-650. [Liu Yansui. Research on the urban-rur-
+al integration and rural revitalization in the new era in China. Acta Geographica Sinica, 2018, 73(4): 637-650.]
+[9]
+ 龙花楼, 屠爽爽. 论乡村重构[J]. 地理学报, 2017, 72(4): 563-576. [Long Hualou, Tu Shuangshuang. Rural restructur-
+ing: Theory, approach and research prospect. Acta Geographica Sinica, 2017, 72(4): 563-576.]
+[10]
+ Murray Mas I, Yrigoy Cadena I, Blázquez Salom M. The role of crises in the production, destruction and restructuring
+of tourist spaces. The case of the Balearic Islands[J]. Investigaciones Turísticas, 2017(13): 1-29.
+[11]
+ 羊大方, 李伟芳, 马仁锋, 等. 基于滩涂围垦的海岛城市时空扩张特征研究——以舟山本岛为例[J]. 海洋学研究, 2017,
+35(2): 61-73. [Yang Dafang, Li Weifang, Ma Renfeng et al. Dynamic analysis of urban spatial and temporal expansion
+of island city: A case study of Zhoushan Island. Journal of Marine Sciences, 2017, 35(2): 61-73.]
+[12]
+ Ancog R, Ruzol C. Urbanization adjacent to a wetland of international importance: The case of Olango Island Wildlife
+Sanctuary, Metro Cebu, Philippines[J]. Habitat International, 2015, 49: 325-332.
+[13]
+ Kurniawan F, Adrianto L, Bengen D G et al. The social-ecological status of small islands: An evaluation of island tour-
+ism destination management in Indonesia[J]. Tourism Management Perspectives, 2019, 31: 136-144.
+[14]
+ Rastegar R. Tourism development and conservation, do local resident attitudes matter?[J]. International Journal of Tour-
+ism Sciences, 2019, 19(3): 181-191.
+[15]
+ Nawijn J, Mitas O. Resident attitudes to tourism and their effect on subjective well-being[J]. Journal of Travel Research,
+2012, 51(5): 531-541.
+[16]
+ Ribeiro M A, Pinto P, Silva J A et al. Residents’ attitudes and the adoption of pro-tourism behaviours: The case of de-
+veloping island countries[J]. Tourism Management, 2017, 61: 523-537.
+[17]
+ Chen H X, Chen C, Zhang Z L et al. Changes of the spatial and temporal characteristics of land-use landscape patterns
+using multi-temporal landsat satellite data: A case study of Zhoushan Island, China[J]. Ocean & Coastal Management,
+2021, 213: 105842.
+[18]
+ 王勇, 朱雅琴. 行动者网络视角下江南水乡古镇空间演化路径——以周庄古镇为例[J]. 人文地理, 2020, 35(6): 76-84.
+[Wang Yong, Zhu Yaqin. The spatial evolution path of ancient water towns in southern Yangtze River based on the act-
+or-network perspective: A case study of Zhouzhuang ancient town. Human Geography, 2020, 35(6): 76-84.]
+[19]
+ 王伟, 乔家君, 程遂营, 等. 基于行动者网络理论的重渡旅游专业村集聚演化机制[J]. 人文地理, 2023, 38(2): 155-
+163+180. [Wang Wei, Qiao Jiajun, Cheng Suiying et al. An analysis of the evolution mechanism of Chongdu tourism
+village cluster based on the theory of actor network. Human Geography, 2023, 38(2): 155-163+180.]
+[20]
+ 张志明, 陈海鹰, 戴健驰, 等. 乡村旅游地生计路径演化过程与机理分析——以海口龙鳞村为例[J]. 旅游学刊, 2023,
+38(7): 97-112. [Zhang Zhiming, Chen Haiying, Dai Jianchi et al. Rural tourism destinations’ livelihood path evolution
+and its mechanism: A case study of Longlin Village, Haikou. Tourism Tribune, 2023, 38(7): 97-112.]
+[21]
+ 储德平, 黄成昆. 旅游发展背景下乡村自我绅士化的过程与机制——以陕西袁家村为例[J]. 地理研究, 2023, 42(7):
+1856-1873. [Chu Deping, Huang Chengkun. The process and mechanism of rural self-gentrification amidst tourism de-
+velopment: A case study of Yuanjia Village, Shaanxi Province, China. Geographical Research, 2023, 42(7): 1856-1873.]
+[22]
+ 杨忍. 珠三角地区典型淘宝村重构过程及其内在逻辑机制[J]. 地理学报, 2021, 76(12): 3076-3089. [Yang Ren. The
+actor-network perspective on the reconstruction process and internal mechanism of typical Taobao villages in the Pearl
+River Delta region. Acta Geographica Sinica, 2021, 76(12): 3076-3089.]
+[23]
+ 艾少伟, 苗长虹. 从“地方空间”“流动空间”到“行动者网络空间”: ANT视角[J]. 人文地理, 2010, 25(2): 43-49. [Ai Sh-
+aowei, Miao Changhong. “Space of places”, “space of flows” and “space of actor- networks”: From the perspective of
+ANT. Human Geography, 2010, 25(2): 43-49.]
+[24]
+ 杨忍, 徐茜, 周敬东, 等. 基于行动者网络理论的逢简村传统村落空间转型机制解析[J]. 地理科学, 2018, 38(11): 1817-
+1827. [Yang Ren, Xu Qian, Zhou Jingdong et al. Mechanism of rural space transformation in Fengjian acient village of
+[25]
+1048 地　　理　　科　　学 45卷
+--- PAGE 11 ---
+Shunde District, Foshan based on the actor network. Scientia Geographica Sinica, 2018, 38(11): 1817-1827.]
+ 黄政, 张金萍, 胡元涛, 等. 行动者网络视角下农村产业融合过程与机制研究——以海口市施茶村为例[J]. 地理研究,
+2023, 42(10): 2759-2778. [Huang Zheng, Zhang Jinping, Hu Yuantao et al. The process and mechanism of rural indus-
+trial integration from the perspective of the actor network: A case study of Shicha Village in Haikou City. Geographical
+Research, 2023, 42(10): 2759-2778.]
+[26]
+ Latour B. Reassembling the social: An introduction to actor-network-theory[M]. New York: Oxford University Press, 2005.[27]
+ 刘宣, 王小依. 行动者网络理论在人文地理领域应用研究述评[J]. 地理科学进展, 2013, 32(7): 1139-1147. [Liu Xuan,
+Wang Xiaoyi. A review on the application of actor network theory to Human Geography. Progress in Geography, 2013,
+32(7): 1139-1147.]
+[28]
+Spatial evolution path of island village based on actor-network
+theory: A case study of Beigang in Pingtan International
+Tourism Island of Fujian, China
+Wang Jianying1，Sun Qi1,2，Zou Lilin3
+（1. College of Tourism, Huaqiao University, Quanzhou 362021, Fujian, China; 2. College of Public Adminis-
+tration, Nanjing Agricultural University, Nanjing 210095, Jiangsu, China; 3. School of Political Science and
+Public Administration, Huaqiao University, Quanzhou, 362021, Fujian, China）
+Abstract:   Island village is a special geographical unit that is most closely related to human
+activities in Marine and land systems. Exploring island village spatial evolution path is one of
+the important contents of rural geography. This article uses the actor-network theory and qualit-
+ative research methods such as in-depth interview and non-participatory observation to analyze
+the spatial evolution path of Beigang village on Pingtan International Tourism Island. The find-
+ings are as follows: 1) The spatial evolution of Beigang village is a process of multi-stage, multi-
+subject participation, mutual competition and negotiation. In this process, an actor network of
+human actors and non-human actors, local actors and external actors are gradually formed, and
+a road of rural revitalization on island is explored with “island leisure, cultural tourism integra-
+tion” as the main line. 2) In the process of the transformation of actor network in Beigang vil-
+lage, the participation of human actors and non-human actors causes problematization, interest
+endowment, recruitment, mobilization and dissidence of the rural network to be re-interpreted
+and roles changed, and the key actors are replaced from local governments to talented people,
+foreign operators, tourists and Pingtan Comprehensive Experimental Zone Tourism Co., LTD.
+The Obligatory Passage Point (OPP) has changed from “improving the living environment, op-
+timizing the industrial structure, and increasing economic income” to “building a Beigang char-
+acteristic theme village and a pioneering template for rural revitalization”. 3) Due to the inter-
+mingling of internal and external forces, the spatial evolution of Beigang village has undergone
+a transformation from “ top-down administrative driving”  to “ up-down interactive multi-sub-
+ject participation”, which reflects the passive response and active adaptation of rural heterogen-
+eous actors in the process of adapting to social changes. The actor-network theory is suitable for
+presenting the multi-subject participation process and revealing the path of the spatial evolution
+of island village, which is of great significance for promoting the sustainable development of is-
+land village and expanding the research paradigm of rural geography.
+Key words:  island village; rural space reconstruction; rural tourism destination; actor-network
+theory; Pintan Island
+5期 王建英等：基于行动者网络理论的海岛乡村空间演化路径—以福建平潭国际旅游…… 1049

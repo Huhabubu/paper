@@ -1,0 +1,1066 @@
+
+--- PAGE 1 ---
+地 理 学 报
+ACTA GEOGRAPHICA SINICA
+µÚ74¾íµÚ4˘Ú
+2019˜Œ4Ô´
+V ol.74, No.4
+April, 2019
+创意再生视域宁波老工业区绅士化动力机制
+马仁锋
+1
+，王腾飞
+1
+，张文忠
+2
+（1. 宁波大学地理与空间信息技术系，宁波 315211；2. 中国科学院地理科学与资源研究所，北京 100101）
+摘要：绅士化成为全球各类城市更新的核心现象 ，受地理、城市和规划等学科关注。以宁波和
+丰创意广场形成为例，运用问卷调查和访谈数据 ，借助扎根理论和结构方程模型分别构建和验
+证涵盖空间生产、推拉模式和创意集群孕育在内的老工业区绅士化动力机制。研究发现：① 生
+成和丰创意广场的创意修复过程呈现典型绅士化现象 ，且该现象具有高端写字楼主导的开放
+性和多元景观特征，入园企业私营化、生产要素创意化和生产关系外向化的业态特征以及年轻
+化、情怀化、创意化和服务化的群体特征 ；② 和丰绅士化现象是老工业区以推拉方式形成的社
+会空间置换 ，权力、资本和创意联结而成的再生产关系主导空间实践 ；建筑规划师和创意阶层
+主导的物质性空间营造和创意实践形成空间表征 ；空间表征推动创意集群内生发展和演化 ，催
+化了基于文化、理想和情感体验的文化共识和身份认同 ，升华为表征性空间，形成了“地方元素
+的感性认可 →资本要素和关系力量的理性约束 →地方元素、资本要素和关系力量协同 →关系
+力量的反馈”逻辑路径，激活了老工业区空间演化 。③ 和丰创意集群育成取决于文化氛围 、办
+公环境、经济区位、政府政策和社会关系网络等要素相互作用。
+关键词：老工业区绅士化；创意修复；空间的生产；创意集群；宁波
+DOI: 10.11821/dlxb201904012
+1 ÒýÑÔ
+20 世纪 60 年代以来 ，西方发达国家陆续进入后工业社会 。随着产业与社会结构变
+迁，许多老工业城市原有结构已不能适应发展 ，部分老工业区出现了功能性和结构性的
+衰落，成为城市政府和学界共同面对的难题
+[1]
+。20 世纪 90 年代文化创意产业兴起 ，创意
+产业园导向的老工业区改造顺势成为城市产业升级 、城市更新与营销最主要策略之一
+[2]
+。
+中国创意产业园密集分布于城市中心老工业区 ，既催化城市产业发展的创意与文化转
+向，通过文化与创意融合改造棕地提升城市 （老工业区） 活力和国际知名度
+[3]
+；又触动原
+本占据老工业区的工人阶层等受大量“边缘化新白领中产阶层”
+[4]
+集聚影响而遭遇了一场
+被迫迁移，促进城市社会空间演替，呈现典型绅士化现象
+[5]
+，如北京 798、上海 M50 和新
+天地、广州红砖厂、深圳南海意库及蛇口价值工厂等案例 。为凸显绅士化的发生地点和
+涉 及 人 群 的 新 内 涵， 基 于 已 有 绅 士 化 概 念 将 上 述 现 象 定 义 为“ 老 工 业 区 绅 士 化
+（gentrification in the old industrial districts ） ” 。西方传统绅士化是资本主义侵占私人资产
+（土地） 从而实现资本积累和阶层替换的过程。就中国而言，城市土地所有权归属国家或
+集体，并可能与土地使用权 、收益权和处分权等土地权利分属不同主体 ，这明显异于西
+收稿日期：2018-05-26; 修订日期：2019-01-28
+基金项目：国家自然科学基金项目 (41771174, 41301110, 41871170) [ Foundation: National Natural Science Foundation
+of China, No. 41771174, No. 41301110, No. 41871170]
+作者简介：马仁锋(1979-), 男, 湖北枣阳人, 博士, 副教授, 中国地理学会会员 (S110007266M), 主要从事创意经济地理
+学与城市演化、海洋经济与港城人居环境研究。Email: marfxf@ 126.com
+780-796 页
+--- PAGE 2 ---
+4 期 马仁锋 等：创意再生视域宁波老工业区绅士化动力机制
+方国家土地制度，造就了中国“政府主导型绅士化” 。可见，土地制度是解析中国老工业
+区绅士化的切入点之一 。但是，绅士化本质是社会空间的更替 ，因此城市政治经济学空
+间的生产理论可以更加深入地阐释中国老工业区绅士化现象。
+宁波市作为中国东南沿海港口城市 ，其工业发展随着国家地缘环境与经济社会变迁
+同样发生了变动。尤其是 21 世纪以来，宁波中心城区工业快速外迁至郊区 ，部分老工业
+用地被置换并转型为创意产业园 ，个别产业园规模达到国家级 ，并对周边环境 、生产、
+消费和居住等方面产生较大影响 ，成为除北京、上海和广州等一线城市以外的老工业区
+绅士化典型城市
+[6]
+。因此，聚焦园区土地权属 、规模和改造后效三方面典型性和代表性 ，
+选取宁波市中心城区的全国首批四个 “中国工业设计示范基地 ”——和丰创意广场形成
+为例，探索构建创意再生视域老工业区绅士化理论框架 ，并结合问卷访谈数据实证研究
+和验证 ，以期进一步丰富绅士化理论内涵并为提高城市老工业区创意修复 （creative
+fix） 政策着力点和规划协同性提供理论支撑。
+2 Ñ—¾¿¶ﬂÌ‹”˝Àí´Û¿ò…Ü
+2.1 相关研究动态
+城市老工业区绅士化相关研究 ，涉及地块产业升级 ——创意集群形成 、物质—资本
+空间转换——创意修复、社会演替——绅士化三组概念以及相关实证等。
+绅士化源于 20 世纪 60 年代初 Ruth Glass 对西方发达国家中产阶层对内城已衰败居住
+区喜爱及更新过程的描述 ，是一个中上阶层逐渐入侵 、占据贫困阶层居住空间的阶层转
+换及原衰落居住空间复兴过程
+[7]
+。历经 50 年发展，绅士化内涵越发复杂多样 ：① 发生地
+点在城市内部由原初的居住区蔓延至旅游区 、商业区、郊区、贫困区、学区、历史遗迹
+区等地点；区域层面更是呈现一种全球化现象
+[8]
+，南北半球间
+[9]
+、东西方间
+[10]
+、不同国家
+[11]
+和同一国家不同城市
+[12]
+都有绅士化现象 ，发展成一种全球城市发展 战略 （global urban
+strategy）
+[13]
+，甚至衍生出绅士化地理学 （geography of gentrification）
+[14]
+。② 涉及群体相应
+地由早期的新城市贵族、穷人和工人拓展到政府、公司、高收入/低收入阶层等，相关利
+益群体的共谋 、排挤和置换加剧了绅士化的复杂性
+[15]
+，如新近出现的贫困区绅士化
+（slum gentrification）
+[14]
+、传统市场绅士化 （traditional retail markets gentrification ）
+[16]
+、混
+合绅士化 （hybrid gentrification）
+[17]
+、学区绅士化 （jiaoyufication）
+[15]
+。有学者提出绅士化
+美学 （gentrification aesthetics） 来解释新艺术和文化活动占据历史建筑现象
+[18]
+，将后工业
+社会城市创意化再开发与绅士化联系起来 ，同时为绅士化内涵拓展又开辟一个新方向
+[19]
+，
+即老工业区绅士化 。可见，随着城市更新运动持续进行 ，绅士化内涵相应衍生和丰富 。
+西方学界研究绅士化机制的思路也呈现分野 ：① 以 Smith 为代表的政治经济学派 ，提出
+“租差”理论从供给视角对绅士化给予解释 ，强调绅士化住宅生产 、资本和供给的重要
+性
+[20]
+；② 以 Ley 为代表的需求学派从后工业社会城市转型视角强调绅士化群体的文化需
+求和消费
+[21]
+；③ 新中产阶层文化选择理论强调人类主观选择能力的重要性 ，也有学者从
+社会性别关系视角和技术革新视角进行分析
+[22]
+。需要指出的是 ，绅士化研究思路均根植
+于城市物质和社会空间重构过程 ，为老工业区绅士化理论框架建构提供基础 。中国学者
+研究绅士化 ，早期集中在西方绅士化概念和理论引介
+[23]
+，现今部分学者展开绅士化实证
+研究
+[24-25]
+和中西比较研究
+[26]
+。随着绅士化现象和国外研究与日俱增 ，国内学者又重新回顾
+西方绅士化内涵
+[27-29]
+，甚至基于中国语境修正西方理论
+[30]
+。当然个别学者基于 Smith 的租
+差论或 Bourdieu 的文化资本论系统研究国内学区绅士化
+[15]
+，并注意到城市老工业区正在
+781
+--- PAGE 3 ---
+地 理 学 报 74 卷
+发生由边缘化新白领阶层引起的绅士化现象，指出空间生产论对该现象解析的适用性
+[4]
+。
+创意修复 （creative fix） 源于 Harvey“空间修复 ” （spatial fix） 概念
+[31]
+。Sheppard 将
+哈维论空间修复归为 4 类：① 资本在不可阻挡的全球扩散背景下为解决国内过度积累问
+题而投资创造新的市场；② 利用土地市场引导机制对被认为阻碍资本积累的建成环境进
+行投资，实现建成环境高效性；③ 信息通信技术发展所导致的“时空压缩”可以缓解由
+于生产地点与消费地点分离而造成的 “资金过剩”时空障碍；④ 为了促进地方资本积累
+的企业家主义政府治理行为
+[32]
+。随着创意经济发展 ，资本积累扩散到城市棕地 ，Peck 提
+出创意修复概念并认为其转型期较长 、回报率较低可以暂时延缓后工业化危机 ，避免了
+对被废弃工业场地投资的风险 ，长周期论其生产力和盈利能力也类似于对教育和研究的
+投资效益
+[33]
+。Jessop 纠正哈维偏重资本逻辑和价值论的核心，提出了更全面的时空修复解
+释，超越了时间修复和空间修复的结合
+[34-35]
+。中国学者何深静基于空间修复和创意修复，提
+出创意时空修复框架解释上海老工业区改造的文化创意园发展
+[36]
+。实际上，老工业区创
+意转型是在资本 、权力和创意等要素推动下重构 ，并伴随城市工业地块及其周边街区的
+从业者、景观、经济活动、基础设施等的社会—空间重构，类似于西方艺术区绅士化
+[37-38]
+。
+20 世纪 90 年代以来，特定城市的创意产业集群现象得到学界高度关注
+[39-44]
+。创意集
+群是创意企业及其相关产业的企业 、机构为经济目的进行同地协作 ，通过创意链在地理
+邻近基础上形成的网络 ，甚至嵌入本地和非本地市场 ，形成创新优势和竞争优势
+[45]
+。创
+意产业顺势成为全球各城市政府争相布局和发展的业态之一 ，同时创意产业区位理论也
+引起学界研究热潮
+[46-51]
+。制度经济学派强调制度环境和文化层累对技术创新和产业集聚的
+作用，认为适当的制度厚度是影响创意资本和人才集聚和流动的核心因子 ，地方文化氛
+围和宜居环境对创意群体集聚和创造力发挥的作用
+[52]
+，例如 Glaeser 在 Florida 的“3T”准
+则基础上提出了 “3S”假说，强调环境对文化创意产业的影响
+[40]
+；关系经济地理学派强
+调全球地方知识网络对文化创意产业集聚的影响 ，认为知识流动性和产业关联是影响创
+意集群的重要因素，例如 Scott 将创意产业区位解释为全球化和本地劳动力市场与生产网
+络结合，并概念化为创意场域 （creative fields）
+[41]
+。部分学者认为城市的基础设施、高校
+和创意资本等成为创意集群的核心要素
+[42]
+。总之，创意产业作为一种行业宽泛的范畴 ，
+其区位具有多重指向性 。创意产业区位不仅具有 “资本空间”的集聚性，还因创意群体
+的文化和环境偏好又具有 “地方空间”的分异性
+[50]
+，同时，创意和知识的网络流动和创
+新又赋予社会网络性 ，即“关系空间”的累积性
+[51]
+。需要指出，城市老工业区创意转型
+吸引了大量创意企业群集 ，不仅园内员工归属发生演替 ，而且诱使地产商对周边土地再
+开发，建设高档封闭小区或商业楼宇，加速了老工业区绅士化进程。
+2.2 老工业区绅士化研究架构
+2.2.1 核心理论应用老工业区绅士化解析困境及反思 绅士化早期研究 ，Glass 等学者借
+助生态学理论将绅士化理解为新中产阶层对工人阶层的排斥和替代 ，并长期主导欧美绅
+士化研究 。与此不同 ，以 Smith 等为代表的政治经济学者强调资本和住宅供给在绅士化
+过程的关键作用，Smith 创造出作为“绅士化先决条件”的“租差” （rent gap） 概念，实
+现了较为准确地预估西方土地制度下某些街区土地市场是否可以被“绅士化” 。此后，租
+差论迅速成为全球绅士化研究中极具影响力和争议性的焦点 。但是，由于租差论过于强
+调资本作用而忽视对“人”的关注，受到 Ley 和 Butler 等后工业化文化学派的批评
+[22]
+。毫
+无疑问，租差论在全球新自由主义语境下以土地和住房市场为视角 ，对绅士化的产生仍
+具有广泛与非凡的经济解释力 。然而，该绅士化理论对于解析中国土地制度下老工业区
+绅士化现象仍面临一定的困境。
+782
+--- PAGE 4 ---
+4 期 马仁锋 等：创意再生视域宁波老工业区绅士化动力机制
+老工业区绅士化发生在城市废弃工业区 ，入驻群体主要是创意阶层。然而，Glass 与
+Smith 等的绅士化理论是针对居住区的解析，缺少基于“人”视角，导致其在老工业区绅
+士化现象解析时深度不够。因此老工业区绅士化理论架构需要考虑到创意集群育成机制。
+Smith 租差论解析中国老工业区绅士化现象存在局限性 。Smith 认为土地租差达到一
+定程度时就会发生绅士化现象 ，但是该论断对中国土地制度和城市政府实践要更加复
+杂：① 在分权化、市场化、全球化语境下中国 “政府企业化 ”转型和“城市增长联盟 ”
+崛起，以及金融资本主义席卷全球和新自由主义的管制环境 ，使中国老工业区创意转型
+出现与西方类似的资本逐利逻辑 ；② 政治管制转变与老工业区物质空间重构背景下 ，土
+地所有者、投资者和开发经营主体等通过扩大“资本化地租”以追求“超额利润” ，同样
+是中国老工业区绅士化的重要价值取向与主导动力 ，这是一定程度上肯定租差论适用解
+析中国老工业区绅士化现象的缘由 。但是，租差论解析中国老工业区绅士化具有明显缺
+点：首先，忽视了 “人”视角剖析 ，而这对于厘清老工业区创意群体集聚现象不可或
+缺；其次，中国城市政府政绩观浓厚 ，可能工业用地在并没有达到绅士化所要求的租差
+情况下就已经开始被改造 ；最后，由于中国土地政策特殊性 ，即使不考虑政府政绩观 ，
+Smith 租差论将低估或者忽视中国政府权力及其附属资本的强权性 。③ 后工业化文化学
+派过于强调创意群体的文化需求 ，忽视城市政府作为老工业区改造主导力量 ，尤其在中
+国土地制度下城市政府拥有绝对话语 ，更加突显了该学派解析老工业区绅士化的局限
+性。综上，为破解该困境应从城市政治经济学空间的生产视角解析中国老工业区绅士化
+现象的逻辑。
+2.2.2 老工业区绅士化的研究架构 老工业区绅士化本质是由权力、资本和创意共同主导
+的改造，以一种推拉模式促进城市空间再生产的过程 ：创意修复中心城区老工业区将新
+兴创意阶层拉进来 ，地产商在周边建设高档封闭小区带来房价上涨将原有居民推到城市
+边缘，从而加剧老工业区及周边街区社会演替形成
+[53-55]
+。即文化创意企业及其从业者等在
+创意修复后老工业区集聚触发了绅士化现象 。其中，中国特色土地制度下城市政府和
+国有资本主导了老工业区空间生产过程 ，并引导创意集群形成 ，最终内化为创意从业
+者的文化共识和身份认同 。基于此，构建涵盖老工业区创意空间生产和创意集群动力机
+制的两维一体老工业区绅士化理论解析框架
+（图1） 。
+城市老工业区绅士化不仅涉及物质空
+间更新 ，更深刻地导致社区人口结构 、邻
+里关系等社会空间重构 ，无疑 Lefebvre“空
+间的生产 ”成为解析老工业区绅士化过程
+的有效路径及内部逻辑的理论首选
+[4, 56]
+。空
+间及其 “总体性 ”概念三元组 ——空间实
+践 （spatial prac tice） 、 空 间 表 征
+（representations of space） 和 表 征 性 空 间
+（spaces of representation）
+[57- 59]
+， 之 于 城 市 老
+工 业 区 绅 士 化 而 言 遵 循 创 意 空 间 生 产 逻
+辑：基于创意时空修复理论框架
+[36]
+，在中国
+土地公有制下受到“租差”逻辑
+[30]
+、政绩观
+和土地财政危机等多重驱动 ，地方政府主
+导了老工业区创意修复的空间实践过程 ，
+图 1 城市老工业区绅士化关联概念逻辑框架
+Fig. 1 Theoretic framework of relevance concept of
+gentrification in urban old industrial districts
+783
+--- PAGE 5 ---
+地 理 学 报 74 卷
+并在规划师等科学家语境博弈下形成规划空间 ，共同为创意 （企业及从业者） 集群提供
+“创意空间”容器；创意群体个性和志趣的彰显丰富了创意实践空间，最终通过创意集群
+逐渐形成文化共识和身份认同 ，从而实现空间效率的提升 、产业升级和社会阶层演替 ，
+同时催生了权力、资本和创意阶层的链结路径 （图 1） 。综上，老工业区绅士化理论框架
+中空间生产是机制 、推拉是方式、三要素 （空间实践、空间表征和表征性空间） 是核心
+动力，鉴于中国老工业区空间生产的主导产业特殊性，创意集群育成动力机制是解析关键。
+3 °‚Àý˙ł‚¯¿ö”˝Ñ—¾¿•‰•¤
+3.1 和丰历史沿革
+和丰创意广场位于宁波市江东区，源于宁波近代工业萌芽时期建成的和丰纱厂。100
+多年来和丰纱厂经历了多重身份变迁
+[6]
+，产生了若干重要影响。若以国家政治背景为据可
+将和丰纱厂发展历程概括为：完全私营创业阶段、社会主义改造阶段、创意发展阶段
+[6]
+。和
+丰纱厂重要建筑是供董事会议事决策的 “议事厅” （即现今“小洋楼” ） 、供职工住宿的
+“和丰一百间头” （图 2） 。1998 年 6 月，随着宁波和丰纺织集团有限公司申请破产 ，原和
+丰纱厂厂房成为宁波规模最大民国老厂房 ，同时成为地方政府在土地危机和产业升级双
+重压力下亟待解决的城市问题。
+3.2 研究方法
+质性法注重对事物本质微观探析 ，虽深刻但难免受研究者主体意识影响 ；定量法注
+重对复杂事物精准刻画 ，虽科学严谨但常忽视现象背后历史文化 、情感和意识等隐性作
+用
+[60]
+。吴启焰等研究新白领中产阶层化时提出空间生产理论适宜绅士化现象解释
+[4]
+，并借
+助结构方程研究了学区绅士化现象
+[56]
+，为老工业区绅士化研究方法提供了借鉴 。鉴于探
+析创意修复视域老工业区绅士化动力机制 ，涵盖了老工业区创意空间的生产和创意集群
+育成二重机制 。前者借助访谈资料基于空间的生产理论解析老工业区创意空间生产过
+程，并揭示其空间累积和非累积特征 ；后者借鉴新兴产业分析范式从 “人”视角构建老
+工业区创意集群的驱动路径 。扎根理论作为一种经系统化的资料收集与分析而发掘理论
+的方法，适合老工业区创意集群育成假说构建 。基于该假说开发老工业区创意集群量表
+并设计问卷，运用结构方程模型处理问卷调查数据可检验该假说的确切性和有效性 。因
+此，该方法有效地在老工业区创意集群育成解析中实现了扎根理论和结构方程模型的结
+合，形成了定性与定量方法的互补探索 ：① 扎根理论包括开放式编码、主轴编码和选择
+性编码
+[61]
+，将依次按照该程序构建老工业区创意集群育成模型 。② 结构方程模型是一种
+定量研究潜变量间关系的方法 ，单向箭头指代潜变量间有影响关系 ，箭头上方的系数代
+表这种关系的性质和程度 ，即正值代表正向影响 ，且数值越大正向影响越大 ；负值代表
+图 2 和丰纱厂变迁及其历史影像
+Fig. 2 Changes and historical images of Hefeng Spinning Factory
+784
+--- PAGE 6 ---
+4 期 马仁锋 等：创意再生视域宁波老工业区绅士化动力机制
+负向影响，且数值越大负向影响越大 。输出报表中 SE 为标准化误差 ，CR 为临界比率值
+相当于 t 值，P 为显著性。模型拟合度评估采用绝对、相对和精简拟合度指标，各参数越
+接近相应指标的标准值，说明模型适用性越高
+[62]
+。
+3.3 数据来源
+涉及创意修复视域老工业区绅士化动力机制假说及检验 ，简单地使用任何一种工具
+都不足以获得既全面又真实的数据 。因此，通过非参与式观察法 、半结构访谈和问卷采
+集数据。为获得宁波老工业区改造案例感知，作者于 2017 年 4 月实施 3 阶段为期 8 天预调
+研，拍照和记录园区发展历程与现状 。综合案例预调研和创意园官网 ，并和熟知宁波城
+市发展历史与中心城区更新的学者讨论 ，确定和丰创意广场为研究案例 ；为保证访谈数
+据丰富性，于 2017 年 5 月对和丰创意广场等案例进行正式田野调查 ，内容是根据采访提
+纲对园区企业主 、员工进行半结构式访谈 、录音，后期将其整理成逐字稿 ，以供数据分
+析、编码和理论模型检验使用 。为满足扎根理论根植于现实的基本要求 ，采访过程严格
+遵循匿名性、即时性和开放性原则 ；采访对象尽量涵盖同一园内不同行业企业 ，且为保
+证访谈数据样本量在问卷调查过程适当插补访谈过程。
+执行排除与研究主题无关语句 、排除重复性语句 、排除不文明语句
+[63]
+等标准筛选誊
+写访谈录音得逐字稿，继而进行编码和范畴化，最终整理出有效半结构访谈 74 份。根据
+理论框架梳理归类访谈内容，设计问卷。经与 3 位专家讨论修订初始问卷后，发放 100 份
+问卷进行预调研 ，对问卷信度和效度进行检验 ，剔除不当问项进行正式调研 。正式调研
+于 2017 年 7 月在和丰创意广场开展 ，共发放 150 份问卷。数据整理后进行探索性因子分
+析确定量表开发的科学性 ，并通过验证性因子分析的适配度指标比对确定模型与数据的
+拟合性，最后通过信度和效度检验，明确模型的可靠性和稳定性。
+4 ˚µÖ⁄Ñ—¾¿
+4.1 纱厂到创意广场的和丰绅士化现象
+创意修复原和丰纱厂老厂房群集了大批创意群体 ，提升了地点形象和街区地价 ，加
+速周边新建封闭高档小区置换了原有工人社区
+[64]
+，呈现典型绅士化现象 ，和丰创意广场
+绅士化现象特征集中体现在园区空间景观、业态和从业者等所发生的变化。
+4.1.1 空间景观特征 （1） 高端写字楼主导的开放式景观 。和丰创意广场临江靠街 ，无
+围墙，园内景观与周边街区融为一体 ，建筑主要是由老厂房改造的工作室及位于和庭楼
+和丰庭楼之间的“小洋楼” 、新建的五栋现代化写字楼 （和庭楼、丰庭楼、创庭楼、意庭
+楼和谷庭楼） 。其中，新建写字楼建筑高 83.5 m，墙体多为玻璃材质，每栋写字楼设成阶
+梯状取景于甬江 （图 3a） 。写字楼西北和西南侧为 3 个老厂房改造组团：A 组团一层作为
+咖啡厅，二层作为工作室 （图 3b） ；B 组团用于综合服务办公室和企业工作室 （图 3c） ；E
+组团是原和丰纱厂生产厂房 ，改造后内设咖啡店 、艺术设计中心和家居设计店等 （图
+3d） 。和丰创意广场总体呈现高端写字楼群主导的广场式开放景观，老厂房在和丰创意广
+场景观格局中起点缀作用。
+（2） 包容性与多元化的园区景观 。和丰创意广场的空间包容性和多元化体现在新旧
+景观的融合与中西文化的结合 。前者表现为和丰纱厂老厂房现代化和创意性的内外部改
+造，并与 5 栋写字楼交相辉映 ，如小洋楼式的议事厅矗立在和庭楼和丰庭楼之间 ，将两
+种不同时代的建筑融合在一起 （图 4a） ；后者既体现在小洋楼建筑风格，又在和丰创意广
+场西南侧 “普思 TOWN”中得到集中展现 （图 4b） ，如老厂房改造的莫奈花园及其欧式
+785
+--- PAGE 7 ---
+地 理 学 报 74 卷
+大门和栅栏等 （图 4c） ，广场内许多非主流文化元素带来视觉冲击同时，也对传统文化形
+成一种抵抗力量 ，如采用红、黄、蓝三色调以摆积木方式建造的工作室将企业个性抒发
+淋漓尽致 （图 4d） 。
+4.1.2 业态特征 （1） 入驻企业性质的私营化 。综合调研和企业信用公示数据发现和丰
+创意广场 92%的企业属于私营 ，多数是开园时新建 ，极少部分为中外合资 、台港澳与境
+内合资或国有企业 ，导致园区企业规模多以在 50 人雇员、注册资本 100 万元以下的小微
+企业为主。普思 TOWN 集聚了许多私营的文化创意企业 ，多以生活创意服务业为主 ，如
+浅绿花店等。
+（2） 生产要素的创意化 。和丰创意广场建设以来 ，大量文化创意企业集聚于此 ，生
+产方式发生了根本性改变 ，产品所需生产要素已不再是物质性原材料 ，而是知识、技术
+和创意等各种创造力组分 ，产品也不需要通过特定交通工具运输 ，5 栋写字楼入驻企业
+所需生产要素创意化发展日益增加。
+（3） 生产合作关系的外包化 。分析访谈数据发现园区企业间生产合作呈现弱网络联
+系；然而由于依赖园区所搭建产品展示平台 ，园区工业设计企业与园区外相关制造业形
+成密集的上下游合作关系 ，呈现对外放射状合作关系 。如 2012 年 9 月 21 日入园意大利戴
+达罗工业设计公司与宁波本地制造业奔野金属构件公司签订合作协议 ，至 2017 年该公司
+签订相关合作外包协议约为当年企业年度业务量 40%，业务外包在各设计公司逐渐盛行。
+4.1.3 园区社会空间特征 （1） 年轻化。问卷数据显示 ，134 位有效受访员工中年龄小
+于 25 岁的占 41%，且该年龄段员工大部分是应届毕业生 ；37%的员工年龄在 26~30 岁，
+且该年龄段员工大都具有文化创意行业从业经验 。可见，受访者员工 40 岁以上占比较
+低，说明和丰创意广场入驻企业员工整体呈年轻化趋势 ，拥有创意类企业所需的前卫思
+想等特点，与东京创意集群从业者以 20~35 岁青年较多相印证
+[65]
+。
+（2） 创意化和服务化 。问卷数据显示 ，专业背景多为艺术 、设计、传媒等，其次理
+工科专业占比分别为 21%和 27%，显然和丰创意广场多数员工专业背景与文化创意产业
+有联系，从业者创意化趋势显著 。和丰创意广场除工业设计等创意产业外 ，还有较多生
+a. 写字楼群 b. 组团 A c. 组团 B d. 组团 E
+图 3 写字楼群主导的和丰创意广场空间景观
+Fig. 3 The landscape dominated by office buildings in Hefeng Creative Plaza
+a. 小洋楼 b. 普思小镇 c. 莫奈花园 d. 易玖琪壹服装店
+图 4 和丰创意广场多元化空间景观
+Fig. 4 Diversity landscape in Hefeng Creative Plaza
+786
+--- PAGE 8 ---
+4 期 马仁锋 等：创意再生视域宁波老工业区绅士化动力机制
+产性创意服务企业 ，如浙江甬泰律师事务所 、平安普惠房产服务有限公司等 ，可知和丰
+创意广场企业员工呈现创意化和服务化双重态势。
+（3） 情怀化。和丰创意广场是由百年和丰纱厂改造而来 ，不仅承载着厚重的工业历
+史文化，而且现代都市景观和后现代美感浑然一体 ，环境艺术改造理念适应了创意从业
+者的审美情趣和文化品位 ，激发和丰创意广场员工的青春奋发 、创业信念，勇于在喧闹
+城市中找寻一份宁静和新颖重塑自我
+[66]
+。其中，部分员工偏爱老厂房改造办公空间 ，部
+分员工迷恋创意行业工作 ，少数员工爱慕高端办公环境 。巧合的是，他们共同选择和丰
+创意广场作为寄托个人工业厂房怀旧情怀和志趣的工作场所。
+以前是个老工厂 ，听说是宁波最老的工业之一 ，感受到历史文化底蕴厚重 ，比较符
+合我个人口味。 （和丰创意广场咖啡店员工）
+4.2 纱厂到创意广场的和丰创意集群驱动
+4.2.1 扎根理论视角老工业区转型的创意集群育成模型构建 （1） 开放编码。编码材料
+按照“园区名称-采访对象-访谈语句序号” ，例如 HF-YG1-2 表示和丰创意广场第 1 位员
+工访谈记录中的第 2 句话；作者按次序逐字逐句对访谈内容进行分析并概念化 ，为降低
+概念化过程主观性采用原始采访记录来命名资料中所挖掘的初始概念 。为缩减处理概念
+数量，将看似与同一现象有关概念聚成一类范畴化初始概念 ，最终得 44 个初始概念和 18
+个范畴 （表 1） 。
+（2） 主轴编码 。以创意集群已有研究成果作为副范畴因子提取和范畴化的理论逻
+辑，以创意产业区位规律
+[50-51]
+作为主范畴范畴化的理论逻辑 ，最终得 5 个副范畴和 3 个主
+范畴 （表 2） 。5 个副范畴中经济区位因素指地区的租金 、基础设施、市场以及工资水平
+等，制度因素主要包括园区优惠政策 、知识产权保护、技术培训以及人才服务等 ，社会
+关系网络指地区可能存在的朋友亲戚以及生产链中的同行或企业上下游关系等 ，文化氛
+围指园区所蕴含的各种文化 ，办公环境指园区绿化率和静谧度等 。进一步将副范畴抽象
+为 3 个主范畴得“资本要素、地方元素、关系力量” ，其中资本要素包含城市内部经济区
+位和特定政策区位“高地” ；地方元素指符合创意阶层要求的文化范式、历史层累和办公
+环境等；关系力量指后福特生产体制下中小企业生产过程中所形成的多元关系网络。
+（3） 选择编码。综合推敲主副范畴确定了和丰纱厂转向和丰创意广场这一老工业区
+创意修复的核心范畴是创意集群育成 ，该核心范畴的故事线为 ：在认知—文化资本
+[67]
+背
+景下，一些年轻的高校毕业生或创业者 （泛称创意阶层 ） 入园前 ，有的因为 “园区氛
+围” ；有的因为“当初主要想找一个旧工厂改造的工作室 ” ；抑或是园区“员工年轻”而
+青睐于此 ，于是这种满足他们特定要求的地方元素成为其选择在此落脚的潜意识原因 ，
+且此时因“园区建设宣传”而存在对地方元素认知的粗浅性和区位决策的盲目性 。入园
+表 1 开放编码范畴化
+Tab. 1 Opening coding examples
+访谈资料
+我也要看工资的啦，太少的话我也不会来这(HF-YG2-5)
+至于工资嘛，做的多挣得也就多啦，我感觉还好(HF-YG3-4)
+……
+我当初来得早，主要看中环境是由老厂房改造的，比较创意。(QY86-QYZ2-11)
+我当初主要想找一个这种旧工厂改造的工作室(QY86-QYZ2-2)
+园区是由工厂改建 ，园区有一些的旧工业设备 ，可以作为摄影创作的背景素材
+(QY86-YG1-4)
+初始概念
+考虑工资
+工资还好
+……
+老厂房
+旧工业设备
+范畴
+工资
+……
+工业文化
+787
+--- PAGE 9 ---
+地 理 学 报 74 卷
+后，一些失意者或抱怨 “私企经营缺
+少政府支持 ” ，或抱怨 “优惠政策不
+落实” ，抑或发现 “创意缺乏市场 ” ，
+促使其意识到地方元素需要资本的嵌
+入才能更好地创造其真实价值 。无
+疑， “入园门槛过低 ”使得不在同一
+产业链或毫无产业联系的企业均有机
+会入园，进而导致某些工作者感叹道
+“企业间相互孤立毫无园区感 ” ，而
+“入园企业性质严格把控 ”使得部分
+员工激动地说道“相关企业集聚让自
+己更加专业 ” ，证实了关系网络的稀
+疏会淡化氛围，而高密度和多元化的
+关系网络会强化园区竞争力和稳定
+性。换言之，关系力量在资本要素嵌
+入地方元素的基础上使文化创意产业
+的集聚性质变，倍增了两者的协同价
+值实现群集效应，进而反哺园区地方
+性和资本厚度，由此生成“地方元素
+的感性认可→资本要素和关系力量的
+理性约束→地方元素、资本要素和关
+系力量的协同→关系力量的反馈”的
+创意集群育成驱动老工业区转型机制
+构建 （图 5） 。模型中存在 3 个嵌入一
+个循环：嵌入 1 指文化嵌入 （文化创
+意产业受特定文化氛围影响） 、嵌入 2
+指制度嵌入 （文化创意产业受特定制
+度 因 素 影 响） 、嵌 入 3 指 网 络 嵌 入
+（文化创意产业受特定社会关系网络
+影响） ；一个循环指地方元素通过文
+化资本的表达和嵌入 1 分别作用于资
+本要素和关系力量 ，且关系力量由于
+嵌入 3 而得到不断强化 ，并通过文化
+创意企业集聚经济效应和地方性表征
+分别反馈于资本要素和地方元素 ，最
+终形成三者协同提升的循环机制 。可见，创意集群育成驱动老工业区创意修复机制的核
+心是基于文化资本表达、集聚经济和 3 个嵌入下 5 个要素的相互作用，进而驱动老工业区
+的创意空间生产过程。
+4.2.2 和丰创意集群育成模型检验 剔除废卷 ，发放的 150 份问卷中收集有效问卷 134
+份，有效率达 89%。借助 SPSS 20.0 检验问卷结构效度 （表 3） ，结果显示问卷数据适宜
+采用结构方程模型 。为进一步验证模型内部因子间的相互作用路径 ，基于结构方程模型
+对问卷数据进行处理 ，依据潜变量间的路径系数和拟合度进行验证和解释 ，并借访谈资
+表 2 主轴编码分析
+Tab. 2 Axial coding
+开放编码提取的范畴
+租差
+基础设施
+市场
+工资岗位供给
+优惠政策
+知识产权保护
+技术培训
+人才服务
+朋友
+同行交流
+产业链合作
+工业文化
+西方文化
+中国传统文化
+多元、包容性文化
+噪音
+绿化
+办公空间
+主轴编码提取的范畴
+副范畴
+经济区位因素
+制度因素
+社会关系网络因素
+文化氛围因素
+办公环境因素
+主范畴
+资本要素
+关系力量
+地方元素
+图 5 创意集群育成驱动老工业区转型机制
+Fig. 5 The transformation mechanism of the old industrial
+districts based on creative clusters breeding
+788
+--- PAGE 10 ---
+4 期 马仁锋 等：创意再生视域宁波老工业区绅士化动力机制
+料检验模型饱和度 。根据老工业区创意集群育成假说构建结构方程模型并运行 ，发现作
+用路径均合理且达到显著水平 （表 4） ，说明数据具有很好代表性 。为使假设模型更加适
+配问卷数据进行模型修正 ，即对修正指标值高于 4 的误差项之间建立关系，直到 M.I. Par
+Change 没有数据显示为止 ，得到图 6，输出报表将拟合参数整合成表 5，模型拟合效果
+良好。
+图 6 中各影响因素对园区社会关系网络
+的影响系数可知 ，经济因素和制度因素为
+主要影响因子 ，尤其是和丰的经济区位对
+其创意空间的生成起到关键作用 ，从而吸
+引创意群体的集聚 ，同时也成为该园区高
+端写字楼群主导的改造风格的重要原因 。
+需要指出的是 ，文化氛围虽然对园区社会
+关系网络影响程度一般 ，但对该经济区位
+具有较大影响 ，究其原因主要是和丰纱厂
+百年的工业历史为和丰创意广场积淀了厚
+重历史层累 ，很大程度上放大了文化资本
+的表达系数。
+综上 ，结构方程模型处理结果佐证了
+和丰创意集群驱动力及和丰创意空间育成
+路径 。换言之 ，基于扎根理论构建的老工
+业区创意集群育成假说是正确的 ，驱动了老工业区的创意空间生产机制 ，进而导致和丰
+创意广场呈现绅士化现象。
+4.3 和丰创意广场绅士化现象的空间生产过程
+4.3.1 空间的实践：地方政府、国有资本和创意群体的链结 Harvey 认为空间的实践中除了
+绝对物质空间的建构 、相对位置空间之外 ，社会关系的生产和再生产占据主导地位 。的
+确，空间自始至终都掺杂着各种社会关系 。在和丰创意广场的空间生产过程中 ，地方政
+表 3 效度检验
+Tab. 3 Validity test
+和丰创意广场
+KMO 值
+0.815
+近似卡方
+1137.570
+自由度 df
+105
+Sig.
+0.000
+因子分析适宜性
+适宜
+表 4 模型拟合路径系数
+Tab. 4 The goodness-of-fit path coefficient
+和丰创意广场
+路径
+制度→社会关系网络
+制度→经济区位
+文化氛围→社会关系网络
+文化氛围→经济区位
+文化氛围→办公环境
+办公环境→社会关系网络
+经济区位→社会关系网络
+R.W.
+0.327
+0.338
+0.259
+0.415
+0.186
+0.217
+0.748
+S.E.
+0.083
+0.104
+0.076
+0.147
+0.058
+0.136
+0.117
+C.R.
+8.136
+4.279
+10.217
+7.625
+2.174
+1.523
+8.742
+S.R.W.
+0.346
+***
+0.290
+***
+0.217
+***
+0.428
+***
+0.162
+**
+0.230
+**
+0.695
+***
+注：
+**
+代表在 0.05 水平下显著，
+***
+代表在 0.01 水平下显著。
+图 6 和丰创意广场创意集群驱动路径及系数
+Fig. 6 Driving paths and coefficients of creative clusters
+in Hefeng Creative Plaza
+789
+--- PAGE 11 ---
+地 理 学 报 74 卷
+府、国有企业和创意群体的链结是和丰纱厂
+空间修复过程中最核心的关系行为 。具体而
+言，1998 年 6 月宁波和丰纺织集团有限公司
+申请破产后的第六年 （即 2003 年） ，宁波市
+文化局将“和丰纱厂”旧址列为宁波市第三
+批文物保护点 。2007 年，宁波市政府发布
+《关于加快推进都市产业及相关服务业发展
+的若干意见 》 ，鼓励按照 “三不变 ”和“四
+转变”方式发展以工业设计创意等高端生产
+性服务业为主的都市产业及相关服务业 。同
+年，为响应市政府产业结构升级号召 ，宁波
+工投集团联合市城建投资控股有限公司和江
+东区国有资产投资公司出资组建了市工业设
+计投资发展公司 ，负责开发建设 、招商和运
+营管理和丰创意广场。2008 年 10 月公司计划
+在 和 丰 纱 厂 老 厂 房 位 置 建 设“ 先 期 体 验
+区” ，2009 年 4 月和丰创意广场工程破土动
+工。此后 ，在一系列的政府资金扶持下于
+2010 年 6 月和丰创意广场主体结构顺利结顶，并于 2011年 10 月 20 日正式开园。需要指出
+的是，早期地方政府和宁波和丰创意广场投资经营有限公司成为和丰创意广场空间实践
+的主导力量，后期将创意修复的空间提供给创意群体而再次拓展生产与再生产关系 ，最
+终不仅顺利解决了城市土地危机 ，而且实现了产业升级和土地租差攫取 。可见，在和丰
+创意广场空间实践过程中 ，地方政府、国企和创意群体之间不同的社会关系在不同阶段
+起到相应作用。
+4.3.2 空间的表征：创意空间的生成 和丰创意广场创意空间的生成同样也是空间的表征
+过程，由园区规划空间和创意阶层的创意实践空间共同组成 。创意空间的本质并非指园
+区的物质性外壳 ，而是蕴涵创意群体及其创意氛围诉求的空间环境
+[68]
+。在这一维度 ，创
+意群体所追求的文化品位 、后现代风格等概念化 、符号化和意象化的创意氛围被充分表
+征出来。无疑，园区的规划空间和创意空间实践过程是解析和丰创意广场创意空间生成
+过程的关键。
+原和丰纱厂改造之初 ，园区负责方先后汇集了 10 家设计单位的 15 个优秀设计方案 ，
+最终选择了清华大学安地建筑设计事务所的方案 。方案设计简约理性 、恢弘大气，且最
+大程度地保留了工业建筑 ；此外，广场功能包括核心功能 、公共服务功能和生活配套服
+务功能 、产品展示 、信息服务 、技术服务 、培训教育 、国际交流和融资担保等 6 大平
+台。为快速营造创意氛围，解决招商问题，2008 年 10 月首先在甬江南岸和丰纱厂旧址完
+成“先期体验区”的建设。老厂房改造遵循 “修旧如旧”原则，没有加高建筑层数 ，仅
+齐整了建筑外表和加固内部框架 ，最大程度的保证工业建筑的原真性 。创意工作群体通
+过创意性设计将改造后的老厂房装饰成自己偏爱的工作环境 ，彰显出对后现代文化的追
+求和主流模式化空间抵抗。
+可见，在和丰纱厂百年工业历史空间环境中 ，以工业设计基地为品牌 ，以高端写字
+楼群为主体，以工业元素为广场底色 ，通过政府土地授权方式 ，宁波工投集团负责运营
+管理，建筑师、规划师和工程师掌握着物质空间塑造的话语权 ，共同将和丰创意广场塑
+表 5 模型拟合结果
+Tab. 5 Model fitting parameters
+模型整体拟合度
+绝对拟合度
+相对拟合度
+精简拟合度
+拟合指标
+x
+2
+GMIN/DF
+GFI
+RMR
+RMSEA
+ECVI
+NFI
+AGFI
+RFI
+CFI
+IFI
+PNFI
+PGFI
+CAIC
+AIC
+拟合标准
+越小越好
+越小越好
+> 0.8
+< 0.1
+< 0.1
+越小越好
+> 0.8
+> 0.8
+> 0.8
+> 0.8
+> 0.8
+0~1
+0~1
+越小越好
+越小越好
+测量值
+36.542
+0.703
+0.929
+0.028
+0.024
+1.070
+0.922
+0.880
+0.882
+0.993
+0.993
+0.609
+0.549
+258.145
+114.542
+790
+--- PAGE 12 ---
+4 期 马仁锋 等：创意再生视域宁波老工业区绅士化动力机制
+造为品牌性的“创意景观” 。然而，创意群体则通过创意实践对规划空间进行个性化的内
+部装饰或抵抗，并随着创意群体的不断集聚内化为文化共识和身份认同 。可以说，和丰
+创意广场“空间的表征”和“表征性的空间”的过渡与转化在创意集群过程中持续进行。
+4.3.3 表征的空间：创意集群的内生与演化 创意群体对和丰创意广场的内化和演绎属于
+文化、理想和情感的表征性空间
+[66]
+。表征空间是受符号引导和支配的空间 ，但创意主体
+的创意行为和作品使其蕴含着个性和抵抗 。换言之，创意集群延伸至这一维度 ，体现了
+创意群体的文化共识和身份认同 。创意群体的个人志趣以及对喧闹和压抑的城市生活认
+知和态度映射在他们的实践行为中 ，进一步升华了和丰创意广场 ，同时，也会强化企业
+主义治理趋向的政府对老工业区创意修复政策的地理扩散。
+多维度价值追求 。创意群体在和丰创意广场的集聚是出于不同的体验需求 。其中，
+部分群体是由于个人特殊的文化品位 ，导致其喜欢一种不同于传统文化的风格 ，并试图
+在这种文化氛围中尽情的表达出自己的个性。
+其他因素我也不好讲 ，不过这边以前是老工厂 ，听说是宁波最老的工业之一 ，感觉
+这边的历史文化底蕴比较厚重，比较符合我个人口味。 （宁波纳博服饰有限公司员工）
+此外，也有部分群体是想借助和丰创意广场的工业设计和创意产业基地的品牌 ，实
+现自己的创业梦想或职业理想。
+因为我是学景观设计的 ，想做一名规划师 ，正好这边有好多工业设计和创意设计企
+业，可以满足我的需求。 （宁波黑蚁工业设计有限公司员工）
+创意群体的文化共识与身份认同的渴望 。服务经济时代 ，一些私营的中小型服务企
+业虽然开始兴起 ，但是仍然难以与一些大型国有企业或上市企业相抗衡 。但是在和丰创
+意广场这个工业设计和创意产业基地 ，他们依托趋同的文化偏好和理想追求 ，以及开放
+灵活的思想和频繁的合作交流实现自我身份的认同。
+这的工作还可以 ，做自己喜欢做的事即使累点也无所谓了 。这的工作人员比较年
+轻，思想比较前卫开放，好多人也都从事设计工作，感觉大家有共同语言。
+（宁波远见旅游研究有限公司员工）
+但是，这种共同体意识并没有在整个园区内得到充分体现，仅局限于特定的范围。
+和其他公司交流不多 ，因为大家都不认识 ，主要和自己公司的同事平时假期一起出
+去吃饭、唱歌等，大家也都能聊的来，年纪差不多大。 （宁波偏飞设计有限公司员工）
+可见，员工间并没有等级的划分 ，而这隐含着一个有别于工人阶级的新社会阶层的
+酝酿，也是一股对传统生产体系的抗衡力量。
+综上，空间概念三元组辩证关系是和丰创意广场空间生产过程具备稳定性的机制与
+保障：权力/资本与创意空间的相互支撑 ，在多重驱动下企业主义政府引导国有资本投资
+创意空间建设诱导创意集群，进而增加资本回流以及权力/资本/创意空间的联结关系；在
+地方元素、资本要素和关系力量所构成的创意集群驱动机制下 ，创意空间及其内化和演
+绎彼此激活，创意群体通过创意行为对园区赋予意义促进文化共识和身份认同 ，进而逐
+步实现社会空间重构 ；社会阶层的转换是老工业区升级的深层次内涵 ，无疑会强化权
+力、资本和创意阶层的联结关系 ，同时，地方政府的企业主义行为继续诱导和打造新的
+创意集群，以此扩大老工业区绅士化的广度和深度 ，形成创意空间演绎与权力/资本互相
+塑造的关系 （图 7） 。由于老工业区新社会阶层的进入和周边居住环境的提升 ，房地产商
+的参与催生出一些高档封闭小区 ，将周边原有工人居民排挤到城市边缘 ，从而呈现典型
+绅士化现象，只不过中国这种排挤过程处理的比较隐蔽。
+791
+--- PAGE 13 ---
+地 理 学 报 74 卷
+5 ‰Æ´ÛÓºÌÖ´Û
+5.1 结论
+本文基于半结构访谈和问卷调查
+数据采用空间生产 、扎根理论与结构
+方程模型进行分析 ，尝试揭示城市老
+工业区创意修复过程的绅士化现象特
+征与驱动机制。通过对宁波和丰创意
+广场的研究，得到两个主要发现：
+（1） 生成和丰创意广场的创意修
+复过程呈现典型绅士化现象 。典型特
+征为高端写字楼主导的开放性和多元
+景观特征重塑了老工业区物理空间 ，
+入园企业私营化、生产要素创意化和
+生产关系外向化的业态特征以及年轻
+化、情怀化、创意化和服务化的群体特征重构了老工业区经济社会空间 。和丰创意广场
+及周边社区利益群体以一种推拉方式实现经济社会空间演替 ，尤其是政府通过对中心城
+区老工业区的创意改造吸引大批创意阶层集聚于此 ，地产商利用创意改造后老工业区的
+经济溢出效应在其周边建造高档封闭小区 ，将原有工人群体排斥到城市边缘 ，形成典型
+的老工业区绅士化模式。
+（2） 和丰绅士化现象本质上是老工业区创意空间营造 （空间表征） —创意集群育成
+（表征性空间） 的互馈过程激活老工业区空间的生产。和丰创意广场形成，受权力、资本
+和创意铰链而成再生产关系主导空间实践 ，建筑规划师和创意阶层各自意志的物质性空
+间营造和创意实践形成空间表征 ；空间表征推动创意集群内生发展和演化 ，催化了基于
+文化、理想和情感体验的文化共识和身份认同 ，升华为表征性空间 ，形成了“地方元素
+的感性认可→资本要素和关系力量的理性约束 →地方元素、资本要素和关系力量的协同
+→关系力量的反馈 ”老工业区绅士化驱动逻辑 。其中，和丰创意集群育成深受文化氛
+围、办公环境、区位、政策和社会关系网络 5 个要素之间的相互作用驱动。
+本文的贡献在于利用宁波和丰创意广场案例 ，对创意修复主导的城市老工业区绅士
+化动力展开质性实证 ，发展了不同于西方语境的老工业区绅士化 ，充分肯定了中国土地
+公有体制下老工业区绅士化仍未能摆脱类似西方城市政府通过扩大 “资本化地租”以追
+求“超额利润”的作用机制；不同点是中国土地公有制赋予城市政府强权导控了中国老
+工业区绅士化过程的政府主导性，以至于西方“租差论”解析会出现偏差。
+5.2 讨论
+“绅士化”概念诞生于西方资本主义体制和土地私有制背景，是资本主义剥夺私人资
+产实现自身累积过程中所呈现的一种特定现象 。随着绅士化运动的全球扩展 ，甚至是在
+中国土地公有制背景下城市内部不同空间也发生绅士化现象 ，如北京 798 艺术区、上海
+新天地和深圳的南海意库创意园 。无疑，绅士化对中国老工业区创意转型方式实现社会
+空间再生产具有重要意义 。然而，在摒弃“中国例外论”和立足中国制度背景构建中国
+老工业区绅士化理论框架，需要首先明确中国老工业区空间生产的主导力量 （政府） ，其
+次基于中国特殊土地制度背景创新性构建融合空间生产 、推拉模式和创意集群三要素的
+老工业区绅士化机制 。在分权化、市场化、全球化语境下，中国“政府企业化”转型和
+图 7 老工业区绅士化的空间生产逻辑
+Fig. 7 Logic of production of space of gentrification
+in the old industrial districts
+792
+--- PAGE 14 ---
+4 期 马仁锋 等：创意再生视域宁波老工业区绅士化动力机制
+“城市增长联盟”崛起，以及金融资本主义席卷全球和新自由主义的管制环境，使中国老
+工业区创意转型出现与西方类似的资本逐利逻辑 。城市老工业区创意修复过程出现绅士
+化现象，同样深受城市政府通过扩大 “资本化地租”以追求“超额利润”的导控，这与
+何深静论上海创意园的创意时空修复框架和宋伟轩论南京绅士化观点是一致的 。不同点
+在于中国土地公有制赋予城市政府强权 ，使得中国老工业区绅士化过程呈现鲜明的政府
+主导性，进而导致西方绅士化解析逻辑的 “租差论”在中国应用会出现偏差 ，这也符合
+Paul Waley 总结的以土地财政为特色的东方绅士化 。因此，从租差视角去预测中国老工
+业区发生绅士化的节点是复杂且难以实现的 ，这既需要考虑到比 Smith 的“租差”更加
+复杂的租差公式 （如创意修复的老工业区提升了周边地价 ，同时受中国土地公有制影响
+增值的地价增加了政府财政收入，可视为旧工业用地租差计算的一部分） ，又需要考虑政
+府的政绩观、老厂房的可改造性等。
+当然，中国老工业区绅士化的社会后效与西方有所不同 。表象论和丰创意广场建成
+并没有排挤周边原有工人群体 ，甚至还定期对和丰纱厂生产基础设施保护优化老工人慰
+藉；深层次论其实是地方政府以关注弱势群体宣传态度和强化社区归属感等和谐社会价
+值观为绚丽外衣 ，以牺牲大多数工人阶层的利益实现城市政绩和 （国企） 资本累积等 ，
+而空间演替和社会剥夺过程被湮灭 ，最终同样会呈现社会隔离现象 ，只不过其过程比西
+方更要隐蔽。因此，中国政府主导老工业区绅士化 ，如何避免政府行工人阶级先锋之名
+实做剥夺工人阶级空间利益之事，是预防老工业区绅士化导致社会隔离的重点与难点。
+参考文献(References)
+[ 1 ] Yin Yimei, Liu Zhigao, Liu Weidong, et al. On development path of creative industries in urban old industrial area in
+China. Geography and Geo-information Science, 2011, 27(6): 55-60. [尹贻梅, 刘志高, 刘卫东, 等. 城市老工业区创意
+转型路径研究. 地理与地理信息科学, 2011, 27(6): 55-60.]
+[ 2 ] Mathews V . Incoherence and tension in culture- led redevelopment. International Journal of Urban and Regional
+Research, 2014, 38(3): 1019-1036.
+[ 3 ] Jessop B. The crisis of the national spatio- temporal fix and the tendential ecological dominance of globalizing
+capitalism. International Journal of Urban and Regional Research, 2010, 24(2): 323-360.
+[ 4 ] Wu Qiyan, Liu Chunhui. Gentrificationof marginalized new-white class. Hunan Geography, 2015, 30(1): 40-44. [ 吴启
+焰, 刘春卉. 边缘化新白领的中产阶层化研究. 人文地理, 2015, 30(1): 40-44.]
+[ 5 ] Wise N, Clark J. Urban Transformations: Geographies of Renewal and Creative Change. London: Routledge, 2016.
+[ 6 ] He Chunhua, Ma Renfeng, Xu Benan, et al. Transform of Ningbo Hefeng cotton mill's industrial heritage under the
+concept of cultural and creative space. Industrial Construction, 2017, 47(1): 50-55. [ 何春花, 马仁锋, 徐本安, 等. 鉴于
+文化创意空间理念的宁波和丰纱场工业遗产改造. 工业建筑, 2017, 47(1): 50-55.]
+[ 7 ] Glass R. Introduction: Aspects of Change in Centre for Urban Studies. London: Mac Gibbon, 1964.
+[ 8 ] Lees L, Shin H B, Lopez Morales E. Planetary Gentrification. Bristol: Polity Press. 2016.
+[ 9 ] Lees L. Rethinking gentrification. Progress in Human Geography, 1994, 18(2): 137-150.
+[10] Waley P . Speaking gentrification in the languages of the Global East. Urban Studies, 2015, 53(3): 615-625.
+[11] Hackworth J, Holcomb B, Ley D. The new middle class and the remaking of the central city. Contemporary Sociology,
+1998, 75(1): 93-94.
+[12] Bridge G. Time-space trajectories in provincial gentrification. Urban Studies, 2003, 40(12): 2545-2556.
+[13] Smith N. New Globalism, New Urbanism. Antipode, 2002, 34(3): 427-450.
+[14] Lees L. The geography of gentrification. Progress in Human Geography, 2012, 36(2): 155-171.
+[15] Wu Q, Zhang X, Waley P . Jiaoyufication: When gentrification goes to school in the Chinese inner city. Urban Studies,
+2016, 53(16): 3510-3526.
+[16] Gonzalez S, Waley P . Traditional retail markets : The new gentrification frontier? Antipode, 2013, 45(4): 965-983.
+[17] Lemanski C. Hybrid gentrification in South Africa. Urban Studies, 2014, 51(14): 2943-2960.
+[18] Chang T C. New uses need old buildings: Gentrification aesthetics and the arts in Singapore. Urban Studies, 2016, 53
+(3): 524-539.
+793
+--- PAGE 15 ---
+地 理 学 报 74 卷
+[19] Hae L. Dilemmas of the nightlife fix. Urban Studies, 2011, 48(16): 3449-3465.
+[20] Smith N. Toward a theory of gentrification a back to the city movement by capital, not people . Journal of the American
+Planning Association, 1979, 45(4): 538-548.
+[21] Ley D. Liberal ideology and post-industrial city. Annals of the Association of American Geographers, 1980, 70(2): 238-
+258.
+[22] Song Weixuan. Theoretical disputes and enlightenment on gentrification in western cities. Human Geography, 2013, 28
+(1): 32-35. [宋伟轩. 西方城市绅士化理论纷争及启示. 人文地理, 2013, 28(1): 32-35.]
+[23] Xue Desheng. Western gentrification and itsimplicationfor urban social space research in China. Planners, 1999, 15(3):
+109-112. [薛德升. 西方绅士化研究对我国城市社会空间研究的启示. 规划师, 1999, 15(3): 109-112.]
+[24] Zhu Xigang, Zhou Qiang, Jin Jian. Thegentrification and urban renew. Urban Studies, 2004, 11(4): 33-37. [ 朱喜钢 , 周
+强, 金俭. 城市绅士化与城市更新. 城市发展研究, 2004, 11(4): 33-37.]
+[25] He Shenjing, Qian Junxi, Deng Shangkun. V arious forms of gentrification in transitional period in China. Human
+Geography, 2011, 26(1): 44-49. [ 何深静, 钱俊希, 邓尚昆. 转型期大城市多类绅士化现象探讨 . 人文地理 , 2011, 26
+(1): 44-49.]
+[26] Wu Qiyan, Luo Y an. Comparison of gentrification between Chinese and Western cities. City Planning Review, 2007, 31
+(8): 30-35. [吴启焰, 罗艳. 中西方城市中产阶级化的对比研究. 城市规划, 2007, 31(8): 30-35.]
+[27] Song Weixuan. A review on gentrification in European and North American Countries. Progress in Geography, 2012, 31
+(6): 825-834. [宋伟轩. 欧美国家绅士化问题的城市地理学研究进展. 地理科学进展, 2012, 31(6): 825-834.]
+[28] Huang Xing, Y ang Y ongchun. The research progress of gentrification in Western countries and China with the
+implications for China's urban planning. Urban Planning International, 2012(2): 54-60. [黄幸, 杨永春. 中西方绅士化研
+究进展及其对我国城市规划的启示. 国际城市规划, 2012(2): 54-60.]
+[29] Bian Y an, Zhou Chunshan, Zhang Guojun. Research on middle class in western countries and its implications for
+studies in China. Progress in Geography, 2015, 34(4): 517-525. [边艳, 周春山, 张国俊. 西方国家中产阶级研究进展及
+对中国的启示. 地理科学进展, 2015, 34(4): 517-525.]
+[30] Song Weixuan, Liu Chunhui, Wang Yi, et al. Rent gap and gentrification. Acta Geographica Sinica, 2017, 72(12): 2115-
+2130. [宋伟轩, 刘春卉, 汪毅, 等. 基于“租差”理论的城市居住空间中产阶层化研究 . 地理学报, 2017, 72(12): 2115-
+2130.]
+[31] Harvey D. Globalization and the spatial fix. Geographische Revue, 2001, 2(3): 23-31.
+[32] Sheppard E. The spatiality of the limits to capital. Antipode, 2004, 36(3): 470-479.
+[33] Peck J. Banal urbanism: Cities and the creativity fix. MONU, 2007(7): 35-47.
+[34] Jessop B. Spatial fixes, temporal fixes and spatio- temporal fixes//Castree N, Gregory D. David Harvey: A Critical
+Reader. London: Blackwell, 2006.
+[35] Jessop B. The crisis of the national spatio- temporal fix and the tendential ecological dominance of globalizing
+capitalism. International Journal of Urban & Regional Research, 2010, 24(2): 323-360.
+[36] He S. The creative spatio-temporal fix. Geoforum, http://dx.doi.org/ 10.1016/j.geoforum2017.07.017.
+[37] Sylwia D M, Bartłomiej I, Szymańska D. Does gentrification of the PragaPółnoc district in Warsaw really exist. Bulletin
+of Geography Socio-economic Series, 2018, 39(39): 21-30.
+[38] Grodach C, Foster N, Murdoch J. Gentrification, displacement and the arts. Urban Studies, 2018, 55(4): 807-825.
+[39] Florida R. The Rise of the Creative Class, New Y ork: Basic Books, 2002.
+[40] Glaeser E. Edward L. Glaeser, Review of Richard Florida's The Rise of the Creative Class. Regional Science & Urban
+Economics, 2005, 35(5): 593-596.
+[41] Scott A J. Creative cities. Journal of Urban Affairs, 2006, 28(1): 1-17.
+[42] Storper M, Scott A J. Rethinking human capital, creativity and urban growth. Journal of Economic Geography, 2009, 9
+(2): 147-167.
+[43] Evans G L. From cultural quarters to creative clusters. Cities Institute, 2009: 32-59.
+[44] Zhu Huasheng, Wu Junyi, Wei Jiali, et al. Creative networking in developing countries: A case study of design industry
+in Shanghai, China. Acta Geographica Sinica, 2010, 65(10): 1241-1252. [朱华晟, 吴骏毅, 魏佳丽, 等. 发达地区创意产
+业网络的驱动机理与创新影响. 地理学报, 2010, 65(10): 1241-1252.]
+[45] Pratt A C. New media, the new economy and new spaces. Geoforum, 2000, 31(4): 425-436.
+[46] Xiao Y anfei. A study of the dynamic mechanism and innovation models of development of economic spaces of the
+creative industrial district [D]. Shanghai: East China Normal University, 2007. [ 肖雁飞. 创意产业区发展的经济空间
+动力机制和创新模式研究[D]. 上海: 华东师范大学, 2007.]
+794
+--- PAGE 16 ---
+4 期 马仁锋 等：创意再生视域宁波老工业区绅士化动力机制
+[47] Liu H, Silva E A. Simulating the dynamics between the development of creative industries and urban spatial structure//
+Geertman S. Planning Support Systems for Sustainable Urban Development. Springer Berlin Heidelberg, 2013: 51-72.
+[48] Ma Renfeng. Evolution of the Creative Industrial Districts and Spatial Restructuring of the Metropolitan Space.
+Hangzhou: Zhejiang University Press, 2014. [ 马仁锋. 创意产业区演化与大都市空间重构. 杭州: 浙江大学出版社,
+2014.]
+[49] Fahmi F Z, Koster S, Dijk J V . The location of creative industries in a developing country. Cities, 2016, 59: 66-79.
+[50] Ma Renfeng, Wang Tengfei, Zhang Wenzhong, et al. Location model of cultural & creative industry and its application
+in Zhejiang. Geographical Research, 2018, 37(2): 379-390. [马仁锋, 王腾飞, 张文忠, 等. 文化创意产业区位模型与浙
+江实证. 地理研究, 2018, 37(2): 379-390.]
+[51] Wang Tengfei, Ma Renfeng. Cultivation mechanism of creative spaces in the old industrial districts of Ningbo
+city. Progress in Geography, 2018, 37(11): 1567-1580. [王腾飞, 马仁锋. 宁波老工业区创意空间孕育机制研究. 地理
+科学进展, 2018, 37(11): 1567-1580.]
+[52] Y uan Haihong, Wu Dandan, Ma Renfeng, et al. Spatial- correlation between agglomeration of cultural & creative
+industries and urban built environment field in Hangzhou. Economic Geography, 2018, 38(11): 123-132. [ 袁海红, 吴丹
+丹, 马仁锋, 等. 杭州文化创意产业集聚与城市建成环境场耦合性. 经济地理, 2018, 38(11): 123-132.]
+[53] He Shenjing, Liu Y uting. Mechanism and consequences of China's gentrification under market transition. Scientia
+Geographica Sinica, 2010, 30(4): 496-502. [何深静, 刘玉亭. 市场转轨时期中国城市绅士化现象的机制与效应研究.
+地理科学, 2010, 30(4): 496-502.]
+[54] Wu Qiyan. Differentiation of Urban Residential Space. Beijing: Science Press, 2016. [吴启焰. 大城市居住空间分异研
+究. 北京: 科学出版社, 2016.]
+[55] Song Weixuan, Zhu Xigang, Wu Qiyan. Process, characteristics and comments of gentrification in China. City Planning
+Review, 2010, 34(4): 14-20. [宋伟轩, 朱喜钢, 吴启焰. 中国中产阶层化过程、特征与评价. 城市规划, 2010, 34(4): 14-
+20.]
+[56] Wu Q, Edensor T, Cheng J. Beyond Space. International Journal of Urban & Regional Research, 2018, 42(1): 1-19.
+[57] Bao Y aming. Modernity and the Production of Space. Shanghai: Shanghai Education Press, 2003. [包亚明. 现代性与空
+间的生产. 上海: 上海教育出版社, 2003.]
+[58] Wang Shengyun. A theoretical analysis of space. Human Geography, 2011, 26(1): 15-18. [王圣云. 空间理论解读. 人文
+地理, 2011, 26(1): 15-18.]
+[59] Y e Chao, Chai Y anwei, Zhang Xiaolin. Review on studies on production of urban space. Economic Geography, 2011, 31
+(3): 409-413. [叶超, 柴彦威, 张小林.“空间的生产”理论、研究进展及其对中国城市研究的启示. 经济地理, 2011, 31
+(3): 409-413.]
+[60] Feng Jian, Wu Fangfang. The application of qualitative research method in urban socio- spatial structure research.
+Geographical Research, 2011, 30(11): 1956-1969. [ 冯健, 吴芳芳. 质性方法在城市社会空间研究中的应用. 地理研
+究, 2011, 30(11): 1956-1969.]
+[61] Hu Y ouhui. Qualitative Research. Taibei: Chuliu Publisher. [胡幼慧. 质性研究. 台北: 巨流图书有限公司, 1996.]
+[62] Rong Taisheng. AMOS and Research Methods. Chongqing: Chongqing University Press, 2018. [荣泰生. AMOS 与研究
+方法. 重庆: 重庆大学出版社, 2010.]
+[63] Hu Xianyang, Bai Kai. The construction of tourists' placeness identity of Barkhor Street in Lhasa. Acta
+GeographicaSinica, 2015, 70(10): 1632-1649. [胡宪洋, 白凯. 拉萨八廓街地方性的游客认同建构. 地理学报, 2015, 70
+(10): 1632-1649.]
+[64] Tong Xin. On the development of the cultural and creative parks from the perspective of the governmental departments.
+Taibei: Y unlin University of Science and Technology , 2015 . [童心. 论两岸公部门主导下的文创园区之发展.
+台北: 云林科技大学, 2015.]
+[65] Gan Xinyue, Shen Zhenjiang, Bian Lanchun. The Quantitative Research about Social- structure Features in Creative
+Industry Cluster Area. Urban and Rural Planning, 2017(2): 41-51. [甘欣悦, 沈振江, 边兰春. 创意产业聚集地区的社会
+结构特征量化研究. 城乡规划, 2017(2): 41-51.]
+[66] Wang Tengfei, Ma Renfeng, Hou Bo, et al. The theoretical perspective of the production of space of old industrial
+districts based on creative fix. Modern Urban Research, 2019(1): 94-102. [王腾飞, 马仁锋, 勃, 等. 创意修复视域老工
+业区空间生产理论透视. 现代城市研究, 2019(1): 94-102.]
+[67] Allen J S. Beyond the creative city: Cognitive-cultural capitalism and the new urbanism. Regional Studies, 2014, 48(4):
+565-578.
+[68] Ma Renfeng. The identification of creative spaces. Progress in Geography, 2012, 31(8): 1013-1023. [ 马仁锋. 大都市创
+意空间识别研究. 地理科学进展, 2012, 31(8): 1013-1023.]
+795
+--- PAGE 17 ---
+地 理 学 报 74 卷
+Gentrification mechanism of the old industrial districts in Ningbo
+from the perspective of creative regeneration
+MA Renfeng
+1
+, W ANG Tengfei
+1
+, ZHANG Wenzhong
+2
+(1. Department of Geography and Spatial Information Techniques, Ningbo University-University of Angers
+Joint Institute at Ningbo, Ningbo University, Ningbo 315211, Zhejiang, China; 2. Institute of Geographic
+Sciences and Natural Resources Research, CAS, Beijing 100101, China)
+Abstract: At the same time as the gentrification movement has increasingly become a mean of
+urban renewal in some cities around the world, the connotation of the gentrification theory has
+been greatly enriched, and it has attracted the attention by different disciplines such as
+geography, planning, and management. In particular, with the rise of the cultural and creative
+industries in the 1990s, the renovation of old industrial zones led by creative parks has become
+one of the most important strategies for urban renewal, industrial upgrading and urban
+marketing, similar to the Western society's gentrification. And how to analyze the logic behind
+this phenomenon and reveal the dynamic mechanism of gentrification in the old industrial
+districts has become a research hotspot and difficulty in the study of gentrification and urban
+planning in the 21st century. In this article the Ningbo Hefeng Creative Plaza was chosen as
+case, questionnaires and interview data were used and the rooted theory and structural equation
+model were applied to construct and verify the dynamic mechanism of gentrification in the old
+industrial districts covering space production, push- pull mode and creative clusters. The
+findings can be concluded here: ( 1) The creative restoration process of Hefeng Creative Plaza
+presents a typical gentrification phenomenon, with characteristics of the openness and multi-
+landscape dominated by high- end office buildings, privatization of thesettled enterprises, the
+characteristics of creative production factors and the externalization of production relations, as
+well as group characteristics of younger population, feelings of creativity and service-oriented,
+creativity and service-oriented. ( 2) The phenomenon of gentrification in Hefeng Creative Plaza
+is a social space replacement formed by the push-pull method under the production of space in
+the old industrial districts. That is, spatial fix is dominated by the production and reproduction
+relationships linked by capital, power, and creativity; The material space creation and creative
+practice of architectural planners and creative class form a spatial representation; Spatial
+representation promotes the endogenous development and evolution of creative clusters,
+catalyzes cultural consensus and identity based on cultural, ideal and emotional experiences,
+and sublimates into a representational space. the Logical path of "sensual recognition of local
+elements → rational constraints of capital elements and relationship forces → coordination of
+local elements, capital elements and relationship forces → feedback of relationship forces" has
+been formed, which has activated the spatial evolution of the old industrial areas. ( 3) The
+development of Hefeng Creative Cluster depends on the interaction of cultural atmosphere,
+office environment, economic location, government policy and social relationship network.
+Keywords: gentrification in the old industrial districts; creative fix;the production of space;
+creative clusters; Ningbo
+796

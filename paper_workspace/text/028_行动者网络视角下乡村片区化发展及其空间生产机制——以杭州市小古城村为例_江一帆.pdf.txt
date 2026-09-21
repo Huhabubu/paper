@@ -1,0 +1,1530 @@
+
+--- PAGE 1 ---
+第 XX 卷 第 XX 期
+XXXX 年 XX 月
+Vol.XX， No.XX
+XX， XXXX
+热 带 地 理
+TROPICAL GEOGRAPHY
+行动者网络视角下乡村片区化发展及其
+空间生产机制——以杭州市小古城村为例
+江一帆
+1
+，武前波
+1
+，黄琴诗
+2,3
+（1. 浙江工业大学 设计与建筑学院，杭州  310023；2. 浙江科技大学 土木与建筑工程学院，杭州  310023；
+3. 同济大学 建筑与城市规划学院，上海  200092）
+摘 要：随着乡村振兴战略的深入推进，传统乡村发展方式普遍面临多重困境，乡村片区化、组团式发展方兴
+未艾。立足新时代乡村建设现实，基于行动者网络理论与空间生产理论，构建乡村片区化发展理论分析框架。
+以杭州市小古城村为例，运用半结构式访谈、参与式观察等质性方法，总结乡村片区化的发展历程，剖析其治
+理特征与发展机制。结果发现： 1） 乡村片区化发展经历发展起步、单村独建和抱团共建3 个阶段，小古城村在
+单村独建阶段率先发展，成为片区内发展的重要节点，承担辐射带动周边村 （ 社 ） 的引领作用；2） 先后形成
+的 2 个乡村行动者网络，均以小古城村村委为关键行动者，深化拓展民主协商议事，积极协调异质行动者异议，
+整合乡村内外发展要素，实现乡村片区化发展； 3） 乡村片区化发展的空间生产机制经历了权力主导、生活-资
+本互动、生活逻辑在权力 -资本上叠写的演进，最终实现乡村多维空间功能融合、多元主体合作共建。最后从
+乡村片区化发展、乡村治理机制及乡村产业运营等方面为新时代乡村可持续、高质量发展提供建议策略。
+关键词：乡村建设；乡村片区化发展；乡村产业运营；空间治理；行动者网络理论；杭州市小古城村
+中图分类号：C912.82                     文献标志码：A   文章编号：1001-5221(XXXX)XX-0001-14
+DOI：10.13284/j.cnki.rddl.20240374 
+自新中国成立以来，长期以生产为主导思维的
+“重城市、轻农村”倾向，以及城市对乡村人口、
+资源等各类要素的极化作用，导致乡村发展主体老
+弱化、资源利用率低、环境污染等问题逐渐凸显
+（ 郑小玉 等，2018） ，城乡差距不断扩大。进入新世
+纪以来，为推动中国乡村振兴、缩小城乡发展差
+距，国家出台系列的乡村建设行动实施方案，各类
+乡村建设活动席卷全国。依托“社会主义新农村建
+设” “农村人居环境整治” “美丽乡村建设”等战略
+行动，从乡村人居环境、基础设施、公共服务建设
+起步，不断拓展乡村建设内容，有效地解决了农村
+垃圾、污水排放和农业面源污染等问题，极大地改
+善乡村生产生活条件。与此同时，城乡融合发展导
+向下的乡村价值认知被重新发现，不少省市区乡村
+功能逐渐由单一生产活动向休闲消费、文化传承及
+生态服务等领域拓展，促进乡村产业多元化发展。
+然而，现有乡村产业发展路径多是将各个村庄视为
+互不关联的个体单元，单个村落资源有限且难以形
+成集聚优势，同时村庄发展缺乏统筹规划，面临整
+体盘活困难、产业结构同质化严重、治理低效等困
+境 （ 刘欣 等，2021） 。在乡村振兴战略背景下，中
+国沿海发达地区开始探索“乡村片区化”发展模
+式，如浙江省以组团联动的片区推进未来乡村建
+设、江苏省特色田园乡村示范区建设、广东省广州
+收稿日期：2024-06-11；修回日期：2024-10-10
+    基金项目：浙江省哲学社会科学规划课题 （23NDJC090YB） ；国家自然科学基金项目 （42201251、52208089）
+    作者简介： 江一帆 （2000—） ，女，浙江兰溪人，硕士研究生，主要研究方向为村镇空间理论与应用方法， （E-mail） jiangyifan0531@
+163.com；
+    通信作者：武前波 （1979— ） ，男，河南滑县人，教授，主要研究方向为城市地理与城乡规划， （E-mail） wuqianbo99@163.com 。
+江一帆，武前波，黄琴诗 .  行动者网络视角下乡村片区化发展及其空间生产机制——以杭州市小古城村为例.  热
+带地理， XX （XX） ：1-14.
+Jiang Yifan, Wu Qianbo, and Huang Qinshi.  Clustered Rural Development and Its Spatial Production Mechanism from 
+the Perspective of Actor-Network Theory: A Case Study of Xiaogucheng Village, Hangzhou.   Tropical Geography, XX (XX):  
+1-14.
+网络首发时间：2025-09-05 13:12:43       网络首发地址：https://link.cnki.net/urlid/44.1209.N.20250904.1717.001
+--- PAGE 2 ---
+XX 卷热 带 地 理
+新乡村示范带等 ，通过科学规划和资源系统性整
+合，实现乡村片区化均衡发展 ，从而提升治理效
+能，逐步迈向共同富裕。
+学界对于乡村片区化的研究处于起步阶段 ，相
+关概念众说纷纭 ，出现 “乡村群 ” （袁新国  等，
+2021） “多村联动发展 ” （陆琦 等，2016） “乡村连
+片振兴” （李肖亮 等，2022） 等概念，其共通之处
+是在适度规模的空间范围内 ，针对自然、资源、产
+业及文化等要素类同或紧密联系的镇村 ，突破行政
+边界的束缚，通过规划引导，发挥乡村片区的聚合
+能力 ，破除低效建设和内卷化发展 ，实现资源共
+享、产业联结、协同治理的统筹 ，促进协同增效发
+展 （陆琦 等，2016；刘欣 等，2021；袁新国  等，
+2021；李和平 等，2023） 。现有研究主要集中在规
+划编制、发展模式、驱动因素与策略等方面 （阮宇
+超 2020；袁新国 等，2021；吴昊 等，2022；车乐 
+等，2024） ，对于乡村片区化发展的理论逻辑及内
+在机制研究较少 。因此，深入探讨乡村片区化发展
+的内在机制，不仅可以丰富乡村发展理论研究 ，也
+有助于重新审视解构乡村地域空间价值 ，响应城乡
+融合发展国家战略 ，为新时代乡村高质量可持续发
+展提供参考。
+从既有研究看，乡村空间是当前地理学 、社会
+学、城乡规划学等多个学科的讨论热点 ，在城镇
+化、工业化的快速推进下 ，乡村地区的要素产品和
+服务需求不断扩大 （陈前虎 等，2019） ，积累过剩
+的城市资本大量流入乡村地域 ，乡村被纳入工业生
+产和消费网络 （武前波 等，2016） 。伴随着乡村产
+业功能拓展，乡村中各类社会关系不断联结 、打断
+与再纠缠，并生产出多元空间内涵 ，但仍有许多研
+究仅关注乡村建设行为 ，难以实现对乡村空间塑造
+的深刻剖析。西方乡村空间研究在经历物质与意识
+的二元争辩后呈现社会构建化 （杨忍 等，2020） ，
+出现“后乡村 ” “乡村性 ”等概念 ，涌现出空间生
+产、行动者网络、流空间等代表性理论解释 ，形成
+相对完善的乡村空间理论体系 。其中，法国社会学
+家列斐伏尔提出的空间生产理论认为 ，空间不是一
+个物质性的器皿 ，空间中的物质变化是空间背后社
+会变迁的表象，实质是权力、资本及各种社会力量
+相互交织并塑造空间的动态过程 （亨利 ·列斐伏
+尔，2022） 。为辨析空间是如何被生产和再生产提
+供了重要的理论工具 。国内学者将空间生产理论广
+泛用于乡村空间转型 （高慧智 等，2014） ，生产主
+体、生产过程与机制 （孙九霞  等，2014；张文力  
+等，2024） ，空间治理 （杨洁莹 等，2020） 等方面
+研究中。同时，法国巴黎学派提出的行动者网络理
+论将人与非人行动者 、物质与社会结构 、要素流和
+网络化互动纳入分析范围 ，将空间和时间视为过程
+和关系的产物 ，借助网络结构化主体之间的关系 ，
+揭示社会现象背后的动态过程 （Callon, 1984） ，为
+理解人类活动的空间结构和流动性提供了新视角 。
+行动者网络理论以网络为基础 ，能捕捉到乡村社会
+空间的复杂性和动态性 ，被学者用于解释旅游空间
+重构 （陈培培 等，2015） 、乡村空间商品化 （王鹏
+飞 等，2017） 以及空间治理 （李伯华  等，2023）
+等方面。
+伴随着乡村空间研究由绝对空间向相对空间 、
+关系空间拓展 （艾少伟  等，2010） ，其空间演变
+“作用因素 ”与“网络结构 ”的结合逐渐受到地理
+学、城乡规划等学科的关注 （吕慧妮 等，2023；陈
+庚 等，2023） ，将参与空间生产与再生产的主体和
+要素总括到同一分析框架下 （曾鹏 等，2022） ，空
+间成为联系不同层次结构系统的纽带 ，有助于理解
+现实乡村空间的构建过程与作用逻辑 。因此，本文
+尝试借助行动者网络与空间生产理论构建研究框
+架，以杭州市小古城村为实证案例 ，探讨有关乡村
+片区化进程中参与空间重构行动者内部的关联与具
+体实践背后内涵的隐喻权力 。旨在为乡村片区化发
+展治理提供策略建议 ，为多元主体推进乡村振兴提
+供思路。
+1 理论框架与研究方法  
+1.1　理论分析框架　
+行动者网络理论由 Bruno Latour、Michael Cal ‐
+lon 为代表的法国社会学家提出的研究方法 ，主张
+在特定社会和技术背景下 ，各种行动主体通过网络
+化的互动和关联来构建时空 （Callon, 1984; Latour, 
+1987; Law, 1999） 。该理论包含行动者、转译和网络
+3 个核心概念， “行动者”既可以是人类也可以是非
+人的存在或力量 ，是参与实践的所有因素 。 “转译”
+是行动者网络理论的核心 ，包含问题呈现、利益赋
+予、征召、动员和异议 5 个环节，由此连接各个被
+赋予身份和行为行动者 ，构建完整的网络 （刘宣 
+等，2013） 。同时，在网络运行的过程中 ，各异质
+主体之间会产生争议 ，为保持网络稳定状态 ，通过
+再次转译界定和保障各行动者的利益 ，对异议展开
+处理。行动者网络理论是对空间关系和复杂网络有
+效联系的表征 （Murdoch, 1998） ，近郊乡村作为城
+2
+--- PAGE 3 ---
+江一帆等：行动者网络视角下乡村片区化发展及其空间生产机制 ——以杭州市小古城村为例XX 期
+市腹地，承担的功能及涵盖的空间主体复杂 ，借助
+行动者网络理论将其空间各要素联结成网络 ，分析
+各行动者之间矛盾与异议的解决过程 ，能够深入理
+解空间现象背后的治理逻辑。
+“空间生产 ”理论是通过空间实践 、空间表征
+和表征空间构建三元辩证法 （叶超 等，2011） ，反
+思和批判资本主义社会空间 。列斐伏尔认为空间是
+社会生产的一部分 ，并且受到社会驱动力的控制 ，
+空间现象背后是资本 、权力、文化等社会层面话语
+体系的交织 ，反映多方利益的博弈和意志的斗争 。
+在乡村积极发挥生态景观 、文化传统等价值优势的
+过程中，乡村空间主体也由传统的单一共同体转变
+为多重利益相关群体 ，如地方政府、市场力量的介
+入。在此情境下，空间生产理论为解释乡村发展路
+径提供了有力的分析框架 ，多数乡村在市场资本介
+入后，空间生产主体由原有的当地村民或村集体转
+变为权力与资本的利益共同体 ，后者 （如政府、旅
+游开发公司等 ） 在塑造空间表征方面发挥重要作
+用，而普通的空间使用者 （如当地村民等） 往往受
+限于表征空间的框架 ，无法在空间中生产 ，由此出
+现各类利益矛盾纠纷 。乡村空间生产本质上是各空
+间生产主体之间的权力博弈进而推动空间变迁 ，行
+动者网络理论中转译与异议排解过程暗含资本 、权
+力、文化等社会层面话语体系的交织 ，与空间的生
+产过程相对应 。因此，本文基于 2 个理论视角构建
+乡村发展演变的分析框架 （图 1） ，展示空间生产过
+程中行动者网络的复杂关系和互动方式 ，以揭示多
+主体参与下乡村片区化发展及其治理机制。
+1.2　研究对象与方法　
+乡村片区化的发展类型可划分为中心辐射型 、
+多核网络型和分散合作型 。其中，中心辐射型指由
+一个经济实力雄厚且资源丰富的核心村主导 ，周边
+村社通常依赖核心村的资源和优势 ，以实现自身的
+经济增长和社会进步 ，在空间组织上呈现层次分明
+的辐射状结构形态 。多核网络型指片区内村社规模
+和实力相当，村庄之间保持一定程度的独立性 ，在
+经济活动和社会发展方面展开密切的协作形成网络
+化产业链，空间组织呈现均衡分布格局 。分散合作
+型指村社间通过资源共享和产业合作实现共同的经
+济社会发展 ，尽管在地理空间上村庄分布相对分
+散，但通过项目合作等方式加强联系 ，从而实现乡
+村片区互补式发展。
+本研究对象小古城村地处杭州市余杭区西部 ，
+隶属径山镇，北苕溪穿村而过 ，两岸丛生千余亩天
+然淡竹林 ，生态茶园与耕地组成最美江南大地景
+观，是大径山乡村国家公园核心区 ，拥有便利的交
+通以及优越的自然环境 。在浙江省高质量发展建设
+共同富裕示范区背景下 ，余杭区径山镇探索以片区
+化组织的“乡村新社区”建设共同富裕现代化基本
+单 元， 旨 在 通 过 乡 镇 核 心 村 的 辐 射 带 动 周 边 村
+（社） 的发展，实现资源优势互补 、产业融合发展，
+推动村镇片区经济繁荣和人民生活水平提升 。小古
+城“乡村新社区 ” （图 2） 是以小古城村为核心村 ，
+包括潘板桥村、求是村、漕桥村、桥头社区。在乡
+村片区化发展过程中 ，小古城村积极发掘生态资源
+价值，率先形成较强的产业发展基础 ，而后再理清
+各村 （社） 发展的资源要素及内在联系 ，通过积极
+的技术引导和开发活动 ，在地域单元内统一布局种
+类丰富，形式多样的乡村文旅消费产品 ，形成集聚
+效应和规模效应 。在组织管理上，各村通过村集体
+合作社出资成立强村公司 ，发展乡村物业服务 ，统
+一运营乡村休闲产品品牌。
+本研究方法以半结构访
+谈 为 主，开 展 实 地 调 研 记
+录、访谈内容解读、相关文
+本转译等材料整理和分析 。
+一方面，从村委、政府工作
+人员及职业经理人获取乡村
+新社区建设的相关材料以及
+社会经济数据 （表 1） 。另
+一 方 面， 于 2022 年 8 月 、
+2023 年 4 月在小古城乡村新
+社区进行多次实地调研 ，对
+当地村民、村干部、职业经
+理人、创业者和游客等展开
+ 
+转译结果 空间形态演变、生产关系变化
+行动者网络 空间生产
+人类行动者 非人类行动者 权力 资本 生活
+空间生产进程
+（物质实体、社会结构）
+关键行动者
+问题呈现
+ 强制通行点
+ 利益赋予
+征召动员
+网络运作
+异议
+重新转译
+空间实践
+空间表征
+ 表征空间
+秩序语言
+主动反馈
+自上而下
+自下而上
+物质条件限制
+物质环境影响
+ 空
+间
+生
+产
+机
+制
+行
+动
+者
+网
+络
+转
+译
+图 1　行动者网络-空间生产理论分析框架
+Fig.1　The analytical framework diagram of actor-network and spatial production theory
+3
+--- PAGE 4 ---
+XX 卷热 带 地 理
+深入访谈 （表 2） ，访谈问题主要包括各村 （社） 基
+本情况、发展历程、日常生产生活、旅游建设经营
+状况、村民相关意见等。
+2 乡村片区化发展路径 ：以杭州市小
+古城村为例 
+杭州市小古城乡村新社区发展历程与政策供
+给、资本介入等要素密不可分 ，本文根据重要的节
+点性事件将其发展历程划分为 3 个阶段：发展起步
+阶段、单村独建阶段和抱团共建阶段 （图 3） 。
+2.1　阶段一：发展起步阶段（1978—2002 年）　
+该阶段，党的十一届三中全会对农业农村发展
+提出一系列调整政策措施 ，掀起农村发展新篇章 。
+1982 年，浙江省全面推行家庭联产承包责任制 ，次
+年，片区内各村庄完成分田到户 ，承包地主要用于
+种植粮食作物和茶叶 。伴随着农业生产率的提高 ，
+一批劳动力走出耕地 ，兴办茶厂 、糕点厂 、皮鞋
+厂、电镀厂等 ，积极发展乡 村工业 ，拓展收入来
+源。同时，该阶段开始进行乡村环境污染防治 ，农
+村基础设施、人居环境得到较大改善 ，基本实现通
+路 、 通 电 和 通 电 话， 村 庄 基 础 设 施 得 到 进 一 步
+完善。
+2.2　阶段二：单村独建阶段（2003—2020 年）　
+该阶段的标志性事件是 2003 年时任浙江省委书
+记习近平同志提出在全省启动 “千村示范、万村整
+治”工程 （以下简称 “千万工程 ”） ，由此拉开了
+新时期乡村建设的序幕 。在“千万工程 ”实施初
+期，各村 （社） 在政府政策支持和资金补助下 ，落
+实道路硬化、污水处理、垃圾处理等项目 ，实现乡
+村人居环境全面提升。2011 年，浙江省深化“千万
+工程”实施成果，开展美丽乡村建设行动 ，潘板桥
+村、求是村、漕桥村在“千万工程”的支持下，拆
+除不雅观建筑、整治立面、庭院绿化美化、道路提
+升、垃圾分类等，优化村庄环境，于 2017 年完成美
+丽乡村精品村创建任务 。同时，潘板桥村抓住了大
+ 
+1km0
+小古城村
+潘板桥村
+漕桥村
+求是村
+桥头社区
+杭州主城区
+余杭区
+研究对象
+临安区
+临平区
+萧山区
+40km/50min
+（车行）
+30km /35min
+（车行）
+5km0
+图 2　研究区域
+Fig.2　Research area
+表 1 研究区域基本情况
+Table 1　The basic situation of the Study Area
+类别
+村域面积/km2
+户数/户
+人口/人
+生态资源
+文化资源
+业态
+集体经济
+定位
+小古城村
+12.00
+1 072
+3 800
+苕溪、茶园、农田、竹林
+小古城遗址、民主协商、径山
+茶文化、农耕村落文化
+乡村旅游、休闲农业、
+教育研学
+杭州小古城旅游
+发展有限公司
+乡村旅游示范区
+潘板桥村
+7.63
+771
+2 652
+苕溪、茶园、农田、竹林
+径山茶文化、党建文化、
+农耕村落文化
+乡村旅游、休闲农业、
+教育研学
+杭州潘板桥旅游
+发展有限公司
+求是村
+7.76
+926
+3 000
+苕溪、湿地、农田
+党建文化、农耕村落文化
+花卉苗木、休闲农业、
+蔬菜粮食种植
+杭州求实油品经营
+有限公司
+径山镇教育资源集中地
+漕桥村
+12.8
+806
+2 450
+农田
+党建文化、
+农耕村落文化
+粮食种植、工业园区
+杭州漕桥物业
+管理有限公司
+径山镇工业集中区
+注：表 1、2 资料均根据实地调查访谈获取 。
+4
+--- PAGE 5 ---
+江一帆等：行动者网络视角下乡村片区化发展及其空间生产机制 ——以杭州市小古城村为例XX 期
+径山开发的机遇 ，通过径山花海、旅游集散中心等
+关键项目，促进旅游业以及农家乐 、民宿等相关产
+业的发展，为村民提供新的经济收入来源。
+小古城村坚持“众人的事情由众人商量 ”的民
+主协商模式，带动村民参与到全村各项工作中 ，依
+托丰富的自然资源和深厚的人文资源大力发展休闲
+旅游产业 ，实现率先发展 。1） 村股份经济合作社
+将约 866.67 hm
+2
+土地集中流转给优质企业 ，引进
+“小古城休闲之窗 ”项目 ，形成现代农业与旅游 、
+休闲、体育、养生等有机结合的休闲产业 。2） 村
+集体组建杭州小古城旅游发展有限公司 ，由职业经
+理人运营 ，打造基层民主法治建设的党建考察产
+品，开发运营古灵精乐园 、苕溪营地等生态旅游项
+目、 “一日茶农 、小小笋农 ”等乡村农事研学活动
+以及“春健行、夏嬉水、秋追风、冬迎禧”等季节
+主题活动。在此基础上，拓展协商民主的内涵 ，村
+民、创客和投资者等自发组成 “古城 ·慢谷 ”平
+台，共同商议解决发展过程的难题 。2020 年，小古
+城村村集体收入近 970 万元，是 2010 年的 3 倍，村
+民人均收入从 2010 年的 7 000 元提高到 45 000 元。
+2.3　阶段三：抱团共建阶段（2021 年至今）　
+该阶段的标志性事件是 2021 年浙江省高质量发
+展建设共同富裕示范区 ，小古城村联合潘板桥村 、
+求是村 、漕桥村和桥头社区组成 “乡村新社区 ” ，
+跨村整合资源。片区内现有生态旅游集聚区 、生态
+农业集聚区 、径山集镇、工业园区 4 大片区，其中
+生态旅游集聚区配套设施齐全 ，旅游发展成熟。1）
+4 个村的股份经济合作社共同出资成立杭州古城控
+股有限公司，以乡村物业为立足点 ，着力发展乡村
+旅游、乡村物业服务等业务 。通过统一规划、统筹
+运营，进一步升级“古城·慢谷”的品牌形象，小
+古城村的旅游项目得以延伸至其他村 （社） ，串联
+起潘板桥村的径山花海以及求是村 、桥头社区的民
+宿及餐饮集群，抱团发展打造乡村美丽经济发展新
+模式，小古城村也由此入选浙江省第三批未来乡村
+名单 。依托活跃的市场经济和成熟的社会网络 ，
+2023 年片区强村公司古城控股经营性收入达 230 万
+元，古灵精共富工坊提供就业岗位 24 个，带动就业
+村民人均年增收 4 万余元。各村集体收入显著提升，
+其中小古城村收入突破千万元 ，潘板桥村和求是村
+经营性收入分别高达 380 万和 260 万元。2） 积极探
+索基层民主协商 “四议六步”工作法，扩散基层民
+主协商制度的优势 。漕桥村、潘板桥村等以此深化
+民主协商，发挥党员联户作用 ，走访等收集并解决
+环境卫生整治、村民矛盾纠纷化解等问题 ，办结满
+表 2 访谈对象基本信息
+Table 2　Basic information of the interviewees
+访谈时间
+2022 年
+8 月
+2023 年
+4 月
+编号
+A01
+A02
+A03
+A04
+A05
+A06
+B01
+B02
+B03
+B04
+B05
+B06
+B07
+B08
+身份
+小古城村书记
+村委工作人员
+职业经理人
+小古城村村民 01
+小古城村村民 02
+（原务农，后从事
+旅游服务）
+小古城村村民 03
+（民宿老板）
+径山镇工作人员
+职业经理人
+小古城村村民 05
+（共富零售摊主）
+小古城村村民 06
+小古城村村民 07
+（原务农，后从事
+旅游服务）
+求是村村民 02
+求是村村民 03
+潘板桥村村民 02
+性别
+男
+女
+男
+女
+女
+男
+男
+男
+女
+男
+女
+女
+男
+女
+编号
+A07
+A08
+A09
+A10
+A11
+A12
+B09
+B10
+B11
+B11
+B12
+B13
+B14
+B15
+身份
+小古城村村民 04
+（便民超市店主）
+求是村村民 01
+潘板桥村村民 01
+农创客
+游客 01
+游客 02
+潘板桥村村民 03
+潘板桥村村民 04
+漕桥村村民 01
+漕桥村村民 02
+游客 03
+游客 04
+游客 05
+游客 06
+性别
+男
+女
+男
+男
+女
+女
+男
+女
+男
+女
+男
+女
+女
+男
+ 
+1978 年 2002 年
+2010年
+ 2017年
+2020 年 至今
+发展起步阶段
+1978—2002年 2003—2020年 2021年至今
+单村独建阶段
+ 抱团共建阶段
+潘板桥村、求是村、
+漕桥村完成美丽
+乡村精品村创建
+小古城村完成土地
+流转，引进“休闲
+之窗”项目
+2005年
+小古城村股份
+经济合作社成立
+杭州小古城
+旅游发展有
+限公司成立
+2019年
+“小古城
+乡村新社
+区”成立
+2021年
+习近平总书记调研小古城
+村，强调坚持深化“众人
+的事情由众人商量”的
+民主协商模式 
+图 3　研究区域乡村建设发展历程演变
+Fig.3　The process of village construction of the Study Area
+5
+--- PAGE 6 ---
+XX 卷热 带 地 理
+意率 100%。上述举措不仅增强村民的参与意识和
+归属感，而且促进村民、村委会、企业以及其他社
+会组织间的有效沟通与合作 ，有效地化解内部矛盾
+与问题，显著提升乡村治理的效率与成效。
+3 行 动 者 网 络 视 角 下 的 乡 村 治 理
+特征
+杭州市小古城村片区化发展行动者网络中包括
+各级政府、各村村委及村民 、返乡创业者、职业经
+理人等人类行动者 ，以及土地、闲置房屋、自然人
+文资源和基层民主协商制度等非人类行动者 。随着
+不同发展阶段网络演变涉及网络异议的出现和排
+解 ， 新 的 强 制 通 行 点（Obligatory Passage Po int, 
+OPP） 得以建立。小古城乡村片区化行动者网络演
+进过程可分为 “单村独建 ”和“抱团共建 ”2 个阶
+段，后一阶段的网络是在前一阶段网络的基础上 ，
+通过拓展和转译形成的。
+3.1　单村独建阶段 ：行动者网络的形成　
+1） 行动者网络形成 。该阶段各村发展的行动
+者网络是独立的 ，但运作强度不一 。 “千万工程 ”
+实施初期，政府作为关键行动者 ，通过村庄分类整
+治、环境整治等建设活动 ，对各村 （社） 村委和村
+民等行动者进行征召 ，实现乡村人居环境全方位提
+升，小古城村得益于便捷的区位 、优越的环境及制
+度优势发展休闲旅游。2010 年前后，随着社会资本
+主动下乡，乡村旅游开始转型升级 ，旅游产品形式
+更加丰富 ，小古城村村委经民主协商 ，决定引进
+“小古城休闲之窗 ”项目，外部发展资源主要向小
+古城村集中 ，其村委为关键行动者 ，与政府 、村
+民、返乡创业等人类行动者 ，以及土地 、闲置房
+屋，生态与人文资源 、 “众人的事由众人商量 ”的
+基层协商民主形式等非人类行动者等共同构成行动
+者网络 。 “村里的事情要大家一起商量着办 ，所有
+的事情 （垃圾分类、厕所革命） 都在这个大樟树下
+办，围墙降下来之后
+①
+（降围墙是小古城村落实基
+层民主协商制度的典型事例 ）
+①
+，真正是邻里间心
+墙打开，美丽乡村，美丽环境都打造好了 ，就是要
+转变为美丽经济。” （小古城村书记）
+2） 问题呈现 。不同的行动者呈现多样诉求 ：
+长期的城乡二元结构导致乡村发展落后 ，城乡发展
+差距大 ，市、区级政府迫切需要寻找有效突破口 ；
+径山镇作为典型的生态型乡镇 ，其区位优势显著 ，
+但辖区内乡村发展缓慢 ，亟待探索“绿水青山就是
+金山银山 ”转化路径 （在“绿水青山就是金山银
+山”理念的指导下，通过创新机制和模式 ，实现经
+济发展与生态环境保护的双赢 ） ；村民面临收入水
+平低及就业等问题 ；非人类行动者方面 ，土地、闲
+置房屋待整合优化 、乡村生态价值待转换 、基层协
+商民主治理经验待发挥价值 。小古城村村委作为关
+键行动者，通过民主协商寻找强制通行点 ：发挥优
+美的生态环境和深厚的文化底蕴优势 ，加强基础设
+施建设、美化环境并发展绿色产业 ，把小古城村建
+设成宜游、宜业、宜居的美丽乡村 。以此进行征召
+动员，满足各行动者的需求 ，推动行动者间达成共
+识 （图 4） 。
+3） 征召动员 。村委作为关键行动者 ，通过人
+居环境提升征召 、土地征召 、产业运营征召等方
+式，吸引行动者参与并进行利益赋予 （图 5） 。①人
+居环境提升征召 ：小古城村在政府政策资金扶持下
+进行村庄改造提升 ，完善村内基础设施 ，完成围墙
+实改通、立面整治、整修道路等项目 ，打造景区型
+乡村。②土地征召 ：小古城村村委梳理村内耕地 、
+山林和竹林资源 ，经由村集体股份经济合作社集中
+流转给金巴登实业有限公司 、茗竹生态农业有限公
+司等企业，用于规模化种植和经营 。这不仅盘活土
+地资源 ，也为村民增加租金收入 。③产业运营征
+召：小古城村发挥其 3A 级景区的优势 ，通过招聘
+农村职业经理人制度 ，组建运营团队为村庄出谋划
+策，打造“慢谷·古城”品牌，逐步推进休闲旅游
+产业发展。一部分土地和项目 ，如古灵精乐园和苕
+溪营地等，由村集体成立的杭州小古城旅游发展公
+司统筹开发 ，“我们小古城村是在 2019 年的时候成
+立自己的强村公司小古城旅游 ，开始乡村运营 。”
+（职业经理人） 另一部分集体用地被转让给社会资
+本运营，如阳光农场、英特国际营地等。
+3.2　抱团共建阶段 ：行动者网络的重构　
+1） 问题呈现 。在单村独建阶段 ，各村 （社）
+村委作为关键行动者 ，把握乡村建设的主要活动 ，
+人类行动者及非人类行动者等受到征召 ，参与到行
+动者网络中，以此推动乡村发展 。小古城村依托自
+然禀赋及制度优势 ，先后获得“全国民主法治示范
+① 2018 年，为推动美丽乡村提升改造 ，小古城村党委决定在钱三村民小组开展 “降围墙、敞心墙”试点。村党委依照 “众人事众人商
+量”的传统 ，邀村民代表协商 。针对村民提出的诸如安全保障 、拆建费用等担忧 ，通过摆事实 、讲道理 、算大账 、话好处 ，逐步化解顾
+虑。得益于民主协商 ，降围墙从动议到决议仅用 21 d，从设计到竣工仅耗时 83 d。
+6
+--- PAGE 7 ---
+江一帆等：行动者网络视角下乡村片区化发展及其空间生产机制 ——以杭州市小古城村为例XX 期
+村” “国家级生态村” “浙江省美丽宜居示范村 ”等
+荣誉，村集体经济蓬勃发展 ，村民生活水平显著提
+高。但片区内各村 （社） 发展面临诸多问题 ：小古
+城村发展规模小且缺乏规划及制度支撑 ，周边村
+（社） 经济发展相对落后 、治理方式守旧等 ，片区
+内各村 （社） 发展差距大。
+为解决发展问题，实现共同富裕的目标 ，行动
+者网络的强制通行点转变为 “探索‘乡村新社区 ’
+发展模式：发挥基层协商民主的优势 ，科学地开展
+建设行动 ，推动实现共同富裕 ” ，周边村 （社） 受
+利益驱动加入网络 ，逐渐构建起抱团共建阶段的行
+动者网络。其中，小古城村村委在网络中最具驱动
+力，将各村的人类行动者以及非人类行动者等诉求
+汇集，通过找到强制通行点解决问题 ，使各行动者
+达成共识，联结成网络联盟 ，参与到乡村建设的具
+体事务中 （图 6） 。
+2） 征召动员。达成共识是形成网络的第一步 ，
+为了实现发展目标和保障各异质行动者利益 ，小古
+城村村委作为关键行动者 ，一方面 ，在政策征召
+下，通过基层协商民主的方式 ，给各异质行动者分
+派不同的任务，另一方面，借助经济利益动员异质
+行动者参与到具体的事务中 （图 7） 。
+ 
+行动主体 小古城村 村民
+其优美的生态环境和深厚的文
+化底蕴，通过民主协商加强基
+础设施建设、美化环境并发展
+绿色产业，把小古城村建设成
+宜游、宜业、宜居的美丽乡村
+基层协商民主制度
+问题：
+旅游资源丰富，
+但是缺乏发展资金
+目标愿景
+问题：
+生活质量差，
+收入水平低
+问题：
+待深化基层民主
+协商机制
+土地、房屋 
+问题：
+土地零碎、收益低，
+房屋风貌不一
+杭州市政府
+余杭区政府
+问题：
+城乡发展差距
+大，乡村
+发展落后
+城乡统筹
+发展
+径山镇政府
+问题：
+生态资源优渥，
+区位优势明显，
+但是乡村发展
+缓慢
+各村联合建设，
+发展特色乡村
+旅游
+增加收入，
+提升生活
+质量
+发挥制度优势
+推动乡村高质量
+发展
+提升土地收益，
+乡村风貌整治
+自然人文资源
+问题：
+自然资源丰富但
+利用率不高人文
+历史丰富但挖掘
+不够
+发挥经济价值地方旅游业
+发展
+图 4　单村独建阶段行动者与强制通行点
+Fig.4　The main actors and OPP in process of independent construction
+ 
+基层协商民主
+杭州市政府
+余杭区政府
+径山镇政府 小古城村
+基础设施 土地、房屋 自然人文资源
+小古城旅游
+发展公司
+村民
+政策、资金
+美
+丽
+乡
+村
+计
+划
+行
+动
+《
+余
+杭
+区
+美
+丽
+乡
+村
+建
+设
+专
+项
+行
+动
+实
+施
+细
+则
+》
+等
+小古城股份
+经济合作社 优质企业
+游客出售
+征召
+征召
+征召
+建设
+流转、改造
+宣
+传
+入驻创客
+土地
+流转
+房屋
+出租
+动
+员
+建
+设
+开
+发
+运
+营
+人类行动者 非人类行动者 转译图例
+图 5　单村独建阶段行动者网络及行动机制
+Fig.5　Actors network and operation mechanism in process of independent construction
+7
+--- PAGE 8 ---
+XX 卷热 带 地 理
+主要的行动包括：①政策资金支持：在杭州市
+及余杭区共同富裕相关政策的指引下 ，小古城村依
+托农村职业经理人机制 ，并结合径山镇“乡村新社
+区”发展模式 ，积极推进片区化发展 。同时，区、
+镇两级财政支持的专项资金 ，径山镇共同富裕发展
+基金等各类资金也为片区化发展提供各项利好和支
+撑条件。②规划建设：以乡村新社区的模式推进片
+区式组团化发展 ，构建核心村与周边村庄联建联
+创，推进共富行动。一方面，整合各村发展资源和
+景观，借助小古城村乡村休闲产品品牌 ，开发生态
+旅游、教育研学 、乡村文创等旅游业态 ， “我们要
+根据村子特色明确发展定位 ，每个村民都努力 。”
+（小古城村书记） 通过苕溪营地 、古灵精乐园等热
+门休闲产品 ，以各式传媒手段宣传 ，收获如潮客
+流， “这是我来了多次的户外遛娃宝藏地 ，想不好
+周末带娃去哪的时候 ，来这里准没错 。” （游客 05）
+另一方面 ，系统梳理各成员村农户土地集中流转 ，
+将土地租给优质经营企业种植管理 ，让村民不仅获
+得固定收益，还可腾出精力通过经营民食民宿 、外
+出就业等方式增加收入 。③经营管理：坚持“众人
+的事情由众人商量 ” ，引导村民广泛参与协商共谋
+发展，促进彩虹滑道、环线绿道、茶山慢道等建设
+ 
+行动主体 小古城村 潘板桥村 求是村 
+漕桥村  桥头社区 村民
+在政策支持下，科学地
+制定发展路径，发挥
+基层协商民主的优势，
+开展乡村新社区的建设
+行动，推动共同富裕
+基层协商
+民主制度
+问题：
+与周边村（社）
+产品同质化严重、
+形式单一，难以
+形成集聚效应和
+规模效应等
+问题：
+经济发展相对
+落后、村庄治
+理方式守旧
+目标愿景
+问题：
+收入水平低，
+城乡差距大
+问题：
+待推广至其他村
+（社），发挥作用
+土地 闲置房屋 
+生态景观 乡村休闲产品
+问题：
+发挥经济价值
+杭州市政府
+余杭区政府
+问题：
+城乡发展差
+距大，乡村
+发展内生动
+力不足
+城乡统筹，
+实现共同
+富裕
+径山镇政府
+问题：
+镇域内乡村
+发展不均衡、
+乡村治理典
+型案例经验
+待推广
+以点带面带动
+全域乡村发展，
+打造共同富裕
+样板
+各村联合建设，
+发展特色乡村
+旅游
+提升基础设施，
+带动产业发展，
+同时提升治理
+水平
+村庄治理有
+效，生活
+富裕
+推广至周边
+村（社）,
+促进乡村
+发展
+打破乡村行政
+边界限制进行
+整合，发挥
+经济价值
+图 6　抱团共建阶段行动者与强制通行点
+Fig.6　The main actors and OPP in process of collaborative construction
+ 
+基层协商民主
+杭州市政府
+余杭区政府
+径山镇政府
+基础设施 土地、闲置房屋 生态资源、乡村休闲产品
+径山共富基金
+杭州古城控股有限
+公司
+村民
+游客入驻创客
+政策、资金
+征召
+征召
+流转、改造
+开发运营
+建设
+征召
+动员
+成立
+《
+杭
+州
+高
+质
+量
+促
+进
+农
+民
+农
+村
+共
+同
+富
+裕
+行
+动
+计
+（2021—2025
+年
+）
+》
+《
+余
+杭
+高
+质
+量
+发
+展
+建
+设
+共
+同
+富
+裕
+示
+范
+先
+行
+区
+实
+施
+方
+案
+》
+房屋出租
+土地流转
+优质企业
+出售
+宣
+传
+人类行动者 非人类行动者 转译图例
+建
+设
+资
+助潘板桥村
+求是村
+漕桥村
+桥头社区
+小古
+城村 +
+图 7　抱团共建阶段行动者网络及行动机制
+Fig.7　Actors network and operation mechanism in process of collaborative construction
+8
+--- PAGE 9 ---
+江一帆等：行动者网络视角下乡村片区化发展及其空间生产机制 ——以杭州市小古城村为例XX 期
+项目落地，顺利推动了农文旅发展 。另外，强村公
+司作为平台整合各村各类资源 ，有效地提升乡村旅
+游和相关产业的竞争力 ，为村民在家就业创业创造
+机会， “最早我是自己开一家宠物店 ，那现在也是
+回到家乡就业了 ，可以在这里照顾到家人 ，照顾到
+孩子。” （小古城村村民 01） 同时，强村公司还提供
+环境卫生 、垃圾清运和绿化养护服务等经营活动 ，
+增加村集体收入。
+3.3　乡村片区化发展 ：行动者网络中的异议与协商
+行动者网络运行过程中 ，异质行动者之间可能
+会产生异议，为保持网络稳定状态 ，关键行动者需
+及时发现并排除 ，若处理不当，异议可能会上升为
+无法调和的冲突 。小古城村村委作为网络的关键行
+动者，深化拓展民主协商议事 ，积极带领各异质行
+动者排除异议，推动片区化发展 。行动者网络中的
+人类行动者可划分为 3 个层级：以政府为主的行政
+主体，以村委为代表的地方主体 ，以及社会资本 、
+创业群体等外来主体 ，在网络运行过程中 ，地方主
+体是维持空间秩序的关键行动者 ，其他层级主体参
+与治理环节 。1） 村集体一方面通过土地流转等形
+式引入社会资本 ，另一方面共同出资成立强村公
+司，由职业经理人运营重要休闲旅游产品 ，将集体
+资源转化为经营性资产 。平衡资本的增值需求与乡
+村的公益属性 ，避免发展路径被资本逻辑完全主
+导，确保地方治理主体在资本介入后仍掌握建设主
+导权。2） 在资本介入乡村发展活动过程中 ，行政
+主体扮演配置资源的角色 ，村委传导政府政策 、承
+担村庄发展的具体事务 。当村民意愿与政府政策 、
+资本生产发生矛盾冲突时 ，村委坚持“众人的事情
+由众人商量”工作方法，构建各行动者共同参与的
+协商网络，协商解决问题，为村民提供参与决策渠
+道，明确村民的主体地位 。3） 创业者通过租赁村
+民房屋等形式参与乡村建设 ，其行为受村委、村民
+等地方主体影响或限制 ，其权益易被侵犯 。小古城
+村村委面对地方主体与外来主体的权益纠纷 ，创新
+民主协商机制，成立“古城·慢谷”平台，各方通
+过平台共同商议解决问题 。各主体平等的组织形
+式，使解决方案更具有广泛性和实用性 ，也促进内
+外部利益的平衡与融合。
+4 乡村片区化的空间生产机制  
+行动者网络展示了异质主体参与乡村片区化的
+过程，通过影响关键行动者及强制通行点的变化 ，
+推动空间转译并改变空间生产方式 ，最终通过物
+理、社会等层面空间重构表征 ，究其背后是空间生
+产机制的发展。自“千万工程”实施以来，小古城
+村空间在乡村建设进程中一再变迁 ，呈现单村独建
+到抱团共建的形态更迭 ，是权力主导 、生活-资本
+互动、生活逻辑在权 力-资本上叠写的演进 ，空间
+生产的多重机制在互动中渐续推进乡村空间形态生
+产与转向 （陈庚 等，2023） 。
+4.1　单村独建阶段 ：权力主导向生活—资本转变　
+“千万工程 ”实施初期 ，政府权力作用下的小
+古城村片区经转译完成生活空间改造提升 。随着都
+市消费空间的扩张 ，乡村的产品和服务的需求不断
+扩大。在市场经济的推动下 ，资本介入小古城村片
+区空间开发和生产中 ，在经济发展和生态保护的双
+重目标下，形成以小古城村村委为核心的行动者网
+络，此时空间生产的主要动力逐渐由权力主导向生
+活-资本互动转变。
+在“绿水青山就是金山银山 ”理念的指导下 ，
+小古城村村委发挥基层民主协商制度的优势 ，自上
+而下对村民、投资者以及自然资源等内外部各类行
+动者进行征召，致使其共同参与到空间实践中 ，对
+生活空间进行改造或建设 ，打造乐园、营地、民宿
+等消费空间 ，形成 “生活-消费”一体化的趋势 。
+“我以前在杭州上班 ，后来村里搞了旅游发展起来 ，
+之后我们就回家开了个民宿 ，游客么也越来越多 ，
+生意也越来越好 。” （小古城村村民 03） 打造 “慢
+谷·小古城”品牌，有效地促进了生态产品价值的
+实现，将旅游构想具体化为物质空间中可识别的空
+间符号和消费性旅游商品 。从小古城村空间转置的
+作用力看，空间表征与表征空间之间存在可调节的
+张力：资本介入的旅游发展为村民提供显著的经济
+收益，村民在日常生活中对于空间表征结果的态度
+更多表现为“内化” ， “旅游业发展了 ，给我们老百
+姓带来了不少收益 ，本来我们打打零工 ，也没什么
+工作的，现在也找到了自己的工作岗位 ，生活比以
+前好多了。” （小古城村村民 02） 该过程中，村集体
+基于民主协商机制有意识引导村民参与筛选符合当
+地乡土文化的开发项目 ，成为旅游消费空间生产的
+“参与者 ” ，打破资本和权力逻辑主导的二元结构 ，
+形成有效的互动 。 “我们的环境变好了 ，生活条件
+变好了，整个村子的风气也变好了 ，每个人都是小
+古城村的主人 ，大家都在那里商讨事情 ，什么事情
+都公开透明。” （小古城村村民 04） 完善的协商制度
+及时有效地解决村庄运营过程中多方的矛盾和利益
+冲突，缓和外来资本下乡 、政府政策驱动发展产生
+9
+--- PAGE 10 ---
+XX 卷热 带 地 理
+冲突和弊端 ，保障乡村空间在发挥交换价值的同
+时，其使用价值不被压制。
+4.2　抱团共建阶段 ：生活逻辑在权力 -资本上叠写
+单村独建阶段，各村单独运营旅游产品 ，但多
+集中于小古城村 。伴随着消费需求不断扩大 ，空间
+不断再生产，在横向的地理扩张受到行政边界的限
+制，在纵向上各村发展出现不平衡和同质化 ，村
+（社） 发展面临困境 。与此同时 ，2021 年“浙江高
+质量发展建设共同富裕示范区 ”的提出使得抱团发
+展的逻辑逐渐显现 ，村镇越来越意识到要推动跨村
+空间功能整合 ，提高空间资源的使用效率和效益 。
+因此 ，径山镇政府提出 “乡村新社区 ”的发展构
+想，随之以小古城村村委为核心的行动者网络发生
+拓展，纳入周边村 （社） 的各异质行动者。
+在新的行动者网络中 ，小古城村村委及招聘的
+职业经理人在空间转译过程中发挥重要作用 ，基层
+民主协商制度使村 （社） 村民自下而上的主体性得
+以彰显，生活逻辑在权力-资本上的叠写，空间形态
+向 片 区 化 转 进。 一 方 面， 小 古 城 村 联 合 周 边 村
+（社） 成立强村公司 ，由职业经理人专业运营 “古
+城·慢谷” ，整合扩散旅游服务功能 ，优化旅游产
+品布局，吸收各村 （社） 部分闲置劳动力 ，增加村
+民收入 。 “我们提出一个叫共同富裕的乡村新社区
+的概念，把我们几个村社的这些文旅资源 ，把它统
+筹规划，能够更高效地把资源利用起来 。经过我们
+这几年的经营 ，也是实现了一定的经济效益 。” （职
+业经理人） “我一边么上班 ，一般摆着自己家的共
+富零售的摊位 ，因为这个摊位我不需要天天在这里
+管，是大家扫码 ，卖一点我们自己种的农副产品 ，
+靠这个零售店一年能挣好几万 。” （小古城村村民
+05） 消费空间的拓展 、各类设施的提升及生态环境
+的改造，丰富乡村旅游的功能价值 ，进而提升空间
+使用者的消费体验 ，同时通过村庄自主运营 ，塑造
+接近村民日常生活的空间情境 ，强化各村 （社） 村
+民地方认同感和共同体意识 ，实现消费空间和日常
+生活的统一 。 “以前我们在大樟树下商量自己村的
+事情，现在大樟树见证抱团发展的时刻 ，以后商量
+大家的事情 ，大家都越过越好 。” （小古城村村民
+07） 另一方面，在“众人的事情由众人商量 ”工作
+导向下，周边村 （社） 村民广泛参与公共事务的参
+与、讨论和协商管理 ，逐渐从被动的空间生产者变
+为主动的空间生产者 ，具有自发或自觉的文化自组
+织身份，更有效地融入乡村治理的行动网络中 ，与
+乡村空间的权力和资本建立联系 ，实现“村民”与
+“消费空间 ”在社会层面的空间融合 ， “这种事情
+（割草） 村里人要我找人干 ，但是我自己坐办公室 ，
+还不如自己干 ，省下一点钱吧 ，把村里的事情当成
+自己家里事情一样。” （小古城村村民 06） 由此，在
+外部推力与内生力量的互构下 ，空间生产构建更具
+协同互动的网络结构 ，地方文化、日常生活及消费
+体验得到联结，各异质主体在多维空间内共存 ，实
+现经济发展、生活有序、生态保护的美好愿景。
+4.3　空间生产的机制演进　
+权力逻辑强调通过权力展示 、空间规训、对话
+互动等机制来增强政府权力的合法性 ，实现政府权
+力的再生产 ；资本逻辑强调市场和企业的主导作
+用，通过资本的空间化和空间的资本化实现资本增
+值的目标；生活逻辑关注人的需求 ，强调满足人的
+生活需求和创造美好生活是空间生产的终极目标 。
+借助权力和资本逻辑 ，初期乡村建设实践可在短期
+快速提升物质空间质量 ，但随着乡村空间诉求不断
+多元化，这种自上而下的生产方式容易忽视村民日
+常生活的需求，出现空间符号化 、分异化、错位化
+等负面效益 （吕慧妮 等，2023） 。小古城村的发展
+实践有效平衡了三者关系 ：借助基层民主协商制
+度，将“生活逻辑 ”成功嵌入 “权力-资本”逻辑
+之中 ，将村民意愿充分融入到乡村建设 、产业运
+营、空间治理的各个环节 ，使得发展成果不仅有可
+供消费的景观与商品 ，更内化为提升村民生活品
+质、强化地方认同的真实场景 ，空间在日常生活 、
+生产 、消费活动中得以延续和发展 ，实现治理有
+效、文化和谐的善治乡村 。另一方面，乡村片区化
+空间生产不再仅关注单一村庄的发展 ，而是转向考
+虑乡村片区内部甚至与城市之间的网络关联 ，以点
+带面，由单维到系统的扩散示范村的建设经验 ，推
+进乡村片区化建设 ，实现空间互联、产业协同、分
+配机制共享，推动乡村价值重新焕发。
+5 结论与建议 
+本文尝试运用空间生产理论与行动者网络理论
+构建分析框架，以杭州市小古城村为例 ，对现阶段
+乡村片区化发展方式及治理机制进行剖析 。小古城
+村发展历程可划分为发展起步 、单村独建和抱团共
+建 3 个阶段 。在乡村发展过程中 ，政府、村集体 、
+村民等人类行动者以及自然资源 、土地、闲置房屋
+等非人类行动者在各自利益驱动下 ，通过强制通行
+点构建网络，并随着时间演进和政策等条件的变化
+发生重构 ，先后形成 “单村独建 ”和“抱团共建 ”
+10
+--- PAGE 11 ---
+江一帆等：行动者网络视角下乡村片区化发展及其空间生产机制 ——以杭州市小古城村为例XX 期
+2 个行动者网络。进一步对网络转译过程进行梳理 ，
+发现村集体在村庄发展中发挥承上启下的作用 ，整
+合乡村内外的发展要素 ，发挥民主协商的优势 ，调
+节多元参与主体之间的关系 ，促进行动者网络平稳
+运行。行动者网络拓展内含权力主导 、生活-资本
+互动 、生活逻辑在权 力-资本上叠写的演进机制 ，
+推进乡村空间由传统的生活空间逐渐转变为具有交
+换价值的都市消费空间 （图 8） 。
+小古城村经历的空间形态嬗变 、行动者网络拓
+展和生产逻辑演进是中国乡村振兴进程的缩影 ，该
+过程折射出对乡村空间价值认知深化及治理理念革
+新，为当下宜居宜业和美乡村建设提供参考。
+1） 破除镇村行政界限分割思维 ，通过资源共
+享、产业协同和设施共建等措施 ，统筹规划多个村
+镇，实现乡村片区化发展 。①要统筹片区内部的资
+源和空间布局，识别地域相邻，资源、产业等要素
+联系紧密的地区范围 ，与当前实用性村庄规划编制
+相结合，划分具有协同发展潜力的地理单元 。②优
+先考虑单元内已有或在建的示范村 ，以及具有显著
+发展趋势的村进行扶持和引导 ，成为发展的引领
+点。③以点及面，辐射带动周边村发展 ，形成多元
+的跨行政边界的协作网络，实现片区协同发展。
+2） 以协商民主为基础 ，构建多元主体相互协
+调的乡村片区化治理制度 。①构建村民主动参与的
+治理机制 ，鼓励村民共同参与村庄建设重要决策 ，
+注重村民在空间表征作用下深层次的协调 ，确保乡
+村发展策略的实施更符合村民的真实需求和利益 。
+②培育和发展乡村产业协商平台 ，协助外来创业
+者、从业者和村民建立广泛连接 ，以自治形式商议
+乡村发展对策，形成有效的治理互动网络 。③强化
+村集体资源整合和决策能力 ，村集体以村民共同利
+益为基础 ，与政府 、企业积极协商 ，有效地计划 、
+整合和运营内外资源 ，以实现乡村的内生可持续
+发展。
+3） 注重乡土性和市场化的协调发展 ，通过专
+业运营实现乡村持续增收和共富发展 。①立足于乡
+村的地域特色 ，以市场需求为导向 ，发挥市场化 、
+品牌化的引领促进作用 ，激活发展要素 （武前波  
+等，2024） ，因地制宜建设集农事体验 、科普教育、
+休闲娱乐等功能于一体的乡村产业园 ，打造乡村个
+性品牌，推动传统农业、生态农业、智慧农业的持
+续升级。②组建村庄运营平台 ，招募专业人才负责
+ 
+单村独建 单村独建
+乡村振兴
+市场投资
+经营治理
+小古城村
+村委
+基础设施
+提升
+消费空间
+浮现
+民主协商
+日常
+需求
+消费
+需求
+村民
+游客
+共生
+抱团共建
+共同富裕
+发展困境
+运营管理
+小古城村
+村委
+村（社）联建
+消费空间延伸
+强村公司
+日常需求
+消费需求
+村民
+游客
+共生
+民主协商
+乡村发展不均衡 乡村旅游缺乏统一规划，难以形成集聚效应 空间扩张受限 空间同质化
+生态型乡村
+政策支持
+消费需求
+资本下乡
+旅游型乡村
+空间实践
+村委引导
+村民行动
+空
+间
+表
+征
+表
+征
+空
+间 根本动力
+诱发因素
+外部机遇
+主导力量
+中介因素
+旅游型乡村
+政策支持
+消费需求
+乡村片区化
+空间实践发展困境
+村委引导
+空
+间
+表
+征
+表
+征
+空
+间 村民行动 根本动力
+主导力量
+诱发因素
+外部机遇
+直接动力
+抱团共建
+行动者网络拓展
+ 空间生产机制演变
+图 8　乡村片区化空间生产机制演变与行动者网络拓展关联示意
+Fig.8　The Mechanism Connection Diagram of Spatial Production and Actors Network in the rural cluster
+11
+--- PAGE 12 ---
+XX 卷热 带 地 理
+乡村建设经营，为乡村发展提供决策建议和全链条
+管理，促进集体资产资本化 ，使之成为乡村可持续
+发展的市场化动力。
+参考文献 （References） ：
+艾少伟，苗长虹 . 2010. 从“地方空间 ” 、 “流动空间 ”到“行动者
+网 络 空 间” ：ANT 视 角. 人 文 地 理， 25 （2） ：43-49. [Ai 
+Shaowei and Miao Changhong . 2010. From "Space of Places" , 
+"Space of Flows" to "Space of Actor-Networks" : An ANT 
+Perspective. Human Geography, 25(2): 43-49. ]
+Callon M . 1984. Some Elements of a Sociology of Translation : 
+Domestication of the Scallops and the Fishermen of St Brieuc 
+Bay. The Sociological Review, 32(S1): 196-233.
+车乐，沈溢，陈保禄 ，禹莎 . 2024. 国土空间整体性治理视域下复
+杂多元地区乡村片区化规划路径探索 ——以云南丽江拉市海
+田园单元为例 . 北京规划建设 ， （2） ：54-61. [Che Le, Shen Yi, 
+Chen Baolu , and Yu Sha . 2024. Exploring the Planning Pathways 
+for Rural Zoning in Complex and Diverse Areas from the 
+Perspective of Integrated Territorial Spatial Governance : A Case 
+Study of the Lashihai Pastoral Unit in Lijiang , Yunnan. Beijing 
+Planning Review, (2): 54-61. ]
+陈庚，周若依 . 2023. 行动者网络视角下城市历史文化风貌区的空
+间生产与转向 . 城市发展研究 ，30 （7） ：98-105. [Chen Geng 
+and Zhou Ruoyi . 2023. Spatial Production and Transformation of 
+Urban Historical and Cultural Areas from the Perspective of Actor 
+Network. Urban Development Studies , 30(7): 98-105. ]
+陈培培 ，张敏 . 2015. 从美丽乡村到都市居民消费空间 ——行动者
+网络理论与大世凹村的社会空间重构 . 地理研究 ，34 （8） ：
+1435-1446. [Chen Peipei and Zhang Min . 2015. From Beautiful 
+Village to Urban Residents' Consumption Space : Actor-Network 
+Theory and the Social Space Reconstruction of Dashiao Village . 
+Geographical Research , 34(8): 1435-1446. ]
+陈前虎 ，刘学，黄祖辉 ，黄向球 ，厉华笑 ，段德罡 ，温春阳 ，梅
+永平 ，赵辉 . 2019. 共同缔造 ：高质量乡村振兴之路 . 城市规
+划 ， 43 （3）： 67-74. [Chen Qianhu , Liu Xue , Huang Zuhui , 
+Huang Xiangqiu , Li Huaxiao , Duan Degang , Wen Chunyang, Mei 
+Yongping, and Zhao Hui . 2019. Co-Construction : A Path to High-
+Quality Rural Revitalization . City Planning Review , 43(3): 67-
+74. ]
+高慧智 ，张京祥 ，罗震东 . 2014. 复兴还是异化 ？消费文化驱动下
+的大都市边缘乡村空间转型 ——对高淳国际慢城大山村的实
+证观察 . 国际城市规划 ，29 （1） ：68-73. [Gao Huizhi , Zhang 
+Jingxiang, and Luo Zhendong . 2014. Renaissance or Alienation ? 
+Spatial Transformation of Rural Space of Metropolis Fringe Area 
+Driven by Consumer Culture : Empirical Observation on Dashan 
+Village of Gaochun International Slow City . Urban Planning 
+International, 29(1): 68-73. ]
+亨利·列斐伏尔 . 2022. 空间的生产 . 刘怀玉，译 . 北京：商务印书
+馆 . [Lefebvre Henri . 2022. The Production of Space . Liu Huaiyu , 
+Trans. Beijing: The Commercial Press . ]
+Latour B . 1987. Science in Action : How to Follow Engineers and 
+Scientists Through Society. Milton Keynes : Open University Press .
+Law J . 1999. After ANT : Complexity , Naming and Topology . The 
+Sociological Review, 47(S1): 1-14.
+李伯华 ，陈新新 ，窦银娣 ，刘沛林 . 2023. 行动者网络视角下传统
+村落空间治理研究 ——以湖南省岳阳市张谷英村为例 . 地理科
+学 ， 43 （7） ：1154-1166. [Li Bohua , Chen Xinxin , Dou Yindi , 
+and Liu Peilin . 2023. Space Governance of the Traditional 
+Settlement Based on the Perspective of Actor-Network : Taking 
+Zhangguying Village as a Case Study . Scientia Geographica 
+Sinica, 43(7): 1154-1166. ]
+李和平 ，赖文韬 ，肖文斌 ，高黎月 . 2023. 乡村连片规划 ：实践指
+向、理论逻辑与路径方法 ——基于 “功能 -网络 ”视角的解
+析 . 城市规划学刊 ， （3） ：47-55. [Li Heping , Lai Wentao, Xiao 
+Wenbin, and Gao Liyue . 2023. Practical Directions , Theoretical 
+Logic, and Methodology of Rural Contiguous Planning : An 
+Analysis in the "Function-Network" Perspective . Urban Planning 
+Forum, (3): 47-55. ]
+李肖亮 ，胡剑双 ，吴凡 . 2022. 乡村连片振兴地区规划方法与行动
+路径——以 《连云港市石梁河水库片区乡村振兴示范区建设
+规 划》 为 例. 规 划 师， 38 （8） ：98-105. [Li Xiaoliang , Hu 
+Jianshuang, and Wu Fan . 2022. Planning Strategy and Action Path 
+of Rural Continuous Revitalized Area : A Case in Lianyungang 
+City. Planners, 38(8): 98-105. ]
+刘欣，谢超 . 2021. 新时期超大城市近郊乡村空间发展机制重塑探
+索——以成都市郫都区为例 . 资源与人居环境 ， （11） ：28-35. 
+[Liu Xin and Xie Chao . 2021. Exploration of the Reshaping of 
+Spatial Development Mechanism for Rural Areas in the Suburbs 
+of Super-Large Cities in the New Era : A Case Study of Pidu 
+District, Chengdu. Resources and Habitant Environment , (11): 28-
+35. ]
+刘宣，王小依 . 2013. 行动者网络理论在人文地理领域应用研究述
+评 . 地理科学进展 ，32 （7） ：1139-1147. [Liu Xuan and Wang 
+Xiaoyi. 2013. A Review on the Application of Actor Network 
+Theory to Human Geography . Progress in Geography , 32(7): 
+1139-1147. ]
+陆琦，陈家欢 . 2016. 多村联动发展模式下的乡村规划特征与实践 . 
+新 建 筑，（4）： 23-27. [Lu Qi and Chen Jiahuan . 2016. 
+Characteristics and Practices of Rural Planning under the Multi-
+Village Linkage Development Mode . New Architecture , (4): 23-
+27. ]
+吕慧妮 ，杨忍 . 2023. 基于行动者网络的乡村转型及其空间生产研
+究——以凤和空港小镇为例 . 人文地理 ，38 （1） ：130-139. 
+[Lyu Huini and Yang Ren . 2023. Rural Transformation and 
+Spatial Production from the Perspective of Actors Network : A 
+Case Study of Fenghe Airport Town . Human Geography , 38(1): 
+130-139. ]
+Murdoch J . 1998. The Spaces of Actor-Network Theory . Geoforum, 29
+(4): 357-374.
+阮宇超 . 2020. 资源导向下珠三角外围地区乡村集群化发展策略研
+究 . 广州：华南理工大学 . [Ruan Yuchao. 2020. Research on the 
+Development Strategy of Rural Clusters in the Peripheral Area of 
+the Pearl River Delta under Resource Orientation . Guangzhou : 
+12
+--- PAGE 13 ---
+江一帆等：行动者网络视角下乡村片区化发展及其空间生产机制 ——以杭州市小古城村为例XX 期
+South China University of Technology . ]
+孙九霞 ，苏静 . 2014. 旅游影响下传统社区空间变迁的理论探讨
+——基于空间生产理论的反思 . 旅游学刊 ，29 （5） ：78-86. 
+[Sun Jiuxia and Su Jing . 2014. Traditional Community Space 
+Change under the Influence of Tourism : A Reflective Study Based 
+on Space Production Theory . Tourism Tribune, 29(5): 78-86. ]
+王鹏飞 ，王瑞璠 . 2017. 行动者网络理论与农村空间商品化 ——以
+北京市麻峪房村乡村旅游为例 . 地理学报 ，72 （8） ：1408-
+1418. [Wang Pengfei and Wang Ruifan . 2017. Actor Network 
+Theory and Commodification in Rural Space : A Case Study of 
+Mayufang Village in Beijing . Acta Geographica Sinica , 72(8): 
+1408-1418. ]
+吴昊，陈前虎 ，黄鹏奇 ，金霜霜 . 2022. 国土空间规划背景下基于
+乡村单元的实用性村庄规划编制探索 ——以杭州灵山乡村单
+元 为 例. 小 城 镇 建 设， 40 （11）： 41-49. [Wu Hao , Chen 
+Qianhu, Huang Pengqi , and Jin Shuangshuang . 2022. Exploration 
+on the Preparation of Practical Village Planning Based on Rural 
+Units in the Context of Territorial Spatial Planning : A Case Study 
+of Hangzhou Lingshan Rural Unit . Development of Small Cities 
+& Towns, 40(11): 41-49. ]
+武前波 ，龚圆圆 ，陈前虎 . 2016. 消费空间生产视角下杭州市美丽
+乡村发展特征 ——以下满觉陇 、龙井、龙坞为例 . 城市规划 ，
+40 （8）： 105-112. [Wu Qianbo , Gong Yuanyuan , and Chen 
+Qianhu. 2016. Development Features of Beautiful Countryside in 
+Hangzhou Based on Production of Urban Consumption Space : A 
+Comparative Study on Three Villages . City Planning Review , 40
+(8): 105-112. ]
+武前波 ，章轶菲 ，薛雯露 . 2024. 基于杭州市径山村和青山村的乡
+村 经 营 模 式 比 较 研 究. 城 乡 规 划， （2） ：1-11. [Wu Qianbo , 
+Zhang Yifei , and Xue Wenlu . 2024. A Comparative Study on 
+Rural Management Models of Jingshan Village and Qingshan 
+Village in Hangzhou. Urban & Rural Planning , (2): 1-11. ]
+杨洁莹 ，张京祥 ，张逸群 . 2020. 市场资本驱动下的乡村空间生产
+与 治 理 重 构——对 婺 源 县Y 村 的 实 证 观 察. 人 文 地 理，35
+（3） ：86-92， 114. [Yang Jieying , Zhang Jingxiang , and Zhang 
+Yiqun. 2020. Rural Space Production and Governance 
+Restructuring Driven by Market Capital : A Case Study of Y 
+Village in Wuyuan. Human Geography, 35(3): 86-92, 114. ]
+杨忍，陈燕纯，张菁，徐茜 . 2020. 20 世纪 90 年代以来西方乡村地
+理研究的主要理论演变与启示 . 地理科学 ，40 （4） ：544-555. 
+[Yang Ren, Chen Yanchun , Zhang Jing , and Xu Qian . 2020. The 
+Main Theoretical Evolution and Enlightenment of Western Rural 
+Geography Since the 1990s. Scientia Geographica Sinica , 40(4): 
+544-555. ]
+叶超，柴彦威 ，张小林 . 2011. “空间的生产 ”理论、研究进展及
+其对中国城市研究的启示 . 经济地理 ，31 （3） ：409-413. [Ye 
+Chao, Chai Yanwei, and Zhang Xiaolin . 2011. Review on Studies 
+on Production of Urban Space . Economic Geography , 31(3): 409-
+413. ]
+袁新国 ，王兴平 . 2021. 先发地区乡村群发展路径探索 ——以锡山
+区环南青荡乡村群为例 . 现代城市研究 ， （12） ：6-11. [Yuan 
+Xinguo and Wang Xingping . 2021. Exploration of the 
+Development Path of Rural Groups in Early-Developing Regions : 
+A Case Study of the Rural Group around Nanqing Lake . Modern 
+Urban Research, (12): 6-11. ]
+曾鹏，朱柳慧 . 2022. 关系视角下乡村空间认知与转型路径研究 . 人
+文地理 ，37 （1） ：1-8，17. [Zeng Peng and Zhu Liuhui . 2022. 
+Research on Rural Spatial Cognition and Transformation Path 
+from the Perspective of Relation . Human Geography , 37(1): 1-8, 
+17. ]
+张文力 ，朱喜钢 ，何思琪 ，严永红 . 2024. “后乡村 ”语境下成都
+竹艺村的空间生产研究 ——基于三重乡村空间模型的视角 . 热
+带地理 ，44 （2） ：280-291. [Zhang Wenli, Zhu Xigang , He Siqi , 
+and Yan Yonghong. 2024. Spatial Production of Chengdu Bamboo 
+Craft Village in a "Post-Rural" Context : From the Perspective of 
+the Three-Fold Model of Rural Space . Tropical Geography, 44(2): 
+280-291. ]
+郑小玉 ，刘彦随 . 2018. 新时期中国 “乡村病 ”的科学内涵 、形成
+机制及调控策略 . 人文地理 ，33 （2） ：100-106. [Zheng Xiaoyu 
+and Liu Yansui . 2018. Connotation , Formation Mechanism and 
+Regulation Strategies of Rural Disease in the New Epoch in 
+China. Human Geography, 33(2): 100-106. ]
+作者贡献声明：
+江一帆江一帆：文献整理、实地调研、论文写作、修改；
+武前波武前波：研究选题、论文构思指导 ，论文修改、校核；
+黄琴诗黄琴诗：研究选题、论文构思指导 。
+Clustered Rural Development and Its Spatial Production Mechanism from the Perspective of 
+Actor-Network Theory : A Case Study of Xiaogucheng Village , Hangzhou
+Jiang Yifan
+1
+, Wu Qianbo
+1
+, and Huang Qinshi
+2,3
+(1. School of Design and Architecture , Zhejiang University of Technology , Hangzhou 310023, China; 2. School of Civil Engineering and 
+Architecture, Zhejiang University of Science and Technology , Hangzhou 310023, China; 3. College of Architecture and Urban Planning , 
+Tongji University, Shanghai 200092, China)
+Abstract: With the advancement of China's Rural Revitalization Strategy , the traditional single-village 
+development model faces resource , industrial , and governance bottlenecks . In response , a clustered rural 
+13
+--- PAGE 14 ---
+XX 卷热 带 地 理
+development model has emerged . Although this practice is underway , academic research on its theoretical logic 
+and internal mechanisms remains nascent and requires in-depth analysis to guide implementation . This study 
+constructs an analytical framework based on the Actor-Network Theory and the Theory of the Production of 
+Space. Using Xiaogucheng Village in Hangzhou as a case study , this study provides an in-depth analysis of the 
+internal mechanisms and evolutionary logic of clustered rural development , aiming to offer theoretical guidance 
+for sustainable rural development . The findings are as follows : (1) Clustered rural development unfolds in three 
+stages: initial start-up , single-village development , and collaborative cluster-building . During the single-village 
+stage, Xiaogucheng Village leveraged early policy advantages and took the lead in development , becoming a key 
+node that radiated influence and guided its surrounding villages and communities . (2) In the single-village stage , 
+propelled by policies , the Village Committee , as the key actor , formed a network . Through its grassroots 
+consultative democracy mechanism of "discussing public affairs among the people , " it successfully enrolled 
+human (government, villagers , returning entrepreneurs ) and non-human (land, idle farmhouses ) actors into 
+environmental renovation , land transfer , and industrial operations , driving the village's transformation from an 
+ecological to a tourism-oriented settlement . However , developmental bottlenecks , a widening gap with 
+neighboring villages , and the national policy orientation toward "Common Prosperity" pushed Xiaogucheng into 
+the "collaborative cluster-building" stage . This has prompted the extension and translation of the actor network . In 
+the new network , the Village Committee remains the key actor , utilizing a consultative mechanism to enroll a 
+wider range of heterogeneous actors in specific rural construction affairs through policy and financial support , 
+planning, and industry operations . (3) Underlying the actor network's evolution is a profound transformation in 
+the logic of spatial production , which evolved from being power-dominated through an interplay of everyday life 
+and capital to a mechanism in which the logic of life is superimposed upon those of power and capital . Initially, 
+spatial transformation was government-led . Initially, rural construction was led by government policy ; however , 
+as market demand for rural tourism expanded , capital gradually intervened . The village collective , through 
+consultation, guided villagers to become "participants" in development , mitigating conflicts between capital's 
+logic and villagers' needs and creating a spatial form that integrated life and consumption . To break through 
+bottlenecks and respond to the Common Prosperity agenda , Xiaogucheng united neighboring villages to enhance 
+tourism value by integrating services and upgrading facilities . A 'Strong Village Company' was established to 
+operate industries independently and absorb local labor , effectively strengthening community identity and 
+consciousness. Through consultation , residents of neighboring areas became active agents rather than passive 
+producers of space , linking local culture , daily life , and consumer experience . Xiaogucheng is a microcosm of 
+rural revitalization in China . Its lessons can inform contemporary rural construction . Administrative boundaries 
+can be transcended using demonstration villages as anchors to coordinate geographically connected units for 
+synergistic regional development . Based on consultative democracy , platforms for multi-stakeholder participation 
+should be built and the village collective's coordinating capacity should be strengthened to form a collaborative 
+governance system . Finally, local character should be balanced with marketization by building upon unique rural 
+features, creating distinct brands , and establishing professional operational platforms .
+Key words : rural construction ; clustered rural development ; rural industry operation ; spatial governance ; actor-
+network theory; Xiaogucheng Village, Hangzhou
+14

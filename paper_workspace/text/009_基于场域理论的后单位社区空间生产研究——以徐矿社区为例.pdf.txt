@@ -1,0 +1,1061 @@
+
+--- PAGE 1 ---
+第 42 卷 第 4 期
+2022 年 4 月
+V ol.42，No.4
+Apr.，2022
+热 带 地 理
+TROPICAL GEOGRAPHY
+基于场域理论的后单位社区空间生产研究
+——以徐矿社区为例
+操小晋
+1
+，朱喜钢
+1
+，余思奇
+2
+，邓元媛
+3
+（1. 南京大学 建筑与城市规划学院 ，南京 210093；2. 南京林业大学 风景园林学院 ，南京 210037；
+3. 中国矿业大学 建筑与设计学院 ，江苏 徐州 221116）
+摘 要 ：后单位时代社区公共性的式微是经济制度转型的社会特征 ，探究后单位社区的空间演变机制对可持续
+社区治理具有参考意义 。文章桥接列斐伏尔的三元空间结构和布迪厄的 4 种资本类型 ，建立基于场域理论实践
+观上的空间生产研究框架 。并以徐矿社区为案例 ，运用参与式观察和深度访谈的质性方法 ，分析从“一元连续
+型网络结构 ”到“多元离散型团体结构 ”的多维空间生产过程 。结果表明 ：1） 单位到后单位社区转型的空间
+生产差异机制一方面由单位制向社区制转型的制度变化所形塑 ，另一方面受现代性的自由流动和管制结构的调
+整等因素影响 。2） 后单位社区行动者在居民构成和权力关系的重组中调适惯习 ，在争夺社区资本的过程中 ，
+伴随制度空间的重构 、物质空间的改造 、社会空间的异化和主体意识的觉醒 。3） 以居委会为代言的政府话语
+在空间实践中采取规训策略构建理想的社区空间 ，与潜在的居民抵抗形成彼此连接但不融通的整体关系 。4）
+后单位社区的空间生产主要由老旧小区改造的地方政策响应 、空间生产中的权力博弈与倾斜 、单位路径依赖累
+积与动能缺失 、以及现代性流动下的熟人社会松动 4 种动力驱使 。制定以居民为核心的治理目标与对策 ，促进
+社区权力的共同享有是未来可持续社区治理的重要导向 。
+关键词：场域理论；三元空间辩证法 ；后单位社区 ；空间生产；社区治理；徐州
+中图分类号 ：D669.3；TU984.2 文献标志码 ：A 文章编号：1001-5221(2022)04-0567-12
+DOI：10.13284/j.cnki.rddl.003456 开放科学 （资源服务） 标识码 （OSID） ：
+在传统社会向现代社会转型的空间实践中 ，城
+市聚落被快速而深入地重构 ，社区作为聚落的功能
+载体在历史演进中持续变迁 ，并在全球化和后国家
+主义浪潮的适应与推动下发生内涵转变 （张康之 ，
+2007） 。滕尼斯 （1999） 将社区定义为同质人口集
+聚且关系密切 、团结互助的社会共同体 ，强调社区
+“小社会 ”的公共性 、地方感与归属感 ，映现在计
+划经济时期以单位为中心的社会管理体制中 ，依赖
+于单位的大院 ，居民因社会利益的有效集结 ，构建
+了封闭社区的内部社群资产和邻里关系网络 （田毅
+鹏 等，2017） 。改革开放后 ，国内经济和社会大转
+型，单位制瓦解，封闭社区的实体围墙被打开 ，建
+立在居民心理上的隐形边界也在社区杂化和要素重
+组中逐渐模糊 。城市在由“单位人”转变为“社会
+人 ” 的 过 程 中 进 入“ 后 单 位 时 代” （张 秀 兰 等 ，
+2012） ，社区制取而代之成为城市微观生活的社会
+组织基础，介于传统单位大院和现代社区之间的后
+单位社区，在流动性塑造中发生居民结构 、社会交
+往、行为模式以及社区认同等方面的变化 （塔娜
+等，2012） ，引致物质 、文化和社会等多维空间的
+嬗变。
+后单位社区在全国保有较大的存量规模 （李岩
+等，2017） ，是中国社区的一类主要构成 ，也是老
+旧小区改造的重点对象 。体制改革下多元主体共治
+收稿日期：2021-05-11；修回日期：2021-06-21
+基金项目：国家社会科学基金重点项目 （17ASH003） ；教育部人文社会科学青年基金项目 （16YJCZH011）
+作者简介：操小晋 （1996—） ，男，安徽黄山人，博士研究生，主要研究方向为社区治理 、城市住房与社会空间 ， （E-mail） caoxiaoj225@
+163.com；
+通信作者：朱喜钢 （1959—） ，男，江苏太仓人 ，博士 ，教授 ，主要研究方向为城市与区域规划 、城市住房与社会空间等 ， （E-mail）
+zhuxigang522@hotmail.com。
+操小晋，朱喜钢，余思奇，邓元媛 . 2022. 基于场域理论的后单位社区空间生产研究 ——以徐矿社区为例 . 热带地理 ，42
+（4） ：567-578.
+Cao Xiaojin , Zhu Xigang , Y u Siqi and Deng Y uanyuan. 2022. Spatial Production of Post-Unit Community Based on Field Theory :
+A Case Study of the Xukuang Community . Tropical Geography, 42 (4): 567-578.
+--- PAGE 2 ---
+42 卷热 带 地 理
+模式的转变推动后单位社区的空间重塑 ，引致各主
+体对社区空间和地方主体性的争夺 。在国家治理现
+代化背景下，后单位社区的治理实践为什么会出现
+相反的“社会事实”和运行困境？后单位社区不同
+主体的差异化空间实践与社区转型引致的社会分化
+相关联，社会关系的结构性重组形成了 “时间—空
+间—阶层 ”三维构造的场域 （吴晓美 ，2013） ，不
+同场域的自主化过程构成关系间的彼此争斗 ，产生
+基于后单位社区场域的空间生产活动 。实际上，社
+区空间生产的过程也是社区空间被开发 、规划、使
+用和改造的过程 ，其中隐喻着社会关系的复杂交织
+与变迁。
+空间生产理论的引入有助于厘清后单位社区转
+型中发生在社区物质 、社会等空间尺度的变化与治
+理困境，为窥视治理行动背后的话语批判和权利关
+系赋予直观视角 。其间的场域重构不仅是值得关注
+的理论问题，还是促进社区更新和多元治理的实践
+难题。空间生产理论和场域理论是社会空间研究的
+主要理论之一 ，其提出者列斐伏尔和布迪厄是处于
+同一时代的法国思想大师 。其中，列斐伏尔的一个
+重要贡献是将空间和地理的分析带进了马克思主义
+中，把社会历史辩证法翻转成一种 “社会空间辩证
+法” （林晓珊，2008） 。在“空间转向”思潮中，列
+斐伏尔是无法绕开的关键人物 。除此之外，布迪厄
+从实践和符号的角度解读空间 ，厘清了地理空间与
+社会空间之间的关联以及空间与阶级之间的复杂关
+系 （皮埃尔·布迪厄 等，1998） 。立足于更加广阔
+的“空间解释学”视域，布迪厄的场域理论可以说
+是对列斐伏尔社会空间批判理论的夯实或延展 ，两
+者在空间理论发展脉络中存在一定内在关联 ，彼此
+核心概念的桥接有利于将抽象的三元结构融入具象
+的日常空间，资本范畴的拓展也可进一步深化对社
+会空间的认知。
+目前，社区空间生产的相关研究主要集中在旅
+游社区 、 “村改居 ”社区和商品房社区 ，其中，旅
+游社区的空间生产强调从消费性生产转向旅游和生
+活共融的日常生活实践 （吴志才 等，2019） ， “村改
+居”社区面临城市化运动下政治性的同质化空间生
+产挑战 （杜培培 ，2019） ，商品房社区因资本的空
+间扩张和权力的空间干预发生业主空间失语的空间
+关系异化 （张振 等，2017） 。三类社区研究多借助
+列斐伏尔的空间思想 ，从旅游要素介入 、拆迁行动
+开展和关系异化生成的前后对比 ，揭示空间生产逻
+辑并反思空间融合机制 ，为社区及其治理研究提供
+了更深层涵义的理论线索和补充 。社区场域的讨论
+多围绕改造 （潘卓林 等，2020） 和治理 （郑晓东
+等，2021） 议题展开 ，城市与乡村社区皆有涉及 。
+场域由社区成员按照特定的逻辑要求共同建设 ，是
+社区治理本土化逻辑形成的重要因素 （冉光仙 ，
+2020） 。相较而言 ，后单位社区场域在时代演进中
+也产生了一系列物质环境更新 、社会关系重组和管
+制方式转变等空间实践和生产 。既有研究一方面局
+限于单位制度变迁 （李路路 等，2009） 和家庭个体
+变迁 （蒋晨 等，2019） 的中微观视角 ，另一方面 ，
+空间视角的讨论主要集中在物质空间的演化与融入
+（李晨 等，2011） 、社会空间的意涵构成与邻里变迁
+（江立华 等，2017） 。在构建和谐社会的大背景下 ，
+单位社区的治理维度虽愈加受到关注 ，但多从社区
+的整体或静态视角探讨辩证性的行动模式 （孙小逸
+等，2014） 和策略性建议 （杜培培 等，2019） ，对
+后单位社区空间本身的动态研究未给予足够关注 ，
+这在一定程度上削弱了理论研究的深度 ，难以准确
+地从空间生产 、空间重构、空间正义等维度探清后
+单位社区空间转换的本质 ，不利于基层可持续的社
+区治理行动开展和多元共治的包容性社会发展。
+基于此，选取徐州市徐矿社区为研究对象 ，结
+合列斐伏尔的空间生产理论和布迪厄的场域理论 ，
+构建基于场域实践观上的后单位社区空间生产分析
+框架，运用深度访谈法和参与观察法 ，综合分析时
+代演进中多主体的力量博弈和关系变化 ，探究后单
+位社区空间生产的核心机制 ，以期为进一步的社区
+治理提供实践启发和借鉴。
+1 相关理论与分析框架
+1.1 场域理论
+法国社会学家布迪厄跨越社会物理学和社会现
+象学的二元对立 ，重新把握社会世界双重现实本质
+的分析方式，将关系论作为社会学实践的认识论基
+础，提出了场域的概念 （Pierre et al ., 1992） 。布迪
+厄认为场域是位置间客观关系的一个网络或形构 ，
+是社会成员按照特定的逻辑共同建设并用以参与社
+会活动的主要场所 。社会即是一个大的场域 ，社会
+空间中各种各样的小场域是社会分化的结果 ，也是
+场域相对自主性的体现 。场域作为永恒斗争的场所
+充斥着不同行动者间的符号资本竞争 ，具有惯习的
+行动主体在实践经验的影响下不断强化或调整自身
+结构，凭借已有资本争夺更多资本 ，主导并占据更
+大的场域空间 （皮埃尔·布迪厄 等，1998） 。
+568
+--- PAGE 3 ---
+操小晋等：基于场域理论的后单位社区空间生产研究 ——以徐矿社区为例4 期
+布迪厄的“场域”展示了交织各种社会力量关
+系的空间系统 ，社会力量关系被惯习所支配 ，惯习
+又在资本导向的实践经验中调适 ，形塑新的场域结
+构，场域空间的不断生产推动了资本的转化和获
+得，在循环往复中构成相互作用的有机整体 。因
+此，可将 “场域 ”视为由 “惯习—资本—社会关
+系”组成的框架结构。
+1.2 空间生产理论
+空间生产理论由法国思想家列斐伏尔提出 ，被
+认为是新马克思主义空间理论研究的基石 （Lefeb‐
+vre, 1991） 。列斐伏尔扭转了空间是社会活动和社会
+关系的外在容器的单一看法 ，将空间视为社会关系
+的产物，产生于有目的的社会实践中 。由此开启了
+城市空间研究的范式转向 ，从“空间中的生产 ”转
+为关心 “空间本身的生产 ” ，并借助空间表征 、空
+间实践和表征空间的概念构筑了一个集物质性 、社
+会性和精神性于一体的三维空间观。
+空间生产理论三元结构的辩证性既体现在 3 种
+空间关系的“具体性”上，还表现在相互的 “连接
+性”上 （林叶，2018） 。其中，空间实践是借助物
+质性的流动、传输和相互作用以达到生产与再生产
+的一种社会行为 ；空间表征指代被构想的抽象空
+间，是占据支配地位的符号或象征 ；表征空间是活
+生生的被使用的现实空间 ，也是被统治和隐含反抗
+的空间 （叶超 等，2011） 。三元辩证分析法为深入
+理解各种社会现象及其机理提供有效工具 （韩勇
+等，2016） ，已被越来越多的学者认同并使用。
+1.3 分析框架
+单位制转向社区制 ，政府取代企业成为后单位
+社区的权力主体 ，形成后单位社区新的社会关系 。
+布迪厄场域理论的 “惯习—资本—社会关系 ”逻辑
+切合空间生产中 “空间表征—空间实践—表征空
+间”的三元辩证逻辑 。惯习是场域建构的条件和结
+果，后单位社区主体的变迁促使惯习应变 ，直接导
+致占主导地位的空间表征发生变化 ，其中社区资本
+的竞争实质上是角逐社区权力的空间实践过程 ，被
+表征的社区空间反映重塑的邻里关系 （图 1） 。后单
+位社区的场域重构过程也是空间再生产过程 ，其中
+力量争夺的逻辑就是资本的逻辑 。布迪厄将资本划
+分为象征资本 、经济资本 、文化资本与社会资本 4
+种类型，与其相互作用的空间载体和空间生产理论
+的三元结构具有内在的关联性 。首先，象征资本是
+为社会群体权威代言的一种建构性制度权力 ，承载
+的制度空间与空间表征相对应 ；其次，经济资本和
+文化资本通过物质性或符号性的空间表达显示其内
+涵变化 ，依托的物质空间是影射空间实践的介质 ；
+最后，社会资本经由人的流动形成新的社会空间 ，
+同时也是表征空间的一种表现形式 。由此将场域的
+资本概念裹挟进空间生产的三元辩证体系 ，构筑起
+场域资本逻辑下 “制度空间—物质空间—社会空
+间”与空间生产理论三元辩证的 “空间表征—空间
+实践—表征空间”相契合的分析框架 （图 2） 。
+图 1 场域理论与空间生产的三元辩证逻辑关系
+Fig.1 The ternary dialectical and logical relationship between
+field theory and space production
+图 2 基于场域理论的后单位社区空间生产分析框架
+Fig.2 Analysis framework of post-unit community spatial production based on field theory
+569
+--- PAGE 4 ---
+42 卷热 带 地 理
+2 案例地概况与研究方法
+2.1 案例地概况
+选择徐州市矿务集团社区为案例地 ，徐州市作
+为中国传统的煤矿城市和老工业基地 ，历史悠久 、
+企业密集，遗留下众多企业单位社区 。其中，徐矿
+集团在徐州城的历史演替中扮演重要角色 ，徐矿社
+区也是徐州最早一批建设的企业单位家属区。目前，
+徐矿集团已将办公区移至徐州新城 ，留下的单位社
+区已在 2019 年陆续完成“三供一业” （供水、供电、
+燃气、物业） 的社会职能移交 ，徐矿集团逐渐退出
+单位社区的管理体系 ，处于向现代社区转型的后单
+位社区过渡阶段 。徐矿后单位社区主要由华东大院
+和四号院 2 个相互毗邻的小区构成 ，共有 13 幢 3~5
+层住宅楼 ，约 650 位居民，先后在泉山区政府的支
+持和煤建北村居委会的指导下开展小区改造工作。
+徐矿社区具有后单位社区的明显特征 ，将其作
+为具体分析案例主要基于以下原因 ：首先，徐矿大
+院的变迁与徐州的城市转型高度契合 ，具有地方典
+型性；其次，徐矿大院在时代演进中经历了从兴盛
+到衰落的过程 ，单位社区边界的模糊与重塑形成了
+徐矿社区的“再地方化”内涵，就空间再生产而言
+具有代表性；最后，随着“三供一业”的移交和多
+元共治的开展 ，徐矿社区面临的治理困境和由此引
+申的启示对于未来实践具有借鉴意义。
+2.2 研究方法
+综合运用文献研究 、参与式观察和深度访谈的
+方法获取数据和资料 。于 2019 年 6－7 月、12 月和
+2020 年 6 月对徐矿社区开展集中调研 ，其中，2019
+年 6 月初进行小规模的前期调研 ，主要通过居委会
+获取社区的现状基础文件和发展背景资料 ；2019 年
+6－7 月进行为期 22 d 的实地详细调查 ，走访社区街
+道办管理者 、居委会人员 、社区居民 、物管保安 、
+单位相关负责人等 ，对单位社区的空间演变 、现状
+风貌、居民行为等进行观察和记录 ，同时以影像和
+问卷的方式收集社区行动者空间实践和地方性生产
+的情况资料，对不同主体的生活情景 、认知感受和
+社区参与情况进行补充呈现 ；2019 年 12 月和 2020
+年 6 月开展为期 20 d 的跟踪调研 ，主要针对社区的
+治理成效进行深度访谈。共访谈 20 位受访对象样本
+（表 1） ，含正式访谈和非正式访谈，平均访谈时间为
+30 min，鉴于社会调研伦理 ，均在获取同意后进行
+录音。在此基础上，将录音转译为文本 ，采用归纳
+总结法对调研素材进行事实整理和话语分析。
+3 后 单 位 社 区 场 域 中 的 多 维 空 间 再
+生产
+3.1 徐矿后单位社区场域演变
+计划经济时期的徐矿大院是由徐州矿务局担任
+“行政实体 ”的企业功能集合体 ，居委会仅起到地
+方 政 府 在 基 层 治 理 中 的 补 充 作 用（申 明 锐 等 ，
+2018） 。封闭的门禁社区不仅从物理维度搭建起与
+外界隔离的内部场域 ，还从心理维度构建单位人地
+表 1 受访者基本信息
+Table 1 Basic information of the interviewees
+编号
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+性别
+女
+男
+女
+女
+男
+男
+男
+男
+女
+女
+女
+男
+男
+男
+男
+男
+女
+男
+女
+女
+年龄/岁
+50~55
+40~45
+55~60
+40~45
+50~55
+40~45
+45~50
+35~40
+30~35
+35~40
+35~40
+40~45
+30~35
+35~40
+60~65
+55~60
+35~40
+60~65
+65~70
+70~75
+身份
+北村居委会负责人员
+北村居委会工作人员
+北村居委会工作人员
+永安街道工作人员
+徐矿单位工作人员
+徐矿单位管理人员
+社区物业工作人员
+社区改造负责人员
+社区流动居民
+社区流动居民
+社区后来常住居民
+社区后来常住居民
+社区原住民子女
+社区原住民子女
+社区原住民
+社区原住民
+社区原住民
+社区原住民
+社区原住民
+社区原住民
+访谈内容
+社区改造与管理状况
+居委会日常工作事务
+与居民的联系交流情况
+街道日常事务 、居民意见反馈等
+单位发展史
+社区的管理变化 、地方的个人感知
+车辆进出、社区治安、居民配合等情况
+改造内容、施工周期、居民意见等
+择居缘由、邻里关系、改造态度、社区了解程度等
+择居缘由、邻里关系、改造态度、满意程度、与居委会联系等
+邻里关系、改造态度、社区参与意愿 、日常活动等
+邻里关系、改造态度、对居委会评价等
+对社区改造的看法 、日常活动范围
+对社区改造的看法 、社区环境的满意度 、对居委会工作的认知
+社区改造态度 、对居委会评价等
+邻里关系、社区认同等
+邻里关系、改造态度、社区认知等
+社区发展演变 、邻里关系变化 、生活习惯、改造态度等
+社区变化感知 、对居委会评价 、社区认同、日常行为活动等
+社区改造态度 、日常行为活动等
+访谈记录编码
+I-01
+I-02
+I-03
+I-04
+I-05
+I-06
+I-07
+I-08
+I-09
+I-10
+I-11
+I-12
+I-13
+I-14
+I-15
+I-16
+I-17
+I-18
+I-19
+I-20
+570
+--- PAGE 5 ---
+操小晋等：基于场域理论的后单位社区空间生产研究 ——以徐矿社区为例4 期
+方认同的隐形场域 。 “别看现在老旧 ，当年这儿可
+是徐州最好的楼 ，被叫作徐州的 ‘中南海 ’ 。” （I-
+05） 回忆起曾经的单位社区 ，原住民仍怀有浓厚的
+地方自豪感。这一时期，大院居民基本为矿务局职
+工及其家属，公共服务的供给也由单位包揽 ，形成
+了以企业单位为圆心的具有密切联系的邻里关系纽
+带，单一的居民结构 、社会关系和管理体系构成单
+位制下的“一元连续型网络结构”场域。
+市场经济改革后 ，城市化的加快将单位社区淹
+没在新建的城市组团中 ，1998 年住房货币化政策促
+使社区重构的初现 ，单位的排他性特质转变为混合
+杂化的社区特征 ，小区老旧化和老龄化的同步 发
+生。单位制的解体将城市从 “国家单位的容器 ”
+（李宁 等，2020） 转换为“住区集合的有机体” ，住
+房的商品化重塑了城市社区的权力格局 ，居委会取
+代单位成为后单位社区的 “行政实体 ” ，随后多元
+治理的模式转变将居民 、物业、社会组织等纳入新
+的治理体系 。 “有事去找单位解决 ，他们也不管 ，
+绕一圈最后还是找到居委会 。” （I-15） “现在小区住
+进了很多外面人 ， （和他们） 偶尔也会打个招呼 ，
+但有时候没多久就换了新住户 。” （I-16） 徐矿后单
+位社区的再组织化重新定义了社会关系 、社区服
+务、社区文化和权力机构 ，打破了原来单一的场域
+逻辑，在此过程经历了居民置换 、关系异化和管理
+调整的演变，紧密联系的邻里关系网络趋于离散瓦
+解，外来人口的渗入与人际隔离加重了以个人家庭
+为团体的社区原子化 ，由此构成后单位社区的 “多
+元离散型团体结构”场域 （图 3） 。
+“一元连续 ”强调原单位社区同质一元的居民
+属性和管理单元以及彼此熟悉的社群氛围 ， “多元
+离散”突出了后单位社区异质多元的居民组成与管
+治结构，从单位社区向后单位社区的转变引发整体
+社区关系网络的破碎和以个人家庭为单位的原子化
+隔离 。前者到后者的多维空间生产变化与差异机
+制，一方面由单位制向社区制转型的制度变化和现
+代性意识形态的居民自由流动所形塑 ，另一方面受
+管治主体权限和管治方式调整等因素影响 。后单位
+社区因居民结构和权力关系的重组造成地方生活方
+式的变化，不同行动者通过改变自身惯习的策略性
+方式谋求新环境的资源占有 ，引致社区环境的更
+新、主体意识的觉醒和邻里关系的弱化 ，进而建构
+徐矿社区新的场域。
+3.2 空间表征：制度空间的重构
+徐矿后单位社区在空间表征上是由永安街道
+办、北村社区居委会 、社会服务机构等所构想和支
+配的空间，尤其是当企业单位移交社会职能退出治
+理网络后，居委会作为基层群众性自治组织扮演政
+府行政意志的 “传导工具”角色，成为社区事务的
+权威代言。
+单位退出后，因一直没有物业管理 ，桎梏了徐
+矿后单位社区的环境维护和安全保障 ，对此泉山区
+政府出台了 《关于加强全区老旧小区物业管理的意
+见》 ，并成立区级物业服务总公司 ，分级到小区设
+立街道物业服务分公司 ，主要满足老旧小区最基
+本、最迫切的物业需求 。宏观层面上，区一级的惯
+习转变推动了物业进小区的进路 ，通过有效的服务
+提升居民生活幸福感 。 “以前小区杂乱 ，没有人收
+拾，也很不安全，外人可以随便进出，有了物业后
+好了很多，虽然要缴纳一些费用 ，但只要能维护好
+环境大家也都是愿意交的 。 ” （I-11） 与此同时 ，由
+于老年人口比例大 ，尚未能成立业委会 ，大小事宜
+皆由居民与居委会直接沟通解决 。分散的居民个体
+图 3 后单位社区场域演变
+Fig.3 The evolution of social relations in post-unit communities
+571
+--- PAGE 6 ---
+42 卷热 带 地 理
+无法形成合力向居委会 、街道办提出集体诉求 ，这
+也在一定程度巩固了居委会的话语权力。
+“小区改造时的方案是我们居委会自己决定的 ，
+上级部门没有给具体的要求 ，我们也不是专业的 ，
+就按照自己的想法设计了一下 。有些地方也会征求
+居民的意见，但不可能照顾到所有人的想法 ，像四
+号院有排树保留了下来 ，就是居民们要求的 。” （I-
+02） 从国家到地方对老旧小区整治改造的推进 ，为
+徐矿社区提供了更新契机 ，但不同于 “明星社区 ”
+的多方介入和模范打造 （刘佳燕 等，2016） ，徐矿
+社区得到区政府的资金支持和街道拨款后 ，主要由
+居委会统筹安排 ，相关部门的协助缺位扩大了居委
+会的事权 ，但也同时加大了居委会惯习调整的难
+度。 “咱们国家不是在机构改革吗 ，不能是面上改
+造，要有化学反应 ，关键是下面人怎么做 。这么多
+的工作量都压到居委会，社区就 5、6 个人根本做不
+了，做不完加班也要做完 。街道办就是上传下达 ，
+区里要求什么一下子传到我们这。” （I-01）
+永安街道办作为社区治理的领导层实际上与居
+民间接接触，直接关联的仍是居委会 。一方面居委
+会认为 “居民较为自私 ，参与意愿低 ” （I-03） ，另
+一方面有居民表示 “牵涉到社区利益非常愿意站出
+来，但有时候向居委会或者街道反映没有用 ，时间
+长了也就觉着算了 。” （I-14） 居委会的话语权通过
+压制和淡化不同居民的声音 ，形成统一主导的空间
+诊断，合法化了地方政府对后单位社区的介入 ，形
+成与共治理念相悖的以居委会中心 、居民处于边缘
+地位的制度空间结构。
+3.3 空间实践：物质空间的更新
+空间实践是行动者创造空间的方式 ，涉及空间
+行动和感知两方面 （王丰龙 等，2011） 。徐矿后单
+位社区通过一系列改造行动促使物质空间更新 ，并
+借由居民的空间感知形成共性的生活惯例和差异的
+行为认知 。空间实践是社区资本与权力的空间表
+达，也是承接空间表征与表征空间的互动结果。
+改造前 ，徐矿后单位社区主要存在道路不平
+整、停车设施匮乏 、景观绿化杂乱 、基础设施老旧
+等问题 ，在循序渐进的改造原则下 ，社区经历了 3
+次大的改造。一是开展路面硬化 ，将盖板式明沟下
+水道改为封闭式暗沟 ；二是进行环境整治 ，包括系
+统性清理无序破败的花坛植被 ，采取规整布置的方
+式重新梳理零碎的社区空间 ，移除多余的花坛作集
+中停车场地 ，增设小区安全监控和楼道感应灯等 ；
+三是实施电力 、燃气管道改造 ，增加电动车充电
+桩，防止飞线安全隐患 。改造后环境的整洁有序与
+设施的提升完善促进了社区空间的服务性功能转
+换，既达到了政府 、居委会的改造目标和考核要
+求，也在一定程度上提升了社区品质 ，方便居民日
+常生活 。 “改善的地方比较多 ，处处都好是不可能
+的事情。 ” （I-19）
+虽然有居民表示社区改造难以面面俱到 ，但仍
+能折射出空间实践中施方与受方的思维错位和由此
+导致的改造效果差强人意 。施方认为“老小区改造
+居民都愿意，原来乱七八糟的 ，这一改他们都高兴
+啊。你看那个花坛以前没人管 ，谁想种就种，哪算
+什么绿化 ，当然都希望它能得到处理 。” （I-01） 而
+居委会将自身惯习凌驾于居民之上 ，其核心的行动
+者角色创造了承载部分人意志的社区空间 ，并以一
+种不可逆的方式重塑地方场所 ，尽管改造带来了一
+定效益，但与居民空间想象的差距引起了受方消极
+的情感回应 。 “环境好一点了 ，怎么说 ，关键问题
+是污染了，以前虽然绿化不多 ，但汽车也不多 ，现
+在绿化少了，车还多，还有很多是外来车。” （I-15）
+“施工单位为了工作方便 ，在大树周边铺水泥 ，把
+根砍断了也没及时移栽 ，真是可惜了这棵老树 ，以
+前的很多回忆都慢慢没了 。这些改造施工都是后来
+听说门口贴了才知道 ，现在都在搞什么网格化管
+理，但居委会也没有怎么征集我们的意见。” （I-17）
+徐矿后单位社区的异质行动者对社区改造持有
+不尽相同的认知逻辑 。居委会基于自身的空间理
+解，在未经充分沟通的情况下建构了居民的空间诉
+求和社区形象 ；不对等的空间关系忽视了居民的意
+愿表达，具有地方情感意义的社区环境在更新后面
+临意象消亡与文化消逝的困境 。同时，社区的网格
+化治理标语被用以掩饰这种公共性的式微 ，也由此
+推动了“新社区”的物质空间生产。
+3.4 表征空间：社会空间的生产
+表征空间与空间表征完全相反 ，是一些图像和
+符号所呈现的社会空间中活生生 、经验的那一部分
+（林叶，2018） 。在列斐伏尔的三元论中 ，当空间表
+征与表征空间达到完全匹配的情况下 ，可能实现 3
+个领域的融贯 ，但空间的内生斗争性会打破两者间
+的支配关系 ，从而形成彼此连接但不融通的整体
+关系。
+单位社区的解体打破了封闭的网状社群结构 ，
+空间的流动性在生产新的社会关系的同时重塑了居
+民惯习。徐矿后单位社区的日常生活图景由 3 部分
+人群构成：原住民、后来居民和流动居民 。原住民
+572
+--- PAGE 7 ---
+操小晋等：基于场域理论的后单位社区空间生产研究 ——以徐矿社区为例4 期
+仍是徐矿后单位社区的居住主体 ，约占 80%，隐形
+的单位在场延续了邻里关系 ，但老龄化趋势下原住
+民亲属的更迭复杂化了社区关系 。 “现在的居民跟
+以前不一样，谁也不敢说谁 。像以前，楼长说打扫
+卫生了，大家都出来，现在没人理了 ，人和人之间
+发生了微妙的变化 。” （I-04） 现代社会的人际隔离
+正在逐步弱化 “单位”的联系作用，相比之下，后
+来居民的社区认同感更为淡薄 ，但因其产权的个人
+所有仍试图融入并希冀环境得到改善 ，而流动居民
+则多呈无所谓态度 ，社区仅是单纯的居住地而非
+“家”的概念。 “当然也想生活环境更好一些 ，但其
+实这里跟我的关系不大 ，跟小区里的人都不怎么认
+识，没事基本都待屋里 ，我也不长久住这 ，也就不
+太在意了。” （I-09）
+同质熟悉的社群关系在后单位社区呈延续而又
+断裂的状态，整体分散、局部集中的社会空间形成
+了与其生活惯习相适应的不同活动内容 ，彼此充盈
+着矛盾、斗争与妥协 （叶丹 等，2015） 。徐矿后单
+位社区因停车场改造占据了原本稀缺的公共空间 ，
+居民的集体活动范围从小区内部的休闲座椅 、楼间
+空地延伸至外部的人行道 （图 4） 。 “停车场有点乱，
+还是会影响到平时的活动……像我们年纪都大了 ，
+基本就在社区里 ，老邻居一起打打牌做做操 。现在
+天热了，大院里的树之前给砍了 ，我们就搬个小座
+椅在小区门外的路边坐着聊聊天 ，那儿有树荫也很
+凉快。” （I-20） 居民在空间实践的影响下即使感觉
+到社区活动空间的压缩 ，但还是通过改变惯习的方
+式重新策划生活轨迹 ，并再定义社区的公共与半公
+共空间，反映居民对既有环境的顺从 ，其本质是政
+府、居委会所构想的 “统治空间”对居民行为的隐
+性规训。然而，居民主体性的觉醒和表征空间的反
+抗属性往往会在触及核心利益时显现 。 “小区里有
+体育运动器材是好事 ，但搁谁家门口都不愿意 ，这
+么多户人家，为什么偏偏放我家门口 ？” （I-13） “以
+前因为一楼是楼长家 ，愿意装体育器械给大家活动
+用。现在换成他家儿子住 ，上次小区整体改造后体
+育器械、充电桩都不同意装 。他们家小孩就把楼前
+的公共空间作游乐场 ，我们领导也去 ，每次去就骂
+人，还会打市民电话投诉 ，你说讲不讲理 ？我们也
+只能作罢，毕竟还是要缓冲处理 ，闹得太僵，后面
+工作也会不好做。” （I-01）
+徐矿后单位社区的公共空间成为建立和维系社
+会关系的权力场所 ，未经规划的老旧小区面临后期
+资源优化和选址意见的分歧 ，政府、居委会等试图
+采取统一的空间营造方式构建和谐的社区环境 ，部
+分居民接纳并顺从了这样的构想 ，但也难以避免产
+生异议乃至冲突的状况 ，规训的失灵与抵制的出现
+映射出后单位社区的社会空间生产过程 ，单位公共
+性的消解亟需后单位的新公共性重构以及社区构想
+的反思性再构。
+4 后单位社区空间生产的动力机制
+徐矿后单位社区属于微观空间范畴 ，在空间生
+产中，权力话语主体和日常话语主体在社区空间中
+共同生产，行动者构成的社会网络通过场域内的博
+弈、规训、顺从和抵抗等方式 ，形成基于惯习引导
+的行动策略和运作动力 ，进而推动后单位社区的空
+间生产 （图 5） 。
+4.1 老旧小区改造的地方政策响应
+国家到地方的老旧小区改造政策颁布与分级响
+应已成为当前满足民生需求和构建和谐社区的重要
+路径，也是中国进入到以存量为主和高质量发展阶
+段的一般趋势 （张险峰 等，2020） 。自 2019 年起，
+图 4 徐矿后单位社区居民日常活动场景
+Fig.4 Daily activity scenes of residents in the post-unit community
+573
+--- PAGE 8 ---
+42 卷热 带 地 理
+全国各地老旧小区改造的相关政策呈爆发性增长 ，
+2021 年两会全国政府报告进一步提出加大社区改造
+的扶持力度，自上而下的政治性介入与资金支持促
+进以后单位社区为代表的老旧小区的根本性环境变
+迁。无论是基于制造供给 、优化需求的人本位政策
+考量，还是以改造为抓手补基层短板的国家治理体
+系建设需要，席卷全国的改造运动无疑从经济 、社
+会、文化等多方面激发了老旧小区的新面貌和新动
+能。政策传导下的地方政府将社区改造转换为政绩
+考核目标，政府的积极主导力量成为后单位社区空
+间生产的根本动因和制度推力 。组织化的官方行动
+希望采取差异化的改造模式 ，但掣肘于资源分配的
+不均等和治理机制的不长效 ，往往在改造的实施阶
+段陷入同一化的行动“惯习” ，其背后隐含的是以效
+率为导向的价值取向 。多元治理的原则失灵促使居
+民成为后单位社区空间 “被构造 ”的假性驱动者 ，
+但市民意识的崛起和共治理念的渗透也在逐步改变
+惯习，试图实现真正以质量为先的社区实践转向。
+4.2 空间生产中的权力博弈与倾斜
+后单位社区异质行动者的关系网络和权力交错
+塑造着特有的空间秩序 ，此消彼长的动态结构在社
+区场域重构过程中影响着空间演变的进路 。后单位
+社区空间表征的产生过程实际上是占支配地位的行
+动者对社区治理内在矛盾的一种应对策略 （徐选
+国，2015） ，反映了空间生产中各主体的权力博弈
+与话语倾斜。单位的退出增强了居委会基层社会组
+织的角色功能 ，区政府、街道办的事务下放一方面
+增加了居委会的事权 ，另一方面通过间接的管理方
+式实现自上而下的权力运作 。基于和谐社区的建设
+构想，政府、居委会作为空间生产的核心行动者 ，
+无疑是空间实践背后的主导力量 ，也是决定后单位
+社区更新改造方向的控制力量 。与此同时，社区居
+民在日常生活实践中发挥自身主观能动性谋求正当
+的社区权力，当老旧小区可持续治理机制的欠缺成
+为普遍“惯习” ，居民
+话语的式微和群体的
+边缘化将进一步加剧
+政治权力的倾斜及其
+对空间的管控 ，这点
+在老龄化趋向的后单
+位社区尤为显著 。即
+便如此 ，居民的主体
+性不会也不可能在空
+间 关 系 中 完 全 剥 离，
+而是与场域互相建构 ，形成规训、反抗等惯习。正
+是存在主体间的资源竞争 ，社区权力的平衡与多元
+共治的推进才会成为可能 。自上而下的强政府治理
+与自下而上的弱居民参与相互渗透 ，构成后单位社
+区空间生产的直接动力。
+4.3 单位路径依赖累积与能动缺失
+单位制的瓦解与单位社会职能的移出在社区管
+治上解绑了单位的行政角色 ，但其长期大包大揽的
+管理模式形成了居民 “有事找单位 ”的惯性思维 。
+去单位化只是从社会表层完成了社区与单位的剥
+离，更深层次的路径依赖累积使得占后单位社区较
+大比例的原住民依旧持 “凡事找上级”的惯习，不
+同的是 ， “上级”由单位替换成了居委会 。当居委
+会的有限职能和服务供给与居民需求无法匹配时 ，
+居民往往基于比较心理对居委会产生不满乃至不信
+任。“树长高摇晃有危险 ，我们报了园林局申请树
+木修剪 ，园林局没有批 。这方面信息告诉了居民 ，
+他们不理解，就觉得我们没尽力。 ”（I-1） 制度变迁
+下的单位路径依赖对后单位社区治理产生负反馈作
+用，成为影响其空间生产的隐性动力 ，不仅表现在
+对现代社区运作规则的不了解和不理解 ，还体现在
+个人能动性的缺失 ，加之后单位社区的老龄化和日
+益增多的流动人口 ，不断弱化的居民集体意识在业
+委会和社区领袖的缺位下加剧了社区治理中的参与
+困境。
+4.4 现代性流动下的熟人社会松动
+社会状况因民族国家的衰弱和全球化的兴起发
+生变化，鲍曼将其描述为流动的现代性 ， “灵活性”
+已成为现代社会的标语 （齐格蒙特·鲍曼，2018） 。
+单位社区向后单位社区的演进正经历流动的现代性
+转变，随之而来的是熟人社会的松动 。处于同一空
+间的社会关系在自由空间的流动中重新组织 ，熟悉
+的邻里空间因原住民的流出 、异质个体的介入与未
+及融入变为相互陌生的“虚无空间” ，社群关系的再
+图 5 后单位社区空间生产的动力机制
+Fig.5 The dynamic mechanism of space production in post-unit community
+574
+--- PAGE 9 ---
+操小晋等：基于场域理论的后单位社区空间生产研究 ——以徐矿社区为例4 期
+构淡化了后单位社区公共领域的认同感 ，居民开始
+沉沦于自身事物而不再关注社区的共同议题。 “他们
+怎么说就怎么弄 ，咱很少考虑改造的事 ，过好自己
+的日子就好 。” （I-15） 社区的集体意识在后单位的
+转变中逐渐淡化 ，异质行动者彼此的心理区隔造成
+权力分散下旁观者身份的建立 ，公共性的消解在生
+成新的社会关系的同时导致地方性意义生产能力的
+丧失，促发了社区空间生产中的权力失衡与正义失
+语。现代性流动不仅是空间上的移动 ，更意味着空
+间限制的摆脱和躲避 ，象征着社会空间重组和权力
+分异，也由此构成后单位社区空间生产的显性动力。
+5 结论与讨论
+5.1 结论
+单位社区向后单位社区转型的变迁过程是透视
+中国社会经济发展的又一路径 ，本文在场域理论
+“惯习—资本—社会关系 ”的实践观上，将资本的 4
+种类型裹挟进空间生产理论 “空间表征—空间实践
+—表征空间”的三元辩证逻辑 ，建立起桥接两者核
+心概念的研究框架 。并以徐矿社区为案例地 ，分析
+其从“一元连续型网络结构 ”到“多元离散型团体
+结构”的多维空间生产过程 ，为透析社区的空间演
+变、关系变迁和治理实践提供了重要支撑 。得到的
+主要结论包括 ：1） 单位制向社区制转型的制度变
+化是引致单位与后单位社区空间生产差异的最主要
+因素，现代性的自由流动和管制结构的调整优化进
+一步加剧了过程差异 。2） 异质行动者在发生资本
+交换和关系重组的后单位社区场域中不断调适惯
+习，在争夺社区资本的过程中伴随空间环境的更
+新、邻里关系的弱化和主体意识的觉醒 。3） 居委
+会成为政府意志的代言人 ，借助绝对的话语权统一
+化居民声音，以构建理想的社区空间 ，但在规训和
+顺从中潜藏着抵制因素 ，尤其当资本与权力的生产
+触及主体的承受界限或个别批判性主体的出现时 ，
+往往引发新的空间斗争 、惯习调整以及空间实践方
+向的改变 。4） 后单位社区的空间生产受权利话语
+主体和日常生活主体的共同驱动 。从国家到地方的
+老旧小区改造政策颁布和响应 ，从宏观层次建构了
+预想的社区治理愿景 ，行动者的权力博弈与倾斜意
+味着中观层面上政府权力主体的生产策略下沉和实
+施，作为承接方的后单位社区在单位路径依赖累积
+以及现代化和老龄化背景下 ，遭遇微观层级的动能
+缺失和熟人社会解构与生人社会再构 ，自上而下的
+强权力传导和自下而上的弱居民反馈产生与多元共
+治理念相悖的现实语境。
+5.2 讨论
+列斐伏尔的三元辩证法已被广泛使用于深入理
+解各种社会现象及其机理 ，既有研究多沿用三元结
+构阐释空间生产的过程特征和资本逻辑 ，其中对资
+本的关注多倾向于象征资本和经济资本 ，在夸大资
+本边界和权利主体的同时 ，忽视了文化和社会资本
+的作用。实际上，空间生产受多种社会驱动力的控
+制，夹杂着异质行动者的实践行动 ，厘清不同角色
+的社会关系是研究社区空间生产的重要前提 ，这也
+是本文建立场域理论实践观上的空间生产研究框架
+的进步性与必要性的体现 。纵深的理论整合视角有
+助于具有潜在关联的理论思想对话和碰撞 ，摆脱抽
+象的解释路径 ，从更为具象的空间语言解释动态的
+社会场景，突破传统单一视角对空间和资本的不全
+认知，融入社区日常生活的现实逻辑 。可见，场域
+理论下的空间生产视角为深入理解以后单位社区为
+代表的老旧小区的空间演变与主体关系拓展了新思
+路，纳入人的主观能动性和社会文化考量 ，在一定
+程度上拓宽了一般意义上的空间生产逻辑 ，这也是
+对现有社区治理文献的一项补充。
+后单位社区的动态发生反映了社区主体在 “新
+场域”空间生产中的相互角力与权力运作 ，揭示案
+例社区的空间生产机制 ，是以发现治理困境背后的
+本质因素，即行政意志与居民意志的权力失衡与不
+契合。社区治理是涉及多维度的复杂过程 ，反思徐
+矿社区的空间实践 ，需要意识到社区真正意义上的
+可持续多元共治的实现仍有较长路要走 。权力的分
+配、制衡与监督应依托怎样的方式来提高表征空间
+与空间表征的匹配 ，以达到 3 个领域的融贯 ，实现
+政府意志与地方实践和居民诉求的一致 ？而这种一
+致性对居民生活满意度和社区治理的绩效影响如
+何？这是衡量社区治理有效性的元命题 ，也是值得
+深入思考的议题 。现代性快速流动下 ，后单位社区
+的传统邻里优势在空间生产的惯习调整中被减弱 ，
+老龄化趋势进一步增加了治理难度 。对此，针对后
+单位社区制定 “以居民为核心 ”的治理目标与对
+策，其作为社区治理的应有之义需得到足够重视 ：
+1） 社区治理绩效的评估优化 ，将居民满意度纳入
+治理成效的评价体系 ，促进人本的价值理念实施 ；
+2） 居委会管理能力的增强 ，定期开展专业素质培
+训，适当“简政放权” ，提高服务工作效率 ；3） 公
+众参与的路径搭建 ，开展社区宣传教育活动唤醒居
+民责任意识 ，确定公共参与的权责边界和监督方
+575
+--- PAGE 10 ---
+42 卷热 带 地 理
+式，设立常态化的居民交流与反馈机制 ，可由居委
+会牵头或引导居民自发组织 ；4） 地方新公共性的
+培育，通过公共空间的营造 、服务设施的同步规划
+建设、集体活动的举办促进邻里交往 ，引入社区营
+造团队辅助公共性的显现 ；5） 社会服务组织的有
+效介入，建立社区力量和非营利组织的培育准入模
+式，发挥地方高校的智库作用等。
+社区场域的形成 、多维空间的变迁和包容性的
+发展可基于空间生产的视角给予新的理论思考和实
+践导向 （郭文 等，2013） ，本文以徐州后单位社区
+为案例，对其历时性空间生产进行深入剖析 ，受个
+案研究的限制存在一定局限 ，未来可探讨多类型社
+区空间生产的异同 。此外，相较北京、上海等发达
+城市充足的社会资源在社区治理中发挥的重要作
+用，其经验在广泛的中小城市有时难以复制借鉴 ，
+因此有必要对更多一般城市开展精细化在地研究 ，
+创建人人享有社区权力的城市治理格局。
+参考文献 （References） ：
+杜培培 ，陈光裕 . 2019. 空间重构视域下老单位社区变迁及其治理
+策 略 研 究. 学 习 与 实 践， （7） ：108-117. [Du Peipei and Chen
+Guangyu. 2019. Research on the Changes of Old Unit
+Community and Its Governance Strategies form the Perspective of
+Spatial Reconstruction . The Journal of Humanities , (7): 108-117. ]
+杜培培 . 2019. 从差序、离散到融入——“村改居”社区的空间生产
+研 究 . 城 市 规 划 ， 43 （6） ：64-70. [Du Peipei . 2019. Space
+Production of "Village-Turned Community" : From Differentiation
+and Discretization to Integration . City Planning Review , 43(6): 64-
+70. ]
+郭文，黄震方 . 2013. 基于场域理论的文化遗产旅游地多维空间生
+产研究 ——以江南水乡周庄古镇为例 . 人文地理 ，28 （2） ：
+117-124. [Guo Wen and Huang Zhenfang . 2013. A Field Theory
+to the Production of Multi-Dimensional Space of Cultural
+Heritage Tourism Destination －A Case Study of Zhouzhuang
+Ancient Town. Human Geography , 28(2): 117-124. ]
+韩勇，余斌，朱媛媛 ，卢燕，王明杰 . 2016. 英美国家关于列斐伏
+尔空间生产理论的新近研究进展及启示 . 经济地理 ，36 （7） ：
+19-26，37. [Han Yong, Y u Bin, Zhu Y uanyuan, Lu Yan and Wang
+Mingjie. 2016. Recent Research Progress and Inspiration on
+Lefebvre's Production of Space in the United States and England .
+Economic Geography , 36(7): 19-26, 37. ]
+何雪松 . 2006. 社会理论的空间转向 . 社会 ， （2） ：34-48，206. [He
+Xuesong. 2006. Spatial Turn in Social Theories . Chinese Journal
+of Sociology, (2): 34-48, 206. ]
+江立华，王寓凡 . 2017. 单位社区解体与老年群体空间意义的变迁 .
+人文杂志 ， （12） ：99-105. [Jiang Lihua and Wang Y ufan . 2017.
+The Disintegration of the Unit Community and the Change of the
+Spatial Meaning of the Elderly Group . The Journal of
+Humanities, (12): 99-105. ]
+蒋晨，毛子丹 ，柴彦威 . 2019. 以家庭为单位的活动参与 ：联合与
+独立家庭维持性活动中的性别差异 ——以北京市家庭为例 . 人
+文 地 理 ， 34 （2） ：24-31， 124. [Jiang Chen , Mao Zidan and
+Chai Yanwei . 2019. Activity Participation in the Household :
+Gender Differences in Joint and Solo Activities of Household
+Maintenance Activities . Human Geography , 34(2): 24-31, 124. ]
+Lefebvre H . 1991. The Production of Space . Oxford: Blackwell.
+李晨，韩冬青 . 2011. 单位大院集中地段空间形态的演变 ——以南
+昌八一广场周边地段为例 . 城市问题 ， （6） ：30-36. [Li Chen
+and Han Dongqing . 2011. The Evolution of the Spatial Form in
+the Concentrated Area of the Unit Compound —Taking the Area
+around Bayi Square in Nanchang as an Example . Urban
+Problems, (6): 30-36. ]
+李路路 ，苗大雷 ，王修晓 . 2009. 市场转型与 “单位 ”变迁 再论
+“单位”研究 . 社会，29 （4） ：1-25，224. [Li Lulu , Miao Dalei
+and Wang Xiuxiao . 2009. Market Transition and the Change of
+Danwei: Danwei Studies Revisited . Chinese Journal of Sociology ,
+29(4): 1-25, 224. ]
+李宁，罗梁波 . 2020. 国家的高地 、社会的篱笆和社区的围墙 ——
+基于社区治理资源配置的一项学术史梳理 . 甘肃行政学院学
+报 ， （4） ：92-103， 127. [Li Ning and Luo Liangbo . 2020. The
+Highlands of the Country , the Fence of the Society and the Wall
+of the Community －A Review of Academic History Based on the
+Allocation of Community Governance Resources . Journal of
+Gansu Administration Institute , (4): 92-103, 127. ]
+李岩，范永忠 . 2017. 大院社区治理 ：社区演变模式与治理类型学
+——基于北京市三类大院社区的比较案例研究 . 北京行政学院
+学 报 ，（3）： 108-115. [Li Yan and Fan Yongzhong . 2017.
+Governance of Compound Community : Evolution Model of
+Community and Governance Typology －Based on a Comparative
+Case Study of Three Types of Compound Communities in
+Beijing. Journal of Beijing Administration Institute , (3): 108-115. ]
+林晓珊 . 2008. 空间生产的逻辑 . 理论与现代化 ， （2） ：90-95. [Lin
+Xiaoshan. 2008. The Logic of Space Production . Theory and
+Modernization , (2): 90-95. ]
+林叶 . 2018. 城市人类学再思 ：列斐伏尔空间理论的三元关系 、空
+间视角与当下都市实践 . 江苏社会科学 ， （3） ：124-135. [Lin
+Ye. 2018. Rethinking Urban Anthropology : Lefebvre's Spatial
+Theory's Ternary Relationship , Spatial Perspective and Current
+Urban Practice . Jiangsu Social Sciences , (3): 124-135. ]
+刘佳燕 ，邓翔宇 . 2016. 基于社会 -空间生产的社区规划 ——新清河
+实 验 探 索. 城 市 规 划， 40 （11） ：9-14. [Liu Jiayan and Deng
+Xiangyu. 2016. Community Planning Based on Socio-Spatial
+Production: Explorations in "New Qinghe Experiment" . City
+Planning Review , 40(11): 9-14. ]
+Pierre Bourdieu and Loïc J D Wacquant . 1992. An Invitation to
+Reflexive Sociology . Contemporary Sociology , 22(3): 450.
+潘卓林 ，刘晔，刘于琪 ，李志刚 . 2020. 基于场域理论的城中村村
+民市民化研究 ——以广州猎德复建房社区为例 . 热带地理 ，40
+（6） ：981-992. [Pan Zhuolin , Liu Ye, Liu Y uqi and Li Zhigang .
+2020. Citizenization of Villagers in City Based on Field Theory : A
+Case Study of Liede Redeveloped Community , Guangzhou.
+576
+--- PAGE 11 ---
+操小晋等：基于场域理论的后单位社区空间生产研究 ——以徐矿社区为例4 期
+Tropical Geography, 40(6): 981-992. ]
+皮埃尔 ·布迪厄 ，罗克·华康德 . 1998. 实践与反思 ——反思社会
+学 导 引. 李 猛， 李 康， 译 . 北 京： 中 央 编 译 出 版 社. [Pierre
+Bourdieu and Loïc J D Wacquant . 1998. An Invitation to Reflexive
+Sociology. Li Meng and Li Kang , Trans. Beijing: Central
+Compilation & Translation Press . ]
+齐格蒙特 ·鲍曼 . 2018. 流动的现代性 . 欧阳景根 ，译 . 北京：中国
+人 民 大 学 出 版 社. [Zygmunt Bauman . 2018. Liquid Modernity .
+Ouyang Jinggen , Trans. Beijing: China Renmin University Press . ]
+冉光仙 . 2020. 场域与边界 ：农村社区微治理的本土化逻辑 . 甘肃社
+会科学 ， （3） ：68-75. [Ran Guangxian . 2020. Field and Border :
+The Localized Logic of Rural Micro-Governance . Gansu Social
+Sciences, (3): 68-75. ]
+申明锐 ，夏天慈 ，张京祥 . 2018. 从“单位小区 ”到“业主社区 ” ：
+公共产品视角下中国城市社区规划与治理演进 . 城市与区域规
+划 研 究 ， 10 （4） ：179-198. [Shen Mingrui , Xia Tianci and
+Zhang Jingxiang . 2018. From Work-Unit Compound to
+Homeowner Community : A Literature Review on the Evolution
+of Urban Community Planning and Governance in China from
+Perspective of Public Products . Journal of Urban and Regional ,
+10(4): 179-198. ]
+孙小逸 ，黄荣贵 . 2014. 再造可治理的邻里空间 ——基于空间生产
+视角的分析 . 公共管理学报 ，11 （3） ：118-126，143-144. [Sun
+Xiaoyi and Huang Ronggui . 2014. Rebuilding a Governable
+Neighborhood Space : An Analysis from the Perspective of the
+Production of Space . The Journal of Humanities , 11(3): 118-126,
+143-144. ]
+塔娜，柴彦威，刘志林 . 2012. 单位社区杂化过程与城市性的构建 .
+人文地理 ，27 （3） ：39-43. [Ta Na, Chai Yanwei and Liu Zhilin .
+2012. Hybridization of Danwei Neighborhood and the Emergence
+of Urbanism . Human Geography , 27(3): 39-43. ]
+斐迪南 ·滕尼斯 . 1999. 共同体与社会 . 林荣远 ，译 . 北京：商务印
+书馆 . [Ferdinand Tönnies . 1999. Gemeinschaft und Gesellschaft :
+Grundbegriffe der reinen Soziologie . Lin Rongyuan , Trans.
+Beijing: Commercial Press . ]
+田毅鹏，王丽丽 . 2017. 转型期“单位意识”的批判及其转换 . 山东
+社 会 科 学 ， （5） ：94-99. [Tian Yipeng and Wang Lili . 2017.
+Criticism and Transformation of "Unit Consciousness" in the
+Transition Period . Shandong Social Sciences , (5): 94-99. ]
+王丰龙，刘云刚 . 2011. 空间的生产研究综述与展望 . 人文地理，26
+（2） ：13-19， 30. [Wang Fenglong and Liu Y ungang . 2011. A
+Review of Researches on the Production of Space . Human
+Geography, 26(2): 13-19, 30. ]
+吴晓美 . 2013. 湄洲岛妈祖文化旅游场域的三维构造 ——一个人类
+学的视角 . 旅游科学 ，27 （2） ：83-94. [Wu Xiaomei . 2013. The
+Three Dimension Structure of Mazu Culture Tourism Field in
+Meizhou Island : A Perspective from Anthropology . Tourism
+Science, 27(2): 83-94. ]
+吴志才 ，张凌媛 ，郑钟强 ，张补宏 ，廖梓维 . 2019. 旅游场域中古
+城旅游社区的空间生产研究 ——基于列斐伏尔的空间生产理
+论 视 角 . 旅 游 学 刊 ， 34 （12） ：86-97. [Wu Zhicai , Zhang
+Linyuan, Zheng Zhongqiang , Zhang Buhong and Liao Ziwei .
+2019. The Production of Space Within the Field of Tourism : A
+Case Study of the Tourism Community of Chaozhou Ancient City .
+Tourism Tribune, 34(12): 86-97. ]
+徐选国 . 2015. 嵌入性治理 ：城市社区治理机制创新的一个分析框
+架——基于对国家 -社会关系范式的批判性反思 . 江苏社会科
+学 ， （5） ： 55-64， 126. [Xu Xuanguo . 2015. Embedded
+Governance: A Framework for the Innovation of Urban
+Community Governance Mechanism －Based on the Critical
+Reflection of State-Social Paradigm . Journal of Social Work , (5):
+55-64, 126. ]
+叶超，柴彦威 ，张小林 . 2011. “空间的生产 ”理论、研究进展及
+其对中国城市研究的启示 . 经济地理 ，31 （3） ：409-413. [Ye
+Chao, Chai Yanwei and Zhang Xiaolin . 2011. Review on Studies
+on Production of Urban Space . Economic Geography , 31(3): 409-
+413. ]
+叶丹，张京祥 . 2015. 日常生活实践视角下的非正规空间生产研究
+——以宁波市孔浦街区为例 . 人文地理 ，30 （5） ：57-64. [Ye
+Dan and Zhang Jingxiang . 2015. Recearch on Production of
+Informal Space from the Perspective of Practice of Everyday Life :
+A Case Study of Kongpu District in Ningbo . Human Geography ,
+30(5): 57-64. ]
+张康之 . 2007. 论“后国家主义 ”时代的社会治理 . 江海学刊， （1） ：
+93-99. [Zhang Kangzhi . 2007. On Social Governance in the Era
+of "Post-Nationalism" . Jianghai Academic Journal , (1): 93-99. ]
+张险峰 ，董淑秋 ，夏小青 ，潘晓玥 . 2020. 建立分级响应机制 ,科学
+推进老旧小区改造 . 城市发展研究 ，27 （10） ：96-101. [Zhang
+Xianfeng, Dong Shuqiu , Xia Xiaoqing and Pan Xiaoyue . 2020.
+Establish a Hierarchical Response Mechanism to Promote the
+Transformation of Old Neighborhoods Scientifically . Urban
+Development Studies , 27(10): 96-101. ]
+张秀兰 ，徐晓新 . 2012. 社区：微观组织建设与社会管理 ——后单
+位制时代的社会政策视角 . 清华大学学报 （哲学社会科学版） ，
+27 （1） ：30-38， 159. [Zhang Xiulan and Xu Xiaoxin . 2012.
+Community, Microcosmic Organization Building and Social
+Management : A Perspective Based on Social Policy in Post Unit-
+System Era . Journal of Tsinghua University (Philosophy and
+Social Sciences ), 27(1): 30-38, 159. ]
+张振，杨建科 . 2017. 城市社区的空间关系异化 ：生成机理与治理
+机制 ——基于空间生产视角的分析 . 学习与实践 ， （11） ：82-
+88. [Zhang Zhen and Yang Jianke . 2017. The Alienation of Spatial
+Relations in Urban Communities : Generation Mechanism and
+Governance Mechanism : An Analysis Based on the Perspective of
+Spatial Production . Study and Practice , (11): 82-88. ]
+郑晓东 ，黄凡，马好梦 . 2021. 场域理论下社区微治理的生成与运
+行 机 制 研 究. 治 理 研 究， 37 （1） ：59-69. [Zheng Xiaodong ,
+Huang Fan and Ma Haomeng . 2021. Research on the Generation
+and Operation Mechanism of Community Micro-Governance
+Based on Field Theory . Governance Studies , 37(1): 59-69. ]
+577
+--- PAGE 12 ---
+42 卷热 带 地 理
+作者贡献声明 ：
+操小晋操小晋：：实地调研、收集数据、全文撰写以及修改 ；
+朱喜钢朱喜钢：：提供科研经费支撑 ，指导研究过程 ，提升论
+文质量；
+余思奇余思奇：：绘制论文插图 ，参与研究方案设计与讨论 ；
+邓元媛邓元媛：：参与实地调研 ，提出修改意见 。
+Spatial Production of Post-Unit Community Based on Field Theory :
+A Case Study of the Xukuang Community
+Cao Xiaojin
+1
+, Zhu Xigang
+1
+, Y u Siqi
+2
+and Deng Y uanyuan
+3
+(1. School of Architecture and Urban Planning , Nanjing University , Nanjing 210093, China; 2. The College of Landscape Architecture ,
+Nanjing Forestry University , Nanjing 210037, China; 3. School of Architecture and Design ,
+China University of Mining and Technology , Xuzhou 221116, China)
+Abstract: The decline of community publicity in the post-unit era is the social feature of economic system
+transformation . Exploring the spatial evolution mechanism of post-unit community is of great significance to
+sustainable community governance . By bridging Lefebvre's ternary spatial structure and Bourdieu's four capital
+types, a research framework of space production is established based on field theory and practice . Taking
+Xukuang community as a typical case , the qualitative research methods of participatory observation and in-depth
+interview are used to analyze the multidimensional spatial production process from "unitary continuous network
+structure" to "multiple discrete group structure" . The research shows that : 1) The spatial production difference
+mechanism of unit to post-unit community transformation is shaped by the institutional change from unit system
+to community system , on the other hand , it is affected by the factors such as the free flow of modernity and the
+adjustment of regulatory structure . 2) Post-unit community actors adjust their habits in the reorganization of
+residents' composition and power relations . The process of competing for community capital is accompanied by
+the reconstruction of institutional space , the transformation of material space , the alienation of social space and
+the awakening of subject consciousness . 3) The government discourse represented by the neighborhood
+committee adopts the discipline strategy to build an ideal community space in the space practice , and forms a
+connected but not integrated overall relationship with potential residents' resistance . Especially when the
+production of capital and power touches the boundary of the subject or the emergence of individual critical
+subject, it often leads to new space struggle , habit adjustment and the direction change of space practice . 4) The
+space production of post-unit community is jointly driven by the subject of right discourse and the subject of
+daily life . The promulgation and response of the old community transformation policy from the state to the local
+construct the expected vision of community governance from the macro level . The power game and inclination of
+actors mean the sinking and implimentation of the production strategy of the government power subject at the
+meso level . Under the background of the accumulation of unit path dependence , modernization and aging , the
+post-unit community as the undertaker encounters the lack of kinetic energy at the micro level , the deconstruction
+of acquaintance society and the reconstruction of stranger society , and the realistic context contrary to the concept
+of multiple governance produced by the top-down strong power transmission and the bottom-up weak residents'
+feedback. The research integrates the concepts of field capital and habitus into the ternary dialectical structure of
+space production , and the in-depth theoretical integration makes up for the cognitive limitations of the single
+theoretical perspective . It expands new ideas for the in-depth understanding of the spatial evolution and subject
+relationship of the old community represented by the post-unit community . And the consideration of people's
+subjective initiative and social culture to a certain extent broadens the logic of space production in the general
+sense, which is also a supplement to the existing literature on community governance . Finally, it is an important
+direction for future community governance to formulate governance goals and countermeasures with residents as
+the core and promote the common enjoyment of community power .
+Keywords: field theory ; trialectics of spatiality ; post-unit community ; spatial production ; community
+governance; Xuzhou
+578
