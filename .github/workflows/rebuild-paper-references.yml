@@ -31,6 +31,15 @@ jobs:
       - name: Rebuild citations and references
         run: python tools/rebuild_references.py
 
+      - name: Upload final paper artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: final-paper
+          path: |
+            final/韩观萍小论文_参考文献重构版.docx
+            final/参考文献重构说明.md
+          if-no-files-found: error
+
       - name: Commit final paper
         run: |
           git config user.name "github-actions[bot]"
