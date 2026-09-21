@@ -156,7 +156,14 @@ def remove_specific_broken_ref_field(root, field_token: str):
 
 def set_paragraph_text_like_template(p, text: str):
     # Keep paragraph properties and first run properties; remove other runs/content.
+    # The source reference paragraphs use automatic list numbering. We write static
+    # [n] labels for deterministic GB/T 7714-style rendering, so drop w:numPr to
+    # avoid duplicate labels such as "[1] [1]".
     ppr = p.find(W_PPR)
+    if ppr is not None:
+        num_pr = ppr.find(f"{{{W}}}numPr")
+        if num_pr is not None:
+            ppr.remove(num_pr)
     first_run = p.find(W_R)
     rpr = copy.deepcopy(first_run.find(W_RPR)) if first_run is not None and first_run.find(W_RPR) is not None else None
 
